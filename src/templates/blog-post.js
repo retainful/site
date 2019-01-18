@@ -3,6 +3,7 @@ import rehypeReact from "rehype-react"
 import {Link} from 'gatsby'
 import {graphql} from 'gatsby'
 import Layout from "../components/layout";
+import SEO from '../components/seo'
 import styled from 'styled-components'
 
 import Container from "../components/container"
@@ -52,6 +53,8 @@ export default function Template({data}) {
     const { markdownRemark : post } = data;
     return (
         <Layout>
+            <SEO title={post.frontmatter.title}
+                 keywords={[`Send Unique Coupon Codes`]}/>
             <div className="single-blog-post">
                 <Container type='s'>
                     <div className="header">

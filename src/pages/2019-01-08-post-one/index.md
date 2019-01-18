@@ -1,5 +1,5 @@
 ---
-path: "/post-one"
+path: "/blog/post-one"
 date: "2019-01-08"
 title: "Sample post"
 author: "John Doe"
