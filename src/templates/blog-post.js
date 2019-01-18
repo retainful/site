@@ -9,7 +9,6 @@ import Container from "../components/container"
 import Callout from '../components/callout'
 import Highlight from '../components/highlight'
 import Underline from '../components/underline'
-import Counter from "../components/Counter"
 import TitleLink from "../components/titleLink"
 import LinkText from "../components/linkText"
 import Gist from "../components/gist"
@@ -38,7 +37,6 @@ const renderAst = new rehypeReact({
         h1: PrimaryTitle,
         h2: SecondaryTitle,
         h3: TertiaryTitle,
-        "interactive-counter": Counter,
         "call-out": Callout,
         highlight: Highlight,
         underline: Underline,

@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cabcaabc-928e-4b3f-b034-23f2ea9b38be" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/components/counter.js" afterPath="$PROJECT_DIR$/src/components/counter.js" />
+      <change beforePath="$PROJECT_DIR$/src/templates/blog-post.js" afterPath="$PROJECT_DIR$/src/templates/blog-post.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="counter.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="counter.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/counter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -35,6 +35,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="blog-post.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/templates/blog-post.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="e#923#1281#0" expanded="true" />
+                <element signature="e#981#1278#0" expanded="true" />
+                <element signature="e#1334#2447#0" expanded="true" />
+                <element signature="e#1401#2439#0" expanded="true" />
+                <element signature="e#1422#2421#0" expanded="true" />
+                <element signature="e#1473#2402#0" expanded="true" />
+                <element signature="e#1514#1998#0" expanded="true" />
+                <element signature="e#1563#1735#0" expanded="true" />
+                <element signature="e#1818#1941#0" expanded="true" />
+                <element signature="e#2019#2123#0" expanded="true" />
+                <element signature="e#2144#2373#0" expanded="true" />
+                <element signature="e#2193#2346#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -50,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/pages/index.js" />
         <option value="$PROJECT_DIR$/src/components/counter.js" />
+        <option value="$PROJECT_DIR$/src/templates/blog-post.js" />
       </list>
     </option>
   </component>
@@ -102,6 +126,12 @@
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="retainful-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="retainful-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -139,7 +169,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547798391256</updated>
-      <workItem from="1547798392565" duration="1911000" />
+      <workItem from="1547798392565" duration="2062000" />
     </task>
     <task id="LOCAL-00001" summary="- site deploy with gatsby">
       <created>1547799036073</created>
@@ -148,14 +178,22 @@
       <option name="project" value="LOCAL" />
       <updated>1547799036073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- site deploy with gatsby">
+      <created>1547800330839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547800330839</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1911000" />
+    <option name="totallyTimeSpent" value="2062000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1076" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.185836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -166,7 +204,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -216,6 +254,27 @@
             <element signature="e#491#577#0" expanded="true" />
             <element signature="e#512#567#0" expanded="true" />
             <element signature="e#630#873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/blog-post.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#923#1281#0" expanded="true" />
+            <element signature="e#981#1278#0" expanded="true" />
+            <element signature="e#1334#2447#0" expanded="true" />
+            <element signature="e#1401#2439#0" expanded="true" />
+            <element signature="e#1422#2421#0" expanded="true" />
+            <element signature="e#1473#2402#0" expanded="true" />
+            <element signature="e#1514#1998#0" expanded="true" />
+            <element signature="e#1563#1735#0" expanded="true" />
+            <element signature="e#1818#1941#0" expanded="true" />
+            <element signature="e#2019#2123#0" expanded="true" />
+            <element signature="e#2144#2373#0" expanded="true" />
+            <element signature="e#2193#2346#0" expanded="true" />
           </folding>
         </state>
       </provider>
