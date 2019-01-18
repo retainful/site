@@ -32,10 +32,10 @@ export default class Counter extends React.Component {
     render() {
         return (
             <span style={counterStyle}>
-        <strong style={{ flex: `1 1` }}>{this.state.value}</strong>
-        <button onClick={this.handleDecrement}>-1</button>
-        <button onClick={this.handleIncrement}>+1</button>
-      </span>
+            <strong style={{ flex: `1 1` }}>{this.state.value}</strong>
+            <button onClick={this.handleDecrement}>-1</button>
+            <button onClick={this.handleIncrement}>+1</button>
+          </span>
         )
     }
 }

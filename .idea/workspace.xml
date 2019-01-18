@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cabcaabc-928e-4b3f-b034-23f2ea9b38be" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/components/counter.js" afterPath="$PROJECT_DIR$/src/components/counter.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,6 +11,31 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="counter.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/counter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <element signature="e#48#88#0" expanded="true" />
+                <element signature="e#171#203#0" expanded="true" />
+                <element signature="e#217#272#0" expanded="true" />
+                <element signature="e#302#428#0" expanded="true" />
+                <element signature="e#335#421#0" expanded="true" />
+                <element signature="e#356#411#0" expanded="true" />
+                <element signature="e#458#584#0" expanded="true" />
+                <element signature="e#491#577#0" expanded="true" />
+                <element signature="e#512#567#0" expanded="true" />
+                <element signature="e#630#873#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +49,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/pages/index.js" />
+        <option value="$PROJECT_DIR$/src/components/counter.js" />
       </list>
     </option>
   </component>
@@ -69,6 +96,12 @@
               <item name="retainful-site" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="retainful-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="retainful-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -106,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547798391256</updated>
-      <workItem from="1547798392565" duration="964000" />
+      <workItem from="1547798392565" duration="1911000" />
     </task>
     <task id="LOCAL-00001" summary="- site deploy with gatsby">
       <created>1547799036073</created>
@@ -119,7 +152,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="964000" />
+    <option name="totallyTimeSpent" value="1911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1076" extended-state="0" />
@@ -165,6 +198,25 @@
         <state relative-caret-position="96">
           <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/counter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="e#48#88#0" expanded="true" />
+            <element signature="e#171#203#0" expanded="true" />
+            <element signature="e#217#272#0" expanded="true" />
+            <element signature="e#302#428#0" expanded="true" />
+            <element signature="e#335#421#0" expanded="true" />
+            <element signature="e#356#411#0" expanded="true" />
+            <element signature="e#458#584#0" expanded="true" />
+            <element signature="e#491#577#0" expanded="true" />
+            <element signature="e#512#567#0" expanded="true" />
+            <element signature="e#630#873#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
