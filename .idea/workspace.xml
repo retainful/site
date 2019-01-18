@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cabcaabc-928e-4b3f-b034-23f2ea9b38be" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/components/column.js" afterPath="$PROJECT_DIR$/src/components/column.js" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" afterPath="$PROJECT_DIR$/gatsby-config.js" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" afterPath="$PROJECT_DIR$/src/components/layout.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,17 +40,17 @@
         <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="62" lean-forward="true" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+              <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="column.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="column.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/column.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="128">
+              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               <folding>
                 <element signature="e#211#282#0" expanded="true" />
                 <element signature="e#314#346#0" expanded="true" />
@@ -56,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="layout.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/layout.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="96">
+              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -70,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2039">
-              <caret line="4158" column="0" lean-forward="true" selection-start-line="4158" selection-start-column="0" selection-end-line="4158" selection-end-column="0" />
+              <caret line="4158" column="0" lean-forward="false" selection-start-line="4158" selection-start-column="0" selection-end-line="4158" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,11 +82,10 @@
       <file leaf-file-name="gatsby-config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gatsby-config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+            <state relative-caret-position="249">
+              <caret line="85" column="10" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
               <folding>
                 <element signature="e#37#284#0" expanded="true" />
-                <element signature="e#299#2507#0" expanded="true" />
                 <element signature="e#457#632#0" expanded="true" />
                 <element signature="e#529#622#0" expanded="true" />
                 <element signature="e#642#818#0" expanded="true" />
@@ -99,7 +101,29 @@
                 <element signature="e#1824#1871#0" expanded="true" />
                 <element signature="e#1892#2318#0" expanded="true" />
                 <element signature="e#1962#2307#0" expanded="true" />
+                <element signature="e#2328#2478#0" expanded="true" />
+                <element signature="e#2406#2467#0" expanded="true" />
+                <element signature="e#2488#2634#0" expanded="true" />
+                <element signature="e#2564#2623#0" expanded="true" />
+                <element signature="e#2644#2775#0" expanded="true" />
+                <element signature="e#2714#2764#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/2019-01-08-post-one/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="32">
+                <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+                <folding>
+                  <marker date="1547798072000" expanded="true" signature="1341:1384" ph="..." />
+                  <marker date="1547798072000" expanded="false" signature="1356:1372" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -108,20 +132,8 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1728">
-              <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+              <caret line="57" column="46" lean-forward="false" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="privacy-policy.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/privacy-policy.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="142" column="91" lean-forward="false" selection-start-line="142" selection-start-column="76" selection-end-line="142" selection-end-column="91" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -129,13 +141,13 @@
       <file leaf-file-name="blog.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/blog.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="466">
+              <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
                 <element signature="e#280#348#0" expanded="true" />
                 <element signature="e#600#835#0" expanded="true" />
-                <element signature="e#1046#1210#0" expanded="true" />
+                <element signature="e#1243#1339#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,11 +195,11 @@
         <option value="$PROJECT_DIR$/src/pages/blog.js" />
         <option value="$PROJECT_DIR$/src/components/linkText.js" />
         <option value="$PROJECT_DIR$/src/components/header.js" />
-        <option value="$PROJECT_DIR$/gatsby-config.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/layout.scss" />
-        <option value="$PROJECT_DIR$/src/components/layout.js" />
         <option value="$PROJECT_DIR$/src/components/column.js" />
+        <option value="$PROJECT_DIR$/gatsby-config.js" />
+        <option value="$PROJECT_DIR$/src/components/layout.js" />
       </list>
     </option>
   </component>
@@ -256,6 +268,13 @@
               <item name="retainful-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="retainful-site" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="2019-01-08-post-one" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="retainful-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="retainful-site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -300,7 +319,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547798391256</updated>
-      <workItem from="1547798392565" duration="7112000" />
+      <workItem from="1547798392565" duration="8520000" />
     </task>
     <task id="LOCAL-00001" summary="- site deploy with gatsby">
       <created>1547799036073</created>
@@ -365,11 +384,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547810604807</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="- column sm to md">
+      <created>1547810761812</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547810761812</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7112000" />
+    <option name="totallyTimeSpent" value="8520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1076" extended-state="0" />
@@ -409,7 +435,8 @@
     <MESSAGE value="- nav link" />
     <MESSAGE value="- navbar padding" />
     <MESSAGE value="- removed warnings" />
-    <option name="LAST_COMMIT_MESSAGE" value="- removed warnings" />
+    <MESSAGE value="- column sm to md" />
+    <option name="LAST_COMMIT_MESSAGE" value="- column sm to md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -567,15 +594,15 @@
         <state relative-caret-position="131">
           <caret line="586" column="86" lean-forward="false" selection-start-line="586" selection-start-column="86" selection-end-line="586" selection-end-column="86" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#2181#2237#0" expanded="true" />
-            <element signature="e#4227#4363#0" expanded="true" />
-            <element signature="e#6786#6858#0" expanded="true" />
-            <element signature="e#39585#39681#0" expanded="true" />
-            <element signature="e#48622#48770#0" expanded="true" />
-            <element signature="e#48812#48998#0" expanded="true" />
-            <element signature="e#66481#66563#0" expanded="true" />
-            <element signature="e#88474#88609#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
+            <element signature="e#2181#2237#0" expanded="false" />
+            <element signature="e#4227#4363#0" expanded="false" />
+            <element signature="e#6786#6858#0" expanded="false" />
+            <element signature="e#39585#39681#0" expanded="false" />
+            <element signature="e#48622#48770#0" expanded="false" />
+            <element signature="e#48812#48998#0" expanded="false" />
+            <element signature="e#66481#66563#0" expanded="false" />
+            <element signature="e#88474#88609#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -585,20 +612,7 @@
         <state relative-caret-position="195">
           <caret line="142" column="91" lean-forward="false" selection-start-line="142" selection-start-column="76" selection-end-line="142" selection-end-column="91" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#280#348#0" expanded="true" />
-            <element signature="e#600#835#0" expanded="true" />
-            <element signature="e#1046#1210#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -630,13 +644,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="57" column="46" lean-forward="false" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2039">
+          <caret line="4158" column="0" lean-forward="false" selection-start-line="4158" selection-start-column="0" selection-end-line="4158" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/column.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#211#282#0" expanded="true" />
+            <element signature="e#314#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#280#348#0" expanded="true" />
+            <element signature="e#600#835#0" expanded="true" />
+            <element signature="e#1243#1339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/2019-01-08-post-one/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="32">
+            <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            <folding>
+              <marker date="1547798072000" expanded="true" signature="1341:1384" ph="..." />
+              <marker date="1547798072000" expanded="false" signature="1356:1372" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gatsby-config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="85" column="10" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
           <folding>
             <element signature="e#37#284#0" expanded="true" />
-            <element signature="e#299#2507#0" expanded="true" />
             <element signature="e#457#632#0" expanded="true" />
             <element signature="e#529#622#0" expanded="true" />
             <element signature="e#642#818#0" expanded="true" />
@@ -652,50 +727,21 @@
             <element signature="e#1824#1871#0" expanded="true" />
             <element signature="e#1892#2318#0" expanded="true" />
             <element signature="e#1962#2307#0" expanded="true" />
+            <element signature="e#2328#2478#0" expanded="true" />
+            <element signature="e#2406#2467#0" expanded="true" />
+            <element signature="e#2488#2634#0" expanded="true" />
+            <element signature="e#2564#2623#0" expanded="true" />
+            <element signature="e#2644#2775#0" expanded="true" />
+            <element signature="e#2714#2764#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2039">
-          <caret line="4158" column="0" lean-forward="true" selection-start-line="4158" selection-start-column="0" selection-end-line="4158" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="62" lean-forward="true" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/layout.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="96">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/column.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding>
-            <element signature="e#211#282#0" expanded="true" />
-            <element signature="e#314#346#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
