@@ -3,16 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cabcaabc-928e-4b3f-b034-23f2ea9b38be" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" afterPath="$PROJECT_DIR$/gatsby-config.js" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/components/column.js" afterPath="$PROJECT_DIR$/src/components/column.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" afterPath="$PROJECT_DIR$/src/components/header.js" />
       <change beforePath="$PROJECT_DIR$/src/components/layout.js" afterPath="$PROJECT_DIR$/src/components/layout.js" />
       <change beforePath="$PROJECT_DIR$/src/components/layout.scss" afterPath="$PROJECT_DIR$/src/components/layout.scss" />
-      <change beforePath="$PROJECT_DIR$/src/components/linkText.js" afterPath="$PROJECT_DIR$/src/components/linkText.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog.js" afterPath="$PROJECT_DIR$/src/pages/blog.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/privacy-policy.js" afterPath="$PROJECT_DIR$/src/pages/privacy-policy.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/terms-of-service.js" afterPath="$PROJECT_DIR$/src/pages/terms-of-service.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,8 +37,8 @@
       <file leaf-file-name="layout.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="62" lean-forward="true" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -68,8 +60,18 @@
       <file leaf-file-name="layout.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/layout.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="128">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2039">
+              <caret line="4158" column="0" lean-forward="true" selection-start-line="4158" selection-start-column="0" selection-end-line="4158" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -152,26 +154,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="terms-of-service.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/terms-of-service.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="586" column="86" lean-forward="false" selection-start-line="586" selection-start-column="86" selection-end-line="586" selection-end-column="86" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-                <element signature="e#2181#2237#0" expanded="true" />
-                <element signature="e#4227#4363#0" expanded="true" />
-                <element signature="e#6786#6858#0" expanded="true" />
-                <element signature="e#39585#39681#0" expanded="true" />
-                <element signature="e#48622#48770#0" expanded="true" />
-                <element signature="e#48812#48998#0" expanded="true" />
-                <element signature="e#66481#66563#0" expanded="true" />
-                <element signature="e#88474#88609#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -204,8 +186,8 @@
         <option value="$PROJECT_DIR$/src/components/header.js" />
         <option value="$PROJECT_DIR$/gatsby-config.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/components/layout.scss" />
         <option value="$PROJECT_DIR$/src/components/column.js" />
+        <option value="$PROJECT_DIR$/src/components/layout.scss" />
         <option value="$PROJECT_DIR$/src/components/layout.js" />
       </list>
     </option>
@@ -319,7 +301,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547798391256</updated>
-      <workItem from="1547798392565" duration="6838000" />
+      <workItem from="1547798392565" duration="6967000" />
     </task>
     <task id="LOCAL-00001" summary="- site deploy with gatsby">
       <created>1547799036073</created>
@@ -370,11 +352,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547808288195</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="- removed warnings">
+      <created>1547810508472</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1547810508472</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6838000" />
+    <option name="totallyTimeSpent" value="6967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1076" extended-state="0" />
@@ -413,7 +402,8 @@
     <MESSAGE value="- removed header bg" />
     <MESSAGE value="- nav link" />
     <MESSAGE value="- navbar padding" />
-    <option name="LAST_COMMIT_MESSAGE" value="- navbar padding" />
+    <MESSAGE value="- removed warnings" />
+    <option name="LAST_COMMIT_MESSAGE" value="- removed warnings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -555,14 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="4163" column="7" lean-forward="false" selection-start-line="4163" selection-start-column="0" selection-end-line="4163" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -676,14 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/column.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -695,10 +669,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2039">
+          <caret line="4158" column="0" lean-forward="true" selection-start-line="4158" selection-start-column="0" selection-end-line="4158" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="62" lean-forward="true" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/layout.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="128">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
