@@ -3,7 +3,7 @@ export default function Column( props ) {
     if (!props.children) {
         return null;
     }
-    const classes = `col-sm-${props.size} ${props.class}`;
+    const classes = `col-xs-12 col-sm-${props.size} ${props.class}`;
     return(
         <div className={classes}>
             { props.children }

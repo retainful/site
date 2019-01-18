@@ -2,7 +2,7 @@ module.exports = {
     siteMetadata: {
         title: `Retainful`,
         description: `The easiest way to drive repeat purchases and retain customers. Generate and send unique coupon codes that can be used by the customer for the next purchase.`,
-        author: `@gatsbyjs`,
+        author: `@retainful`,
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
@@ -63,13 +63,13 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `gatsby-starter-default`,
-                short_name: `starter`,
+                name: `retainful`,
+                short_name: `retainful`,
                 start_url: `/`,
-                background_color: `#663399`,
-                theme_color: `#663399`,
+                background_color: `#f27052`,
+                theme_color: `#f27052`,
                 display: `minimal-ui`,
-                icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+                icon: `src/images/favicon.png`, // This path is relative to the root of the site.
             },
         },
         // this (optional) plugin enables Progressive Web App + Offline functionality

@@ -140,11 +140,11 @@ const PrivacyPolicy = () => (
                     effectiveness of our marketing efforts and understand if you have seen one of our advertisements.</p>
                 <p>We work with Google AdWords and other advertising networks. To learn how to opt out of behavioral advertising
                     delivered by Network Advertising Initiative member companies, please visit the <a
-                        href="http://optout.networkadvertising.org/?c=1#!/" target="_blank" rel="nofollow noopener">Network
+                        href="http://optout.networkadvertising.org/?c=1#!/" target="_blank" rel="noopener noreferrer">Network
                         Advertising Initative</a> and <a href="http://www.aboutads.info/" target="_blank"
-                                                         rel="nofollow noopener">Digital Advertising Alliance</a>. You may
+                                                         rel="noopener noreferrer">Digital Advertising Alliance</a>. You may
                     download the <a href="https://youradchoices.com/appchoiceshttp://www.aboutads.info/" target="_blank"
-                                    rel="nofollow noopener">AppChoices app</a> to opt out in mobile apps. If you opt out from
+                                    rel="noopener noreferrer">AppChoices app</a> to opt out in mobile apps. If you opt out from
                     interest-based advertising, you may see advertising that is not relevant to you. At present, there is no
                     industry standard for recognizing Do Not Track browser signals, so we do not respond to them.</p>
                 <h3>4. How We Disclose Personal Data.</h3>
@@ -192,7 +192,7 @@ const PrivacyPolicy = () => (
                     inaccurate or to delete such information at your request if it is not otherwise required to be retained by
                     law or for legitimate business purposes. You may access, review, correct, update, change or delete your
                     information at any time. To do so, please contact us at <a href="mailto:hello@cartrabbit.io" target="_blank"
-                                                                               rel="noopener">hello@cartrabbit.io</a> with your
+                                                                               rel="noopener noreferrer">hello@cartrabbit.io</a> with your
                     name and the information requested to be accessed, corrected or removed, or if you are using the Service,
                     sign in to your account, go to your profile, and make the desired changes. We may decline to process
                     requests that are unreasonably repetitive or systematic, require disproportionate technical effort (for
@@ -241,7 +241,7 @@ const PrivacyPolicy = () => (
                     website or the privacy practices of the operator of the website.</p>
                 <h3>12. Contact Us</h3>
                 <p>If you have questions or need to contact us about this Privacy Policy, please email us at <a
-                    href="mailto:hello@cartrabbit.io" target="_blank" rel="noopener">hello@cartrabbit.io</a> or to the physical
+                    href="mailto:hello@cartrabbit.io" target="_blank" rel="noopener noreferrer">hello@cartrabbit.io</a> or to the physical
                     address mentioned at Section 1.</p>
             </div>
         </Container>

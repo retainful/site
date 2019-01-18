@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import {StaticQuery, graphql} from 'gatsby'
-import '../../node_modules/bootstrap/dist/css/bootstrap.css';
+import bootstrap from '../../node_modules/bootstrap/dist/css/bootstrap.css';
 
-import './layout.scss'
+import style from './layout.scss'
 
 import Header from './header'
 import Menu from './menu'

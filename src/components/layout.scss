@@ -2,27 +2,6 @@ $primary: #f27052;
 $info: #1a82e2;
 $danger: #b71c1c;
 
-/*
- 1. Reset.css
- 2. navigation Styling
- 3. Hero section
- 4. hero-2 section
- 5. Features Section
- 6. Features Flex
- 7. Stats Section counter
- 8. Feature Single
- 9. Reviews Section
- 10. Pricing tables
- 11. Subscription Section and CTA
- 12. Footer and Scroll Top
- 13. Media Queries
- -----*/
-
-/* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -42,7 +21,6 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
@@ -93,8 +71,6 @@ table {
   background-size: 100% .518em;
 }
 
-/* --- Common Styles ---*/
-
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.33;
 }
@@ -102,8 +78,6 @@ h1, h2, h3, h4, h5, h6 {
 b, strong {
   font-weight: bold;
 }
-
-/*----- Helper Classes -----*/
 
 html * {
   text-rendering: optimizeLegibility !important;
@@ -156,8 +130,6 @@ body {
   padding-right: 20px;
   position: relative;
 }
-
-/*------ Navbar Styling ------*/
 
 .navbar {
   font-family: "Montserrat";

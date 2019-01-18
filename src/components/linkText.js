@@ -1,9 +1,5 @@
 import React from 'react';
 
-const LinkTextStyle = {
-    /* styles skipped for brevity */
-}
-
 export default function LinkText( props ) {
     if (!props.children) {
         return null;
