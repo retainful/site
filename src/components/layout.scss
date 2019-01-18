@@ -161,8 +161,8 @@ body {
 
 .navbar {
   font-family: "Montserrat";
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 25px !important;
+  padding-bottom: 25px !important;
   background-color: #fff !important;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;

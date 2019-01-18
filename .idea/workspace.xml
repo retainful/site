@@ -134,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="291">
-              <caret line="224" column="19" lean-forward="false" selection-start-line="224" selection-start-column="19" selection-end-line="224" selection-end-column="19" />
+              <caret line="164" column="34" lean-forward="false" selection-start-line="164" selection-start-column="34" selection-end-line="164" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -248,6 +248,7 @@
     <findStrings>
       <find>target=&quot;_blank&quot;</find>
       <find>.nav-link</find>
+      <find>.navbar</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -367,7 +368,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547798391256</updated>
-      <workItem from="1547798392565" duration="3723000" />
+      <workItem from="1547798392565" duration="4232000" />
     </task>
     <task id="LOCAL-00001" summary="- site deploy with gatsby">
       <created>1547799036073</created>
@@ -397,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547801181536</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- nav link">
+      <created>1547807329226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547807329226</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3723000" />
+    <option name="totallyTimeSpent" value="4232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1076" extended-state="0" />
@@ -438,7 +446,8 @@
     <MESSAGE value="- site deploy with gatsby" />
     <MESSAGE value="- removed counter in blog post" />
     <MESSAGE value="- removed header bg" />
-    <option name="LAST_COMMIT_MESSAGE" value="- removed header bg" />
+    <MESSAGE value="- nav link" />
+    <option name="LAST_COMMIT_MESSAGE" value="- nav link" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -650,7 +659,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="224" column="19" lean-forward="false" selection-start-line="224" selection-start-column="19" selection-end-line="224" selection-end-column="19" />
+          <caret line="164" column="34" lean-forward="false" selection-start-line="164" selection-start-column="34" selection-end-line="164" selection-end-column="34" />
           <folding />
         </state>
       </provider>
