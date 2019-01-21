@@ -19,7 +19,7 @@ const IndexPage = () => (
                     <p>Generate and send unique coupon codes that can be used by the customer for the next purchase in
                         your <strong>WooCommmerce</strong> Store.</p>
                     <p><a className="btn-action btn-edge btn-lg"
-                          href="https://github.com/retainful/woocommerce/releases/download/Stable/retainful-wordpress.zip"
+                          href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.0.0.zip"
                           target="_blank" rel="noopener noreferrer">Install Plugin</a></p>
                     <p>
                         <strong>It's Free.</strong>
