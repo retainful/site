@@ -32,7 +32,7 @@ Thereby, RetainFul drives more sales to your WooCommerce store.
 
 Saving is Earning! pal
 
-RetainFul gives you a unique set of tools to improve your online sales. Also, profound <link-text url="https://www.invespcro.com/blog/customer-acquisition-retention/" rel="nofollow">marketing case study</link-text> says that the stakes selling a product to a new prospect is only 5-20% while the success rate of selling to an existing customer is 60-70%.
+RetainFul gives you a unique set of tools to improve your online sales. Also, profound <link-text url="https://www.invespcro.com/blog/customer-acquisition-retention/" target="\_blank" rel="nofollow">marketing case study</link-text> says that the stakes selling a product to a new prospect is only 5-20% while the success rate of selling to an existing customer is 60-70%.
 RetainFul makes you achieve that 60-70%.
 
 ### Advantages of adding RetainFul to your WooCommerce store
