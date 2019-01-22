@@ -1964,6 +1964,10 @@ body {
   a {
     transition: all 0.2s ease 0s;
   }
+  img{
+      max-width: 100%;
+      height: auto;
+  }
   .blog-title {
     color: #333333;
     margin-top: 0;
@@ -2143,6 +2147,10 @@ body {
     p {
       font-size: 1em;
     }
+  }
+  img{
+      max-width: 100%;
+      height: auto;
   }
 }
 

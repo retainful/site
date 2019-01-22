@@ -12,15 +12,22 @@ module.exports = {
         {
             resolve: `gatsby-source-filesystem`,
             options: {
-                name: `data`,
+                name: `pages`,
                 path: `${__dirname}/src/pages`,
             }
         },
         {
             resolve: `gatsby-source-filesystem`,
             options: {
-                name: `pages`,
-                path: `${__dirname}/src/pages`,
+                name: `docs`,
+                path: `${__dirname}/content/docs`,
+            }
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
+                name: `blog`,
+                path: `${__dirname}/content/blog`,
             }
         },
         {
@@ -31,10 +38,27 @@ module.exports = {
             }
         },
         {
-            resolve: "gatsby-transformer-remark",
-            options: {
-                plugins: ["gatsby-remark-component"]
-            }
+          resolve: `gatsby-transformer-remark`,
+          options: {
+            plugins: [
+              {
+                resolve: `gatsby-remark-images`,
+                options: {
+                  maxWidth: 590,
+                },
+              },
+              {
+                resolve: `gatsby-remark-responsive-iframe`,
+                options: {
+                  wrapperStyle: `margin-bottom: 1.0725rem`,
+                },
+              },
+              `gatsby-remark-prismjs`,
+              `gatsby-remark-copy-linked-files`,
+              `gatsby-remark-smartypants`,
+              `gatsby-remark-component`
+            ],
+          },
         },
         {
             resolve: `gatsby-plugin-google-fonts`,
@@ -51,15 +75,8 @@ module.exports = {
         //         pathToConfigModule: `${__dirname}/src/utils/typography.js`,
         //     },
         // },
-        `gatsby-remark-copy-linked-files`,
         `gatsby-transformer-sharp`,
         `gatsby-plugin-sharp`,
-        {
-            resolve: `gatsby-remark-images`,
-            options: {
-                maxWidth: 1080,
-            },
-        },
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
@@ -70,25 +87,25 @@ module.exports = {
                 theme_color: `#f27052`,
                 display: `minimal-ui`,
                 icon: `src/images/favicon.png`, // This path is relative to the root of the site.
-            },
+            }
         },
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
                 trackingId: "UA-131810748-1",
-            },
+            }
         },
         {
             resolve: `gatsby-plugin-facebook-pixel`,
             options: {
                 pixelId: '270877090250817',
-            },
+            }
         },
         {
             resolve: `gatsby-plugin-intercom`,
             options: {
                 appId: 'buyqnr2q',
-            },
+            }
         },
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // To learn more, visit: https://gatsby.app/offline
