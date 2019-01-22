@@ -3,7 +3,7 @@ path: "/blog/the-simple-way-to-retain-all-your-customers"
 date: "2019-01-18"
 title: "Retainful - The Simple way to Retain all your customers"
 author: "Siddharth"
-cover_image: "../../images/retainful-logo.png"
+cover_image: "../../images/the-simple-way-to-retain-all-your-customers.jpg"
 ---
 
 Dear Reader!
