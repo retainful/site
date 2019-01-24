@@ -1,9 +1,11 @@
 const path = require('path')
+const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = ({ actions, graphql }) => {
     const { createPage } = actions
 
     const postTemplate = path.resolve('src/templates/blog-post.js')
+    const docTemplate = path.resolve(`./src/templates/doc-template.js`)
 
     return graphql(`
     {
@@ -17,14 +19,7 @@ exports.createPages = ({ actions, graphql }) => {
               title
               date
               author
-              cover_image {
-                    publicURL
-                    childImageSharp {
-                        sizes(maxWidth: 1240 ) {
-                            srcSet
-                        }
-                    }
-              }
+              cover_image
             }
           }
         }

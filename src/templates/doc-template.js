@@ -53,12 +53,13 @@ export default function Template({data}) {
     const { markdownRemark : post } = data;
     return (
         <Layout>
-            <SEO title={post.frontmatter.title} meta={post.frontmatter.title} description={post.frontmatter.title} />
+            <SEO title={post.frontmatter.title}
+                 keywords={[`Send Unique Coupon Codes`]}/>
             <div className="single-blog-post">
                 <Container type='s'>
                     <div className="header">
                         <div className="image-section">
-                            <img src={post.frontmatter.cover_image} alt={post.frontmatter.title} />
+                            <img src={post.frontmatter.cover_image.publicURL} alt={post.frontmatter.title} />
                         </div>
                         <h1>{post.frontmatter.title}</h1>
                         <p>
@@ -82,7 +83,7 @@ export default function Template({data}) {
 }
 
 export const postQuery = graphql`
-  query BlogPostByPath($path: String!) {
+  query DocsByPath($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       htmlAst
       frontmatter {

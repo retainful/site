@@ -4,16 +4,16 @@ import Layout from "../components/layout";
 import Container from "../components/container"
 import Breadcrumb from '../components/breadcrumb'
 
-const BlogPage = ({data}) => {
+const DocsPage = ({data}) => {
     return (
         <Layout>
             <Breadcrumb>
-                <h2>Blog</h2>
+                <h2>Documentation</h2>
             </Breadcrumb>
-            <div className="blog-list-container">
+            <div className="docs-list-container">
                 <Container type="s">
                     { data.allMarkdownRemark.edges.map(post => (
-                        <div className="blog-post" key={post.node.id}>
+                        <div className="docs-post" key={post.node.id}>
                             <div className="image-section">
                                 <Link to={post.node.frontmatter.path}><img src={post.node.frontmatter.cover_image} alt={post.node.frontmatter.title} /></Link>
                             </div>
@@ -36,7 +36,7 @@ const BlogPage = ({data}) => {
 }
 
 export const PostQuery = graphql`
-    query BlogIndexQuery {
+    query DocsIndexQuery {
         allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, limit: 10) {
             edges {
                 node {
@@ -55,4 +55,4 @@ export const PostQuery = graphql`
     }
 `
 
-export default BlogPage
+export default DocsPage
