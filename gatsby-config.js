@@ -26,6 +26,13 @@ module.exports = {
         {
             resolve: `gatsby-source-filesystem`,
             options: {
+                name: `docs`,
+                path: `${__dirname}/content/docs`,
+            }
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+            options: {
                 name: `images`,
                 path: `${__dirname}/src/images`,
             }
@@ -99,6 +106,13 @@ module.exports = {
             options: {
                 appId: 'buyqnr2q',
             }
+        },
+        {
+            resolve: `gatsby-plugin-hotjar`,
+            options: {
+                id: 1169984,
+                sv: 6
+            },
         },
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // To learn more, visit: https://gatsby.app/offline

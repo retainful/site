@@ -37,7 +37,10 @@ const BlogPage = ({data}) => {
 
 export const PostQuery = graphql`
     query BlogIndexQuery {
-        allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, limit: 10) {
+        allMarkdownRemark(
+            filter: { fileAbsolutePath: { regex: "/blog/" } }
+            sort: {fields: [frontmatter___date], order: DESC}, limit: 10
+        ) {
             edges {
                 node {
                     id

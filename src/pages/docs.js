@@ -10,6 +10,9 @@ const DocsPage = ({data}) => {
             <Breadcrumb>
                 <h2>Documentation</h2>
             </Breadcrumb>
+            <div className='text-center'>
+                <h3>Knowledge center</h3>
+            </div>
             <div className="docs-list-container">
                 <Container type="s">
                     { data.allMarkdownRemark.edges.map(post => (
@@ -35,9 +38,12 @@ const DocsPage = ({data}) => {
     )
 }
 
-export const PostQuery = graphql`
+export const DocQuery = graphql`
     query DocsIndexQuery {
-        allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, limit: 10) {
+        allMarkdownRemark(
+            filter: { fileAbsolutePath: { regex: "/docs/" } }
+            sort: {fields: [frontmatter___date], order: DESC}, limit: 10
+        ) {
             edges {
                 node {
                     id

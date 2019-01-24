@@ -49,7 +49,7 @@ const renderAst = new rehypeReact({
     },
 }).Compiler
 
-export default function Template({data}) {
+export default function PostTemplate({data}) {
     const { markdownRemark : post } = data;
     return (
         <Layout>
@@ -57,9 +57,11 @@ export default function Template({data}) {
             <div className="single-blog-post">
                 <Container type='s'>
                     <div className="header">
+                        { post.frontmatter.cover_image !== null &&
                         <div className="image-section">
                             <img src={post.frontmatter.cover_image} alt={post.frontmatter.title} />
                         </div>
+                        }
                         <h1>{post.frontmatter.title}</h1>
                         <p>
                             Posted by {post.frontmatter.author} on {post.frontmatter.date}

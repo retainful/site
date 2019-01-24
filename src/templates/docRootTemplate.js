@@ -49,18 +49,18 @@ const renderAst = new rehypeReact({
     },
 }).Compiler
 
-export default function DocTemplate({data}) {
+export default function Template({data}) {
     const { markdownRemark : post } = data;
     return (
         <Layout>
+            <SEO title={post.frontmatter.title}
+                 keywords={[`Send Unique Coupon Codes`]}/>
             <div className="single-blog-post">
                 <Container type='s'>
                     <div className="header">
-                        { post.frontmatter.cover_image !== null &&
                         <div className="image-section">
-                                <img src={post.frontmatter.cover_image} alt={post.frontmatter.title} />
+                            <img src={post.frontmatter.cover_image.publicURL} alt={post.frontmatter.title} />
                         </div>
-                        }
                         <h1>{post.frontmatter.title}</h1>
                         <p>
                             Posted by {post.frontmatter.author} on {post.frontmatter.date}
@@ -82,8 +82,8 @@ export default function DocTemplate({data}) {
     )
 }
 
-export const pageQuery = graphql`
-  query DocsByPath($path: String!) {
+export const postQuery = graphql`
+  query DocsRootByPath($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       htmlAst
       frontmatter {
