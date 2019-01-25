@@ -2,40 +2,71 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 import Layout from "../components/layout";
 import Container from "../components/container"
-import Breadcrumb from '../components/breadcrumb'
+import HOME_CARDS from '../constants/homeCards';
+import CALLOUTS from '../constants/homeCallouts';
+import Search from '../components/Search';
 
-const DocsPage = ({data}) => {
-    return (
-        <Layout>
-            <Breadcrumb>
-                <h2>Documentation</h2>
-            </Breadcrumb>
-            <div className='text-center'>
-                <h3>Knowledge center</h3>
+class DocsPage extends React.Component {
+    static renderCards() {
+        return HOME_CARDS.map(card => (
+            <div className="card card-home col-md-6 ta-center" key={card.TITLE}>
+                <div className="card_inner">
+                    <span className="card_icon">{card.ICON}</span>
+                    <h3 className="card_title" >{card.TITLE}</h3>
+                    {card.LINKS.map(link => <Link key={link.TEXTNODE} to={link.URL} className="card_link">{link.TEXTNODE}</Link>)}
+                </div>
+                <div className="card_button">
+                    <Link className="btn center" to={card.BUTTON_LINK}>View All</Link>
+                </div>
             </div>
-            <div className="docs-list-container">
-                <Container type="s">
-                    { data.allMarkdownRemark.edges.map(post => (
-                        <div className="docs-post" key={post.node.id}>
-                            <div className="image-section">
-                                <Link to={post.node.frontmatter.path}><img src={post.node.frontmatter.cover_image} alt={post.node.frontmatter.title} /></Link>
+        ));
+    }
+    static renderCallouts() {
+        return CALLOUTS.map((card) => {
+            const cardClass = `card home-callout col-md-4 callout--${card.BADGE}`;
+            return (
+                <div className={cardClass} key={card.TITLE}>
+                    <div className="home-callout_badge">
+                        {card.BADGE}
+                    </div>
+                    <h3 className="card_title is-size-h2 m-bottom-2">{card.TITLE}</h3>
+                    <p className="is-p">{card.COPY}</p>
+                    <Link to={card.LINK} className="btn btn-primary center">Get Started</Link>
+                </div>
+            );
+        });
+    }
+    render(){
+        return (
+            <Layout>
+                <div className='docs-container'>
+                    <div className="search-hero text-center">
+                        <Container type="s">
+                            <div className="search-hero__bg">
+                                <h1 className="page-title">Knowledge Center</h1>
+                                <Search />
                             </div>
-                            <div className="content-section">
-                                <h3><Link to={post.node.frontmatter.path}>{post.node.frontmatter.title}</Link></h3>
-                                <p>
-                                    <small>Posted by {post.node.frontmatter.author} on {post.node.frontmatter.date}</small>
-                                </p>
-                                <p>
-                                    {post.node.excerpt}
-                                </p>
-                                <Link to={post.node.frontmatter.path}>Read more</Link>
+                        </Container>
+                    </div>
+                    <div className="home-callouts">
+                        <Container type="l">
+                            <div className="row row--home-cards">
+                                {DocsPage.renderCallouts()}
                             </div>
-                        </div>
-                    )) }
-                </Container>
-            </div>
-        </Layout>
-    )
+                        </Container>
+                    </div>
+                    <div className="home-featured">
+                        <Container type="s">
+                            <h2>Featured Resources</h2>
+                            <div className="row row--home-cards">
+                                {DocsPage.renderCards()}
+                            </div>
+                        </Container>
+                    </div>
+                </div>
+            </Layout>
+        )
+    }
 }
 
 export const DocQuery = graphql`

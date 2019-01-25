@@ -14,9 +14,6 @@ const Menu = () => (
                 <Link to="/blog" className="nav-link js-scroll-trigger">Blog</Link>
             </li>
             <li className="nav-item">
-                <Link to="/docs" className="nav-link js-scroll-trigger">Docs</Link>
-            </li>
-            <li className="nav-item">
                 <Link to="/#pricing" className="btn-cta nav-link js-scroll-trigger">Sign Up</Link>
             </li>
         </ul>

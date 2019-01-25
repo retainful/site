@@ -3,7 +3,6 @@ import rehypeReact from "rehype-react"
 import {Link} from 'gatsby'
 import {graphql} from 'gatsby'
 import Layout from "../components/layout";
-import SEO from '../components/seo'
 import styled from 'styled-components'
 
 import Container from "../components/container"
@@ -73,7 +72,7 @@ export default function DocTemplate({data}) {
                     <div className="footer">
                         <div className="text-right">
                             <hr/>
-                            <Link to="/blog">Go Back</Link>
+                            <Link to="/docs">Go Back</Link>
                         </div>
                     </div>
                 </Container>
