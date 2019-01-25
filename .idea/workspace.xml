@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cabcaabc-928e-4b3f-b034-23f2ea9b38be" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Search.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/TableOfContents.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/constants/homeCallouts.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/constants/homeCards.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/docs/sending-mail.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/docs/test-docs.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/content/docs/test-docs/index.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.scss" afterPath="$PROJECT_DIR$/src/components/layout.scss" />
-      <change beforePath="$PROJECT_DIR$/src/components/menu.js" afterPath="$PROJECT_DIR$/src/components/menu.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/docs.js" afterPath="$PROJECT_DIR$/src/pages/docs.js" />
-      <change beforePath="$PROJECT_DIR$/src/templates/doc-template.js" afterPath="$PROJECT_DIR$/src/templates/doc-template.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -466,7 +459,7 @@
       <updated>1547798391256</updated>
       <workItem from="1547798392565" duration="10358000" />
       <workItem from="1548329497124" duration="2045000" />
-      <workItem from="1548392129772" duration="15965000" />
+      <workItem from="1548392129772" duration="16158000" />
     </task>
     <task id="LOCAL-00001" summary="- site deploy with gatsby">
       <created>1547799036073</created>
@@ -552,11 +545,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548336530911</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="- added content for doc home page">
+      <created>1548416534772</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1548416534773</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34661000" />
+    <option name="totallyTimeSpent" value="34854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1076" extended-state="0" />
@@ -602,7 +602,8 @@
     <MESSAGE value="- column sm to md" />
     <MESSAGE value="- added analytics" />
     <MESSAGE value="- solved filter issue with blog and docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="- solved filter issue with blog and docs" />
+    <MESSAGE value="- added content for doc home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="- added content for doc home page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
