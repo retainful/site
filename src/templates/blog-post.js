@@ -94,6 +94,9 @@ export const postQuery = graphql`
           date(formatString: "DD MMMM, YYYY")
           cover_image
       }
+      fields{
+         slug
+      }
     }
   }
 `

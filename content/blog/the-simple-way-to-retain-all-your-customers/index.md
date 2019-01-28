@@ -1,5 +1,5 @@
 ---
-path: "/blog/the-simple-way-to-retain-all-your-customers"
+path: "/the-simple-way-to-retain-all-your-customers"
 date: "2019-01-18"
 title: "Retainful - The Simple way to Retain all your customers"
 author: "Siddharth"

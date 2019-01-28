@@ -15,17 +15,17 @@ const BlogPage = ({data}) => {
                     { data.allMarkdownRemark.edges.map(post => (
                         <div className="blog-post" key={post.node.id}>
                             <div className="image-section">
-                                <Link to={post.node.frontmatter.path}><img src={post.node.frontmatter.cover_image} alt={post.node.frontmatter.title} /></Link>
+                                <Link to={post.node.fields.slug}><img src={post.node.frontmatter.cover_image} alt={post.node.frontmatter.title} /></Link>
                             </div>
                             <div className="content-section">
-                                <h3><Link to={post.node.frontmatter.path}>{post.node.frontmatter.title}</Link></h3>
+                                <h3><Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link></h3>
                                 <p>
                                     <small>Posted by {post.node.frontmatter.author} on {post.node.frontmatter.date}</small>
                                 </p>
                                 <p>
                                     {post.node.excerpt}
                                 </p>
-                                <Link to={post.node.frontmatter.path}>Read more</Link>
+                                <Link to={post.node.fields.slug}>Read more</Link>
                             </div>
                         </div>
                     )) }
@@ -52,6 +52,9 @@ export const PostQuery = graphql`
                         cover_image
                     }
                     excerpt
+                    fields{
+                        slug
+                    }
                 }
             }
         }

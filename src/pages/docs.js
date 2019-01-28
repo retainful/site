@@ -69,27 +69,4 @@ class DocsPage extends React.Component {
     }
 }
 
-export const DocQuery = graphql`
-    query DocsIndexQuery {
-        allMarkdownRemark(
-            filter: { fileAbsolutePath: { regex: "/docs/" } }
-            sort: {fields: [frontmatter___date], order: DESC}, limit: 10
-        ) {
-            edges {
-                node {
-                    id
-                    frontmatter {
-                        path
-                        title
-                        date(formatString: "DD MMMM, YYYY")
-                        author
-                        cover_image
-                    }
-                    excerpt
-                }
-            }
-        }
-    }
-`
-
 export default DocsPage
