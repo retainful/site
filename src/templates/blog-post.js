@@ -1,10 +1,12 @@
 import React from 'react'
 import rehypeReact from "rehype-react"
-import {Link} from 'gatsby'
-import {graphql} from 'gatsby'
+import {Link, graphql} from 'gatsby';
 import Layout from "../components/layout";
-import SEO from '../components/seo'
 import styled from 'styled-components'
+import Img from 'gatsby-image';
+import PrevNext from '../components/prevnext';
+import MetaTags from '../components/Metatags';
+import Share from '../components/share';
 
 import Container from "../components/container"
 import Callout from '../components/callout'
@@ -49,29 +51,42 @@ const renderAst = new rehypeReact({
     },
 }).Compiler
 
-export default function PostTemplate({data}) {
-    const { markdownRemark : post } = data;
+export default function BlogPost(props) {
+
+    const url = props.data.site.siteMetadata.siteUrl;
+    const thumbnail = props.data.markdownRemark.frontmatter.image &&
+        props.data.markdownRemark.frontmatter.image.childImageSharp.resize.src;
+    const {title, image} = props.data.markdownRemark.frontmatter;
+    const {prev, next} = props.pageContext;
+
     return (
         <Layout>
-            <SEO title={post.frontmatter.title} meta={post.frontmatter.title} description={post.frontmatter.title} />
+            <MetaTags
+                title={title}
+                description={props.data.markdownRemark.excerpt}
+                thumbnail={thumbnail && url + thumbnail}
+                url={url}
+                pathname={props.location.pathname}
+            />
             <div className="single-blog-post">
                 <Container type='s'>
                     <div className="header">
-                        { post.frontmatter.cover_image !== null &&
                         <div className="image-section">
-                            <img src={post.frontmatter.cover_image} alt={post.frontmatter.title} />
+                            {image && <Img fluid={image.childImageSharp.fluid}/>}
                         </div>
-                        }
-                        <h1>{post.frontmatter.title}</h1>
+                        <h1>{title}</h1>
                         <p>
-                            Posted by {post.frontmatter.author} on {post.frontmatter.date}
+                            Posted
+                            by {props.data.markdownRemark.frontmatter.author} on {props.data.markdownRemark.frontmatter.date}
                         </p>
                         <hr/>
                     </div>
                     <div className="content">
-                        { renderAst(post.htmlAst) }
+                        {renderAst(props.data.markdownRemark.htmlAst)}
                     </div>
                     <div className="footer">
+                        <Share title={title} url={url} pathname={props.location.pathname}/>
+                        <PrevNext prev={prev && prev.node} next={next && next.node}/>
                         <div className="text-right">
                             <hr/>
                             <Link to="/blog">Go Back</Link>
@@ -83,20 +98,32 @@ export default function PostTemplate({data}) {
     )
 }
 
-export const postQuery = graphql`
-  query BlogPostByPath($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+export const query = graphql`
+  query PostQuery($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       htmlAst
+      excerpt
       frontmatter {
-          path
           title
+          description
+          image {
+              childImageSharp {
+                resize(width: 1000, height: 420) {
+                  src
+                }
+                fluid(maxWidth: 786) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+          }
           author
           date(formatString: "DD MMMM, YYYY")
-          cover_image
       }
-      fields{
-         slug
-      }
+    }
+    site {
+        siteMetadata {
+            siteUrl
+          }
     }
   }
 `

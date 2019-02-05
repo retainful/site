@@ -1,46 +1,17 @@
-const path = require('path')
-const _ = require("lodash")
-const { createFilePath } = require(`gatsby-source-filesystem`)
-const createPaginatedPages = require('gatsby-paginate')
+/**
+ * Implement Gatsby's Node APIs in this file.
+ *
+ * See: https://www.gatsbyjs.org/docs/node-apis/
+ */
 
-// Create slugs
-exports.onCreateNode = ({ node, actions, getNode }) => {
-    const { createNodeField } = actions;
-
-    if (node.internal.type === `MarkdownRemark`) {
-        const value = createFilePath({ node, getNode });
-        createNodeField({
-            name: `slug`,
-            node,
-            value,
-        });
-
-        createNodeField({
-            node,
-            name: 'ids',
-            value: [node.frontmatter.id]
-        });
-
-        if (node.frontmatter.tags) {
-            const tagPaths = node.frontmatter.tags.map(tag => `/${_.kebabCase(node.frontmatter.category)}/tags/${_.kebabCase(tag)}/`);
-            createNodeField({ node, name: 'tagPaths', value: tagPaths });
-        }
-
-        if (node.frontmatter.layout === 'post') {
-            const categoryPath = `/${_.kebabCase(node.frontmatter.category)}/`;
-            createNodeField({ node, name: 'categoryPath', value: categoryPath });
-        }
-    }
-};
+const path = require("path");
+const { createFilePath, createFileNode } = require(`gatsby-source-filesystem`);
+const _ = require('lodash');
+const createPaginatedPages = require('gatsby-paginate');
 
 // Create pages
 exports.createPages = ({ actions, graphql }) => {
     const { createPage } = actions;
-    const postTemplate = path.resolve('src/templates/blog-post.js');
-    const docTemplate = path.resolve(`./src/templates/doc-template.js`);
-    const docRootTemplate = path.resolve('src/templates/docRootTemplate.js');
-    const tagTemplate = path.resolve("src/templates/tags.js");
-
     //Blog page
     const blog = graphql(`
     {
@@ -50,14 +21,8 @@ exports.createPages = ({ actions, graphql }) => {
       ){
         edges {
           node {
-            html
-            id
             frontmatter {
-              path
               title
-              date
-              author
-              cover_image
               tags
             }
             fields{
@@ -67,46 +32,48 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
     }
-  `).then(res => {
-        if (res.errors) {
-            return Promise.reject(res.errors)
+  `).then(result => {
+        if (result.errors) {
+            console.log(result.errors)
+            return reject(result.errors)
         }
-        createPaginatedPages({
-            edges: res.data.allMarkdownRemark.edges,
-            createPage: createPage,
-            pageTemplate: 'src/templates/blog-post.js',
-        })
-        const posts = res.data.allMarkdownRemark.edges;
-        let prefix = '/blog/';
-        posts.forEach(({ node }) => {
-            createPage({
-                path: `${prefix}${node.fields.slug}`,
-                component: postTemplate,
-                context: {
-                    slug: node.fields.slug,
-                },
-            })
-        })
-        // Tag pages:
-        let tags = []
-        // Iterate through each post, putting all found tags into `tags`
+
+        const posts = result.data.allMarkdownRemark.edges;
+        const blogTemplate = path.resolve('./src/templates/blog-post.js');
+        const tagsTemplate = path.resolve('./src/templates/tag-template.js');
+
+        //All tags
+        let allTags = [];
+        // Iterate through each post, putting all found tags into `allTags array`
         _.each(posts, edge => {
-            if (_.get(edge, "node.frontmatter.tags")) {
-                tags = tags.concat(edge.node.frontmatter.tags)
+            if (_.get(edge, 'node.frontmatter.tags')) {
+                allTags = allTags.concat(edge.node.frontmatter.tags)
             }
         })
         // Eliminate duplicate tags
-        tags = _.uniq(tags)
-        // Make tag pages
-        tags.forEach(tag => {
+        allTags = _.uniq(allTags)
+
+        allTags.forEach((tag, index) => {
             createPage({
                 path: `/tags/${_.kebabCase(tag)}/`,
-                component: tagTemplate,
+                component: tagsTemplate,
                 context: {
                     tag,
-                },
+                }
             })
         })
+
+        posts.forEach(({ node }, index) => {
+            createPage({
+                path: node.fields.slug,
+                component: blogTemplate,
+                context: {
+                    slug: node.fields.slug,
+                    prev: index === 0 ? null : posts[index - 1],
+                    next: index === result.length - 1 ? null : posts[index + 1],
+                }, // additional data can be passed via context
+            })
+        });
     });
     //Docs page
     const docs = graphql(`
@@ -117,14 +84,8 @@ exports.createPages = ({ actions, graphql }) => {
 			){
                 edges {
                   node {
-                    html
-                    id
                     frontmatter {
-                      path
                       title
-                      date
-                      author
-                      cover_image
                       tags
                     }
                     fields{
@@ -136,59 +97,60 @@ exports.createPages = ({ actions, graphql }) => {
 		}
 	`).then(result => {
         if (result.errors) {
-            Promise.reject(result.errors);
+            console.log(result.errors)
+            return reject(result.errors)
         }
+
         const posts = result.data.allMarkdownRemark.edges;
-        let prefix = '/docs/';
-        posts.forEach(({ node }) => {
-            createPage({
-                path: `${prefix}${node.fields.slug}`,
-                component: docTemplate,
-                context: {
-                    slug: node.fields.slug,
-                },
-            });
-        });
-        // Tag pages:
-        let tags = []
-        // Iterate through each post, putting all found tags into `tags`
+        const docTemplate = path.resolve(`./src/templates/doc-template.js`);
+        const tagsTemplate = path.resolve('./src/templates/tag-template.js');
+
+        //All tags
+        let allTags = [];
+        // Iterate through each post, putting all found tags into `allTags array`
         _.each(posts, edge => {
-            if (_.get(edge, "node.frontmatter.tags")) {
-                tags = tags.concat(edge.node.frontmatter.tags)
+            if (_.get(edge, 'node.frontmatter.tags')) {
+                allTags = allTags.concat(edge.node.frontmatter.tags)
             }
         })
         // Eliminate duplicate tags
-        tags = _.uniq(tags)
-        // Make tag pages
-        tags.forEach(tag => {
+        allTags = _.uniq(allTags)
+
+        allTags.forEach((tag, index) => {
             createPage({
                 path: `/tags/${_.kebabCase(tag)}/`,
-                component: tagTemplate,
+                component: tagsTemplate,
                 context: {
                     tag,
-                },
+                }
             })
         })
+
+        posts.forEach(({ node }, index) => {
+            createPage({
+                path: node.fields.slug,
+                component: docTemplate,
+                context: {
+                    slug: node.fields.slug,
+                    prev: index === 0 ? null : posts[index - 1],
+                    next: index === result.length - 1 ? null : posts[index + 1],
+                }, // additional data can be passed via context
+            })
+        });
     });
-    // Doc root pages
-    // const docRoots = new Promise((resolve, reject) => {
-    //     // First get all directories inside docs
-    //     const docTypes = dirs(path.resolve(__dirname, './content/docs'));
-    //     if (docTypes && docTypes.length) {
-    //         docTypes.forEach(docType => {
-    //             createPage({
-    //                 path: `/${docType}/`,
-    //                 component: docRootTemplate,
-    //                 context: {
-    //                     docType,
-    //                 },
-    //             });
-    //         });
-    //         resolve();
-    //     } else {
-    //         reject(new Error(`No directories found for document roots.`));
-    //     }
-    // });
 
     return Promise.all([blog, docs]);
+}
+
+exports.onCreateNode = ({ node, getNode, actions }) => {
+    const { createNodeField } = actions
+    if (node.internal.type === `MarkdownRemark`) {
+        const slug = createFilePath({ node, getNode, basePath: `pages` })
+        createNodeField({
+            node,
+            name: `slug`,
+            value: slug,
+        })
+
+    }
 }

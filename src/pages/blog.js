@@ -1,8 +1,9 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
+import React from 'react';
+import { Link, graphql } from 'gatsby';
 import Layout from "../components/layout";
-import Container from "../components/container"
-import Breadcrumb from '../components/breadcrumb'
+import Container from "../components/container";
+import Breadcrumb from '../components/breadcrumb';
+import Img from 'gatsby-image';
 
 const BlogPage = ({data}) => {
     return (
@@ -15,7 +16,9 @@ const BlogPage = ({data}) => {
                     { data.allMarkdownRemark.edges.map(post => (
                         <div className="blog-post" key={post.node.id}>
                             <div className="image-section">
-                                <Link to={post.node.fields.slug}><img src={post.node.frontmatter.cover_image} alt={post.node.frontmatter.title} /></Link>
+                                <Link to={post.node.fields.slug}>
+                                    {post.node.frontmatter.image && <Img fluid={post.node.frontmatter.image.childImageSharp.fluid} />}
+                                </Link>
                             </div>
                             <div className="content-section">
                                 <h3><Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link></h3>
@@ -43,13 +46,20 @@ export const PostQuery = graphql`
         ) {
             edges {
                 node {
-                    id
                     frontmatter {
-                        path
                         title
                         date(formatString: "DD MMMM, YYYY")
                         author
-                        cover_image
+                        image {
+                          childImageSharp {
+                            resize(width: 1000, height: 420) {
+                              src
+                            }
+                            fluid(maxWidth: 786) {
+                              ...GatsbyImageSharpFluid
+                            }
+                          }
+                        }
                     }
                     excerpt
                     fields{

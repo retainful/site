@@ -1,9 +1,10 @@
 ---
-path: "/the-simple-way-to-retain-all-your-customers"
-date: "2019-01-18"
 title: "Retainful - The Simple way to Retain all your customers"
+description: The Simple way to Retain all your customers using Retainful
+date: "2019-01-18"
 author: "Siddharth"
-cover_image: "https://github.com/retainful/site-images/raw/master/the-simple-way-to-retain-all-your-customers.jpg"
+image: retainful-customers.png
+tags: ['javascript','react','gatsby']
 ---
 
 Dear Reader!

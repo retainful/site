@@ -2,7 +2,8 @@ module.exports = {
     siteMetadata: {
         title: `Retainful`,
         description: `The easiest way to drive repeat purchases and retain customers. Generate and send unique coupon codes that can be used by the customer for the next purchase.`,
-        author: `@retainful`,
+        author: `Shobana`,
+        siteUrl: `https://www.retainful.com/`
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
@@ -13,21 +14,7 @@ module.exports = {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
-                path: `${__dirname}/src/pages`,
-            }
-        },
-        {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                name: `blog`,
-                path: `${__dirname}/content/blog`,
-            }
-        },
-        {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                name: `docs`,
-                path: `${__dirname}/content/docs`,
+                path: `${__dirname}/content`,
             }
         },
         {
