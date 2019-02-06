@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cabcaabc-928e-4b3f-b034-23f2ea9b38be" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/blog/the-simple-way-to-retain-all-your-customers.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/docs/shopify/test-docs.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/docs/woocommerce/sending-mail.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/NavSub.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/pages/category.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/templates/blog-category.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/templates/docs-category.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/blog/how-to-provide-next-order-coupon-in-woocommerce.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/content/blog/the-simple-way-to-retain-all-your-customers/index.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/blog/the-simple-way-to-retain-all-your-customers/retainful-customers.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/docs/sending-mail.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/content/docs/test-docs.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" afterPath="$PROJECT_DIR$/gatsby-node.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/breadcrumb.js" afterPath="$PROJECT_DIR$/src/components/breadcrumb.js" />
+      <change beforePath="$PROJECT_DIR$/content/blog/how-to-provide-next-order-coupon/index.md" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/components/layout.scss" afterPath="$PROJECT_DIR$/src/components/layout.scss" />
-      <change beforePath="$PROJECT_DIR$/src/components/menu.js" afterPath="$PROJECT_DIR$/src/components/menu.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/share.css" afterPath="$PROJECT_DIR$/src/components/share.css" />
-      <change beforePath="$PROJECT_DIR$/src/components/share.js" afterPath="$PROJECT_DIR$/src/components/share.js" />
-      <change beforePath="$PROJECT_DIR$/src/constants/homeCallouts.js" afterPath="$PROJECT_DIR$/src/constants/homeCallouts.js" />
-      <change beforePath="$PROJECT_DIR$/src/constants/homeCards.js" afterPath="$PROJECT_DIR$/src/constants/homeCards.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog.js" afterPath="$PROJECT_DIR$/src/pages/blog.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/privacy-policy.js" afterPath="$PROJECT_DIR$/src/pages/privacy-policy.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/terms-of-service.js" afterPath="$PROJECT_DIR$/src/pages/terms-of-service.js" />
-      <change beforePath="$PROJECT_DIR$/src/templates/blog-post.js" afterPath="$PROJECT_DIR$/src/templates/blog-post.js" />
-      <change beforePath="$PROJECT_DIR$/src/templates/doc-template.js" afterPath="$PROJECT_DIR$/src/templates/doc-template.js" />
-      <change beforePath="$PROJECT_DIR$/src/templates/tags.js" afterPath="$PROJECT_DIR$/src/templates/tags.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,26 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="blog-post.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/templates/blog-post.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-                <element signature="e#1069#1427#0" expanded="true" />
-                <element signature="e#1127#1424#0" expanded="true" />
-                <element signature="e#1749#2017#0" expanded="true" />
-                <element signature="e#2440#2600#0" expanded="true" />
-                <element signature="e#2692#3049#0" expanded="true" />
-                <element signature="e#3127#3250#0" expanded="true" />
-                <element signature="e#3271#3678#0" expanded="true" />
-                <element signature="e#3498#3651#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="category.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/category.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,29 +37,6 @@
                 <element signature="e#1380#1521#0" expanded="true" />
                 <element signature="e#1591#1714#0" expanded="true" />
                 <element signature="e#1635#1702#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/blog.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-                <element signature="e#268#1931#0" expanded="true" />
-                <element signature="e#291#1923#0" expanded="true" />
-                <element signature="e#411#1905#0" expanded="true" />
-                <element signature="e#465#1886#0" expanded="true" />
-                <element signature="e#575#1832#0" expanded="true" />
-                <element signature="e#650#1041#0" expanded="true" />
-                <element signature="e#714#1006#0" expanded="true" />
-                <element signature="e#1070#1801#0" expanded="true" />
-                <element signature="e#1247#1555#0" expanded="true" />
-                <element signature="e#1287#1518#0" expanded="true" />
-                <element signature="e#1588#1684#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doc-template.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="doc-template.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/templates/doc-template.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="256">
+              <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               <folding>
                 <element signature="e#1090#1448#0" expanded="true" />
                 <element signature="e#1148#1445#0" expanded="true" />
@@ -163,6 +98,29 @@
                 <element signature="e#2857#3266#0" expanded="true" />
                 <element signature="e#3086#3239#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="how-to-provide-next-order-coupon-in-woocommerce.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/blog/how-to-provide-next-order-coupon-in-woocommerce.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="224">
+                <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="1985" column="25" lean-forward="false" selection-start-line="1985" selection-start-column="25" selection-end-line="1985" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -289,7 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pages/index.js" />
         <option value="$PROJECT_DIR$/src/components/counter.js" />
         <option value="$PROJECT_DIR$/src/components/linkText.js" />
         <option value="$PROJECT_DIR$/src/components/header.js" />
@@ -329,7 +286,6 @@
         <option value="$PROJECT_DIR$/src/constants/homeCards.js" />
         <option value="$PROJECT_DIR$/src/constants/homeCallouts.js" />
         <option value="$PROJECT_DIR$/content/docs/shopify/test-docs.md" />
-        <option value="$PROJECT_DIR$/src/components/layout.scss" />
         <option value="$PROJECT_DIR$/content/docs/shopify/index.md" />
         <option value="$PROJECT_DIR$/src/pages/category.js" />
         <option value="$PROJECT_DIR$/src/templates/blog-post.js" />
@@ -340,6 +296,8 @@
         <option value="$PROJECT_DIR$/gatsby-node.js" />
         <option value="$PROJECT_DIR$/src/templates/blog-category.js" />
         <option value="$PROJECT_DIR$/src/templates/docs-category.js" />
+        <option value="$PROJECT_DIR$/src/components/layout.scss" />
+        <option value="$PROJECT_DIR$/content/blog/how-to-provide-next-order-coupon-in-woocommerce.md" />
       </list>
     </option>
   </component>
@@ -490,7 +448,7 @@
       <workItem from="1548329497124" duration="2045000" />
       <workItem from="1548392129772" duration="19385000" />
       <workItem from="1548653075540" duration="6520000" />
-      <workItem from="1549429140421" duration="14201000" />
+      <workItem from="1549429140421" duration="14593000" />
     </task>
     <task id="LOCAL-00001" summary="- site deploy with gatsby">
       <created>1547799036073</created>
@@ -604,11 +562,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549374088967</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="- category page">
+      <created>1549459327860</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1549459327860</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65226000" />
+    <option name="totallyTimeSpent" value="65618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1076" extended-state="0" />
@@ -616,7 +581,7 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23139654" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -656,7 +621,8 @@
     <MESSAGE value="- solved filter issue with blog and docs" />
     <MESSAGE value="- added content for doc home page" />
     <MESSAGE value="- resolved category issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="- resolved category issue" />
+    <MESSAGE value="- category page" />
+    <option name="LAST_COMMIT_MESSAGE" value="- category page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -665,7 +631,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/templates/docRootTemplate.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/react-icons/lib/iconContext.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1006,14 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="2391" column="23" lean-forward="false" selection-start-line="2391" selection-start-column="23" selection-end-line="2391" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/constants/homeCallouts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -1109,15 +1066,15 @@
         <state relative-caret-position="378">
           <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#1069#1427#0" expanded="true" />
-            <element signature="e#1127#1424#0" expanded="true" />
-            <element signature="e#1749#2017#0" expanded="true" />
-            <element signature="e#2440#2600#0" expanded="true" />
-            <element signature="e#2692#3049#0" expanded="true" />
-            <element signature="e#3127#3250#0" expanded="true" />
-            <element signature="e#3271#3678#0" expanded="true" />
-            <element signature="e#3498#3651#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
+            <element signature="e#1069#1427#0" expanded="false" />
+            <element signature="e#1127#1424#0" expanded="false" />
+            <element signature="e#1749#2017#0" expanded="false" />
+            <element signature="e#2440#2600#0" expanded="false" />
+            <element signature="e#2692#3049#0" expanded="false" />
+            <element signature="e#3127#3250#0" expanded="false" />
+            <element signature="e#3271#3678#0" expanded="false" />
+            <element signature="e#3498#3651#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1127,18 +1084,18 @@
         <state relative-caret-position="153">
           <caret line="48" column="11" lean-forward="false" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#268#1931#0" expanded="true" />
-            <element signature="e#291#1923#0" expanded="true" />
-            <element signature="e#411#1905#0" expanded="true" />
-            <element signature="e#465#1886#0" expanded="true" />
-            <element signature="e#575#1832#0" expanded="true" />
-            <element signature="e#650#1041#0" expanded="true" />
-            <element signature="e#714#1006#0" expanded="true" />
-            <element signature="e#1070#1801#0" expanded="true" />
-            <element signature="e#1247#1555#0" expanded="true" />
-            <element signature="e#1287#1518#0" expanded="true" />
-            <element signature="e#1588#1684#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
+            <element signature="e#268#1931#0" expanded="false" />
+            <element signature="e#291#1923#0" expanded="false" />
+            <element signature="e#411#1905#0" expanded="false" />
+            <element signature="e#465#1886#0" expanded="false" />
+            <element signature="e#575#1832#0" expanded="false" />
+            <element signature="e#650#1041#0" expanded="false" />
+            <element signature="e#714#1006#0" expanded="false" />
+            <element signature="e#1070#1801#0" expanded="false" />
+            <element signature="e#1247#1555#0" expanded="false" />
+            <element signature="e#1287#1518#0" expanded="false" />
+            <element signature="e#1588#1684#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1290,8 +1247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/templates/doc-template.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="256">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
             <element signature="e#1090#1448#0" expanded="true" />
             <element signature="e#1148#1445#0" expanded="true" />
@@ -1307,6 +1264,25 @@
             <element signature="e#2857#3266#0" expanded="true" />
             <element signature="e#3086#3239#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1985" column="25" lean-forward="false" selection-start-line="1985" selection-start-column="25" selection-end-line="1985" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/blog/how-to-provide-next-order-coupon-in-woocommerce.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="224">
+            <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

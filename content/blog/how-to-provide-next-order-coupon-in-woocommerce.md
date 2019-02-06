@@ -4,7 +4,8 @@ date: "2019-01-25"
 title: "How to provide Next order coupon in WooCommerce"
 description: "Learn to provide a coupon for the next purchase when a customer makes an order and send it within the order notification email itself"
 author: "Siddharth"
-cover_image: "https://raw.githubusercontent.com/retainful/site-images/master/How-to-provide-Next-order-coupon-in-WooCommerce/How-to-provide-Next-order-coupon-in-WooCommerce.png"
+image: "https://raw.githubusercontent.com/retainful/site-images/master/How-to-provide-Next-order-coupon-in-WooCommerce/How-to-provide-Next-order-coupon-in-WooCommerce.png"
+category: woocommerce
 ---
 
 ## Next Order Coupon and Customer Retention
