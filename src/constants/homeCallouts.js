@@ -1,21 +1,15 @@
 const HOME_CALLOUTS = [
     {
         BADGE: 'marketing',
-        TITLE: 'Marketing Campaigns',
+        TITLE: 'WooCommerce',
         COPY: 'Use the SendGrid UI to add contacts, create segments, create and send campaigns, and view your stats.',
-        LINK: '/ui/sending-email/how-to-send-email-with-marketing-campaigns/',
+        LINK: '/docs/woocommerce',
     },
     {
         BADGE: 'development',
-        TITLE: 'API',
+        TITLE: 'Shopify',
         COPY: 'Use the SendGrid v3 REST API to build and send email.',
-        LINK: '/for-developers/sending-email/api-getting-started/',
-    },
-    {
-        BADGE: 'development',
-        TITLE: 'SMTP',
-        COPY: 'Use the SendGrid SMTP API to build and send email.',
-        LINK: '/for-developers/sending-email/getting-started-smtp/',
+        LINK: '/docs/shopify',
     },
 ];
 

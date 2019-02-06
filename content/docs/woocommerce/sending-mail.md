@@ -1,9 +1,10 @@
 ---
-path: "/sending-mail"
-date: "2019-01-25"
 title: "Sending mail"
+description: The Simple way to Sending mail
+date: "2019-01-25"
 author: "Siddharth"
 tags: ["animals", "Chicago", "zoos"]
+category: woocommerce
 ---
 
 The process will essentially look like this:

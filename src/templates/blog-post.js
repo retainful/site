@@ -54,16 +54,15 @@ const renderAst = new rehypeReact({
 export default function BlogPost(props) {
 
     const url = props.data.site.siteMetadata.siteUrl;
-    const thumbnail = props.data.markdownRemark.frontmatter.image &&
-        props.data.markdownRemark.frontmatter.image.childImageSharp.resize.src;
-    const {title, image} = props.data.markdownRemark.frontmatter;
+    const thumbnail = props.data.markdownRemark.frontmatter.image;
+    const {title} = props.data.markdownRemark.frontmatter;
     const {prev, next} = props.pageContext;
 
     return (
         <Layout>
             <MetaTags
                 title={title}
-                description={props.data.markdownRemark.excerpt}
+                description={props.data.markdownRemark.frontmatter.description}
                 thumbnail={thumbnail && url + thumbnail}
                 url={url}
                 pathname={props.location.pathname}
@@ -71,13 +70,19 @@ export default function BlogPost(props) {
             <div className="single-blog-post">
                 <Container type='s'>
                     <div className="header">
+                        {/*<div className="image-section">*/}
+                            {/*{image && <Img fluid={image.childImageSharp.fluid}/>}*/}
+                        {/*</div>*/}
+                        { props.data.markdownRemark.frontmatter.image !== null &&
                         <div className="image-section">
-                            {image && <Img fluid={image.childImageSharp.fluid}/>}
+                            <img src={props.data.markdownRemark.frontmatter.image} alt={title} />
                         </div>
+                        }
                         <h1>{title}</h1>
                         <p>
                             Posted
-                            by {props.data.markdownRemark.frontmatter.author} on {props.data.markdownRemark.frontmatter.date}
+                            by {props.data.markdownRemark.frontmatter.author} on {props.data.markdownRemark.frontmatter.date} in
+                            <Link to={'blog/category/'+ props.data.markdownRemark.frontmatter.category}> {props.data.markdownRemark.frontmatter.category}</Link>
                         </p>
                         <hr/>
                     </div>
@@ -106,16 +111,8 @@ export const query = graphql`
       frontmatter {
           title
           description
-          image {
-              childImageSharp {
-                resize(width: 1000, height: 420) {
-                  src
-                }
-                fluid(maxWidth: 786) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-          }
+          category
+          image
           author
           date(formatString: "DD MMMM, YYYY")
       }

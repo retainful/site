@@ -45,7 +45,6 @@ Tags.propTypes = {
                 PropTypes.shape({
                     node: PropTypes.shape({
                         frontmatter: PropTypes.shape({
-                            path: PropTypes.string.isRequired,
                             title: PropTypes.string.isRequired,
                         }),
                         fields: PropTypes.shape({
@@ -60,6 +59,7 @@ Tags.propTypes = {
 
 export default Tags
 
+
 export const pageQuery = graphql`
   query($tag: String) {
     allMarkdownRemark(
@@ -72,7 +72,6 @@ export const pageQuery = graphql`
         node {
           frontmatter {
             title
-            path
           }
           fields{
              slug

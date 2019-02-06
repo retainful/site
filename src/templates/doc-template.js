@@ -106,16 +106,7 @@ export const docQuery = graphql`
       excerpt
       frontmatter {
           title
-            image {
-              childImageSharp {
-                resize(width: 1000, height: 420) {
-                  src
-                }
-                fluid(maxWidth: 786) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            image
           author
           date(formatString: "DD MMMM, YYYY")
       }

@@ -5,9 +5,9 @@ import Breadcrumb from '../components/breadcrumb'
 
 const TermsOfService = () => (
     <Layout>
-        <Breadcrumb>
-            <h2>Terms of Service</h2>
-        </Breadcrumb>
+        {/*<Breadcrumb>*/}
+            {/*<h2>Terms of Service</h2>*/}
+        {/*</Breadcrumb>*/}
         <Container type="s">
             <div className="legal-info">
                 <p>

@@ -24,6 +24,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               title
               tags
+              category
             }
             fields{
                 slug
@@ -41,6 +42,7 @@ exports.createPages = ({ actions, graphql }) => {
         const posts = result.data.allMarkdownRemark.edges;
         const blogTemplate = path.resolve('./src/templates/blog-post.js');
         const tagsTemplate = path.resolve('./src/templates/tag-template.js');
+        const categoryPage = path.resolve('src/templates/blog-category.js');
 
         //All tags
         let allTags = [];
@@ -62,8 +64,12 @@ exports.createPages = ({ actions, graphql }) => {
                 }
             })
         })
-
+        const blogCategorySet = new Set();
         posts.forEach(({ node }, index) => {
+            const {
+                category
+            } = node.frontmatter;
+            blogCategorySet.add(category);
             createPage({
                 path: node.fields.slug,
                 component: blogTemplate,
@@ -73,6 +79,18 @@ exports.createPages = ({ actions, graphql }) => {
                     next: index === result.length - 1 ? null : posts[index + 1],
                 }, // additional data can be passed via context
             })
+        });
+        //Category page
+        // Eliminate duplicate tags
+        const categoryList = _.uniq(Array.from(blogCategorySet));
+        categoryList.forEach((category) => {
+            createPage({
+                path: `/blog/category/${_.kebabCase(category)}/`,
+                component: categoryPage,
+                context: {
+                    category,
+                },
+            });
         });
     });
     //Docs page
@@ -87,6 +105,7 @@ exports.createPages = ({ actions, graphql }) => {
                     frontmatter {
                       title
                       tags
+                      category
                     }
                     fields{
                         slug
@@ -104,6 +123,7 @@ exports.createPages = ({ actions, graphql }) => {
         const posts = result.data.allMarkdownRemark.edges;
         const docTemplate = path.resolve(`./src/templates/doc-template.js`);
         const tagsTemplate = path.resolve('./src/templates/tag-template.js');
+        const categoryPage = path.resolve('src/templates/docs-category.js');
 
         //All tags
         let allTags = [];
@@ -125,8 +145,12 @@ exports.createPages = ({ actions, graphql }) => {
                 }
             })
         })
-
+        const docsCategorySet = new Set();
         posts.forEach(({ node }, index) => {
+            const {
+                category
+            } = node.frontmatter;
+            docsCategorySet.add(category);
             createPage({
                 path: node.fields.slug,
                 component: docTemplate,
@@ -136,6 +160,20 @@ exports.createPages = ({ actions, graphql }) => {
                     next: index === result.length - 1 ? null : posts[index + 1],
                 }, // additional data can be passed via context
             })
+        });
+
+        //Category page
+        // Eliminate duplicate Category
+        const docCategoryList = _.uniq(Array.from(docsCategorySet));
+        // const categoryList = Array.from(docsCategorySet);
+        docCategoryList.forEach((category) => {
+            createPage({
+                path: `/docs/${_.kebabCase(category)}/`,
+                component: categoryPage,
+                context: {
+                    category,
+                },
+            });
         });
     });
 

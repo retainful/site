@@ -2259,7 +2259,7 @@ body {
     padding: 40px 0;
     font-family: $secondary-font;
     .row--home-cards {
-      justify-content: space-between;
+      justify-content: space-evenly;
     }
     .card {
       position: relative;
@@ -2307,7 +2307,7 @@ body {
     text-align: center;
     font-family: $secondary-font;
     .row--home-cards{
-      justify-content: space-between;
+      justify-content: space-evenly;
     }
     h2{
       color: #294661;
@@ -2370,6 +2370,32 @@ body {
           }
         }
       }
+    }
+  }
+}
+
+//Category page
+.category-container{
+  font-family: $secondary-font;
+  .category-header{
+    padding: 20px 0;
+    background: #f7f7f7;
+    h2{
+      color: #333333;
+      font-weight: 600;
+      font-size: 28px;
+    }
+  }
+  .category-list{
+    padding: 40px 0;
+    h4{
+      margin-bottom: 15px;
+      font-weight: 600;
+      color: #333333;
+    }
+    li{
+      font-size: 17px;
+      margin-bottom: 10px;
     }
   }
 }

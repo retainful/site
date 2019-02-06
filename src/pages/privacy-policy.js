@@ -5,9 +5,9 @@ import Breadcrumb from '../components/breadcrumb'
 
 const PrivacyPolicy = () => (
     <Layout>
-        <Breadcrumb>
-            <h2>Privacy policy</h2>
-        </Breadcrumb>
+        {/*<Breadcrumb>*/}
+            {/*<h2>Privacy policy</h2>*/}
+        {/*</Breadcrumb>*/}
         <Container type="s">
             <div className="legal-info">
                 <p>Privacy Statement for Personally Identifiable Information of Cartrabbit International Pte Ltd.</p>
