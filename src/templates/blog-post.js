@@ -17,6 +17,7 @@ import LinkText from "../components/linkText"
 import Gist from "../components/gist"
 import Row from "../components/row"
 import Col from "../components/column"
+import TableOfContents from "../components/TableOfContents"
 
 const PrimaryTitle = styled.h1`
     color: #f00;
@@ -48,16 +49,29 @@ const renderAst = new rehypeReact({
         "link-text": LinkText,
         row: Row,
         col: Col,
+        "table-contents": TableOfContents,
     },
 }).Compiler
 
 export default function BlogPost(props) {
-
     const url = props.data.site.siteMetadata.siteUrl;
     const thumbnail = props.data.markdownRemark.frontmatter.image;
     const {title} = props.data.markdownRemark.frontmatter;
     const {prev, next} = props.pageContext;
-
+    // const toc = props.data.markdownRemark.htmlAst.children.filter((item)=>{
+    //     if(item.tagName === "h3"){
+    //         return item;
+    //     }
+    // });
+    // const TableCon = toc.map((item)=>{
+    //     return(
+    //         <li>
+    //             <a className="scroll-down" href="#section1">{item}</a>
+    //         </li>
+    //     );
+    // });
+    // console.log(toc);
+    // console.log(TableCon);
     return (
         <Layout>
             <MetaTags
@@ -79,14 +93,22 @@ export default function BlogPost(props) {
                         </div>
                         }
                         <h1>{title}</h1>
+                        {props.data.markdownRemark.frontmatter.author && props.data.markdownRemark.frontmatter.date && props.data.markdownRemark.frontmatter.category &&
                         <p>
                             Posted
                             by {props.data.markdownRemark.frontmatter.author} on {props.data.markdownRemark.frontmatter.date} in
-                            <Link to={'blog/category/'+ props.data.markdownRemark.frontmatter.category}> {props.data.markdownRemark.frontmatter.category}</Link>
+                            <Link
+                                to={'blog/category/' + props.data.markdownRemark.frontmatter.category}> {props.data.markdownRemark.frontmatter.category}</Link>
                         </p>
+                        }
                         <hr/>
                     </div>
                     <div className="content">
+                        {/*<div className="table-of-contents">*/}
+                            {/*<h4>Table of Contents</h4>*/}
+                            {/*<ul>*/}
+                            {/*</ul>*/}
+                        {/*</div>*/}
                         {renderAst(props.data.markdownRemark.htmlAst)}
                     </div>
                     <div className="footer">

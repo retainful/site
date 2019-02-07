@@ -40,14 +40,14 @@ class DocsPage extends React.Component {
         return (
             <Layout>
                 <div className='docs-container'>
-                    <div className="search-hero text-center">
-                        <Container type="s">
-                            <div className="search-hero__bg">
-                                <h1 className="page-title">Knowledge Center</h1>
-                                <Search />
-                            </div>
-                        </Container>
-                    </div>
+                    {/*<div className="search-hero text-center">*/}
+                        {/*<Container type="s">*/}
+                            {/*<div className="search-hero__bg">*/}
+                                {/*<h1 className="page-title">Knowledge Center</h1>*/}
+                                {/*<Search />*/}
+                            {/*</div>*/}
+                        {/*</Container>*/}
+                    {/*</div>*/}
                     <div className="home-callouts">
                         <Container type="l">
                             <div className="row row--home-cards">

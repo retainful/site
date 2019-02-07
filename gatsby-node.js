@@ -164,17 +164,17 @@ exports.createPages = ({ actions, graphql }) => {
 
         //Category page
         // Eliminate duplicate Category
-        const docCategoryList = _.uniq(Array.from(docsCategorySet));
+        // const docCategoryList = _.uniq(Array.from(docsCategorySet));
         // const categoryList = Array.from(docsCategorySet);
-        docCategoryList.forEach((category) => {
-            createPage({
-                path: `/docs/${_.kebabCase(category)}/`,
-                component: categoryPage,
-                context: {
-                    category,
-                },
-            });
-        });
+        // docCategoryList.forEach((category) => {
+        //     createPage({
+        //         path: `/docs/${_.kebabCase(category)}/`,
+        //         component: categoryPage,
+        //         context: {
+        //             category,
+        //         },
+        //     });
+        // });
     });
 
     return Promise.all([blog, docs]);

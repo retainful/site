@@ -18,6 +18,7 @@ import LinkText from "../components/linkText"
 import Gist from "../components/gist"
 import Row from "../components/row"
 import Col from "../components/column"
+import Card from "../components/Card"
 
 const PrimaryTitle = styled.h1`
     color: #f00;
@@ -49,6 +50,7 @@ const renderAst = new rehypeReact({
         "link-text": LinkText,
         row: Row,
         col: Col,
+        card: Card,
     },
 }).Compiler
 
@@ -76,21 +78,28 @@ function DocTemplate(props) {
                             {image && <Img fluid={image.childImageSharp.fluid} />}
                         </div>
                         <h1>{title}</h1>
+                        {props.data.markdownRemark.frontmatter.author && props.data.markdownRemark.frontmatter.date &&
                         <p>
-                            Posted by {props.data.markdownRemark.frontmatter.author} on {props.data.markdownRemark.frontmatter.date}
+                            Posted
+                            by {props.data.markdownRemark.frontmatter.author} on {props.data.markdownRemark.frontmatter.date}
+                            <hr/>
                         </p>
-                        <hr/>
+                        }
                     </div>
                     <div className="content">
                         { renderAst(props.data.markdownRemark.htmlAst) }
                     </div>
                     <div className="footer">
-                        <Share title={title} url={url} pathname={props.location.pathname} />
-                        <PrevNext prev={prev && prev.node} next={next && next.node} />
-                        <div className="text-right">
-                            <hr/>
-                            <Link to="/blog">Go Back</Link>
-                        </div>
+                        {title &&
+                            <div>
+                                <Share title={title} url={url} pathname={props.location.pathname} />
+                                <PrevNext prev={prev && prev.node} next={next && next.node} />
+                                <hr/>
+                                <div className="text-right">
+                                    <Link to="/blog">Go Back</Link>
+                                </div>
+                            </div>
+                        }
                     </div>
                 </Container>
             </div>
