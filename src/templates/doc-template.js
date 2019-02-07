@@ -78,13 +78,6 @@ function DocTemplate(props) {
                             {image && <Img fluid={image.childImageSharp.fluid} />}
                         </div>
                         <h1>{title}</h1>
-                        {props.data.markdownRemark.frontmatter.author && props.data.markdownRemark.frontmatter.date &&
-                        <p>
-                            Posted
-                            by {props.data.markdownRemark.frontmatter.author} on {props.data.markdownRemark.frontmatter.date}
-                            <hr/>
-                        </p>
-                        }
                     </div>
                     <div className="content">
                         { renderAst(props.data.markdownRemark.htmlAst) }

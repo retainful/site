@@ -4,17 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/components/TableOfContents.js" line="17" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cabcaabc-928e-4b3f-b034-23f2ea9b38be" name="Default" comment="-">
-      <change beforePath="" afterPath="$PROJECT_DIR$/content/docs/woocommerce/index.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/Card.js" />
+    <list default="true" id="cabcaabc-928e-4b3f-b034-23f2ea9b38be" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/content/docs/shopify/index.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" afterPath="$PROJECT_DIR$/gatsby-node.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/TableOfContents.js" afterPath="$PROJECT_DIR$/src/components/TableOfContents.js" />
       <change beforePath="$PROJECT_DIR$/src/components/layout.scss" afterPath="$PROJECT_DIR$/src/components/layout.scss" />
-      <change beforePath="$PROJECT_DIR$/src/components/linkText.js" afterPath="$PROJECT_DIR$/src/components/linkText.js" />
-      <change beforePath="$PROJECT_DIR$/src/components/row.js" afterPath="$PROJECT_DIR$/src/components/row.js" />
-      <change beforePath="$PROJECT_DIR$/src/pages/docs.js" afterPath="$PROJECT_DIR$/src/pages/docs.js" />
-      <change beforePath="$PROJECT_DIR$/src/templates/blog-post.js" afterPath="$PROJECT_DIR$/src/templates/blog-post.js" />
+      <change beforePath="$PROJECT_DIR$/src/components/prevnext.js" afterPath="$PROJECT_DIR$/src/components/prevnext.js" />
       <change beforePath="$PROJECT_DIR$/src/templates/doc-template.js" afterPath="$PROJECT_DIR$/src/templates/doc-template.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,19 +70,49 @@
       <file leaf-file-name="doc-template.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/templates/doc-template.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2675">
-              <caret line="89" column="36" lean-forward="false" selection-start-line="89" selection-start-column="36" selection-end-line="89" selection-end-column="36" />
+            <state relative-caret-position="412">
+              <caret line="88" column="38" lean-forward="true" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
                 <element signature="e#1128#1506#0" expanded="true" />
                 <element signature="e#1186#1503#0" expanded="true" />
                 <element signature="e#1909#2161#0" expanded="true" />
-                <element signature="e#2266#2925#0" expanded="true" />
+                <element signature="e#2266#2528#0" expanded="true" />
                 <element signature="e#2315#2460#0" expanded="true" />
-                <element signature="e#2645#2872#0" expanded="true" />
-                <element signature="e#3092#3674#0" expanded="true" />
-                <element signature="e#3179#3621#0" expanded="true" />
-                <element signature="e#3451#3586#0" expanded="true" />
+                <element signature="e#2549#2674#0" expanded="true" />
+                <element signature="e#3054#3189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prevnext.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/prevnext.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <folding>
+                <element signature="e#167#301#0" expanded="true" />
+                <element signature="e#193#296#0" expanded="true" />
+                <element signature="e#351#449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="share.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/share.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#400#883#0" expanded="true" />
+                <element signature="e#464#868#0" expanded="true" />
+                <element signature="e#504#664#0" expanded="true" />
+                <element signature="e#529#642#0" expanded="true" />
+                <element signature="e#681#850#0" expanded="true" />
+                <element signature="e#706#828#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,46 +127,6 @@
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TableOfContents.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/TableOfContents.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-                <element signature="e#376#503#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="row.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/row.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-              <folding>
-                <element signature="e#50#199#0" expanded="true" />
-                <element signature="e#120#190#0" expanded="true" />
-                <element signature="e#220#242#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linkText.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/linkText.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-              <folding>
-                <element signature="e#70#265#0" expanded="true" />
-                <element signature="e#291#367#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -164,9 +148,22 @@
       <file leaf-file-name="layout.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="2050" column="30" lean-forward="true" selection-start-line="2050" selection-start-column="30" selection-end-line="2050" selection-end-column="30" />
+            <state relative-caret-position="685">
+              <caret line="2163" column="7" lean-forward="false" selection-start-line="2163" selection-start-column="7" selection-end-line="2163" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/docs/shopify/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="288">
+                <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -198,7 +195,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>prismjs</find>
       <find>DocsByPath</find>
       <find>postQuery</find>
       <find>publicURL</find>
@@ -228,6 +224,7 @@
       <find>home-callout</find>
       <find>card-home</find>
       <find>.justify-content-center</find>
+      <find>.single-blog-post</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -241,7 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/column.js" />
         <option value="$PROJECT_DIR$/src/pages/2019-01-08-post-one/index.md" />
         <option value="$PROJECT_DIR$/src/components/layout.js" />
         <option value="$PROJECT_DIR$/src/pages/2019-01-18-post-one/index.md" />
@@ -285,12 +281,13 @@
         <option value="$PROJECT_DIR$/src/components/linkText.js" />
         <option value="$PROJECT_DIR$/src/components/row.js" />
         <option value="$PROJECT_DIR$/content/docs/woocommerce/index.md" />
-        <option value="$PROJECT_DIR$/src/templates/doc-template.js" />
         <option value="$PROJECT_DIR$/src/components/Card.js" />
         <option value="$PROJECT_DIR$/src/pages/docs.js" />
         <option value="$PROJECT_DIR$/src/components/TableOfContents.js" />
         <option value="$PROJECT_DIR$/content/blog/how-to-provide-next-order-coupon-in-woocommerce.md" />
         <option value="$PROJECT_DIR$/src/templates/blog-post.js" />
+        <option value="$PROJECT_DIR$/src/templates/doc-template.js" />
+        <option value="$PROJECT_DIR$/src/components/prevnext.js" />
         <option value="$PROJECT_DIR$/src/components/layout.scss" />
       </list>
     </option>
@@ -407,6 +404,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/docs/shopify" />
       <recent name="$PROJECT_DIR$/src/templates" />
       <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/content/blog/the-simple-way-to-retain-all-your-customers" />
@@ -443,7 +441,7 @@
       <workItem from="1548392129772" duration="19385000" />
       <workItem from="1548653075540" duration="6520000" />
       <workItem from="1549429140421" duration="14738000" />
-      <workItem from="1549514114609" duration="10266000" />
+      <workItem from="1549514114609" duration="10670000" />
     </task>
     <task id="LOCAL-00001" summary="- site deploy with gatsby">
       <created>1547799036073</created>
@@ -571,11 +569,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549459675650</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="- docs page with cards">
+      <created>1549531762814</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1549531762814</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76029000" />
+    <option name="totallyTimeSpent" value="76433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1076" extended-state="0" />
@@ -625,7 +630,8 @@
     <MESSAGE value="- resolved category issue" />
     <MESSAGE value="- category page" />
     <MESSAGE value="- changes in existing blog post" />
-    <option name="LAST_COMMIT_MESSAGE" value="- changes in existing blog post" />
+    <MESSAGE value="- docs page with cards" />
+    <option name="LAST_COMMIT_MESSAGE" value="- docs page with cards" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -648,14 +654,6 @@
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/prevnext.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,21 +711,6 @@
         <state relative-caret-position="256">
           <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/share.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-            <element signature="e#464#868#0" expanded="false" />
-            <element signature="e#504#664#0" expanded="false" />
-            <element signature="e#529#642#0" expanded="false" />
-            <element signature="e#681#850#0" expanded="false" />
-            <element signature="e#706#828#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,7 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/docs/shopify/index.md" />
     <entry file="file://$PROJECT_DIR$/content/docs/shopify/test-docs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1109,25 +1091,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templates/doc-template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2675">
-          <caret line="89" column="36" lean-forward="false" selection-start-line="89" selection-start-column="36" selection-end-line="89" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#1128#1506#0" expanded="true" />
-            <element signature="e#1186#1503#0" expanded="true" />
-            <element signature="e#1909#2161#0" expanded="true" />
-            <element signature="e#2266#2925#0" expanded="true" />
-            <element signature="e#2315#2460#0" expanded="true" />
-            <element signature="e#2645#2872#0" expanded="true" />
-            <element signature="e#3092#3674#0" expanded="true" />
-            <element signature="e#3179#3621#0" expanded="true" />
-            <element signature="e#3451#3586#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/TableOfContents.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -1226,10 +1189,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/docs/shopify/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="288">
+            <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#400#883#0" expanded="true" />
+            <element signature="e#464#868#0" expanded="true" />
+            <element signature="e#504#664#0" expanded="true" />
+            <element signature="e#529#642#0" expanded="true" />
+            <element signature="e#681#850#0" expanded="true" />
+            <element signature="e#706#828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/doc-template.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="88" column="38" lean-forward="true" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#1128#1506#0" expanded="true" />
+            <element signature="e#1186#1503#0" expanded="true" />
+            <element signature="e#1909#2161#0" expanded="true" />
+            <element signature="e#2266#2528#0" expanded="true" />
+            <element signature="e#2315#2460#0" expanded="true" />
+            <element signature="e#2549#2674#0" expanded="true" />
+            <element signature="e#3054#3189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/prevnext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="e#167#301#0" expanded="true" />
+            <element signature="e#193#296#0" expanded="true" />
+            <element signature="e#351#449#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="2050" column="30" lean-forward="true" selection-start-line="2050" selection-start-column="30" selection-end-line="2050" selection-end-column="30" />
+        <state relative-caret-position="685">
+          <caret line="2163" column="7" lean-forward="false" selection-start-line="2163" selection-start-column="7" selection-end-line="2163" selection-end-column="7" />
           <folding />
         </state>
       </provider>
