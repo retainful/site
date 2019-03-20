@@ -139,6 +139,16 @@ body {
   background-color: #fff !important;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
+  #showMenuBtn{
+    margin-top: 30px;
+    background: $primary;
+    border-color: $primary;
+    box-shadow: none;
+    display: none;
+    @media( max-width: 768px ){
+      display: inline-block;
+    }
+  }
 }
 
 .navbar .navbar-brand {
