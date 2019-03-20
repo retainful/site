@@ -5,6 +5,7 @@ import $ from 'jquery'
 import Logo from '../images/retainful-logo.png'
 import Container from "../components/container"
 import Menu from './menu'
+import {MdMenu} from 'react-icons/md'
 
 class Header extends React.Component {
     componentDidMount () {
@@ -15,6 +16,9 @@ class Header extends React.Component {
                 $('.navbar').removeClass('past-main');
             }
         })
+        $("#showMenuBtn").on("click", function(){
+          $('#navbarSupportedContent').toggleClass('show');
+        });
     }
     render () {
         return (
@@ -23,6 +27,7 @@ class Header extends React.Component {
                     <Link className="navbar-brand" to="/">
                         <img src={ Logo } alt="Retainful" />
                     </Link>
+                    <button id="showMenuBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
                     <Menu/>
                 </Container>
             </nav>
