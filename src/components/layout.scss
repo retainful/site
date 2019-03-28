@@ -1989,7 +1989,6 @@ body {
     border-bottom: 1px solid #dddddd;
   }
   .blog-post {
-    background: #EAF0F6;
     margin-bottom: 30px;
     transition: all 0.2s ease 0s;
     border: 1px solid #dddddd;
@@ -2011,6 +2010,45 @@ body {
           }
         }
       }
+    }
+  }
+  .pagination-links{
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    a{
+      display: inline-block;
+      border-radius: 4px;
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      background: $primary;
+      color: #ffffff;
+      text-align: center;
+      margin: 5px;
+      &:hover{
+        background: darken($primary, 12%);
+        text-decoration: none;
+      }
+    }
+    span{
+      display: inline-block;
+      border-radius: 4px;
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      background: #eeeeee;
+      color: #333333;
+      text-align: center;
+      margin: 5px;
+    }
+    .previousLink{
+      width: auto;
+      padding: 0 10px;
+    }
+    .nextLink{
+      width: auto;
+      padding: 0 10px;
     }
   }
 }
