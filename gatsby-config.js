@@ -101,6 +101,12 @@ module.exports = {
                 sv: 6
             },
         },
+        {
+          resolve: `gatsby-plugin-sitemap`,
+          options: {
+            sitemapSize: 5000
+          }
+        },
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // To learn more, visit: https://gatsby.app/offline
         // 'gatsby-plugin-offline',
