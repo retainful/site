@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, graphql } from 'gatsby';
 import Layout from "../components/layout";
 import Container from "../components/container";
+import MetaTags from '../components/Metatags'
 import withSubNav from '../components/NavSub';
 import Img from 'gatsby-image';
 import {FaAngleDoubleLeft, FaAngleDoubleRight} from 'react-icons/fa';
@@ -22,9 +23,10 @@ const BlogPage = ({ pageContext}) => {
 
     return (
         <Layout>
-            {/*<Breadcrumb>*/}
-                {/*<h2>Blog</h2>*/}
-            {/*</Breadcrumb>*/}
+            <MetaTags
+                title="Blog"
+                description="Retainful Blog"
+            />
             <div className="blog-list-container">
                 <Container type="s">
                     { group.map(post => (
