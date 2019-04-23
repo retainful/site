@@ -5,6 +5,11 @@ import SEO from '../components/seo'
 
 import bannerLogo from '../images/retainful-coupon-03.png'
 import customerBanner from '../images/retainful-customers.png'
+
+//import home page components
+import HomeBanner from '../constants/HomePage/homeBanner';
+import HomeCards from '../constants/HomePage/homeCards';
+import HomeFeatures from '../constants/HomePage/homeFeatures';
 import PricingTable from '../components/pricing'
 
 const IndexPage = () => (
@@ -12,25 +17,8 @@ const IndexPage = () => (
         <SEO title="Retainful - The easiest way to drive repeat purchases and retain customers"
              keywords={[`Send Unique Coupon Codes`]}/>
 
-        <div className="container-m text-center">
-            <div className="home hero-2">
-                <div className="hero-content wow fadeIn">
-                    <h1><span className="highlight">Drive repeat purchases</span> and retain your customers</h1>
-                    <p>Generate and send unique coupon codes that can be used by the customer for the next purchase in
-                        your <strong>WooCommmerce</strong> Store.</p>
-                    <p><a className="btn-action btn-edge btn-lg"
-                          href="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/"
-                          target="_blank" rel="noopener noreferrer">Install Plugin</a></p>
-                    <p>
-                        <strong>It&rsquo;s Free.</strong>
-                    </p>
-                </div>
-                <div className="hero-img wow fadeIn">
-                    <img className="img-fluid" src={bannerLogo} alt="retainful-coupon-banner"/>
-                </div>
-            </div>
-        </div>
-
+        <HomeBanner/>
+        <HomeCards/>
         <div id="intro" className="intro flex-split wow fadeIn">
             <div className="container-s">
                 <div className="flex-intro align-center">
@@ -44,6 +32,7 @@ const IndexPage = () => (
                 </div>
             </div>
         </div>
+        <HomeFeatures/>
 
         <div id="how-it-works" className="intro flex-split wow fadeIn">
             <div className="container-s">
