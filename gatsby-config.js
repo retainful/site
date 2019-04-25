@@ -112,12 +112,6 @@ module.exports = {
             }
         },
         {
-            resolve: `gatsby-plugin-intercom`,
-            options: {
-                appId: 'buyqnr2q',
-            }
-        },
-        {
             resolve: `gatsby-plugin-hotjar`,
             options: {
                 id: 1169984,
