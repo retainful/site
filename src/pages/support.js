@@ -13,7 +13,7 @@ const SupportPage = () => (
                 <p>Please fill-in and submit the form with your request. One of our support staff will be get in touch with you</p>
             </div>
             <div className="contact-form">
-                <form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+                <form name="contact" method="POST" data-netlify="true"  netlify-honeypot="bot-field">
                     <p>
                         <label>Name: </label>
                         <input type="text" name="name" placeholder="Enter your name" />
@@ -29,6 +29,9 @@ const SupportPage = () => (
                     <p>
                         <label>Message: </label>
                         <textarea name="message" placeholder="Message" ></textarea>
+                    </p>
+                    <p className="hidden">
+                        <label>Don’t fill this out if you're human: <input name="bot-field"/></label>
                     </p>
                     <p>
                         <button type="submit" className="btn btn-action btn-lg">Send</button>
