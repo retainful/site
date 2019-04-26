@@ -1,7 +1,7 @@
 import React from 'react';
-import SCREENSHOTS from '../screenshots';
+import SCREENSHOTS from './screenshots-features';
 
-class HomeScreenshots extends React.Component {
+class FeaturesScreenshots extends React.Component {
     static renderScreenshots() {
         return SCREENSHOTS.map(screenshot => (
             <div className="col-md-3 col-sm-6" key={screenshot.NAME}>
@@ -19,10 +19,10 @@ class HomeScreenshots extends React.Component {
             <div className="screenshots-section">
                 <div className="container">
                     <div className="text-center">
-                        <h3>Screenshots</h3>
+                        <h3>Retainful for WooCommerce</h3>
                     </div>
                     <div className="row justify-content-center">
-                        {HomeScreenshots.renderScreenshots()}
+                        {FeaturesScreenshots.renderScreenshots()}
                     </div>
                 </div>
             </div>
@@ -30,4 +30,4 @@ class HomeScreenshots extends React.Component {
     }
 }
 
-export default HomeScreenshots;
+export default FeaturesScreenshots;

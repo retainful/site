@@ -3061,7 +3061,6 @@ body {
       font-size: 18px;
       font-weight: 300;
       color: #515168;
-      max-width: 630px;
       margin: 0 auto;
       letter-spacing: 0;
       line-height: 1.8;
@@ -3083,6 +3082,7 @@ body {
   .card{
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
     border: none;
+    margin-top: 30px;
     .card-body{
       text-align: center;
       h4{
@@ -3090,6 +3090,94 @@ body {
         color: #364655;
         font-weight: 600;
       }
+    }
+  }
+}
+
+.features-banner{
+  padding: 60px 0;
+  h3{
+    font-size: 38px;
+    color: #364655;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 10px;
+  }
+  p{
+    font-size: 18px;
+    font-weight: 300;
+    color: #515168;
+    margin: 0 auto;
+    letter-spacing: 0;
+    line-height: 1.8;
+  }
+}
+
+.features-container{
+  padding: 40px 0;
+  border-top: 1px solid #e5e5e5;
+  .features-list{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    h3{
+      color: #364655;
+      font-weight:600;
+      margin-bottom: 20px;
+      font-size: 32px;
+    }
+    h4{
+      color: #364655;
+      font-weight:600;
+      margin-bottom: 10px;
+    }
+    p{
+      font-size: 18px;
+      font-weight: 300;
+      color: #515168;
+      margin: 0 auto;
+      letter-spacing: 0;
+      line-height: 1.8;
+    }
+  }
+}
+.how-it-works{
+  background: #F7FAFC;
+  border-bottom: 1px solid #eeeeee;
+  padding: 40px 0;
+  .card{
+    max-width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 5px;
+    background: #ffffff;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    border: none;
+    h4{
+      color: #364655;
+      font-weight:600;
+      margin-bottom: 10px;
+      font-size: 25px;
+      span{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        border: 1px solid $primary;
+        color: $primary;
+        border-radius: 50%;
+        font-size: 18px;
+        display: inline-block;
+        text-align: center;
+        margin-right: 5px;
+        font-family: 'Open sans', sans-serif;
+      }
+    }
+    p{
+      font-size: 18px;
+      font-weight: 300;
+      color: #515168;
+      margin: 0 auto;
+      letter-spacing: 0;
+      line-height: 1.8;
     }
   }
 }
