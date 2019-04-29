@@ -20,16 +20,16 @@ const HomeBanner = () =>(
                 <div className="col-md-5">
                     <div className="hero-plugins">
                         <h4>WooCommerce Plugin</h4>
-                        <p>Grow your WooCommerce store smart by reminding customers about abandoned carts and motivate customers to continuously shop at your store using unique next order coupon.</p>
+                        <p>Grow ahead by automating cart recovery emails and start driving more sales to your WooCommerce store Now.</p>
                         <p><a className="btn-action btn-edge"
-                              href="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/"
-                              target="_blank" rel="noopener noreferrer">Install Plugin</a></p>
+                              href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.1.5.zip"
+                              rel="noopener noreferrer">Download Plugin</a></p>
                     </div>
                 </div>
                 <div className="col-md-5">
                     <div className="hero-plugins">
                         <h4>Shopify App</h4>
-                        <p>Grow your Shopify store smart by automating cart recovery email reminders and encourage your audience to shop repeatedly with unique next order coupon codes.</p>
+                        <p>Grow smart by scheduling cart recovery email reminders and drive repeated sales using next order coupons.</p>
                         <p><button disabled="disabled" className="btn-action btn-edge btn-disabled"
                               href="#"
                               target="_blank" rel="noopener noreferrer">Install App (Coming soon)</button></p>
