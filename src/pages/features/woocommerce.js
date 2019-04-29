@@ -40,11 +40,19 @@ const FeaturesPage = () => (
                         <h4>Timely Triggered Recovery emails</h4>
                         <p>Schedule and automate cart recovery emails in a well-timed sequence. And stops sending email reminder automatically when the cart is recovered.</p>
                     </div>
+                    <div className="features-list">
+                        <h4>Unlimited Email templates</h4>
+                        <p>Send unlimited number of personalized recovery emails. Add a unique product link to recover the abandoned cart item.</p>
+                    </div>
                 </div>
                 <div className="col-sm-4">
                     <div className="features-list">
-                        <h4>Unlimited Email templates</h4>
-                        <p>Draft an unlimited number of personalized recovery emails. Also, add a unique product link to recover the abandoned cart item.</p>
+                        <h4>Live Cart Notifications</h4>
+                        <p>Get to see who is actively shopping your WooCommerce cart. Receive a notification when customer recovers cart.</p>
+                    </div>
+                    <div className="features-list">
+                        <h4>Compare Cart Values</h4>
+                        <p>Compare abandoned cart value and recovered cart value to know how much you earned</p>
                     </div>
                 </div>
             </div>
@@ -60,11 +68,19 @@ const FeaturesPage = () => (
                         <h4>Unique Coupon Codes</h4>
                         <p>Generate unique Next order discount codes for every customer and sent it via order emails after their successful purchase.</p>
                     </div>
+                    <div className="features-list">
+                        <h4>Advanced WooCommerce coupons</h4>
+                        <p>Create coupon codes with advanced coupon settings. Offer both percentage and flat price coupons. Set user restriction and coupon restrictions per user.</p>
+                    </div>
                 </div>
                 <div className="col-sm-4">
                     <div className="features-list">
                         <h4>Trigger FOMO</h4>
                         <p>Creating a time-limited coupon discount triggers FOMO and drives customers to quickly shop at your online WooCommerce store.</p>
+                    </div>
+                    <div className="features-list">
+                        <h4>Auto apply coupon</h4>
+                        <p>Customers don’t want to copy and paste coupon codes. Clicking on the coupon code automatically applies the coupon to the customer cart.</p>
                     </div>
                 </div>
             </div>
@@ -78,13 +94,21 @@ const FeaturesPage = () => (
                 </div>
                 <div className="col-sm-4">
                     <div className="features-list">
-                        <h4>Data-rich Dashboard</h4>
-                        <p>Track useful customer insights like order/recovery email open, list of customers who got converted using Next order coupons and cart recovery emails.</p>
+                        <h4>Extensive Dashboard</h4>
+                        <p>Get useful analytics on your sales conversions, WooCommerce revenue, customer insights, cart recovery email performance.</p>
+                    </div>
+                    <div className="features-list">
+                        <h4>Track Sale Conversions</h4>
+                        <p>Track real-time WooCommerce sale conversions and compare the values of the recovered cart and abandoned carts.</p>
                     </div>
                 </div>
                 <div className="col-sm-4">
                     <div className="features-list">
-                        <h4>Measure Revenue</h4>
+                        <h4>Customer Insights</h4>
+                        <p>See the list of customers who successfully got converted using the next order coupon codes. Track customers who have opened and those who haven’t opened your coupon/ cart recovery emails.</p>
+                    </div>
+                    <div className="features-list">
+                        <h4>Know your Revenue</h4>
                         <p>Get real-time data on how much revenue you made using Next order coupons and Abandoned cart recovery email campaigns.</p>
                     </div>
                 </div>
