@@ -6,7 +6,7 @@ description: "Retaining customers save your 5times the cost of acquiring a new p
 author: "Deepika"
 image: "https://raw.githubusercontent.com/retainful/site-images/master/5-simple-ideas-to-make-customers-stick-with-your-business-for-long.jpg"
 thumbnail: "https://raw.githubusercontent.com/retainful/site-images/master/5-simple-ideas-to-make-customers-stick-with-your-business-for-long.jpg"
-category: Marketing
+category: 'marketing'
 ogtype: blog
 ---
 
