@@ -1,3 +1,9 @@
+
+
+require("dotenv").config({
+    path: `.env`,
+})
+
 module.exports = {
     siteMetadata: {
         title: `Retainful`,
@@ -68,6 +74,8 @@ module.exports = {
                 fonts: [
                     `Montserrat\:300,400,500,600,700`,
                     `Quattrocento+Sans\:400,400i,700,700i`,
+                    `Dosis\:400,500,600`,
+                    `Open+Sans\:300,400,600,700`
                 ]
             }
         },

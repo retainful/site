@@ -38,7 +38,7 @@ export default function Footer() {
                 <div className="footer-sm">
                     <Row>
                         <Col size="6">
-                            <h6>&copy; <Link to="/">Retainful</Link> <script>document.write(new Date().getFullYear());</script> Rights Reserved</h6>
+                            <p>&copy; <Link to="/">Retainful</Link> <script>document.write(new Date().getFullYear());</script> Rights Reserved</p>
                         </Col>
                         <Col size="6" class="text-right">
                             <ul>
