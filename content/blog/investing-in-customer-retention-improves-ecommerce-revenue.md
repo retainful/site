@@ -6,7 +6,7 @@ description: "Investing in customer retention saves you 5 times the cost acquisi
 author: "Deepika"
 image: "https://raw.githubusercontent.com/retainful/site-images/master/Why-investing-in-Customer-retention-is-healthy-for-your-eCommerce-store.jpg"
 thumbnail: "https://raw.githubusercontent.com/retainful/site-images/master/Why-investing-in-Customer-retention-is-healthy-for-your-eCommerce-store.jpg"
-category: Customer Success
+category: 'Customer-success'
 ogtype: blog
 ---
 

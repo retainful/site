@@ -2,28 +2,24 @@ import React from 'react';
 
 const SCREENSHOT_IMAGES = [
     {
-        IMAGE: `${process.env.GATSBY_CR_MEDIA_URL}/images/home-features/Abandoned-Cart-Recovery.png`,
-        NAME: 'Abandoned Cart Recovery',
+        IMAGE: `${process.env.GATSBY_RF_MEDIA_URL}/screenshots/Abandoned-Cart-Recovery-Emails.png`,
+        NAME: 'Abandoned Cart Recovery Emails',
     },
     {
-        IMAGE: `${process.env.GATSBY_CR_MEDIA_URL}/images/home-features/Customer-In-Depth-Analytics.png`,
-        NAME: 'Customer In Depth Analytics',
+        IMAGE: `${process.env.GATSBY_RF_MEDIA_URL}/screenshots/Retainful-abandoned-cart-insights.png`,
+        NAME: 'Retainful abandoned cart insights',
     },
     {
-        IMAGE: `${process.env.GATSBY_CR_MEDIA_URL}/images/home-features/Follow-Up-Emails.png`,
-        NAME: 'Follow Up Emails',
+        IMAGE: `${process.env.GATSBY_RF_MEDIA_URL}/screenshots/Retainful-Dashboard.png`,
+        NAME: 'Retainful Dashboard',
     },
     {
-        IMAGE: `${process.env.GATSBY_CR_MEDIA_URL}/images/home-features/Product-Recommendation.png`,
-        NAME: 'Product Recommendation',
+        IMAGE: `${process.env.GATSBY_RF_MEDIA_URL}/screenshots/Retainful-Reports.png`,
+        NAME: 'Retainful Reports',
     },
     {
-        IMAGE: `${process.env.GATSBY_CR_MEDIA_URL}/images/home-features/Follow-Up-Emails.png`,
-        NAME: 'Follow Up Emails',
-    },
-    {
-        IMAGE: `${process.env.GATSBY_CR_MEDIA_URL}/images/home-features/Product-Recommendation.png`,
-        NAME: 'Product Recommendation',
+        IMAGE: `${process.env.GATSBY_RF_MEDIA_URL}/screenshots/Retainful-Template-Customization.png`,
+        NAME: 'Retainful Template Customization',
     },
 ];
 

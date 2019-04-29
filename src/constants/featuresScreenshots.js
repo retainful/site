@@ -4,7 +4,7 @@ import SCREENSHOTS from './screenshots-features';
 class FeaturesScreenshots extends React.Component {
     static renderScreenshots() {
         return SCREENSHOTS.map(screenshot => (
-            <div className="col-md-3 col-sm-6" key={screenshot.NAME}>
+            <div className="col-md-4 col-sm-6" key={screenshot.NAME}>
                 <div className="card">
                     <img src={screenshot.IMAGE} className="img-responsive" alt={screenshot.NAME} />
                     <div className="card-body">
@@ -21,7 +21,7 @@ class FeaturesScreenshots extends React.Component {
                     <div className="text-center">
                         <h3>Retainful for WooCommerce</h3>
                     </div>
-                    <div className="row justify-content-center">
+                    <div className="row justify-content-center align-items-center">
                         {FeaturesScreenshots.renderScreenshots()}
                     </div>
                 </div>

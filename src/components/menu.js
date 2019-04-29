@@ -5,13 +5,10 @@ const Menu = () => (
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav ml-auto navbar-right">
             <li className="nav-item">
-                <Link to="/features" className="nav-link js-scroll-trigger">Features</Link>
+                <Link to="/features/woocommerce" className="nav-link js-scroll-trigger">Features</Link>
             </li>
             <li className="nav-item">
                 <Link to="/blog" className="nav-link js-scroll-trigger">Blog</Link>
-            </li>
-            <li className="nav-item">
-                <Link to="/support" className="nav-link js-scroll-trigger">Support</Link>
             </li>
             <li className="nav-item">
                 <Link to="/support" className="nav-link js-scroll-trigger">Support</Link>

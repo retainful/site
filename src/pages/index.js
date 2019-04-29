@@ -25,11 +25,9 @@ const IndexPage = () => (
                 <div className="flex-intro align-center">
                     <h2>What is Retainful ?</h2>
                     <p>
-                        Retainful provides a <span
-                        className="highlight">simple, easiest way to retain your customers</span> and encourages them to
-                        purchase repeatedly. Just install the Retainful plugin and connect it with a single step. You
-                        are ready to increase repeat purchases.
+                        Retainful is a Magic Boomerang to <span className="highlight">retain your customers & drives repeated sales</span> for your eCommerce business. It is a simple, easiest way to create Next order coupon codes for your online store.
                     </p>
+                    <p>Just install the plugin and connect your store in a single step. You are ready to Retain!</p>
                 </div>
             </div>
         </div>
@@ -53,10 +51,10 @@ const IndexPage = () => (
         <div id="pricing" className="pricing-section text-center">
             <div className="container">
                 <div className="pricing-intro wow fadeInDown">
-                    <h3>Get started in Minutes. It’s Free</h3>
-                    <p>More Orders. More Features</p>
+                    <h3>Get Started in Minutes</h3>
+                    <p>More Orders, More Revenue</p>
                     <p>
-                        <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                        <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">SignUp Now</a>
                     </p>
                 </div>
             </div>

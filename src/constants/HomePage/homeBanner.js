@@ -5,10 +5,10 @@ const HomeBanner = () =>(
     <div className="home hero-2">
         <div className="container-m text-center">
             <div className="hero-content wow fadeIn">
-                <h1><span className="highlight">Drive repeat purchases</span> and retain your customers</h1>
-                <p>Generate and send unique coupon codes that can be used by the customer for the next purchase in
-                    your <strong>WooCommmerce</strong> Store.</p>
-                <h5>It&rsquo;s Free.</h5>
+                <h1><span className="highlight">Recover your Lost sales</span> & Drive repeat purchases</h1>
+                <p>Your Business needs to Grow Smart <br/>
+                    Get to Nurture your Customers & Make real money with the most Innovative marketing Tool for eCommerce.</p>
+                <h5><em>Retainful is FREE!</em></h5>
                 {/*<p><a className="btn-action btn-edge btn-lg"*/}
                       {/*href="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/"*/}
                       {/*target="_blank" rel="noopener noreferrer">Install Plugin</a></p>*/}
@@ -19,20 +19,20 @@ const HomeBanner = () =>(
             <div className="row justify-content-center">
                 <div className="col-md-5">
                     <div className="hero-plugins">
-                        <h4>Download for WooCommerce</h4>
-                        <p>Generate and send unique coupon codes that can be used by the customer for the next purchase in your WooCommmerce Store.</p>
+                        <h4>WooCommerce Plugin</h4>
+                        <p>Grow your WooCommerce store smart by reminding customers about abandoned carts and motivate customers to continuously shop at your store using unique next order coupon.</p>
                         <p><a className="btn-action btn-edge"
                               href="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/"
-                              target="_blank" rel="noopener noreferrer">Download</a></p>
+                              target="_blank" rel="noopener noreferrer">Install Plugin</a></p>
                     </div>
                 </div>
                 <div className="col-md-5">
                     <div className="hero-plugins">
-                        <h4>Download for Shopify</h4>
-                        <p>Generate and send unique coupon codes that can be used by the customer for the next purchase in your WooCommmerce Store.</p>
+                        <h4>Shopify App</h4>
+                        <p>Grow your Shopify store smart by automating cart recovery email reminders and encourage your audience to shop repeatedly with unique next order coupon codes</p>
                         <p><a className="btn-action btn-edge"
                               href="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/"
-                              target="_blank" rel="noopener noreferrer">Download</a></p>
+                              target="_blank" rel="noopener noreferrer">Install App</a></p>
                     </div>
                 </div>
             </div>
