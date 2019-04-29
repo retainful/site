@@ -29,7 +29,7 @@ const HomeBanner = () =>(
                 <div className="col-md-5">
                     <div className="hero-plugins">
                         <h4>Shopify App</h4>
-                        <p>Grow your Shopify store smart by automating cart recovery email reminders and encourage your audience to shop repeatedly with unique next order coupon codes</p>
+                        <p>Grow your Shopify store smart by automating cart recovery email reminders and encourage your audience to shop repeatedly with unique next order coupon codes.</p>
                         <p><a className="btn-action btn-edge"
                               href="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/"
                               target="_blank" rel="noopener noreferrer">Install App</a></p>

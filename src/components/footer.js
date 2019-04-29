@@ -53,11 +53,6 @@ export default function Footer() {
                     </Row>
                 </div>
             </Container>
-            <div id="back-top" className="bk-top">
-                <div className="bk-top-txt">
-                    <a className="back-to-top js-scroll-trigger" href="#main">top</a>
-                </div>
-            </div>
         </div>
     )
 }

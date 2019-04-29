@@ -19,7 +19,7 @@ const IndexPage = () => (
              keywords={[`Send Unique Coupon Codes`]}/>
 
         <HomeBanner/>
-        <HomeCards/>
+        {/*<HomeCards/>*/}
         <div id="intro" className="intro flex-split wow fadeIn">
             <div className="container-s">
                 <div className="flex-intro align-center">
@@ -28,25 +28,35 @@ const IndexPage = () => (
                         Retainful is a Magic Boomerang to <span className="highlight">retain your customers & drives repeated sales</span> for your eCommerce business. It is a simple, easiest way to create Next order coupon codes for your online store.
                     </p>
                     <p>Just install the plugin and connect your store in a single step. You are ready to Retain!</p>
+                    <p><a href="#features" className="scroll-down">How to Retain Customers…</a></p>
+                    <p>Retainful is a Magic email tool to recover lost sales from abandoned carts. It is the most simple and efficient way to remind and help customers to instantly recover abandoned cart items.</p>
+                    <p>Just install the email automation tool and sync your online store in a single click. You are ready to Recover the lost revenue!</p>
+                    <p><a href="#features" className="scroll-down">How to Recover Lost Sales…</a></p>
                 </div>
             </div>
         </div>
-        <HomeFeatures/>
         <div className="yd-ft wow fadeIn">
             <div className="yd-ft-inner">
                 <div className="yd-ft-left">
-                    <h2>Why you should <span className="underline">focus on retaining customers</span>?</h2>
-                    <p>Studies proved that you only have a 5-20% chance of selling to a new prospect. <span
-                        className="underline">With your existing customers, you have a 60-70% chance of a successful sale!</span>
+                    <h2>Why Retainful?</h2>
+                    <p>Retainful can grow your eCommerce business smart coz’ Retainful is a conversion tool designed primarily to prove the following statistics right.
                     </p>
+                    <ul>
+                        <li>Save More with Customer Retention - Save 5x times the money you spent on generating new buyers</li>
+                        <li>Sell More with Next order Coupons- 7/10 of your existing customers will purchase instantly using personalized coupons</li>
+                        <li>Earn More with Automated email remarketing - Recover 30% of Lost sales from abandoned cart recovery emails</li>
+                    </ul>
                     <a href="https://app.retainful.com/" className="btn-action btn-edge" target="_blank"
-                       rel="noopener noreferrer">Start Now</a>
+                       rel="noopener noreferrer">Grow Smart</a>
                 </div>
                 <div className="yd-ft-right">
                     <img src={customerBanner} alt="retainful-customers"/>
                 </div>
             </div>
         </div>
+        <HomeFeatures/>
+
+        <HomeScreenshots/>
 
         <div id="pricing" className="pricing-section text-center">
             <div className="container">
@@ -60,7 +70,6 @@ const IndexPage = () => (
             </div>
         </div>
 
-        <HomeScreenshots/>
 
         {/*<div id="how-it-works" className="intro flex-split wow fadeIn">*/}
             {/*<div className="container-s">*/}
