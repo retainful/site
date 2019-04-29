@@ -32,7 +32,7 @@ const HomeBanner = () =>(
                         <p>Grow smart by scheduling cart recovery email reminders and drive repeated sales using next order coupons.</p>
                         <p><button disabled="disabled" className="btn-action btn-edge btn-disabled"
                               href="#"
-                              target="_blank" rel="noopener noreferrer">Install App (Coming soon)</button></p>
+                              target="_blank" rel="noopener noreferrer">Coming soon</button></p>
                     </div>
                 </div>
             </div>
