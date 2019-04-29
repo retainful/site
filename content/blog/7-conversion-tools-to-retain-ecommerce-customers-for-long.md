@@ -21,9 +21,7 @@ Feel the humongous difference.
 ## List of Customer Retention tools for your eCommerce store
 Funneling down after a series of research and experimentation, the list brings you with the best tools to achieve customer retention.
 
-
-
-### 1. <link-text url="https://www.omnisend.com/" target="_blank" rel="noopener nofollow"> Omnisend </link-text>
+<title-link link="https://www.omnisend.com/" type="h3" >1. Omnisend </title-link>
 
 ![omnisend](https://raw.githubusercontent.com/retainful/site-images/master/7%20Conversion%20tools%20to%20retain%20eCommerce%20customers%20for%20long/Omnisend.png)
 
@@ -35,7 +33,7 @@ This plugin concentrates on retaining customers through constant mailing. To mak
 
 ____
 
-### 2. <link-text url="https://www.retainful.com/" target="_blank" rel="noopener">Retainful</link-text>
+<title-link link="https://www.retainful.com" type="h3" >2. Retainful </title-link>
 
 ![Retainful](https://raw.githubusercontent.com/retainful/site-images/master/7%20Conversion%20tools%20to%20retain%20eCommerce%20customers%20for%20long/Retainful.png)
 
@@ -56,7 +54,7 @@ And the best part is that Retainful is FREE.
 
 ____
 
-### 3. <link-text url="https://www.campaignrabbit.com/" rel="noopener" target="_blank">CampaignRabbit</link-text>
+<title-link link="https://www.campaignrabbit.com" type="h3" >3. CampaignRabbit </title-link>
 
 ![CampaignRabbit](https://raw.githubusercontent.com/retainful/site-images/master/7%20Conversion%20tools%20to%20retain%20eCommerce%20customers%20for%20long/Campaignrabbit.png)
 
@@ -82,7 +80,7 @@ With Campaign rabbit , you can also include potential CTA buttons like ‘add to
 
 ____
 
-### 4. <link-text url="https://beeketing.com/" target="_blank" rel="noopener nofollow">Beeketing</link-text>
+<title-link link="https://beeketing.com" type="h3" >4. Beeketing </title-link>
 
 ![Beeketing](https://raw.githubusercontent.com/retainful/site-images/master/7%20Conversion%20tools%20to%20retain%20eCommerce%20customers%20for%20long/Beeketing.png)
 
@@ -96,7 +94,7 @@ Impressing your customers with coupons have become even easier. You can create c
 
 ____
 
-### 5. <link-text url="https://www.metrilo.com/" rel="noopener nofollow" target="_blank">Metrilo</link-text>
+<title-link link="https://www.metrilo.com" type="h3" >5. Metrilo </title-link>
 
 ![Metrilo](https://raw.githubusercontent.com/retainful/site-images/master/7%20Conversion%20tools%20to%20retain%20eCommerce%20customers%20for%20long/Metrilo.png)
 
@@ -109,7 +107,7 @@ Metrilo is a growth analytic tool that helps eCommerce store runners to perform 
 The <link-text url="https://www.campaignrabbit.com/blog/grow-your-ecommerce-store-with-9-effective-automated-emails/" rel="noopener" target="_blank">automated feedback segmentation</link-text> and personalized email conversations are way more elegant and less cumbersome with this plugin. It has in-built tools that help inactive customer engagement. It's a win-win for store owner and the customer. It'll boost your customers to indulge in purchase and drives repeat sales.
 ____
 
-### 6. <link-text url="https://conversio.com/" rel="noopener" target="_blank">Conversio</link-text>
+<title-link link="https://conversio.com" type="h3" >6. Conversio </title-link>
 
 ![Conversio](https://raw.githubusercontent.com/retainful/site-images/master/7%20Conversion%20tools%20to%20retain%20eCommerce%20customers%20for%20long/Conversio.png)
 
@@ -122,7 +120,7 @@ As mentioned above, it extends a helping hand in email customization. When it al
 
 ____ 
 
-### 7. <link-text url="https://wordpress.org/plugins/sales-pop/" rel="noopener nofollow" target="_blank">Live sales notification plugin</link-text>
+<title-link link="https://wordpress.org/plugins/sales-pop/" type="h3" >7. Live sales notification plugin </title-link>
 
 ![Live Sales Notification Plugin](https://raw.githubusercontent.com/retainful/site-images/master/https://raw.githubusercontent.com/retainful/site-images/master/7%20Conversion%20tools%20to%20retain%20eCommerce%20customers%20for%20long/Live%20Sales%20Notifications.png)
 
