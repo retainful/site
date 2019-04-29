@@ -90,31 +90,31 @@ const FeaturesPage = () => (
                 </div>
             </div>
         </div>
-        <div className="how-it-works">
-            <div className="container">
-                <div className="flex-intro align-center">
-                    <h2>How it Works ?</h2>
-                </div>
-                <div className="card">
-                    <div className="card-body">
-                        <h4><span>1</span> Install & Connect your store</h4>
-                    </div>
-                </div>
-                <div className="card">
-                    <div className="card-body">
-                        <h4><span>2</span> Automate Cart recovery email campaigns</h4>
-                    </div>
-                </div>
-                <div className="card">
-                    <div className="card-body">
-                        <h4><span>3</span> Generate Next order Coupon codes</h4>
-                    </div>
-                </div>
-                <div className="card">
-                    <div className="card-body">
-                        <h4><span>4</span> Profit!</h4>
-                    </div>
-                </div>
+        {/*<div className="how-it-works">*/}
+            {/*<div className="container">*/}
+                {/*<div className="flex-intro align-center">*/}
+                    {/*<h2>How it Works ?</h2>*/}
+                {/*</div>*/}
+                {/*<div className="card">*/}
+                    {/*<div className="card-body">*/}
+                        {/*<h4><span>1</span> Install & Connect your store</h4>*/}
+                    {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="card">*/}
+                    {/*<div className="card-body">*/}
+                        {/*<h4><span>2</span> Automate Cart recovery email campaigns</h4>*/}
+                    {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="card">*/}
+                    {/*<div className="card-body">*/}
+                        {/*<h4><span>3</span> Generate Next order Coupon codes</h4>*/}
+                    {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="card">*/}
+                    {/*<div className="card-body">*/}
+                        {/*<h4><span>4</span> Profit!</h4>*/}
+                    {/*</div>*/}
+                {/*</div>*/}
                 {/*<div className="row">*/}
                     {/*<div className="col-md-6">*/}
                         {/*<div className="card">*/}
@@ -149,11 +149,11 @@ const FeaturesPage = () => (
                         {/*</div>*/}
                     {/*</div>*/}
                 {/*</div>*/}
-            </div>
-        </div>
+            {/*</div>*/}
+        {/*</div>*/}
 
 
-        <HomeScreenshots/>
+        {/*<HomeScreenshots/>*/}
         <div id="pricing" className="pricing-section text-center">
             <div className="container">
                 <div className="pricing-intro wow fadeInDown">

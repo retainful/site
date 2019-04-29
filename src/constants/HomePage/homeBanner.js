@@ -5,7 +5,7 @@ const HomeBanner = () =>(
     <div className="home hero-2">
         <div className="container-m text-center">
             <div className="hero-content wow fadeIn">
-                <h1><span className="highlight">Recover your Lost sales</span> & Drive repeat purchases</h1>
+                <h1><span className="highlight">Recover abandoned carts</span> & Drive repeated sales easily</h1>
                 <p>Your Business needs to Grow Smart <br/>
                     Get to Nurture your Customers & Make real money with the most Innovative marketing Tool for eCommerce.</p>
                 <h5><em>Retainful is FREE!</em></h5>
@@ -30,9 +30,9 @@ const HomeBanner = () =>(
                     <div className="hero-plugins">
                         <h4>Shopify App</h4>
                         <p>Grow your Shopify store smart by automating cart recovery email reminders and encourage your audience to shop repeatedly with unique next order coupon codes.</p>
-                        <p><a className="btn-action btn-edge"
-                              href="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/"
-                              target="_blank" rel="noopener noreferrer">Install App</a></p>
+                        <p><button disabled="disabled" className="btn-action btn-edge btn-disabled"
+                              href="#"
+                              target="_blank" rel="noopener noreferrer">Install App (Coming soon)</button></p>
                     </div>
                 </div>
             </div>
