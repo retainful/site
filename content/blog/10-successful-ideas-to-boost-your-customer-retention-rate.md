@@ -6,7 +6,7 @@ description: "Grow your business with these 10 proven customer retention ideas. 
 author: "Deepika"
 image: "https://raw.githubusercontent.com/retainful/site-images/master/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate.jpg"
 thumbnail: "https://raw.githubusercontent.com/retainful/site-images/master/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate.jpg"
-category: Marketing
+category: 'marketing'
 ogtype: blog
 ---
 

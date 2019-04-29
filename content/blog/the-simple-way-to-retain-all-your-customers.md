@@ -5,7 +5,7 @@ date: "2019-01-18"
 author: "Siddharth"
 image: "https://github.com/retainful/site-images/raw/master/the-simple-way-to-retain-all-your-customers.jpg"
 tags: ['javascript','react','gatsby']
-category: woocommerce
+category: 'woocommerce'
 ---
 
 Dear Reader!
