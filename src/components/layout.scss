@@ -332,7 +332,6 @@ body {
   }
 
   .btn-action {
-
     display: inline-block;
     height: 38px;
     padding: 0 30px;
@@ -345,7 +344,6 @@ body {
     text-transform: uppercase;
     text-decoration: none !important;
     white-space: nowrap;
-    cursor: pointer;
     background: #f27052;
     color: #FFFFFF;
     border: 1px solid transparent !important;
@@ -357,6 +355,13 @@ body {
     @media(max-width: 768px){
       height: auto;
       white-space: normal;
+    }
+    &.btn-disabled{
+      background: #eee;
+      color: #777777;
+      &:hover{
+        color: #777777;
+      }
     }
   }
 

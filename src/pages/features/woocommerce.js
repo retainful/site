@@ -52,6 +52,11 @@ const FeaturesPage = () => (
             <div className="row">
                 <div className="col-sm-4">
                     <div className="features-list">
+                        <h3>Next order Coupon code Generator</h3>
+                    </div>
+                </div>
+                <div className="col-sm-4">
+                    <div className="features-list">
                         <h4>Unique Coupon Codes</h4>
                         <p>Generate unique Next order discount codes for every customer and sent it via order emails after their successful purchase.</p>
                     </div>
@@ -60,11 +65,6 @@ const FeaturesPage = () => (
                     <div className="features-list">
                         <h4>Trigger FOMO</h4>
                         <p>Creating a time-limited coupon discount triggers FOMO and drives customers to quickly shop at your online WooCommerce store.</p>
-                    </div>
-                </div>
-                <div className="col-sm-4">
-                    <div className="features-list text-right">
-                        <h3>Next order Coupon code Generator</h3>
                     </div>
                 </div>
             </div>
@@ -90,31 +90,31 @@ const FeaturesPage = () => (
                 </div>
             </div>
         </div>
-        <div className="how-it-works">
-            <div className="container">
-                <div className="flex-intro align-center">
-                    <h2>How it Works ?</h2>
-                </div>
-                <div className="card">
-                    <div className="card-body">
-                        <h4><span>1</span> Install & Connect your store</h4>
-                    </div>
-                </div>
-                <div className="card">
-                    <div className="card-body">
-                        <h4><span>2</span> Automate Cart recovery email campaigns</h4>
-                    </div>
-                </div>
-                <div className="card">
-                    <div className="card-body">
-                        <h4><span>3</span> Generate Next order Coupon codes</h4>
-                    </div>
-                </div>
-                <div className="card">
-                    <div className="card-body">
-                        <h4><span>4</span> Profit!</h4>
-                    </div>
-                </div>
+        {/*<div className="how-it-works">*/}
+            {/*<div className="container">*/}
+                {/*<div className="flex-intro align-center">*/}
+                    {/*<h2>How it Works ?</h2>*/}
+                {/*</div>*/}
+                {/*<div className="card">*/}
+                    {/*<div className="card-body">*/}
+                        {/*<h4><span>1</span> Install & Connect your store</h4>*/}
+                    {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="card">*/}
+                    {/*<div className="card-body">*/}
+                        {/*<h4><span>2</span> Automate Cart recovery email campaigns</h4>*/}
+                    {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="card">*/}
+                    {/*<div className="card-body">*/}
+                        {/*<h4><span>3</span> Generate Next order Coupon codes</h4>*/}
+                    {/*</div>*/}
+                {/*</div>*/}
+                {/*<div className="card">*/}
+                    {/*<div className="card-body">*/}
+                        {/*<h4><span>4</span> Profit!</h4>*/}
+                    {/*</div>*/}
+                {/*</div>*/}
                 {/*<div className="row">*/}
                     {/*<div className="col-md-6">*/}
                         {/*<div className="card">*/}
@@ -149,11 +149,11 @@ const FeaturesPage = () => (
                         {/*</div>*/}
                     {/*</div>*/}
                 {/*</div>*/}
-            </div>
-        </div>
+            {/*</div>*/}
+        {/*</div>*/}
 
 
-        <HomeScreenshots/>
+        {/*<HomeScreenshots/>*/}
         <div id="pricing" className="pricing-section text-center">
             <div className="container">
                 <div className="pricing-intro wow fadeInDown">
