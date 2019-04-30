@@ -1,5 +1,5 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
+import { navigate } from "gatsby";
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
@@ -14,18 +14,20 @@ const encode = (data) => {
 class SupportPage extends React.Component {
     constructor(props) {
         super(props);
-        this.state = { name: "", email: "", message: "", subject: "" };
+        this.state = {};
     }
 
     /* Here’s the juicy bit for posting the form submission */
 
     handleSubmit = e => {
+        e.preventDefault();
+        const form = e.target;
         fetch("/", {
             method: "POST",
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: encode({ "form-name": "contact", ...this.state })
+            body: encode({ "form-name": form.getAttribute("name"), ...this.state })
         })
-            .then(() => alert("Success!"))
+            .then(() => navigate(form.getAttribute("action")))
             .catch(error => alert(error));
 
         e.preventDefault();
@@ -44,8 +46,14 @@ class SupportPage extends React.Component {
                         <p>Please fill-in and submit the form with your request. One of our support staff will be get in touch with you</p>
                     </div>
                     <div className="contact-form">
-                        <form onSubmit={this.handleSubmit}>
+                        <form name="contact" method="post" action="/thanks/" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit={this.handleSubmit}>
                             <input type="hidden" name="form-name" value="contact" />
+                            <p hidden>
+                                <label>
+                                    Don’t fill this out:{" "}
+                                    <input name="bot-field" onChange={this.handleChange} />
+                                </label>
+                            </p>
                             <p>
                                 <label>Name: </label>
                                 <input type="text" name="name" value={name} onChange={this.handleChange} placeholder="Enter your name" />
