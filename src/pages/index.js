@@ -15,7 +15,7 @@ import PricingTable from '../components/pricing'
 
 const IndexPage = () => (
     <Layout>
-        <SEO title="Retainful - The easiest way to drive repeat purchases and retain customers"
+        <SEO title="Retainful-  The FREE conversion tool for your WooCommerce & Shopify stores." description="RetainFul increases your eCommerce revenue by recovering the lost sales in your abandoned carts & drive repeated sales by generating unique Next order coupon codes."
              keywords={[`Send Unique Coupon Codes`]}/>
 
         <HomeBanner/>
@@ -58,17 +58,17 @@ const IndexPage = () => (
 
         {/*<HomeScreenshots/>*/}
 
-        {/*<div id="pricing" className="pricing-section text-center">*/}
-            {/*<div className="container">*/}
-                {/*<div className="pricing-intro wow fadeInDown">*/}
-                    {/*<h3>Get Started in Minutes</h3>*/}
-                    {/*<p>More Orders, More Revenue</p>*/}
-                    {/*<p>*/}
-                        {/*<a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">SignUp Now</a>*/}
-                    {/*</p>*/}
-                {/*</div>*/}
-            {/*</div>*/}
-        {/*</div>*/}
+        <div id="pricing" className="pricing-section text-center">
+            <div className="container">
+                <div className="pricing-intro wow fadeInDown">
+                    <h3>Get Started in Minutes</h3>
+                    <p>More Orders, More Revenue</p>
+                    <p>
+                        <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">SignUp Now</a>
+                    </p>
+                </div>
+            </div>
+        </div>
 
 
         {/*<div id="how-it-works" className="intro flex-split wow fadeIn">*/}

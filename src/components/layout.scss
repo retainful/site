@@ -32,7 +32,7 @@ body {
   font-weight: 500;
   color: #556068;
   line-height: 1.6;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif !important;
 }
 
 blockquote, q {
@@ -69,7 +69,7 @@ table {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.33;
-  font-family: $secondary-font;
+  font-family: $secondary-font !important;
 }
 
 b, strong {
@@ -132,7 +132,6 @@ body {
 }
 
 .navbar {
-  font-family: "Montserrat";
   padding-top: 20px !important;
   padding-bottom: 20px !important;
   background-color: #fff !important;
@@ -322,8 +321,8 @@ body {
 
   .home p {
     font-size: 18px;
-    font-weight: 300;
-    color: #515168;
+    font-weight: 400;
+    color: #777777;
     max-width: 630px;
     margin: 0 auto;
     letter-spacing: 0;
@@ -626,7 +625,6 @@ body {
   }
 
   .flex-inner .f-text .left-content a {
-    font-family: "Montserrat";
     font-size: 14px;
     font-weight: bold;
     color: #8798ab;
@@ -1644,7 +1642,6 @@ body {
   }
 
   .footer-sm ul li {
-    font-family: "Montserrat";
     font-size: 13px;
     font-weight: 400;
     letter-spacing: 0;
@@ -1943,11 +1940,10 @@ body {
 }
 
 .blog-list-container {
-  font-family: $secondary-font;
   color: #33475b;
-  line-height: 1.625;
+  line-height: 1.8;
   padding: 40px 0;
-  font-size: 1.2em;
+  font-size: 16px;
   h1, h2, h3, h4, h5, h6 {
     margin: 1em 0 0;
     font-weight: 600;
@@ -1982,6 +1978,10 @@ body {
   p {
     margin-bottom: 1em;
     font-weight: 400;
+    color: #777777;
+    small{
+      font-size: 14px;
+    }
   }
   a {
     transition: all 0.2s ease 0s;
@@ -2065,7 +2065,7 @@ body {
   color: #546b81;
   line-height: 1.725;
   padding: 40px 0;
-  font-size: 1.2em;
+  font-size: 18px;
   h1, h2, h3, h4, h5, h6 {
     margin: 1em 0 0;
     font-weight: 600;
@@ -3075,8 +3075,8 @@ body {
     }
     p{
       font-size: 16px;
-      font-weight: 300;
-      color: #515168;
+      font-weight: 400;
+      color: #777777;
       margin: 0 auto;
       letter-spacing: 0;
       line-height: 1.8;
@@ -3121,8 +3121,8 @@ body {
   }
   p{
     font-size: 18px;
-    font-weight: 300;
-    color: #515168;
+    font-weight: 400;
+    color: #777777;
     margin: 0 auto;
     letter-spacing: 0;
     line-height: 1.8;
@@ -3149,8 +3149,8 @@ body {
     }
     p{
       font-size: 16px;
-      font-weight: 300;
-      color: #515168;
+      font-weight: 400;
+      color: #777777;
       margin: 0 auto;
       letter-spacing: 0;
       line-height: 1.8;
