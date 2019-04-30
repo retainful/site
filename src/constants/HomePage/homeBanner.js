@@ -5,10 +5,12 @@ const HomeBanner = () =>(
     <div className="home hero-2">
         <div className="container-m text-center">
             <div className="hero-content wow fadeIn">
-                <h1><span className="highlight">Recover abandoned carts</span> & Drive repeated sales easily</h1>
-                <p>Your Business needs to Grow Smart <br/>
-                    Get to Nurture your Customers & Make real money with the most Innovative marketing Tool for eCommerce.</p>
-                <h5><em>Retainful is FREE!</em></h5>
+                <h1><span className="highlight">Recover abandoned carts</span> & drive repeat purchases easily</h1>
+                <p>Grow your business smartly <br/>
+                    Let customers recover abandoned carts in single click. <br/>
+                    Encourage repeat purchases by sending next order coupons automatically.
+                </p>
+                <h5><em>And Retainful is FREE!</em></h5>
                 {/*<p><a className="btn-action btn-edge btn-lg"*/}
                       {/*href="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/"*/}
                       {/*target="_blank" rel="noopener noreferrer">Install Plugin</a></p>*/}
@@ -20,7 +22,7 @@ const HomeBanner = () =>(
                 <div className="col-md-5">
                     <div className="hero-plugins">
                         <h4>WooCommerce Plugin</h4>
-                        <p>Grow ahead by automating cart recovery emails and start driving more sales to your WooCommerce store Now.</p>
+                        <p>Add Retainful plugin to WooCommerce. Just install to get started  with abandoned cart recovery emails.</p>
                         <p><a className="btn-action btn-edge"
                               href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.1.5.zip"
                               rel="noopener noreferrer">Download Plugin</a></p>
@@ -29,7 +31,7 @@ const HomeBanner = () =>(
                 <div className="col-md-5">
                     <div className="hero-plugins">
                         <h4>Shopify App</h4>
-                        <p>Grow smart by scheduling cart recovery email reminders and drive repeated sales using next order coupons.</p>
+                        <p>Add Retainful to your Shopify store and start driving repeat purchases. Get fully-customizable email templates for your order notifications.</p>
                         <p><button disabled="disabled" className="btn-action btn-edge btn-disabled"
                               href="#"
                               target="_blank" rel="noopener noreferrer">Coming soon</button></p>
