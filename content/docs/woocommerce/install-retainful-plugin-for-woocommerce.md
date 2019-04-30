@@ -1,5 +1,5 @@
 ---
-title: "Install the Retainful plugin for WooCommerce"
+title: "Installation"
 description: 
 date: "2019-01-25"
 author: "Siddharth"

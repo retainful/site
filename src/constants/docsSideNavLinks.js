@@ -6,9 +6,11 @@ const SIDENAV_LINKS = [
         BUTTON_LINK: '/docs',
     },
     {
-        TITLE: 'Getting started',
+        TITLE: 'WooCommerce',
         LINKS: [
-            { URL: '/docs/woocommerce/install-retainful-plugin-for-woocommerce/', TEXTNODE: 'Install the Retainful plugin for WooCommerce' },
+              {URL: '/docs/woocommerce/install-retainful-plugin-for-woocommerce/', TEXTNODE: 'Installation'},
+              {URL: '/docs/woocommerce/retainful-abandoned-cart-recovery/', TEXTNODE: 'Abandoned Cart Recovery Emails'},
+              {URL: '/docs/woocommerce/retainful-abandoned-cart-recovery/', TEXTNODE: 'Next Order Coupon'},
         ],
         BUTTON_LINK: '/docs/woocommerce/install-retainful-plugin-for-woocommerce/',
     },
