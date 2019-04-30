@@ -7,7 +7,7 @@ import HomeScreenshots from '../../constants/featuresScreenshots';
 
 const FeaturesPage = () => (
     <Layout>
-        <SEO title="Features for WooCommerce" />
+        <SEO title="Retainful Features- Cart recovery email & Coupon generator for WooCommerce" description="Grow your WooCommerce store smart with Retainful's features - Automate cart abandoned recovery emails & Unique Next order coupon codes with the FREE Coupon generator" />
         <div className="features-banner">
             <div className="container">
                 <div className="row">

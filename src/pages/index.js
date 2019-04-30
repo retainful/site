@@ -15,7 +15,7 @@ import PricingTable from '../components/pricing'
 
 const IndexPage = () => (
     <Layout>
-        <SEO title="Retainful - The easiest way to drive repeat purchases and retain customers"
+        <SEO title="Retainful-  The FREE conversion tool for your WooCommerce & Shopify stores." description="RetainFul increases your eCommerce revenue by recovering the lost sales in your abandoned carts & drive repeated sales by generating unique Next order coupon codes."
              keywords={[`Send Unique Coupon Codes`]}/>
 
         <HomeBanner/>
