@@ -3,7 +3,7 @@ const typography = new Typography({
     baseFontSize: "18px",
     baseLineHeight: 1.45,
     headerFontFamily: [
-        "Montserrat",
+        "Open Sans",
         "Avenir Next",
         "Helvetica Neue",
         "Segoe UI",
@@ -11,7 +11,7 @@ const typography = new Typography({
         "Arial",
         "sans-serif",
     ],
-    bodyFontFamily: ["Montserrat","Georgia", "serif"],
+    bodyFontFamily: ["Open Sans","Georgia", "serif"],
 })
 
 export default typography;
