@@ -1,5 +1,5 @@
 ---
-title: "Retainful - Abandoned Cart Recovery"
+title: "Abandoned Cart Recovery Emails"
 description: Overview on setting up Abandoned Cart Recovery emails and dashboard for reports on recovered carts
 date: "2019-04-23"
 author: "Kiruthiga"
