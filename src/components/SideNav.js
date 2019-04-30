@@ -33,7 +33,7 @@ class SideNav extends Component {
             return(
                 <div className={((card.BUTTON_LINK === current_url || find(linksC, current_url)) ? 'active' : '')}>
                     {card.LINKS ? (
-                            <div>
+                            <div className="active">
                                 <a className="dropdown-btn" href={card.BUTTON_LINK}>{card.TITLE}
                                     <FaAngleRight className="fa-caret-down" size="2em"/>
                                 </a>
