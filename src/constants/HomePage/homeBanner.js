@@ -1,9 +1,8 @@
 import React from 'react';
-import bannerLogo from "../../images/retainful-coupon-03.png";
 
 const HomeBanner = () =>(
     <div className="home hero-2">
-        <div className="container-m text-center">
+        <div className="container text-center">
             <div className="hero-content wow fadeIn">
                 <h1><span className="highlight">Recover abandoned carts</span> & drive repeat purchases easily</h1>
                 <p>Grow your business smartly <br/>
@@ -15,11 +14,8 @@ const HomeBanner = () =>(
                       {/*href="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/"*/}
                       {/*target="_blank" rel="noopener noreferrer">Install Plugin</a></p>*/}
             </div>
-            {/*<div className="hero-img wow fadeIn">*/}
-                {/*<img className="img-fluid" src={bannerLogo} alt="retainful-coupon-banner"/>*/}
-            {/*</div>*/}
             <div className="row justify-content-center">
-                <div className="col-md-5">
+                <div className="col-lg-4 col-md-6">
                     <div className="hero-plugins">
                         <h4>WooCommerce Plugin</h4>
                         <p>Add Retainful plugin to WooCommerce. Just install to get started  with abandoned cart recovery emails.</p>
@@ -28,7 +24,7 @@ const HomeBanner = () =>(
                               rel="noopener noreferrer">Download Plugin</a></p>
                     </div>
                 </div>
-                <div className="col-md-5">
+                <div className="col-lg-4 col-md-6">
                     <div className="hero-plugins">
                         <h4>Shopify App</h4>
                         <p>Add Retainful to your Shopify store and start driving repeat purchases. Get fully-customizable email templates for your order notifications.</p>
@@ -37,6 +33,11 @@ const HomeBanner = () =>(
                               target="_blank" rel="noopener noreferrer">Coming soon</button></p>
                     </div>
                 </div>
+            </div>
+            <div className="hero-img">
+                <img className="img-fluid"
+                     src={`${process.env.GATSBY_RF_MEDIA_URL}/home-banner-illustration.png`}
+                     alt="home-banner-illustration"/>
             </div>
         </div>
         <div className="divider-shape">

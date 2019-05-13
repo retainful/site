@@ -11,7 +11,7 @@ const HomeFeatures = () => (
                 <h3>Features</h3>
             </div>
             <div className="row">
-                <div className="col-sm-4">
+                <div className="col-md-4">
                     <div className="features-list">
                         <h3>Abandoned Cart Recovery Emails</h3>
                         {/*<p>Retainful gives you a unique set of tools to retain your customers and increase revenue per customer.</p>*/}
@@ -20,7 +20,7 @@ const HomeFeatures = () => (
                                 alt="abandoned_cart_recovery_emails"/></p>
                     </div>
                 </div>
-                <div className="col-sm-4">
+                <div className="col-md-4">
                     <div className="features-list">
                         <div className="card">
                             <div className="card-body">
@@ -44,7 +44,7 @@ const HomeFeatures = () => (
                         </div>
                     </div>
                 </div>
-                <div className="col-sm-4">
+                <div className="col-md-4">
                     <div className="features-list">
                         <div className="card">
                             <div className="card-body">
@@ -71,7 +71,7 @@ const HomeFeatures = () => (
             </div>
             <hr/>
             <div className="row">
-                <div className="col-sm-4">
+                <div className="col-md-4">
                     <div className="features-list">
                         <h3>Next Order Coupons</h3>
                         {/*<p>Retainful is the best tool to automate cart recovery emails and recover lost sales.</p>*/}
@@ -80,7 +80,7 @@ const HomeFeatures = () => (
                                 alt="next_order_discouny_coupon"/></p>
                     </div>
                 </div>
-                <div className="col-sm-4">
+                <div className="col-md-4">
                     <div className="features-list">
                         <div className="card">
                             <div className="card-body">
@@ -104,7 +104,7 @@ const HomeFeatures = () => (
                         </div>
                     </div>
                 </div>
-                <div className="col-sm-4">
+                <div className="col-md-4">
                     <div className="features-list">
                         <div className="card">
                             <div className="card-body">
@@ -131,7 +131,7 @@ const HomeFeatures = () => (
             </div>
             <hr/>
             <div className="row">
-                <div className="col-sm-4">
+                <div className="col-md-4">
                     <div className="features-list">
                         <h3>Analytics & Insights</h3>
                         {/*<p>With Retainful, you get a featured dashboard to track analytics, conversions and customer insights.</p>*/}
@@ -140,7 +140,7 @@ const HomeFeatures = () => (
                                 alt="track_realtime_conversions"/></p>
                     </div>
                 </div>
-                <div className="col-sm-4">
+                <div className="col-md-4">
                     <div className="features-list">
                         <div className="card">
                             <div className="card-body">
@@ -164,7 +164,7 @@ const HomeFeatures = () => (
                         </div>
                     </div>
                 </div>
-                <div className="col-sm-4">
+                <div className="col-md-4">
                     <div className="features-list">
                         <div className="card">
                             <div className="card-body">
@@ -190,7 +190,7 @@ const HomeFeatures = () => (
                 </div>
             </div>
             <div className="text-center">
-                <p><Link to="/features/woocommerce" className="btn btn-action">See More</Link></p>
+                <p><Link to="/features/woocommerce" className="btn-action">See More</Link></p>
             </div>
         </div>
     </div>

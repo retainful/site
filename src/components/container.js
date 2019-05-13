@@ -13,5 +13,5 @@ export default function Container( props ) {
 }
 
 Container.defaultProps = {
-    type: 'l',
+    type: '',
 };
