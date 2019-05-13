@@ -71,7 +71,7 @@ class SupportPage extends React.Component {
                                 <textarea name="message" value={message} onChange={this.handleChange} placeholder="Message" ></textarea>
                             </p>
                             <p>
-                                <button type="submit" className="btn btn-action btn-lg">Send</button>
+                                <button type="submit" className="btn-action btn-lg">Send</button>
                             </p>
                         </form>
                     </div>

@@ -203,6 +203,10 @@ body {
   color: #364655;
   font-weight: 500;
   padding: 0 .5rem;
+  &.btn-link{
+    color: $primary;
+    font-weight: 600;
+  }
 }
 .navbar-nav .nav-item .nav-link.active {
   color: $primary;
@@ -308,7 +312,7 @@ body {
 
   .home .hero-img img {
     max-width: 100%;
-    margin: 20px 0;
+    height: auto;
   }
 
   .home h1 {
@@ -323,11 +327,9 @@ body {
     font-size: 18px;
     font-weight: 400;
     color: #777777;
-    max-width: 630px;
-    margin: 0 auto;
+    margin: 15px auto 0;
     letter-spacing: 0;
     line-height: 1.8;
-    margin-top: 15px;
   }
 
   .btn-action {
@@ -403,7 +405,6 @@ body {
   }
 
   .btn-cta {
-
     display: inline-block;
     height: 30px;
     padding: 0 30px;
@@ -416,7 +417,6 @@ body {
     text-decoration: none !important;
     white-space: nowrap;
     cursor: pointer;
-    background-color: #387ed1;
     background: #f27052;
     color: #FFFFFF !important;
     border: 1px solid transparent !important;
@@ -425,6 +425,14 @@ body {
     -webkit-transition: 0.2s;
     -moz-transition: 0.2s;
     transition: 0.2s;
+    &.btn-cta-outline{
+      background: #ffffff;
+      color: #f27052 !important;
+      &:hover{
+        color: #ffffff !important;
+        background: #f27052;
+      }
+    }
   }
 
   .btn-cta:hover {
@@ -455,7 +463,10 @@ body {
   }
 
   .hero-2 .hero-img {
-    border-radius: 24px;
+    z-index: -1;
+    position: absolute;
+    top: 8%;
+    right: -5%;
   }
 
   .hero-2 .form-alt {
@@ -2944,8 +2955,9 @@ body {
     position: relative;
     background-image: linear-gradient(-135deg, #f4f7fb 25%, #fff 100%);
     padding-bottom: 40px;
-    .container-m{
+    .container{
       z-index: 2;
+      position: relative;
     }
     .divider-shape{
       z-index: 0;
@@ -3021,6 +3033,16 @@ body {
     }
   }
 }
+
+@media (max-width: 768px) {
+  .hero-2 .hero-img {
+    z-index: 0;
+    position: relative;
+    top: auto;
+    right: auto;
+  }
+}
+
 .home-cards-container{
   background: #ffffff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.15);
@@ -3255,6 +3277,8 @@ body {
       padding: 10px;
       border-radius: 4px;
       margin-bottom: 20px;
+      background: #fff;
+      color: #333;
     }
     textarea{
       min-height: 200px;
