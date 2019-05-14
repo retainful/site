@@ -3,7 +3,8 @@ title: "Retainful - The Simple way to Retain all your customers"
 description: The Simple way to Retain all your customers using Retainful
 date: "2019-01-18"
 author: "Siddharth"
-image: "https://github.com/retainful/site-images/raw/master/the-simple-way-to-retain-all-your-customers.jpg"
+image: "../images/the-simple-way-to-retain-all-your-customers.jpg"
+thumbnail: "../images/the-simple-way-to-retain-all-your-customers.jpg"
 tags: ['javascript','react','gatsby']
 category: 'woocommerce'
 ---
