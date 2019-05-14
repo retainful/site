@@ -4,7 +4,8 @@ date: "2019-01-25"
 title: "How to provide Next order coupon in WooCommerce"
 description: "Learn to provide a coupon for the next purchase when a customer makes an order and send it within the order notification email itself"
 author: "Siddharth"
-image: "https://raw.githubusercontent.com/retainful/site-images/master/How-to-provide-Next-order-coupon-in-WooCommerce/How-to-provide-Next-order-coupon-in-WooCommerce.png"
+image: "../images/How-to-provide-Next-order-coupon-in-WooCommerce/How-to-provide-Next-order-coupon-in-WooCommerce.png"
+thumbnail: "../images/How-to-provide-Next-order-coupon-in-WooCommerce/How-to-provide-Next-order-coupon-in-WooCommerce.png"
 category: 'woocommerce'
 ---
 
@@ -44,7 +45,7 @@ Before you start, please download and install the <link-text url="https://www.re
 * Where in the email should coupon be displayed? <underline>Display coupon message</underline> after order details
 * Add the <underline>Custom Coupon message</underline> that needs to displayed in the order confirmation/ transactional email,
 
-![alt text](https://raw.githubusercontent.com/retainful/site-images/master/How-to-provide-Next-order-coupon-in-WooCommerce/step1.png)
+![alt text](../images/How-to-provide-Next-order-coupon-in-WooCommerce/step1.png)
 
 ### Short Codes
 
@@ -66,7 +67,7 @@ RetainFul offers you with all the advanced usage restriction features.
 * Click on <underline>Save</underline> to make your Next order coupon campaign go active.
 
 
-![alt text](https://raw.githubusercontent.com/retainful/site-images/master/How-to-provide-Next-order-coupon-in-WooCommerce/step2.png)
+![alt text](../images/How-to-provide-Next-order-coupon-in-WooCommerce/step2.png)
 
 Yes, It takes no more than 2 minutes to create your Next order coupons in WooCommerce.
 

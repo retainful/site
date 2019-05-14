@@ -4,8 +4,8 @@ date: "2019-02-04"
 title: "10 Successful Ideas to Boost your Customer Retention Rate"
 description: "Grow your business with these 10 proven customer retention ideas. Never let another customer abandon your online business. Retain customer with successful strategies today."
 author: "Deepika"
-image: "https://raw.githubusercontent.com/retainful/site-images/master/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate.jpg"
-thumbnail: "https://raw.githubusercontent.com/retainful/site-images/master/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate.jpg"
+image: "../images/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate.jpg"
+thumbnail: "../images/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate/10-Success-Ideas-to-Boost-your-Customer-Retention-Rate.jpg"
 category: 'marketing'
 ogtype: blog
 ---

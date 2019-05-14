@@ -26,7 +26,24 @@ exports.createPages = ({ actions, graphql }) => {
               description
               date(formatString: "DD MMMM, YYYY")
               author
-              image
+              image {
+                childImageSharp {
+                  fluid{
+                    base64
+                    tracedSVG
+                    aspectRatio
+                    src
+                    srcSet
+                    srcWebp
+                    srcSetWebp
+                    sizes
+                    originalImg
+                    originalName
+                    presentationWidth
+                    presentationHeight
+                  }
+                }
+              }
               category
               tags
             }

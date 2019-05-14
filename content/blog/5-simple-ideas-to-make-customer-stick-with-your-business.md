@@ -4,8 +4,8 @@ date: "2019-02-14"
 title: "5 Simple Ideas to make Customer stick with your Business for long."
 description: "Retaining customers save your 5times the cost of acquiring a new prospect. Customer Retainment is also what keeps your online business running on a longer perspective."
 author: "Deepika"
-image: "https://raw.githubusercontent.com/retainful/site-images/master/5-simple-ideas-to-make-customers-stick-with-your-business-for-long.jpg"
-thumbnail: "https://raw.githubusercontent.com/retainful/site-images/master/5-simple-ideas-to-make-customers-stick-with-your-business-for-long.jpg"
+image: "../images/5-simple-ideas-to-make-customers-stick-with-your-business-for-long.jpg"
+thumbnail: "../images/5-simple-ideas-to-make-customers-stick-with-your-business-for-long.jpg"
 category: 'marketing'
 ogtype: blog
 ---
