@@ -7,8 +7,8 @@ import HomeScreenshots from '../../constants/featuresScreenshots';
 
 const FeaturesPage = () => (
     <Layout>
-        <SEO title="Retainful Features- Cart recovery email & Coupon generator for WooCommerce" description="Grow your WooCommerce store smart with Retainful's features - Automate cart abandoned recovery emails & Unique Next order coupon codes with the FREE Coupon generator" />
-        <div className="features-banner">
+        <SEO title="Send WooCommerce next order coupons & abandoned cart recovery email" description="Automate WooCommerce cart abandoned recovery emails and send next order coupons. Recover your WooCommerce lost sales and increase your revenue instantly." keywords={[`woocommerce next order coupon`, `woocommerce abandoned cart recovery emails`, `recover woocommerce abandoned cart`, `retainful woocommerce features`]}/>  
+          <div className="features-banner">
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">

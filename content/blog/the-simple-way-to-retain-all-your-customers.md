@@ -13,19 +13,19 @@ Dear Reader!
 
 You’d have definitely heard about Customer retention and Cart abandonment in the journey of growing your eCommerce business. Well, if you are some early bird into eCommerce, knowing the following stats is must to get your online store growing,
 
-One… Online Cart Abandonment- 7/10 online customers abandon shopping carts.
+**One…** *Online Cart Abandonment*- 7/10 online customers abandon shopping carts.
 
 Which means 70% of people shopping at your store add products to their cart but exit without checking out.
 
 That’s 70% of potential sale volume waiting in abandoned carts.
 
-Two… Customer Retention- Retaining an existing customer saves you 5 times the cost of acquiring a new customer.
+**Two…** *Customer Retention*- Retaining an existing customer saves you 5 times the cost of acquiring a new customer.
 
 Say, you gotta be spending $5 to make a new customer buy something at your online store but spend $1 to make an existing customer buy again at your store.
 
 That’s some serious statistics. Right?
 
-The Big What if?
+***The Big What if?***
 
 Now, what if you can tackle both the above eCommerce situations with a single marketing tool. And that single tool to boost both passive and active sales conversions.
 
@@ -75,12 +75,16 @@ RetainFul achieves you that 60-70% of sales.
 - Single-click recovery link to recover the abandoned product items
 - Compare the abandoned cart value and recovered cart value
 - Track your customer behavior
+
+
 - Automatic coupon code generator
 - No more generic coupon codes
 - Unlimited number of coupon codes
 - Add the code to the transactional emails programmatically
 - Single-click to apply coupon automatically to the customer cart
 - Actionable customer and email insights
+
+
 - Allows you to stay in touch with your existing customer base
 - Increase in Up-sell and cross-selling opportunities  
 - Saves your customer acquisition cost by 5 times
