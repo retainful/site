@@ -2,12 +2,16 @@ import React from 'react'
 import Layout from '../components/layout'
 import Container from '../components/container'
 import Breadcrumb from '../components/breadcrumb'
+import SEO from '../components/seo'
 
 const TermsOfService = () => (
     <Layout>
         {/*<Breadcrumb>*/}
             {/*<h2>Terms of Service</h2>*/}
         {/*</Breadcrumb>*/}
+        <SEO title="Retainful Terms of Services | Disclaimer & Notice"
+        description="Read how Retainful publications structured the privacy policy and data consent for marketing promotions. Find how we use your data for email marketing campaigns."
+        keywords={[`Retainful documentation`,`retainful guide`,`ecommerce sales and marketing`,`learn shopify marketing`,`read woocommerce marketing`,`marketing automation`]} />
         <Container type="s">
             <div className="legal-info">
                 <p>
