@@ -33,6 +33,7 @@ body {
   color: #556068;
   line-height: 1.6;
   font-family: 'Open Sans', sans-serif !important;
+  overflow-x: hidden;
 }
 
 blockquote, q {
@@ -466,7 +467,7 @@ body {
     z-index: -1;
     position: absolute;
     top: 8%;
-    right: -5%;
+    right: -10%;
   }
 
   .hero-2 .form-alt {
@@ -3034,7 +3035,7 @@ body {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 991px) {
   .hero-2 .hero-img {
     z-index: 0;
     position: relative;
@@ -3097,6 +3098,7 @@ body {
       }
     }
     h3{
+      text-align: center;
       font-size: 28px;
     }
     h4{
