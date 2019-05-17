@@ -89,7 +89,7 @@ export default function BlogPost(props) {
                         {/*</div>*/}
                         { props.data.markdownRemark.frontmatter.image !== null &&
                         <div className="image-section">
-                            <img src={props.data.markdownRemark.frontmatter.image} alt={title} />
+                            <Img fluid={props.data.markdownRemark.frontmatter.image.childImageSharp.fluid} alt={title} />
                         </div>
                         }
                         <h1>{title}</h1>
@@ -134,7 +134,13 @@ export const query = graphql`
           title
           description
           category
-          image
+          image{
+              childImageSharp{
+                  fluid{
+                    ...GatsbyImageSharpFluid
+                  }
+              }
+          }
           author
           date(formatString: "DD MMMM, YYYY")
       }

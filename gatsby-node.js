@@ -26,7 +26,14 @@ exports.createPages = ({ actions, graphql }) => {
               description
               date(formatString: "DD MMMM, YYYY")
               author
-              image
+              image {
+                childImageSharp {
+                  fluid{
+                    aspectRatio
+                    src
+                  }
+                }
+              }
               category
               tags
             }

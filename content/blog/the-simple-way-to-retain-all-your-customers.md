@@ -1,68 +1,117 @@
 ---
-title: "Retainful - The Simple way to Retain all your customers"
-description: The Simple way to Retain all your customers using Retainful
+title: "Retainful- The FREE Conversion Marketing tool for Shopify & WooCommerce"
+description: "The Simple way to Retain all your customers using Retainful"
 date: "2019-01-18"
 author: "Siddharth"
-image: "https://github.com/retainful/site-images/raw/master/the-simple-way-to-retain-all-your-customers.jpg"
+image: "../images/the-simple-way-to-retain-all-your-customers.jpg"
+thumbnail: "../images/the-simple-way-to-retain-all-your-customers.jpg"
 tags: ['javascript','react','gatsby']
 category: 'woocommerce'
 ---
 
 Dear Reader!
-Business ain’t just making New Customers- Business is about Retaining a Customer
 
-Well, the Success of any online business heavily shoulders on the customer base. Agree?
-More the number of customers more will be the online revenue. In fact, I’m not surprised if customer acquisition cost rings an alarm now?
-But, here’s a fact to humor you.
+You’d have definitely heard about Customer retention and Cart abandonment in the journey of growing your eCommerce business. Well, if you are some early bird into eCommerce, knowing the following stats is must to get your online store growing,
 
-* Retaining an existing customer saves you 5 times the cost to acquire a new customer.
+**One…** *Online Cart Abandonment*- 7/10 online customers abandon shopping carts.
 
-Read along to know what actually makes a customer to make repeat purchases at your online store.
+Which means 70% of people shopping at your store add products to their cart but exit without checking out.
 
-## What is RetainFul in WooCommerce?
+That’s 70% of potential sale volume waiting in abandoned carts.
 
-RetainFul is the best WooCommerce plugin to boost your customer engagement. It motivates the customers to make repeat purchases by offering next-order discount coupons.
-Next order discount coupon is a WooCommerce discount method to offer coupon codes to customers that can be used on their next purchase.
+**Two…** *Customer Retention*- Retaining an existing customer saves you 5 times the cost of acquiring a new customer.
 
-Got the  Catch?
-The next order coupon discounts will surely make your existing customers come back and shop more.
-Who in this online world misses out on a WooCommece discount coupon!
+Say, you gotta be spending $5 to make a new customer buy something at your online store but spend $1 to make an existing customer buy again at your store.
 
-Thereby, RetainFul drives more sales to your WooCommerce store.
+That’s some serious statistics. Right?
 
-## Why your online store needs RetainFul?
+***The Big What if?***
 
-Saving is Earning! pal
+Now, what if you can tackle both the above eCommerce situations with a single marketing tool. And that single tool to boost both passive and active sales conversions.
 
-RetainFul gives you a unique set of tools to improve your online sales. Also, profound <link-text url="https://www.invespcro.com/blog/customer-acquisition-retention/" target="\_blank" rel="nofollow">marketing case study</link-text> says that the stakes selling a product to a new prospect is only 5-20% while the success rate of selling to an existing customer is 60-70%.
-RetainFul makes you achieve that 60-70%.
+Hold… That’s new again...
 
-### Advantages of adding RetainFul to your WooCommerce store
+What’s meant passive and active sale conversions?
 
-* Allows you to stay in touch with your existing customer base
-* Increase in Up-sell and cross-selling opportunities
-* Saves your customer acquisition cost by 5 times
-* Improves the success of your selling rate by 70%
-* Improves your Brand name
-* Earns your customer loyalty
+Active Sale conversions- The sale conversion that happens when your existing customers are repeatedly purchasing at your store.
+
+Passive Sale conversions- The abandoned sales that are waiting in the carts to be recovered.
+
+Okay. Back to answering the big What if…
+
+Yes.
+
+There’s a tool to make it happen! You can scale both the active and passive sale conversions in your online store.
+
+So, when was the last time you got an awful surprise?
+
+Doesn't matter, Coz’ here’s one.
+
+The tool is completely FREE.
+
+## Retainful- The FREE conversion tool for WooCommerce and Shopify
+
+RetainFul is a conversion marketing tool to scale online revenue for Shopify and WooCommerce stores. This powerful tool reminds customers about their abandoned carts thereby increasing the chances to recover 70% of abandoned cart sales.
+
+- Abandoned cart recovery emails are the email notifications that are automated when customers abandon their shopping carts.
+
+Also, Retainful is an excellent coupon management plugin for eCommerce stores. The tool lets you generate unique coupon codes on every purchase and motivates customers to use that coupon code to make repeated purchases to avail a special discount.
+
+- Next order discount coupon is a WooCommerce discount method to offer coupon codes to customers that can be used on their next purchase.
+
+Why your online store needs RetainFul?
+
+Saving is Earning!
+
+RetainFul gives you a unique set of tools to boost your online revenue. A <link-text url="https://www.invespcro.com/blog/customer-acquisition-retention/" target="_blank" rel="noopener nofollow">marketing case study</link-text> says that the stakes selling a product to a new prospect is only 5-20% while the success rate of selling to an existing customer is 60-70%.
+
+RetainFul achieves you that 60-70% of sales.
+
+### Marvel-advantages of RetainFul
+
+- No need to manually send email notifications
+- Schedule and automate cart recovery email reminders
+- Unlimited cart recovery emails
+- Single-click recovery link to recover the abandoned product items
+- Compare the abandoned cart value and recovered cart value
+- Track your customer behavior
+
+
+- Automatic coupon code generator
+- No more generic coupon codes
+- Unlimited number of coupon codes
+- Add the code to the transactional emails programmatically
+- Single-click to apply coupon automatically to the customer cart
+- Actionable customer and email insights
+
+
+- Allows you to stay in touch with your existing customer base
+- Increase in Up-sell and cross-selling opportunities  
+- Saves your customer acquisition cost by 5 times
+- Increased revenue by recovering the 70% of passive sales
+- Earns your customer loyalty
 
 ## How RetainFul works?
+Retainful helps you recover at least 40% of your abandoned sales through targetted email marketing. The tool automates cart recovery email reminders to customers whenever they abandon shopping carts. You can schedule and automate the cart recovery emails with a unique action-based single-click recovery link. The customers can recover the abandoned cart items by simply clicking on the link.
 
-Words of Wisdom comes again- RetainFul helps your eCommerce store to drive repeat purchases from existing customers. The basic idea revolves around WooCommerce coupons and discounts. This smart coupon plugin allows you to create unique coupon codes referred to as next order coupons. And the beautiful thing is that, RetainFul sends the next order coupons automatically to the customers. And the customers can use the discount coupon on their next purchase at your online store.
+RetainFul helps your eCommerce store to drive repeat purchases from existing customers. The basic idea revolves around WooCommerce coupons and discounts. This smart coupon plugin generates unique coupon codes referred to as next order coupons.
 
-The added advantage with RetainFul is the active engagement your store receives with the transactional emails. Coupon codes are generated automatically and shared in transactional emails that are sent to customers after every purchase.
+And the beautiful thing is that RetainFul sends the next order coupons automatically to the customers along with the order transactional emails after every purchase. The coupon discounts can be either flat or percentage and the customers can use the discount coupon on their next purchase at your online store.
 
-Well, the smart coupon plugin allows you to create
+Well, Retainful also gives you the most simple and data rich dashboard,
 
-* Both simple percentage discounts and fixed price discounts as well.
-* RetainFul also gives you the complete insight into the performance of your transactional emails.
-* Customers who have opened the email with a next-order coupon.
-* Customers who have used the next-order coupons and can even track the revenue with this WooCommerce plugin.
+- RetainFul offers you a featured dashboard with complete analytics on how your transactional emails and cart recovery emails perform.
+- You can compare the abandoned cart value vs recovered cart value to track online sale conversion.
+- Also, get actionable customer insights like a list of customers who have opened the coupon email and who have used the next-order coupons.
 
 Desserts End Dinners!
-Here’s the Sweetest thing of all.
-If you ask me what is the price that you need to pay to use the plugin and retain all your customers
 
-<link-text url="https://www.retainful.com/">FREE!</link-text>
+What follows is the Sweetest thing of all. If you have anywhere in the post missed about the pricing of the tool and ask me what is that you gotta pay to buy, I say Pay Zero!
 
-Yes. Absolutely Free. <link-text url="https://www.retainful.com/">Download the plugin now</link-text> and earn the Biggest asset of your Business- Loyal Customers.
+Yes, Retainful is <link-text url="https://www.retainful.com/" rel="noopener" target="_blank">FREE!</link-text>
+
+You can recover the 70% of lost sales and can drive repeated purchases for FREE.
+
+<link-text url="https://www.retainful.com/" rel="noopener" target="_blank">Download the plugin</link-text> now & Get your Head Start!
+
+Happy Retaining!

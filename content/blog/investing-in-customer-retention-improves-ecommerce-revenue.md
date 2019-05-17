@@ -4,8 +4,8 @@ date: "2019-02-28"
 title: "Why investing in Customer retention is healthy for your e-commerce store?"
 description: "Investing in customer retention saves you 5 times the cost acquisition cost. Strategising Customer retention ideas will increase your customer lifetime value too "
 author: "Deepika"
-image: "https://raw.githubusercontent.com/retainful/site-images/master/Why-investing-in-Customer-retention-is-healthy-for-your-eCommerce-store.jpg"
-thumbnail: "https://raw.githubusercontent.com/retainful/site-images/master/Why-investing-in-Customer-retention-is-healthy-for-your-eCommerce-store.jpg"
+image: "../images/Why-investing-in-Customer-retention-is-healthy-for-your-eCommerce-store.jpg"
+thumbnail: "../images/Why-investing-in-Customer-retention-is-healthy-for-your-eCommerce-store.jpg"
 category: 'customer-success'
 ogtype: blog
 ---

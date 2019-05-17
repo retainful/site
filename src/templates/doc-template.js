@@ -182,7 +182,13 @@ export const docQuery = graphql`
       frontmatter {
           title
           description
-          image
+          image{
+            childImageSharp{
+                  fluid{
+                    ...GatsbyImageSharpFluid
+                  }
+              }
+          }
           author
           category
           date(formatString: "DD MMMM, YYYY")
