@@ -31,6 +31,7 @@ Well, the reasons to recover your abandoned carts are simple
 In spite of having many useful plugins in WooCommerce, it is quite hard to find a true plugin which offers premium features for FREE. But we’ve got the fish for you. 
 
 ### Retainful - The FREE Cart recovery email plugin for WooCommerce
+<br>
 
 ![Retainful - The FREE Cart recovery email plugin for WooCommerce](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/retainful-abandoned-cart-recovery-and-next-order-coupons-for-woocommerce.jpeg)
 
@@ -121,7 +122,7 @@ Simple and precise subject lines will achieve to improve email open rates.
 </call-out>
 
 ![Abandoned Cart EMail Subject Line](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/abandoned-cart-email-subject-line.jpeg)
-
+ 
 Next, enter the body of your cart recovery email. The text editor may seem like the regular WordPress editor but the interesting part is the availability of shortcodes.   Shortcodes allow you to personalize the emails with the customer’s name, cart details, cart recovery link and more. 
 
 The following screen shows you the proper way to structure your email using shortcodes. 
