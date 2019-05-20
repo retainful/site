@@ -18,6 +18,8 @@ import Gist from "../components/gist"
 import Row from "../components/row"
 import Col from "../components/column"
 import TableOfContents from "../components/TableOfContents"
+import Cta from "../components/cta"
+import CtaBox from '../components/ctabox'
 
 const PrimaryTitle = styled.h1`
     color: #f00;
@@ -50,6 +52,8 @@ const renderAst = new rehypeReact({
         row: Row,
         col: Col,
         "table-contents": TableOfContents,
+        cta:Cta,
+        "cta-box":CtaBox
     },
 }).Compiler
 
