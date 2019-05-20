@@ -50,6 +50,28 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+.cta{
+  color: #f9f9f9;
+  display: block;
+  margin: 0 auto;
+  padding:3px 30px;
+  background-color:#ff5733;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  &:hover{
+    // box-shadow: 0 8px 6px -6px black;
+    -webkit-box-shadow:0 2px 4px 2px rgb(202, 184, 179);
+    -moz-box-shadow:0 2px 4px 2px rgb(202, 184, 179);
+     box-shadow:0 2px 4px 2px rgb(202, 184, 179);
+  }
+}
+.ctabox{
+  padding:15px;
+  width:100%;
+  font-style: bold;
+  background-color: #fdd4c3;
+}
 
 .highlight {
   border-radius: 1em 0 1em 0;
