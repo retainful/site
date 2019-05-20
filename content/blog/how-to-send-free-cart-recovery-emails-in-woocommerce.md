@@ -8,7 +8,7 @@ image: "../images/how-to-send-free-cart-recovery-emails-in-woocommerce/how-to-se
 thumbnail: "../images/how-to-send-free-cart-recovery-emails-in-woocommerce/how-to-send-free-cart-recovery-emails-in-woocommerce.png"
 category: "eCommerce"
 ---
-Howdy WooCommerce user,
+Howdy WooCommerce user,   
 If you are reading this you’d already be knowing the importance of recovering your abandoned carts to increase online revenue.
 Well, cart abandonment has been the biggest nightmare for eCommerce store owners. 
 
