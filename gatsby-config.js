@@ -46,6 +46,13 @@ module.exports = {
                 },
               },
               {
+                resolve: `gatsby-plugin-canonical-urls`,
+                options: {
+                  siteUrl: `https://www.retainful.com`,
+                  stripQueryString: true,
+                },
+              },
+              {
                 resolve: `gatsby-remark-responsive-iframe`,
                 options: {
                   wrapperStyle: `margin-bottom: 1.0725rem`,
