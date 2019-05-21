@@ -9,7 +9,7 @@ module.exports = {
         title: `Retainful`,
         description: `The easiest way to drive repeat purchases and retain customers. Generate and send unique coupon codes that can be used by the customer for the next purchase.`,
         author: `Retainful`,
-        siteUrl: `https://www.retainful.com/`
+        siteUrl: `https://www.retainful.com`
     },
     plugins: [
         `gatsby-plugin-react-helmet`,
