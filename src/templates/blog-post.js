@@ -81,7 +81,7 @@ export default function BlogPost(props) {
             <MetaTags
                 title={title}
                 description={props.data.markdownRemark.frontmatter.description}
-                thumbnail={thumbnail}
+                thumbnail={url+thumbnail}
                 url={url}
                 pathname={props.location.pathname}
             />
