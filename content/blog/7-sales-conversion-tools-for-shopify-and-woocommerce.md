@@ -1,5 +1,5 @@
 ---
-path: "/blog/7-sales-conversion-tools-for-shopify-and-woocommerce"
+path: "/blog/7-sales-conversion-tools-for-shopify-and-woocommerce/"
 date: "2019-03-10"
 title: "7 sales conversion tools for Shopify and WooCommerce"
 description: "Customer retention saves 5x times the cost of customer acquisition.  The following list brings you with the top-rated retention tools for eCommerce stores. Start retaining your customers with exclusive discounting strategy and targeted email marketing."

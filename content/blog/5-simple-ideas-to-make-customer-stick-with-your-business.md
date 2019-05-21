@@ -1,5 +1,5 @@
 ---
-path: "/blog/5-simple-ideas-to-make-customer-stick-with-your-business"
+path: "/blog/5-simple-ideas-to-make-customer-stick-with-your-business/"
 date: "2019-02-14"
 title: "5 Simple Ideas to make Customer stick with your Business for long."
 description: "Retaining customers save your 5times the cost of acquiring a new prospect. Customer Retainment is also what keeps your online business running on a longer perspective."

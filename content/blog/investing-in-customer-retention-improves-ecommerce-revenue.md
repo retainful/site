@@ -1,5 +1,5 @@
 ---
-path: "/blog/investing-in-customer-retention-improves-ecommerce-revenue"
+path: "/blog/investing-in-customer-retention-improves-ecommerce-revenue/"
 date: "2019-02-28"
 title: "Why investing in Customer retention is healthy for your e-commerce store?"
 description: "Investing in customer retention saves you 5 times the cost acquisition cost. Strategising Customer retention ideas will increase your customer lifetime value too "

@@ -34,7 +34,7 @@ const BlogPage = ({ pageContext,props}) => {
                         <Link to={post.node.fields.slug}>
                             <Img fluid={post.node.frontmatter.image.childImageSharp.fluid} alt={post.node.frontmatter.title} />
                         </Link>
-                        {console.log(post.node.frontmatter.image)}
+                    {/* console.log(post.node.frontmatter.image)*/}
                     </div>
                             <div className="content-section">
                                 <h3><Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link></h3>
