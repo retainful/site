@@ -59,7 +59,7 @@ const renderAst = new rehypeReact({
 
 export default function BlogPost(props) {
     const url = props.data.site.siteMetadata.siteUrl;
-    const thumbnail = props.data.markdownRemark.frontmatter.image;
+    const thumbnail = props.data.markdownRemark.frontmatter.image.childImageSharp.fluid.src;
     const {title} = props.data.markdownRemark.frontmatter;
     const {prev, next} = props.pageContext;
     // const toc = props.data.markdownRemark.htmlAst.children.filter((item)=>{
