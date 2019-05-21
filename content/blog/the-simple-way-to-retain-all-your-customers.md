@@ -1,6 +1,7 @@
 ---
 title: "Retainful- The FREE Conversion Marketing tool for Shopify & WooCommerce"
 description: "The Simple way to Retain all your customers using Retainful"
+path: "/blog/the-simple-way-to-retain-all-your-customers/"
 date: "2019-01-18"
 author: "Siddharth"
 image: "../images/the-simple-way-to-retain-all-your-customers.jpg"

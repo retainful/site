@@ -1,5 +1,5 @@
 ---
-path: "/blog/10-successful-ideas-to-boost-your-customer-retention-rate"
+path: "/blog/10-successful-ideas-to-boost-your-customer-retention-rate/"
 date: "2019-02-04"
 title: "10 Successful Ideas to Boost your Customer Retention Rate"
 description: "Grow your business with these 10 proven customer retention ideas. Never let another customer abandon your online business. Retain customer with successful strategies today."

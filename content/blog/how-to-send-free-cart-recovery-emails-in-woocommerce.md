@@ -1,5 +1,5 @@
 ---
-path: "how-to-send-free-cart-recovery-emails-in-woocommerce"
+path: "/blog/how-to-send-free-cart-recovery-emails-in-woocommerce/"
 date: "2019-04-02"
 title: "How to send FREE Cart Recovery emails in WooCommerce"
 description: "How to automate Cart Recovery email reminders with Retainful and recover your cart abandoned sales. Try Retainful- The FREE cart recovery email plugin loved by thousands of Happy WooCommerce store owners."
