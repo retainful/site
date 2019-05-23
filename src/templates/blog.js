@@ -24,8 +24,8 @@ const BlogPage = ({ pageContext,props}) => {
 
     return (
         <Layout>
-        <SEO title="Retainful Blog - Customer Retention Guides and eCommerce Resources" description="Learn online customer retaining strategies for your Shopify and WooCommerce store. Recover your eCommerce lost sales with customer retention techniques." 
-        keywords={[`Customer retention strategies`, `customer retaining techniques`, `boost eCommerce sales`, `retention marketing`, `retention marketing`, `acquisition marketing`]}/>  
+        <SEO title="Retainful Blog - Abandoned Cart Recovery, Customer Retention Guides and eCommerce Resources" description="Learn customer retaining strategies for your Shopify and WooCommerce stores. Recover your lost sales by implementing best customer retention techniques." 
+        keywords={[`woocommerce abandoned cart recovery`, `shopify customer retention`, `woocommerce sales boost techniques`, `Customer retention strategies`, `customer retaining techniques`, `boost eCommerce sales`, `retention marketing`, `retention marketing`, `acquisition marketing`]}/>  
             <div className="blog-list-container">
                 <Container type="s">
                     { group.map(post => (
