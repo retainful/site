@@ -3,107 +3,133 @@ title: "Abandoned Cart Recovery Emails"
 description: Overview on setting up Abandoned Cart Recovery emails and dashboard for reports on recovered carts
 date: "2019-04-23"
 author: "Kiruthiga"
-tags: ["installation", "woocommerce"]
+tags: ["installation", "woocommerce", "abandoned cart recovery emails"]
 category: woocommerce
 ---
-Retainful comes with an excellent cart recovery feature using which you can find out the abandoned cart and send cart abandoned mails. 
 
-Additionally, it comes with a super report dashboard wherein you can compare the abandoned carts and the recovered carts.
+More than 69% of the shoppers abandon their carts. But with a well-timed email follow-ups, it is possible to recover at least 39% of them.
 
-Let’s see how to grab use this cool feature! 
+Retainful comes with awesome cart recovery features, which helps you send automatic follow-up emails and recover the carts.
 
-Step 1 - Install in your Woocommerce Store :
-- Download the plugin from Wordpress repository or click <link url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" rel="noopener nofollow" target="_blank">here.</link-text> 
-- Navigate to plugins --> Add new --> Upload Plugin.
+This guide walks you through the process of creating **a sequence of Abandoned Cart Recovery Emails in your WooCommerce store**.
 
-![Installation](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/Installation.png)
+### Step 1:Basic configuration
 
-- Choose the zip file and click on install now. 
-- On click of "install now", the plugin will be activated. 
-- You can see the plugin under Woocommerce Section
-Here is the screenshot after installing the plugin:
+Go to your WordPress Dashboard -> WooCommerce -> Retainful -> Settings tab.
 
-![WordpressInstallation](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/pluginWidget.png)
-
-Hurray ! We have now installed the plugin successfully.
-Come on, let’s jump into the settings for Abandoned Carts recovery
-**Click To Abandoned Cart Setting ->** Where you can set the basic settings to track the abandoned cart of users on your store.
+The tab allows you to set up things like
+- When to consider a cart abandoned
+- How many days to wait before deleting an abandoned cart 
+and more.
 
 ![Setting](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/setting.png)
 
-**Basic settings:**
+The following two are the most important settings you may want to adjust or you can leave them to defaults
+
 **When to consider a cart as abandoned?** 
+
 Set the time period when to consider the cart left with products as Abandoned Cart. 
 Let us say, when a cart is left 30mins with the products can be considered as abandoned cart
+
 **How many days to wait before automatically deleting the cart?**
+
 A maximum number of days to keep track of the cart and when can the items in the cart can be deleted.
 Example: 100Days
 Also, you can set if the store admin wants to be notified when cart is recovered by the User here.
 Type the compliance Message to show when tracking real-time carts using.
 
-**Set Email Template to send Users when their cart is Abandoned:**
+###Step 2: Create an Email Sequence / Follow-ups
 
-Retainful offers you to design the Email Templates which is sent to the Customers with your own customization.
-Schedule the Emails which has to be sent to the Users.
-All these abandoned cart email reminders can be scheduled and automatically sent. No need to manually send these emails.
-Retainful can automatically send these abandoned cart reminders in the background.
-Here is the set up:
+Go to WordPress Dashboard -> WooCommerce -> Retainful -> Email Templates tab
 
-![EmailTemplate](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/EmailTemplates.png)
+Retainful helps you create unlimited number of emails that can be sent in a sequence automatically.
 
-Set the From Email from which email address, that you are trying to send the email and also the Reply To email here.
-You can set Multiple Email Templates scheduling the Reminder emails to be sent to the Users. 
+**Example of an email sequence:**
+
+- Send an email 1 hour after customer abandons the cart
+- Do another email follow-up 3 hours after the cart is abandoned
+- Remind the customer again 1 day after the abandonment
+- Still not recovered, send one more reminder 2nd day.
+
+Once this sequence is created, Retainful will automatically execute this sequence when a customer abandons the cart. 
+NOTE: You can set up the interval and customize the sequence in anyway you wanted.
+
+Whenever the cart is recovered, the sequence will automatically stop for that particular customer. So you do not have to worry about it.
+
+![Abandoned Cart Email Sequence](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/abandoned-cart-recovery-email-sequence.png)
 
 
-For Example: 
-First Email: After 1 hour send a reminder emails
-Second Email: After 6 hours of the cart is abandoned
-Third Email : Send reminder email after 1 day or 1 month and so on…
-Let See how to create the email template:
+### Creating your first email sequence - Send an email 1 hour after cart abandonment
+
+Go to the Email Templates tab and click  **Create New Template** button to get started.
+
 
 ![NewEmailTemplate](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/NewEmailTemplate.png)
 
-We have provided short codes in order to fetch the data as per the users, to create a User friendly email templates.
-
+Set up the following parameters:
 
 ![CustomerEmailTemplate](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/EmailTemplate-for-customer.png)
 
-Provide a name to the template for backend purposes. Create email subject and email body using short codes and a reliable text editor to customize your email templates more attractive.
-**Short codes supported:**
-**{{customer_name}}** - To display Customer name
-**{{site_url}}** - Site link
-**{{cart_recovery_link}}** - Link to recover user cart
-**{{user_cart}}** - Cart details
+**Template Name** - An identifier for the template. You can give a name for it. 
+**Template Subject** - Subject to be used for this email. For example: We saved your cart! 
+**Email Body** - Use the Wysisyg editor to design the email body. By default, we provide a simple, elgant template design. But you are free to change the body content. If you are an advanced user, you can click on the **Text** field to see the HTML code and edit directly there as well.
 
-Set the time by which the email has to be sent after the abandonment of the cart.
-Test email: After customizing the email template you can send a Test email to yourself to check on the email template.
+Retainful provides the following short codes that can be inserted in the email body to include dynamic data and for personalisation.
 
+Example: You can include the customer's cart contents and a recovery link
 ![ForgotSomething](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/ForgotSomething.png)
 
-We have a pre-defined email template for you. Customize it using the shortcodes in order to fetch the cart details.
-Provide a **Recovery Link**  by which user can get into the cart with the products already left in it. Now, they can be able to purchase it straight away.
-**What’s More ?**
-We provide you with a detailed analytics of the Abandoned cart value as well as the value of the Recovered items.
+**Short codes supported:**
+**{{customer_name}}** - To display Customer name
+
+**{{cart_recovery_link}}** - Link to recover user cart. When clicked, the customer is taken to the cart page of your site with his cart contents restored. A single click cart recovery.
+
+**{{user_cart}}** - This includes the abandoned cart contents of the customer.
+
+**{{site_url}}** - Site link
+
+
+**Send this email in** - This helps you schedule the email. Example: 1 hour after cart abandonment. 
+
+**Send a test email to** - Once you have created the template and saved, you can use this feature to send a test email and see how it looks.
+
+Now **Save and close** the template.
+
+Repeat the above steps to create the remaining 3 sequences
+
+### Abandoned Cart reports in WooCommerce
+
+Retainful provides a complete insight into your abandoned carts.
+Go to your WordPress Dashboard -> WooCommerce -> Retainful -> Abandoned carts tab.
+
+
+You can see
+- Number of Abandoned Carts
+- The value of the abandoned carts
+- The number of Recovered Carts using the follow-ups
+- The value of Recovered Carts
 
 ![AbonndanedCart](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/abondanedCarts.png)
 
-<i>Yaay !! I see the Sales Growing.. Here is how it looks in the **Reports** !!</i>
+<i>Here is how it looks in the **Reports** !!</i>
 
 ![ReportAnalytics](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/Analytics.png)
 
 
-You can see the reports for a week or last 2 weeks or a month or a yearly report.
-**How to Monitor the Users who have Abandoned carts ?**
+You can filter the reports using various date ranges as well!
 
-Check the Users who have Abandoned cart and also the who have recovered the cart by purchasing the items using the recovery link.
-Retainful provides you with a dashboard to view the users who have abandoned the cart and also who have recovered the same in just a click.
+
+### Real-time monitoring of Carts and Abandoned Carts in WooCommerce
+
+Retainful also comes with a powerful live monitoring for carts. You can see how many carts that were currently in-progress.
 
 ![MonitoringCustomers](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/legends.png)
 
-You can also check the Customer type, the cart value (Subtotal of the products purchased). 
-View the cart items as well ! Click on View Cart to know the items they had in the cart.
+Click on the **In-progress carts** to view the current / live carts. In other words, see how many customers have added products to cart and see what they are purchasing as well.
 
 ![CartOptions](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/cartOptions.png)
 
 
-Make your sales grow with Retainful - Abandoned Carts plugin with these exciting features to track and remind customers on their cart item by just in few configurations.
+### Got questions?
+
+Reach out to us if you have any support questions. You can use the [support request form](https://www.retainful.com/support) or the Live Chat button at the bottom right corner.
