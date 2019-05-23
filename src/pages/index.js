@@ -15,8 +15,8 @@ import PricingTable from '../components/pricing'
 
 const IndexPage = () => (
     <Layout>
-        <SEO title="Abandoned Cart Recovery tool for WooCommerce and Shopify | Retainful" description="RetainFul increases your eCommerce revenue by recovering the lost sales in your abandoned carts & drive repeated sales by generating unique Next order coupon codes."
-             keywords={[`ecommerce customer retention`,`woocommerce followup emails`, `next order coupons`, `abandoned cart recovery`, `shopify abandoned cart recovery`, `shopify abandoned cart analytics`]}/>
+        <SEO title="Abandoned Cart Recovery Emails for WooCommerce and Shopify | Retainful" description="Retainful helps you recover abandoned carts in your WooCommerce and Shopify stores. Automatically send a sequence of emails when customers abandon their carts. Drive repeat purchases by sending unique coupon codes for next orders"
+             keywords={[`abandoned cart recovery`, `WooCommerce Abandoned Cart recovery emails`, `ecommerce customer retention`,`woocommerce followup emails`, `next order coupons`, `shopify abandoned cart recovery`, `shopify abandoned cart analytics`]}/>
 
         <HomeBanner/>
         {/*<HomeCards/>*/}
