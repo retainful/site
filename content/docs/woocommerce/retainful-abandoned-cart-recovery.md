@@ -1,6 +1,6 @@
 ---
-title: "Abandoned Cart Recovery Emails"
-description: Overview on setting up Abandoned Cart Recovery emails and dashboard for reports on recovered carts
+title: "Recover Abandoned Carts in WooCommerce"
+description: "Learn how to recover abandoned carts in WooCommerce and how to automatically send follow-up emails for cart abandonment"
 date: "2019-04-23"
 author: "Kiruthiga"
 tags: ["installation", "woocommerce", "abandoned cart recovery emails"]
