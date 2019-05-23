@@ -52,9 +52,9 @@ class DocsPage extends React.Component {
     render() {
         return (
             <Layout location={this.props.location} crumbLabel="Docs">
-                <SEO title="Retainful - Easy Marketing App Documentation and Getting Started Guide"
-                description="Automate your marketing campaign by reading Retainful documentation and get started guide. Start boosting your ecommerce revenue to the maximum."
-                keywords={[`Retainful documentation`, `retainful guide`, `ecommerce sales and marketing`, `learn shopify marketing`, `read woocommerce marketing`, `marketing automation`]}
+                <SEO title="Retainful Documentation"
+                description="Learn how to recover abandoned carts in your WooCommerce and Shopify stores. Drive repeat purchases through next order coupons."
+                keywords={[`Retainful documentation`, `retainful guide`, `woocommerce abandoned cart recovery`, `shopify abandoned cart recovery`, `shopify next order coupon`, `woocommerce next order coupon`]}
                 />
                 <div className='docs-container'>
                     <div className="container-fluid">
