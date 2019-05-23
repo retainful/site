@@ -71,15 +71,19 @@ Set up the following parameters:
 ![CustomerEmailTemplate](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/EmailTemplate-for-customer.png)
 
 **Template Name** - An identifier for the template. You can give a name for it. 
+
 **Template Subject** - Subject to be used for this email. For example: We saved your cart! 
+
 **Email Body** - Use the Wysisyg editor to design the email body. By default, we provide a simple, elgant template design. But you are free to change the body content. If you are an advanced user, you can click on the **Text** field to see the HTML code and edit directly there as well.
 
 Retainful provides the following short codes that can be inserted in the email body to include dynamic data and for personalisation.
 
 Example: You can include the customer's cart contents and a recovery link
+
 ![ForgotSomething](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/ForgotSomething.png)
 
 **Short codes supported:**
+
 **{{customer_name}}** - To display Customer name
 
 **{{cart_recovery_link}}** - Link to recover user cart. When clicked, the customer is taken to the cart page of your site with his cart contents restored. A single click cart recovery.
