@@ -7,7 +7,7 @@ import HomeScreenshots from '../../constants/featuresScreenshots';
 
 const FeaturesPage = () => (
     <Layout>
-        <SEO title="Send WooCommerce next order coupons & abandoned cart recovery email" description="Automate WooCommerce cart abandoned recovery emails and send next order coupons. Recover your WooCommerce lost sales and increase your revenue instantly." keywords={[`woocommerce next order coupon`, `woocommerce abandoned cart recovery emails`, `recover woocommerce abandoned cart`, `retainful woocommerce features`]}/>  
+        <SEO title="WooCommerce Abandoned Cart Recovery Email Plugin Features" description="Let your customers recover abandoned carts in a single click in your WooCommerce store. Automatically send a series of email follow-ups to recover lost sales. Also send unique, single-use coupons for next purchases automatically." keywords={[`woocommerce abandoned cart plugin`, `woocommerce abandoned cart recovery emails`, `woocommerce email follow-ups`, `woocommerce next order coupon`,  `recover woocommerce abandoned carts`, `retainful woocommerce features`]}/>  
           <div className="features-banner">
             <div className="container">
                 <div className="row">
@@ -17,9 +17,10 @@ const FeaturesPage = () => (
                     </div>
                     <div className="col-md-6">
                         <div className="text-center">
-                            <p><img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce@2x.png" alt="woocommerce"/></p>
+    
+                            <p><img src="https://raw.githubusercontent.com/retainful/site-images/master/logo-woocommerce.png" alt="woocommerce"/></p>
                             <p><a className="btn-action btn-edge btn-lg"
-                                  href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.1.5.zip"
+                                  href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.1.6.zip"
                                   target="_blank" rel="noopener noreferrer">Download Free Plugin</a></p>
                         </div>
                     </div>
@@ -182,7 +183,7 @@ const FeaturesPage = () => (
                 <div className="pricing-intro wow fadeInDown">
                     <h3>Retain & Grow your WooCommerce Business Smart</h3>
                     <p>
-                        <a className="btn-action btn-lg" href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.1.5.zip" target="_blank" rel="noopener noreferrer">Download Retainful</a>
+                        <a className="btn-action btn-lg" href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.1.6.zip" target="_blank" rel="noopener noreferrer">Download Retainful</a>
                     </p>
                 </div>
             </div>
