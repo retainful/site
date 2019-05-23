@@ -45,7 +45,7 @@ module.exports = {
                   maxWidth: 590,
                 },
               },
-              `gatsby-plugin-force-trailing-slashes`,
+              `gatsby-plugin-remove-trailing-slashes`,
               {
                 resolve: `gatsby-plugin-canonical-urls`,
                 options: {

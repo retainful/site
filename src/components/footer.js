@@ -43,10 +43,10 @@ export default function Footer() {
                         <Col size="6" class="text-right">
                             <ul>
                                 <li>
-                                    <Link to="/privacy-policy/">Privacy policy</Link>
+                                    <Link to="/privacy-policy">Privacy policy</Link>
                                 </li>
                                 <li>
-                                    <Link to="/terms-of-service/">Terms of Service</Link>
+                                    <Link to="/terms-of-service">Terms of Service</Link>
                                 </li>
                             </ul>
                         </Col>

@@ -68,7 +68,7 @@ exports.createPages = ({ actions, graphql }) => {
 
         allTags.forEach((tag, index) => {
             createPage({
-                path: `/tags/${_.kebabCase(tag)}/`,
+                path: `/tags/${_.kebabCase(tag)}`,
                 component: tagsTemplate,
                 context: {
                     tag,
@@ -85,7 +85,7 @@ exports.createPages = ({ actions, graphql }) => {
           pathPrefix: 'blog', // This is optional and defaults to an empty string if not used
           context: {}, // This is optional and defaults to an empty object if not used
           buildPath: (index, pathPrefix) =>
-            index > 1 ? `${pathPrefix}/${index}/` : `/${pathPrefix}/`,
+            index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}`,
         })
 
         posts.forEach(({ node }, index) => {
@@ -108,7 +108,7 @@ exports.createPages = ({ actions, graphql }) => {
         const categoryList = _.uniq(Array.from(blogCategorySet));
         categoryList.forEach((category) => {
             createPage({
-                path: `/blog/category/${_.kebabCase(category)}/`,
+                path: `/blog/category/${_.kebabCase(category)}`,
                 component: categoryPage,
                 context: {
                     category,
@@ -161,7 +161,7 @@ exports.createPages = ({ actions, graphql }) => {
 
         allTags.forEach((tag, index) => {
             createPage({
-                path: `/tags/${_.kebabCase(tag)}/`,
+                path: `/tags/${_.kebabCase(tag)}`,
                 component: tagsTemplate,
                 context: {
                     tag,
@@ -191,7 +191,7 @@ exports.createPages = ({ actions, graphql }) => {
         // const categoryList = Array.from(docsCategorySet);
         // docCategoryList.forEach((category) => {
         //     createPage({
-        //         path: `/docs/${_.kebabCase(category)}/`,
+        //         path: `/docs/${_.kebabCase(category)}`,
         //         component: categoryPage,
         //         context: {
         //             category,
