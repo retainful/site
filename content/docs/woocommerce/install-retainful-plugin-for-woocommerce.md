@@ -1,6 +1,6 @@
 ---
-title: "Installation"
-description: 
+title: "Installing Retainful WooCommerce Abandoned Cart Recovery Email Plugin"
+description: "Learn how to install Retainful - WooCommerce Abandoned Cart and Next Order Coupon Plugin"
 date: "2019-01-25"
 author: "Siddharth"
 tags: ["installation", "woocommerce"]
