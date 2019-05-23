@@ -20,7 +20,7 @@ const FeaturesPage = () => (
     
                             <p><img src="https://raw.githubusercontent.com/retainful/site-images/master/logo-woocommerce.png" alt="woocommerce"/></p>
                             <p><a className="btn-action btn-edge btn-lg"
-                                  href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.1.6.zip"
+                                  href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`}
                                   target="_blank" rel="noopener noreferrer">Download Free Plugin</a></p>
                         </div>
                     </div>
@@ -183,7 +183,7 @@ const FeaturesPage = () => (
                 <div className="pricing-intro wow fadeInDown">
                     <h3>Retain & Grow your WooCommerce Business Smart</h3>
                     <p>
-                        <a className="btn-action btn-lg" href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.1.6.zip" target="_blank" rel="noopener noreferrer">Download Retainful</a>
+                        <a className="btn-action btn-lg" href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`} target="_blank" rel="noopener noreferrer">Download Retainful</a>
                     </p>
                 </div>
             </div>
