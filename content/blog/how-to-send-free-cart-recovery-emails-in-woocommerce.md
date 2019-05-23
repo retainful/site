@@ -6,7 +6,7 @@ description: "How to automate Cart Recovery email reminders with Retainful and r
 author: "Siddharth "
 image: "../images/how-to-send-free-cart-recovery-emails-in-woocommerce/how-to-send-free-cart-recovery-emails-in-woocommerce.png"
 thumbnail: "../images/how-to-send-free-cart-recovery-emails-in-woocommerce/how-to-send-free-cart-recovery-emails-in-woocommerce.png"
-category: "eCommerce"
+category: "ecommerce"
 ---
 Howdy WooCommerce user,   
 If you are reading this you’d already be knowing the importance of recovering your abandoned carts to increase online revenue.

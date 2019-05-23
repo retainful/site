@@ -10,10 +10,9 @@ import SEO from '../components/seo'
 
 const NavLink = props => {
   if (!props.test) {
-    return <Link className={props.className} to={props.url}>{props.text}</Link>
+    return <Link className={props.className} to={(props.url).replace(/\/$/, "")}>{props.text}</Link>
   } else {
     return <span className={props.className}>{props.text}</span>
-    {console.log("props here is".props)}
   }
 }
 
@@ -31,13 +30,13 @@ const BlogPage = ({ pageContext,props}) => {
                     { group.map(post => (
                         <div className="blog-post" key={post.node.fields.slug}>
                         <div className="image-section">
-                        <Link to={post.node.fields.slug}>
+                        <Link to={(post.node.fields.slug).replace(/\/$/, "")}>
                             <Img fluid={post.node.frontmatter.image.childImageSharp.fluid} alt={post.node.frontmatter.title} />
                         </Link>
                     {/* console.log(post.node.frontmatter.image)*/}
                     </div>
                             <div className="content-section">
-                                <h3><Link to={post.node.fields.slug}>{post.node.frontmatter.title}</Link></h3>
+                                <h3><Link to={(post.node.fields.slug).replace(/\/$/, "")}>{post.node.frontmatter.title}</Link></h3>
                                 <p>
                                     <small>Posted by {post.node.frontmatter.author} on {post.node.frontmatter.date} in
                                         <Link to={'blog/category/'+ post.node.frontmatter.category}> {post.node.frontmatter.category}</Link></small>
@@ -48,14 +47,14 @@ const BlogPage = ({ pageContext,props}) => {
                                 <p>
                                     {post.node.excerpt}
                                 </p>
-                                <Link to={post.node.fields.slug}>Read more</Link>
+                                <Link to={(post.node.fields.slug).replace(/\/$/, "")}>Read more</Link>
                             </div>
                         </div>
                     )) }
                     <div className="pagination-links">
                         <NavLink className="previousLink" test={first} url={previousUrl} text={<FaAngleDoubleLeft/>} />
                         {Array.from({ length: pageCount }, (_, i) => (
-                          <Link key={`pagination-number${i + 1}`} className="pagination-number" to={`blog/${i === 0 ? "" : i + 1}`}>
+                          <Link key={`pagination-number${i + 1}`} className="pagination-number" to={`blog${i === 0 ? "" : "/"+ (i + 1)}`}>
                             {i + 1}
                           </Link>
                         ))}
