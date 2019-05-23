@@ -20,7 +20,7 @@ const HomeBanner = () =>(
                         <h4>WooCommerce Plugin</h4>
                         <p>Add Retainful plugin to WooCommerce. Just install to get started  with abandoned cart recovery emails.</p>
                         <p><a className="btn-action btn-edge"
-                              href="https://downloads.wordpress.org/plugin/retainful-next-order-coupon-for-woocommerce.1.1.5.zip"
+                              href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`}
                               rel="noopener noreferrer">Download Plugin</a></p>
                     </div>
                 </div>

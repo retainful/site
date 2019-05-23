@@ -85,7 +85,7 @@ exports.createPages = ({ actions, graphql }) => {
           pathPrefix: 'blog', // This is optional and defaults to an empty string if not used
           context: {}, // This is optional and defaults to an empty object if not used
           buildPath: (index, pathPrefix) =>
-            index > 1 ? `${pathPrefix}/${index}` : `/${pathPrefix}`,
+            index > 1 ? `${pathPrefix}/${index}/` : `/${pathPrefix}/`,
         })
 
         posts.forEach(({ node }, index) => {

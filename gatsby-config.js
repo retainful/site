@@ -45,6 +45,7 @@ module.exports = {
                   maxWidth: 590,
                 },
               },
+              `gatsby-plugin-force-trailing-slashes`,
               {
                 resolve: `gatsby-plugin-canonical-urls`,
                 options: {
@@ -124,7 +125,6 @@ module.exports = {
                 sv: 6
             },
         },
-        `gatsby-plugin-remove-trailing-slashes`,
         {
             resolve: `gatsby-plugin-sitemap`,
             options: {
