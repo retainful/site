@@ -2,7 +2,7 @@
 path: "/blog/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/"
 date: "2019-04-20"
 title: "7 Successful Cart Recovery Email Examples to Bring Customers Back"
-description: "How to automate Cart Recovery email reminders with Retainful and recover your cart abandoned sales. Try Retainful- The FREE cart recovery email plugin loved by thousands of Happy WooCommerce store owners."
+description: "Cart recovery email reminders can recover at least 30% - 40% of abandoned sales. Send Unlimited Cart recovery emails for FREE in your WooComerce and Shopify store with Retainful"
 author: "Siddharth"
 image: "../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back.png"
 thumbnail: "../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back.png"
