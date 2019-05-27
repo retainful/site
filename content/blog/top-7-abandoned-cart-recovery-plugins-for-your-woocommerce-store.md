@@ -24,7 +24,7 @@ The issue is addressed and assisted with the help of plugins. And here is the li
 ## 7 Top WooCommerce abandoned cart recovery plugins
 ___
 
-<h3>1. <link-text url="https://www.retainful.com/features/woocommerce" target="_blank" rel="noopener">Retainful</link-text>- WooCommerce abandoned cart recovery emails and next order coupons </h3><br>
+<h3>1. <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" target="_blank" rel="noopener">Retainful</link-text>- WooCommerce abandoned cart recovery emails and next order coupons </h3><br>
 
 ![Retainful](../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/retainful.png)
 
