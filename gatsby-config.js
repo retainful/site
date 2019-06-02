@@ -103,6 +103,7 @@ module.exports = {
                 background_color: `#f27052`,
                 theme_color: `#f27052`,
                 display: `minimal-ui`,
+                gcm_sender_id: `482941778795`,
                 icon: `src/images/favicon.png`, // This path is relative to the root of the site.
             }
         },
