@@ -4,7 +4,7 @@ import Breadcrumb from '../components/breadcrumb'
 import SEO from '../components/seo';
 import Container from '../components/container';
 import { StaticQuery } from 'gatsby';
-//import Post from '../components/post'
+import Post from '../components/post'
 
 
 const TermsOfService = () => {
@@ -16,8 +16,10 @@ const TermsOfService = () => {
       return (
         <Container type="s">
         <div className="legal-info">
-        {data.allMarkdownRemark.edges[0].node.excerpt}
-        {console.log(data.allMarkdownRemark.edges[0].node.excerpt)}
+          <Post
+            excerptData={data.markdownRemark.htmlAst}
+            />
+            {console.log(data.markdownRemark.htmlAst)}
           </div>
           </Container>
     )
@@ -28,14 +30,12 @@ const TermsOfService = () => {
   }
 const TocQuery = graphql`
  query TocQuery{
-  allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/terms-of-service/"}}) {
-    edges {
-      node {
-        frontmatter {
-          title
-          description
-        }excerpt
-      }
+  markdownRemark(frontmatter: {path: {eq: "/terms-of-service"}}){
+    html
+    htmlAst
+    frontmatter{
+      title
+      path
     }
   }
 } 

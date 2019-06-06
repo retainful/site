@@ -5,9 +5,10 @@
   "version": "0.1.0",
   "author": "Retainful <shobana@j2store.org>",
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "dotenv": "^7.0.0",
     "gatsby": "^2.4.3",
+    "gatsby-cli": "^2.6.5",
     "gatsby-image": "^2.0.41",
     "gatsby-paginate": "^1.0.17",
     "gatsby-plugin-breadcrumb": "^2.1.1",
@@ -63,6 +64,7 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "devDependencies": {
+    "jshint": "^2.10.2",
     "prettier": "^1.15.2"
   },
   "repository": {
