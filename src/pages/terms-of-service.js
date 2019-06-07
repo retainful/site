@@ -8,18 +8,17 @@ import Post from '../components/post'
 
 
 const TermsOfService = () => {
-    return (
-        <Layout>
-  <StaticQuery
-      query={TocQuery}
-      render={data => {
+  return (
+    <Layout>
+    <StaticQuery
+    query={TocQuery}
+    render={data => {
       return (
         <Container type="s">
         <div className="legal-info">
           <Post
             excerptData={data.markdownRemark.htmlAst}
             />
-            {console.log(data.markdownRemark.htmlAst)}
           </div>
           </Container>
     )
@@ -35,6 +34,7 @@ const TocQuery = graphql`
     htmlAst
     frontmatter{
       title
+      description
       path
     }
   }

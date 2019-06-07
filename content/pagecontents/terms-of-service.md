@@ -129,8 +129,7 @@ Customer desires to use Retainful’s online customer management services presen
         
         Customer agrees not to upload or incorporate into any customer lists, or otherwise provide to Retainful any information about individuals that Customer knows or has reason to know are under the age of 13. If Customer discovers that it uploaded, incorporated into any customer lists, or otherwise provided to Retainful any information about individuals that Customer knows or discovers are under the age of 13, Customer agrees to promptly remove such information from Retainful’s systems and notify Retainful of such occurrence.
         
-    10.  #### Changes to the Services.
-        
+    10.  #### Changes to the Services.      
         Retainful has the right to change, modify, update, add to, discontinue or retire the Services and any aspect or feature thereof, including but not limited to, hours of availability, equipment needed for access or use, and the type and size of files that can be stored or transmitted. Retainful may provide notice of material changes to the Retainful Platform or Services by posting them on the Retainful Site. It is Customer’s responsibility to check the Retainful Site periodically to be informed of any changes. You understand and agree that Retainful may change the telephone number(s) and/or the credit card payment processing system. You agree that Retainful will not be liable for damages (including consequential or special damages) arising out of any such change and you hereby waive any claims with respect to any such change, whether based on contractual, tort or other grounds, even if Retainful has been advised of the possibility of such damages.
         
 6.  ### DATA PRIVACY
@@ -209,123 +208,80 @@ Customer desires to use Retainful’s online customer management services presen
         4.  Customer will cooperate to provide Retainful with all information reasonably required by a Partner to provide any Partner Services;
         5.  each Partner is an intended third party beneficiary of this Section 9.3; and
         6.  the terms and conditions of all Partner Services shall be subject to the Partner’s standard end user terms and conditions for such Services.
-10.  ### SUPPORT
-    
+10.  ### SUPPORT    
     1.  For Customer support, please email support@retainful.com. In providing support, Retainful or a Retainful agent may use a variety of tools to aid in the process of resolving Customer issues as a Customer and may request that Customer provide additional information in order to resolve these issues. Customer hereby grants Retainful and such agent the right to use those tools and any information Customer provides to Retainful in order to provide Customer with support.
-11.  ### INDEMNIFICATION.
-    
-    Customer will indemnify and hold Retainful, its Partners, its and their investors, officers, directors, affiliates, subsidiaries, licensors, agents and employees (collectively, the “**Retainful Parties**“) harmless against any loss, liability, claim, demand, damages, penalties, settlements, costs and expenses, including reasonable attorney’s fees, resulting from any claim (including third party claims), suit, action or proceeding against a Retainful Party, resulting from or arising out of or in connection with
-    
+
+11.  ### INDEMNIFICATION.   
+    Customer will indemnify and hold Retainful, its Partners, its and their investors, officers, directors, affiliates, subsidiaries, licensors, agents and employees (collectively, the “**Retainful Parties**“) harmless against any loss, liability, claim, demand, damages, penalties, settlements, costs and expenses, including reasonable attorney’s fees, resulting from any claim (including third party claims), suit, action or proceeding against a Retainful Party, resulting from or arising out of or in connection with 
     1.  claims of intellectual property infringement based on (A) Customer’s use or combination of the Retainful Platform and the Services with any other software or hardware not supported by Retainful, if such infringement would not have occurred but for such use or combination; (B) any modification of the Retainful Platform and the Services by Customer; or (C) the use by Customer of any version of the Retainful Platform and/or Services other than the current version of the Retainful Platform and/or Services, if such version was made available by Retainful with notice that such version was being provided in order to avoid an alleged or potential infringement;
     2.  claims relating to the Offers or the fulfillment thereof (including claims by purchasers or other Customers of the Offers on the Retainful Site or Third-Party Partner Site relating to Customer’s products or services); or
     3.  any breach by Customer of any representation, warranty or obligation under these Terms of Service; or
     4.  the use, transmission, access, disclosure, or other processing of Customer Data. Retainful does not knowingly collect, either online or offline, Personal Information from persons under the age of thirteen (13). Customer agrees to indemnify Retainful if, as a result of Communications, Retainful collects Customer Data from persons under the age of 13.
-12.  ### TERM AND TERMINATION
-    
-    1.  #### Term.
-        
+
+12.  ### TERM AND TERMINATION   
+    1.  #### Term.  
         Subject to Retainful’s receipt of all applicable Fees, and unless otherwise terminated in accordance with this Section 12, these Terms of Service shall commence upon Customer’s first use of the Services or acceptance of these Terms of Service (whichever comes first) and shall continue in effect for the period specified on the applicable Service Order (the “**Term**“). Each Service Order shall continue for the Term specified therein, and will AUTOMATICALLY RENEW for subsequent Terms (“**Renewal Term**“) unless either party provides at least 5 business days written notice of non-renewal prior to the expiration of the then-current Term that it elects not to renew the Services under such Service Order at the end of such Term.
-        
-    2.  #### Termination by Customer.
-        
-        Notification of of such non-renewal from Customer to Retainful must be emailed to support@retainful.com, which must be confirmed by Retainful. If Customer chooses not to renew, Customer must fully notify Retainful in writing at least \[48 business hours\] prior to the Renewal Term, in which case, Customer will continue to have access to the Services and be billed until the end of the then current term. Customer shall not receive a refund for any unused portion of the Term. In the case Customer fails to fully notify Retainful of its intent not to renew within this time, the Renewal Term will commence at the end of the then-current term and Customer is responsible for the payment of Fees for the Services rendered for that Renewal Term. Customer shall not in any event be entitled to any refund of any Fees previously paid to Retainful for Services.
-        
-    3.  #### Termination by Retainful.
-        
-        Retainful shall have the right to terminate these Terms of Service at any time without cause and without notice. In addition, Retainful may terminate these Terms of Service upon written notice to Customer (or upon written notice provided to an Authorized Reseller and then passed along by an Authorized Reseller to a Customer) if Customer becomes the subject of a petition in bankruptcy or any proceeding relating to insolvency, receivership, or liquidation for the benefit of creditors. Upon a termination by Retainful without cause, Customer may be entitled to a pro-rata refund of any pre-paid and unused Fees advanced to Retainful.
-        
-    4.  #### Past Due Bills.
-        
-        In the event of a credit card decline, Retainful, or if applicable, an Authorized Reseller, will attempt to reach out to Customer for a new payment method. If Retainful or, if applicable, an Authorized Reseller, fail to resolve the issue with Customer, the account will be terminated due to non-payment and Retainful will attempt to collect on any past due balances at Customer’s expense. Per Section 4.2, in the event Customer, or if applicable, an Authorized Reseller, requests to cancel with a past due balance, Customer is required to pay for the month of service from their initial bill date decline.
-        
-    5.  #### Consequences of Termination.
-        
-        Upon termination of these Terms of Service or the Service for any reason, Customer shall cease to use the Retainful Platform, the Services and Documentation. Retainful retains the right to terminate Customer’s access to any Retainful Platform and Services in the event of termination by either party.
-        
-    6.  #### Data Preservation, Retrieval or Transfer.
-        
-        In the event of a temporary suspension of Customer’s access to Services,
-        
+    2.  #### Termination by Customer.   
+        Notification of of such non-renewal from Customer to Retainful must be emailed to support@retainful.com, which must be confirmed by Retainful. If Customer chooses not to renew, Customer must fully notify Retainful in writing at least \[48 business hours\] prior to the Renewal Term, in which case, Customer will continue to have access to the Services and be billed until the end of the then current term. Customer shall not receive a refund for any unused portion of the Term. In the case Customer fails to fully notify Retainful of its intent not to renew within this time, the Renewal Term will commence at the end of the then-current term and Customer is responsible for the payment of Fees for the Services rendered for that Renewal Term. Customer shall not in any event be entitled to any refund of any Fees previously paid to Retainful for Services.    
+    3.  #### Termination by Retainful.  
+        Retainful shall have the right to terminate these Terms of Service at any time without cause and without notice. In addition, Retainful may terminate these Terms of Service upon written notice to Customer (or upon written notice provided to an Authorized Reseller and then passed along by an Authorized Reseller to a Customer) if Customer becomes the subject of a petition in bankruptcy or any proceeding relating to insolvency, receivership, or liquidation for the benefit of creditors. Upon a termination by Retainful without cause, Customer may be entitled to a pro-rata refund of any pre-paid and unused Fees advanced to Retainful. 
+    4.  #### Past Due Bills.    
+        In the event of a credit card decline, Retainful, or if applicable, an Authorized Reseller, will attempt to reach out to Customer for a new payment method. If Retainful or, if applicable, an Authorized Reseller, fail to resolve the issue with Customer, the account will be terminated due to non-payment and Retainful will attempt to collect on any past due balances at Customer’s expense. Per Section 4.2, in the event Customer, or if applicable, an Authorized Reseller, requests to cancel with a past due balance, Customer is required to pay for the month of service from their initial bill date decline.   
+    5.  #### Consequences of Termination.   
+        Upon termination of these Terms of Service or the Service for any reason, Customer shall cease to use the Retainful Platform, the Services and Documentation. Retainful retains the right to terminate Customer’s access to any Retainful Platform and Services in the event of termination by either party.    
+    6.  #### Data Preservation, Retrieval or Transfer.  
+        In the event of a temporary suspension of Customer’s access to Services,    
         1.  Retainful will not take any action to intentionally erase or delete Customer Data stored on the Services; and
         2.  applicable Fees will continue to accrue. In the event of the termination of these Terms of Service, Customer may, upon reasonable notice to Retainful, elect to retrieve Customer Data directly. If these Terms of Service are terminated for any reason other than Customer’s breach, Retainful will not take any action to intentionally erase or delete Customer Data stored on the Services for a period of sixty (60) days. If these Terms of Service are terminated on account of Customer’s breach or alleged breach of these Terms of Service, Retainful will not take any action to intentionally erase or delete Customer Marketing Content or Customer Data stored on the Services for a period of \[fifteen (15) days, or for sixty (60) days with respect to customer Communications as discussed above\]. In each case, Customer’s post-termination retrieval or transfer of Customer Data will be conditioned on Retainful’s receipt of all applicable Fees for the period following termination, payment in full of any other amounts owed, and Customer’s compliance with such reasonable terms and conditions as Retainful may establish with respect to such retrieval or transfer. In addition, if Customer utilizes the professional services of Retainful to assist Customer in connection with such retrieval or transfer, Customer will be responsible for Retainful’s then current charges for such professional services. In the event that Retainful does not receive all such Fees and amounts due within the applicable time periods described above, or in the event that Customer fails to notify Retainful of Customer’s election with respect to the retrieval or transfer of Customer Data within such period, Retainful shall have no obligation to continue to store Customer Data or permit Customer to retrieve or transfer the same.
     7.  #### Survival.
         
         The following shall survive the termination of these Terms of Service: (i) all liabilities accrued under these Terms of Service prior to the effective date of termination; and (ii) all provisions of Sections 3.2, 3.3, 3.5, 3.7, 4, 5.2, 5.7, 5.8, 6, 7, 8.2, 9, 11, 12.4, 12.5, 12.6, 13 and 14 of these Terms of Service. Subject to the provisions of Section 9 hereof, the rights provided in this Section 12 shall be in addition to any and all rights and remedies available to a non-defaulting party at law or in equity upon any breach of these Terms of Service by the other party.
         
-13.  ### DIGITAL MILLENNIUM COPYRIGHT ACT; TAKE DOWN NOTICE AND PROCEDURES
-    
-    It is Retainful’s policy to respond to notices alleging that any material uploaded by users of the Services or the Retainful Platform infringes another persons’ copyright. If you believe any material accessible on or from the Retainful Site or the Services infringes your copyright, you may request removal of those materials (or access thereto) from this web site by contacting the Retainful’s copyright agent (identified below) and providing the following information:
-    
+13.  ### DIGITAL MILLENNIUM COPYRIGHT ACT; TAKE DOWN NOTICE AND PROCEDURES  
+    It is Retainful’s policy to respond to notices alleging that any material uploaded by users of the Services or the Retainful Platform infringes another persons’ copyright. If you believe any material accessible on or from the Retainful Site or the Services infringes your copyright, you may request removal of those materials (or access thereto) from this web site by contacting the Retainful’s copyright agent (identified below) and providing the following information:  
     1.  Identification of the copyrighted work that you believe to be infringed. Please describe the work, and where possible include a copy or the location (URL) of an authorized version of the work.
     2.  Identification of the material that you believe to be infringing and its location. Please describe the material, and provide us with its URL or any other pertinent information that will allow us to locate the material.
     3.  A statement that you have a good faith belief that the use of the materials is not authorized by the copyright owner, its agent, or the law.
     4.  A statement that the information that you have supplied is accurate, and indicating that “under penalty of perjury,” you are the copyright owner or are authorized to act on the copyright owner’s behalf.
-    5.  A signature or the electronic equivalent from the copyright holder or authorized representative.
-    
-    Our agent for copyright issues relating to the Retainful Site or Services is:  
-    Retainful Legal  
-    Cartrabbit International Pte Ltd,  
-    09-14, High Street Plaza,  
-    High Street  
-    Singapore – 179433  
-    Email: [legal@cartrabbit.io](mailto:legal@cartrabbit.io)
-    
-    For all email submissions please include the subject line: DMCA Takedown Request.  
-    Retainful has adopted a policy of terminating, in appropriate circumstances, accounts of users of the Services or Retainful Platform who are deemed to have repeatedly uploaded content that infringes the intellectual property rights of others.
-    
-14.  ### MISCELLANEOUS
-    
-    1.  #### Marketing.
-        
+    5.  A signature or the electronic equivalent from the copyright holder or authorized representative.    
+
+Our agent for copyright issues relating to the Retainful Site or Services is:  
+Retainful Legal  
+Cartrabbit International Pte Ltd,  
+09-14, High Street Plaza,  
+High Street  
+Singapore – 179433  
+Email: [legal@cartrabbit.io](mailto:legal@cartrabbit.io)
+
+For all email submissions please include the subject line: DMCA Takedown Request.  
+Retainful has adopted a policy of terminating, in appropriate circumstances, accounts of users of the Services or Retainful Platform who are deemed to have repeatedly uploaded content that infringes the intellectual property rights of others.  
+
+14.  ### MISCELLANEOUS  
+    1.  #### Marketing  
         Customer agrees that Retainful may refer to Customer by name and trademark in Retainful’s marketing materials and web site. Customer understands and acknowledges that Retainful does not certify or endorse, and has no obligation to certify or endorse, any of Customer’s products or content.
-        
     2.  #### Entire Agreement.
-        
-        These Terms of Service, Privacy Policy, applicable Service Orders, and if applicable, the EU Data Protection Addendum, set forth the complete understanding of the parties with respect to the subject matter hereof and supersede all prior understandings and communications relating thereto. No term or condition of any other document provided to Retainful which is different from, inconsistent with, or in addition to the terms and conditions set forth herein will be binding upon Retainful.
-        
-    3.  #### Modification; Waiver.
-        
-        Retainful shall have the right to amend these Terms of Service at any time, effective upon posting of an updated version of these Terms of Service at [https://www.retainful.com/terms-of-service](https://www.retainful.com/terms-of-service). Retainful shall use reasonable efforts to provide Customer with notice of changes to these Terms of Service (including, by submitting a notice to the applicable Authorized Reseller to be forwarded to Customer), but Customer is responsible for regularly checking the Retainful Site to be informed of such changes. Continued use of the Services after any such changes are posted shall constitute Customer’s agreement to such changes. The waiver by either party of a breach of any provision hereof shall not be construed as a waiver of any succeeding breach of the same or any other provision, nor shall any delay or omission on the part of such party to avail itself of any right, power or privilege that it has or may have hereunder operate as a waiver of any right, power or privilege.
-        
-    4.  #### Governing Law.
-        
-        These Terms of Service shall be governed by the laws of the Republic of Singapore without regard to its conflict of laws provisions, shall govern the interpretation and enforcement of the arbitration agreement discussed in section 14.12. Unless you and Retainful agree otherwise in writing, in the event that the arbitration agreement is found not to apply to you or a particular claim (except for small claims court actions), as a result of a decision by the arbitrator or a court order, you agree that the claim will be resolved exclusively by the federal court in Singapore. You and Retainful agree to submit to the personal jurisdiction of the courts located within Singapore for the purposes of litigating such claims. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Your use of the Services may also be subject to other local, state, national, or international laws.
-        
-    5.  #### Assignment.
-        
-        Customer may not assign its rights or delegate any obligations hereunder without the express prior written consent of Retainful. Any assignment by Customer without the prior written consent of Retainful shall be null and void. Retainful may assign its rights or obligations hereunder without notice or consent; provided, however, that the Services shall continue to operate as specified in these Terms of Service. These Terms of Service shall inure to the benefit of each party’s permitted successors and assigns.
-        
-    6.  #### Force Majeure
-        
-        If either party is unable to perform any of its obligations hereunder (other than payment obligations) due to any act of God, fire, casualty, flood, war, strike, shortage or any other cause beyond its reasonable control, and if such party uses reasonable efforts to avoid such occurrence and minimize its duration and gives prompt notice to the other party, then the affected party’s performance shall be excused and the time for its performance shall be extended for the period of delay or inability to perform. If the force majeure continues for more than thirty (30) calendar days, then either party may terminate these Terms of Service for convenience upon written notice to the other party.
-        
-    7.  #### Severability.
-        
-        In the event that any provision contained herein shall for any reason be held invalid, illegal or unenforceable in any respect by a court of competent jurisdiction, to such extent such provision shall be deemed null and void and severed from these Terms of Service, and the remainder hereof shall remain in full force and effect and enforceable.
-        
-    8.  #### Independent Contractor.
-        
-        Neither Customer nor Retainful shall be deemed to be an agent of the other and the relationship of Customer and Retainful shall be that of independent contractors. Neither Customer nor Retainful shall have any right or authority to assume any obligations, or to make any representations or warranties, whether express or implied, on behalf of the other party, or to bind the other party in any matter whatsoever..
-        
-    9.  #### Notices.
-        
-        Except as otherwise provided, notices under these Terms of Service shall be delivered by email addressed to the other party at such address as is set forth in the applicable Service Order or such other email address as Customer may provide to Retainful. Such notice will be deemed to have been given as of the date it is delivered by electronic mail, personally, by confirmed facsimile or by courier, or five (5) days after it is sent by postal mail. All communications and notices to be made or given pursuant to these Terms of Service shall be in the English language.
-        
-    10.  #### Compliance with Laws.
-        
-        Customer agrees to comply at all times with all laws, rules and regulations applicable to Customer’s use of the Services, including but not limited to data privacy laws and legal requirements.
-        
-    11.  #### Headings.
-        
-        The headings of the sections of these Terms of Service are for convenience of reference only and shall not be considered in construing these Terms of Service.
-        
-    12.  #### Arbitration.
-        
-        In any claim, action or proceeding to enforce any right or obligation of the parties under these Terms of Service including, without limitation, relating to your use of our services, you hereby waive any right you may now have or hereafter possess to a trial by jury. Both parties agree to resolve any dispute either Party may have arising out of or relating to these Terms of Service or the Retainful Services in good faith mediation. In the event no mutual agreement is made under mediation within sixty (60) days of notice of such dispute, the Parties have the right to resolve such dispute via arbitration in Singapore administered by the Singapore International Arbitration Centre (SIAC) in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“SIAC Rules”) for the time being in force, which rules are deemed to be incorporated by reference in this clause.. Even if allowed under SIAC Rules, no class or collective action or arbitration may be brought against Retainful hereunder unless required by applicable law. If either you or Retainful intends to seek arbitration under these terms of service, the party seeking arbitration must first notify the other party of the dispute in writing at least 30 days in advance of initiating the arbitration. Notice to Retainful should be sent as required by these Terms of Service. The notice must describe the nature of the claim and the relief being sought. If you and Retainful are unable to resolve our dispute within 30 days, either party may then proceed to file a claim for arbitration. The arbitration, information produced, and pre-and post-hearing proceedings will be confidential and any award shall not be used in any other case except to enforce the award itself.
-        
-    13.  #### Class Action Waiver.
-        
-        Any claim must be brought in the respective party’s individual capacity, and not as a plaintiff or class member in any purported class, collective, representative, multiple plaintiff, or similar proceeding (“**Class Action**”). The parties expressly waive any ability to maintain any Class Action in any forum. If the claim is subject to arbitration, the arbitrator shall not have authority to combine or aggregate similar claims or conduct any Class Action nor make an award to any person or entity not a party to the arbitration. Any claim that all or part of this Class Action Waiver is unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdiction and not by an arbitrator. The parties understand that any right to litigate in court, to have a judge or jury decide their case, or to be a party to a class or representative action, is waived, and that any claims must be decided individually, through arbitration. If this class action waiver is found to be unenforceable, then the entirety of the arbitration agreement in Section 14.12, if otherwise effective, shall be null and void. The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim.
-        
+        These Terms of Service, Privacy Policy, applicable Service Orders, and if applicable, the EU Data Protection Addendum, set forth the complete understanding of the parties with respect to the subject matter hereof and supersede all prior understandings and communications relating thereto. No term or condition of any other document provided to Retainful which is different from, inconsistent with, or in addition to the terms and conditions set forth herein will be binding upon Retainful.   
+    3.  #### Modification; Waiver.  
+        Retainful shall have the right to amend these Terms of Service at any time, effective upon posting of an updated version of these Terms of Service at [https://www.retainful.com/terms-of-service](https://www.retainful.com/terms-of-service). Retainful shall use reasonable efforts to provide Customer with notice of changes to these Terms of Service (including, by submitting a notice to the applicable Authorized Reseller to be forwarded to Customer), but Customer is responsible for regularly checking the Retainful Site to be informed of such changes. Continued use of the Services after any such changes are posted shall constitute Customer’s agreement to such changes. The waiver by either party of a breach of any provision hereof shall not be construed as a waiver of any succeeding breach of the same or any other provision, nor shall any delay or omission on the part of such party to avail itself of any right, power or privilege that it has or may have hereunder operate as a waiver of any right, power or privilege.   
+    4.  #### Governing Law. 
+        These Terms of Service shall be governed by the laws of the Republic of Singapore without regard to its conflict of laws provisions, shall govern the interpretation and enforcement of the arbitration agreement discussed in section 14.12. Unless you and Retainful agree otherwise in writing, in the event that the arbitration agreement is found not to apply to you or a particular claim (except for small claims court actions), as a result of a decision by the arbitrator or a court order, you agree that the claim will be resolved exclusively by the federal court in Singapore. You and Retainful agree to submit to the personal jurisdiction of the courts located within Singapore for the purposes of litigating such claims. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Your use of the Services may also be subject to other local, state, national, or international laws.   
+    5.  #### Assignment.    
+        Customer may not assign its rights or delegate any obligations hereunder without the express prior written consent of Retainful. Any assignment by Customer without the prior written consent of Retainful shall be null and void. Retainful may assign its rights or obligations hereunder without notice or consent; provided, however, that the Services shall continue to operate as specified in these Terms of Service. These Terms of Service shall inure to the benefit of each party’s permitted successors and assigns.   
+    6.  #### Force Majeure  
+        If either party is unable to perform any of its obligations hereunder (other than payment obligations) due to any act of God, fire, casualty, flood, war, strike, shortage or any other cause beyond its reasonable control, and if such party uses reasonable efforts to avoid such occurrence and minimize its duration and gives prompt notice to the other party, then the affected party’s performance shall be excused and the time for its performance shall be extended for the period of delay or inability to perform. If the force majeure continues for more than thirty (30) calendar days, then either party may terminate these Terms of Service for convenience upon written notice to the other party. 
+    7.  #### Severability.  
+        In the event that any provision contained herein shall for any reason be held invalid, illegal or unenforceable in any respect by a court of competent jurisdiction, to such extent such provision shall be deemed null and void and severed from these Terms of Service, and the remainder hereof shall remain in full force and effect and enforceable.   
+    8.  #### Independent Contractor.    
+        Neither Customer nor Retainful shall be deemed to be an agent of the other and the relationship of Customer and Retainful shall be that of independent contractors. Neither Customer nor Retainful shall have any right or authority to assume any obligations, or to make any representations or warranties, whether express or implied, on behalf of the other party, or to bind the other party in any matter whatsoever..   
+    9.  #### Notices.   
+        Except as otherwise provided, notices under these Terms of Service shall be delivered by email addressed to the other party at such address as is set forth in the applicable Service Order or such other email address as Customer may provide to Retainful. Such notice will be deemed to have been given as of the date it is delivered by electronic mail, personally, by confirmed facsimile or by courier, or five (5) days after it is sent by postal mail. All communications and notices to be made or given pursuant to these Terms of Service shall be in the English language.  
+    10.  #### Compliance with Laws. 
+        Customer agrees to comply at all times with all laws, rules and regulations applicable to Customer’s use of the Services, including but not limited to data privacy laws and legal requirements.    
+    11.  #### Headings. 
+        The headings of the sections of these Terms of Service are for convenience of reference only and shall not be considered in construing these Terms of Service.  
+    12.  #### Arbitration.  
+        In any claim, action or proceeding to enforce any right or obligation of the parties under these Terms of Service including, without limitation, relating to your use of our services, you hereby waive any right you may now have or hereafter possess to a trial by jury. Both parties agree to resolve any dispute either Party may have arising out of or relating to these Terms of Service or the Retainful Services in good faith mediation. In the event no mutual agreement is made under mediation within sixty (60) days of notice of such dispute, the Parties have the right to resolve such dispute via arbitration in Singapore administered by the Singapore International Arbitration Centre (SIAC) in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“SIAC Rules”) for the time being in force, which rules are deemed to be incorporated by reference in this clause.. Even if allowed under SIAC Rules, no class or collective action or arbitration may be brought against Retainful hereunder unless required by applicable law. If either you or Retainful intends to seek arbitration under these terms of service, the party seeking arbitration must first notify the other party of the dispute in writing at least 30 days in advance of initiating the arbitration. Notice to Retainful should be sent as required by these Terms of Service. The notice must describe the nature of the claim and the relief being sought. If you and Retainful are unable to resolve our dispute within 30 days, either party may then proceed to file a claim for arbitration. The arbitration, information produced, and pre-and post-hearing proceedings will be confidential and any award shall not be used in any other case except to enforce the award itself. 
+    13.  #### Class Action Waiver.  
+        Any claim must be brought in the respective party’s individual capacity, and not as a plaintiff or class member in any purported class, collective, representative, multiple plaintiff, or similar proceeding (“**Class Action**”). The parties expressly waive any ability to maintain any Class Action in any forum. If the claim is subject to arbitration, the arbitrator shall not have authority to combine or aggregate similar claims or conduct any Class Action nor make an award to any person or entity not a party to the arbitration. Any claim that all or part of this Class Action Waiver is unenforceable, unconscionable, void, or voidable may be determined only by a court of competent jurisdiction and not by an arbitrator. The parties understand that any right to litigate in court, to have a judge or jury decide their case, or to be a party to a class or representative action, is waived, and that any claims must be decided individually, through arbitration. If this class action waiver is found to be unenforceable, then the entirety of the arbitration agreement in Section 14.12, if otherwise effective, shall be null and void. The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim.    
 
 If Customer has any questions or concerns about what has been stated in this Terms of Service, please contact us at [legal@cartrabbit.io](mailto:legal@cartrabbit.io)
