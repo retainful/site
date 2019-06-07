@@ -34,8 +34,9 @@ const renderAst = new rehypeReact({
 }).Compiler
 
 
-const Post = ({ excerptData }) => (
+const Post = ({ title,excerptData,description }) => (
   <div>
+  <SEO title={title} description={description} />
   {renderAst(excerptData)}
   </div>
 )
