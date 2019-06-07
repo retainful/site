@@ -5,6 +5,7 @@ import SEO from '../components/seo';
 import Container from '../components/container';
 import { StaticQuery } from 'gatsby';
 import Post from '../components/post'
+import Metatags from '../components/Metatags'
 
 
 const TermsOfService = () => {
@@ -17,6 +18,8 @@ const TermsOfService = () => {
         <Container type="s">
         <div className="legal-info">
           <Post
+            title={data.markdownRemark.frontmatter.title}
+            description={data.markdownRemark.frontmatter.description}
             excerptData={data.markdownRemark.htmlAst}
             />
           </div>
