@@ -12,7 +12,7 @@ export default function TitleLink( props ) {
     const classes = `titlelink ${props.type}`;
     return(
         <div className={classes} style={titlelinkStyle}>
-            { props.children } <a href={props.link} target="_blank"> <FaExternalLinkAlt/> </a>
+            { props.children } <a href={props.link} target="_blank" rel="noopener"> <FaExternalLinkAlt/> </a>
         </div>
     )
 }
