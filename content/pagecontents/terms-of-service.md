@@ -1,6 +1,6 @@
 ---
 path: "/terms-of-service"
-date: "2019-05-05"
+updated: "2019-05-05"
 title: "Retainful Terms of Services | Disclaimer & Notice"
 description: "Read how Retainful publications structured the privacy policy and data consent for marketing promotions. Find how we use your data for email marketing campaigns."
 ---
