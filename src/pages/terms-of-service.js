@@ -5,8 +5,6 @@ import SEO from '../components/seo';
 import Container from '../components/container';
 import { StaticQuery } from 'gatsby';
 import Post from '../components/post'
-import Metatags from '../components/Metatags'
-
 
 const TermsOfService = () => {
   return (
@@ -33,7 +31,6 @@ const TermsOfService = () => {
 const TocQuery = graphql`
  query TocQuery{
   markdownRemark(frontmatter: {path: {eq: "/terms-of-service"}}){
-    html
     htmlAst
     frontmatter{
       title
