@@ -9,11 +9,7 @@ thumbnail: "../images/How-to-check-abandoned-carts-in-woocommerce/How-to-check-a
 category: 'WooCommerce'
 ogtype: blog
 ---
-
-Disclaimer!
-
-Following is an explicit content juiced with information to help you recover the lost sales in your WooCommerce store.  
-  
+ 
 ## What is cart abandonment?
 
 Expecting every visitor to shop something at your store is a bit beyond reality. People visit your online store, browse through various product categories, add products to the cart but most of them exit without checking out.  
