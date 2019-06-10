@@ -62,6 +62,7 @@ export default function BlogPost(props) {
     const thumbnail = props.data.markdownRemark.frontmatter.image.childImageSharp.fluid.src;
     const {title} = props.data.markdownRemark.frontmatter;
     const {prev, next} = props.pageContext;
+    //const toc = props.data.markdownRemark.tableOfContents;
     // const toc = props.data.markdownRemark.htmlAst.children.filter((item)=>{
     //     if(item.tagName === "h3"){
     //         return item;
@@ -107,6 +108,10 @@ export default function BlogPost(props) {
                         }
                         <hr/>
                     </div>
+                        {/*} <div className="table-of-contents">
+                            <h4>Table of Contents</h4>
+                            <div  dangerouslySetInnerHTML={{__html: props.data.markdownRemark.tableOfContents}} />
+                    </div> */}
                     <div className="content">
                         {/*<div className="table-of-contents">*/}
                             {/*<h4>Table of Contents</h4>*/}
