@@ -21,7 +21,10 @@ Expecting every visitor to shop something at your store is a bit beyond reality.
 The eCommerce scenario where a customer adds products to the cart but exit without making the purchase is termed as cart abandonment.
 
 For the statistic, 70% of online shoppers abandon carts & that is 7/ 10 potential leads.
-So, Why people abandon cart?  
+
+___
+
+## Why people abandon cart?  
 People abandoning their carts is something commonly found across online stores and cart abandonment has its own tail of reasons as well. Understanding why customers abandon cart can put you forward in knowing how to minimize it.
 
 Following are some of the most common reasons for people abandoning your online cart,  
@@ -90,7 +93,9 @@ Now that your WooCommerce store is powered with the best cart recovery plugin, a
 
 ![Retainful Admin Panel](../images/How-to-check-abandoned-carts-in-woocommerce/AdminDashboard.png)
 
-Dashboard Briefed… & Cart Recovery Ideas
+<br>
+
+#### Dashboard Briefed… & Cart Recovery Ideas
 - You can track three type carts in your WooCommerce store.
 - Abandoned Carts, Recovered carts & In-progress carts.  
     While the first two are self-explanatory, the third type- In progress cart is an exclusive Retainful feature.    
