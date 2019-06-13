@@ -6,6 +6,12 @@ const Menubar = [
         TARGET:''
     },
     {
+        TITLE: 'Features',
+        LINK: '/features/woocommerce',
+        CLASS: 'nav-link',
+        TARGET:''
+    },
+    {
         TITLE: 'Blog',
         LINK: '/blog',
         CLASS: 'nav-link',
@@ -17,12 +23,7 @@ const Menubar = [
         CLASS: 'nav-link',
         TARGET:''
     },
-    {
-        TITLE: 'Features',
-        LINK: '/features/woocommerce',
-        CLASS: 'nav-link',
-        TARGET:''
-    },
+    
 ];
 
 export default Menubar;
