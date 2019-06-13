@@ -25,8 +25,8 @@ class MenuCard extends React.Component {
 
     render() {
         return (
-         <ul className="navbar-nav ml-auto navbar-right">
-                {MenuCard.menuCallout()}
+         <ul className="navbar-nav">
+            {MenuCard.menuCallout()}
         </ul>
         )
     }
