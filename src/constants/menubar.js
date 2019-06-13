@@ -12,6 +12,12 @@ const Menubar = [
         TARGET:''
     },
     {
+        TITLE: 'Support',
+        LINK: '/support',
+        CLASS: 'nav-link',
+        TARGET:''
+    },
+    {
         TITLE: 'Blog',
         LINK: '/blog',
         CLASS: 'nav-link',
