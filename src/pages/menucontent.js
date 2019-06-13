@@ -17,7 +17,7 @@ class MenuCard extends React.Component {
              //const cardClass = `card home-callout callout--${card.BADGE}`;
             return (
                 <li className="nav-item">
-                    <Link to={card.LINK} className={card.CLASS} target={card.TARGET}>{card.TITLE}</Link>
+                    <Link activeClassName="active" to={card.LINK} className={card.CLASS} target={card.TARGET}>{card.TITLE}</Link>
                 </li>
             );
         });
