@@ -9,7 +9,11 @@ const Menubar = [
         TITLE: 'Features',
         LINK: '/features/woocommerce',
         CLASS: 'nav-link',
-        TARGET:''
+        TARGET:'',
+        DROPDOWN_TARGET: 'navbarDropdown',
+        DROPDOWN_LINKS: {
+            'item': 'link'
+        }
     },
     {
         TITLE: 'Support',
@@ -29,7 +33,6 @@ const Menubar = [
         CLASS: 'nav-link',
         TARGET:''
     },
-    
 ];
 
 export default Menubar;
