@@ -8,11 +8,12 @@ const getSchemaOrgJSONLD = ({
     image,
     description,
     datePublished,
+    authorName
   }) => {
     const schemaOrgJSONLD = [
       {
         '@context': 'http://schema.org',
-        '@type': 'product',
+        '@type': 'Website',
         url,
         name: title,
         alternateName: title,
@@ -50,15 +51,15 @@ const getSchemaOrgJSONLD = ({
             },
             description,
             author: {
-              '@type': 'Product',
-              name: 'retainful',
+              '@type': 'person',
+               name: authorName,
             },
             publisher: {
-              '@type': 'Organisation',
+              '@type': 'Website',
               url: 'https://retainful.com',
             },
             mainEntityOfPage: {
-              '@type': 'Product',
+              '@type': 'Website',
               '@id': 'retainful',
             },
             datePublished,
@@ -69,6 +70,8 @@ const getSchemaOrgJSONLD = ({
 
   const Metatags  =(props) => {
 
+    {console.log(props)}
+
   const title =  props.title;
   const description = props.description;
   const image = props.thumbnail;
@@ -76,6 +79,7 @@ const getSchemaOrgJSONLD = ({
   const url = props.url;
   const datePublished = props.date;
   const isBlogPost=props.isBlogPost;
+  const authorName =props.author
 
   const schemaOrgJSONLD = getSchemaOrgJSONLD({
     url,
@@ -83,7 +87,8 @@ const getSchemaOrgJSONLD = ({
     image,
     description,
     datePublished,
-    isBlogPost
+    isBlogPost,
+    authorName
   });
   
   return (
