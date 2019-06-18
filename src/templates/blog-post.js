@@ -62,6 +62,7 @@ export default function BlogPost(props) {
     const thumbnail = props.data.markdownRemark.frontmatter.image.childImageSharp.fluid.src;
     const {title} = props.data.markdownRemark.frontmatter;
     const datePublished = props.data.markdownRemark.frontmatter.date;
+    const author = props.data.markdownRemark.frontmatter.author;
     const {prev, next} = props.pageContext;
     //const toc = props.data.markdownRemark.tableOfContents;
     // const toc = props.data.markdownRemark.htmlAst.children.filter((item)=>{
@@ -88,6 +89,7 @@ export default function BlogPost(props) {
                 pathname={props.location.pathname}
                 datePublished = {datePublished}
                 isBlogPost= "true"
+                author={author}
             />
             <div className="single-blog-post">
                 <Container type='s'>
