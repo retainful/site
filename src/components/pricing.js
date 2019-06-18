@@ -59,7 +59,7 @@ class PricingTable extends React.Component {
     render() {
         return (
             <div id="price-slider">
-                <div className="calcuate-pricing-plan container-m">
+                <div className="calcuate-pricing-plan container">
                     <h4>How many customers does your store have?</h4>
                     <div className="customer-select-box">
                         <select id="customer-count-select" onChange={this.handleOnChangeCount}>
@@ -94,7 +94,7 @@ class PricingTable extends React.Component {
                                     <div className="table-left wow fadeInDown">
                                         <div className="pricing-details">
                                             <h3>Free forever</h3>
-                                            <span className="price-amount"><span className="symbol">$</span>0.00</span>
+                                            <span className="price-amount">$ 0.00</span>
                                             <span className="price-period">per month</span>
                                             <ul>
                                                 <li>100 contacts</li>
@@ -104,8 +104,8 @@ class PricingTable extends React.Component {
                                                 <li>Signup-forms</li>
                                                 <li>Customer segmentation</li>
                                             </ul>
-                                            <p>
-                                                <a className="btn-outline btn-lg" href="https://app.campaignrabbit.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                            <p className="text-center">
+                                                <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
                                             </p>
                                         </div>
                                     </div>
@@ -114,7 +114,7 @@ class PricingTable extends React.Component {
                                     <div className="table-left wow fadeInDown">
                                         <div className="pricing-details">
                                             <h3>Essential</h3>
-                                            <span className="price-amount"><span className="symbol">$</span>
+                                            <span className="price-amount">$
                                                 { this.state.pricingPeriod === 'month'
                                                     ? <span id="monthprice" className="price">{this.state.monthPrice}</span>
                                                     : <span id="yearprice" className="price">{this.state.yearPrice}</span>
@@ -128,8 +128,8 @@ class PricingTable extends React.Component {
                                                 <li>Advanced Segmentation</li>
                                                 <li>Email and Chat priority support</li>
                                             </ul>
-                                            <p>
-                                                <a className="btn-action btn-lg" href="https://app.campaignrabbit.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                            <p className="text-center">
+                                                <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
                                             </p>
                                         </div>
                                     </div>
@@ -138,7 +138,7 @@ class PricingTable extends React.Component {
                                     <div className="table-left wow fadeInDown">
                                         <div className="pricing-details">
                                             <h3>Pro</h3>
-                                            <span className="price-amount"><span className="symbol">$</span>
+                                            <span className="price-amount">$
                                                 { this.state.pricingPeriod === 'month'
                                                     ? <span id="monthpricepro" className="price">{this.state.monthPricePro}</span>
                                                     : <span id="yearpricepro" className="price">{this.state.yearPricePro}</span>
@@ -152,8 +152,8 @@ class PricingTable extends React.Component {
                                                 <li>Priority Support</li>
                                                 <li>Migration from other platforms</li>
                                             </ul>
-                                            <p>
-                                                <a className="btn-outline btn-lg" href="https://app.campaignrabbit.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                            <p className="text-center">
+                                                <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
                                             </p>
                                         </div>
                                     </div>
@@ -169,7 +169,7 @@ class PricingTable extends React.Component {
                                             <h4>Enterprise</h4>
                                             <p>
                                                 The <strong>Basic Plan</strong> includes all of the essentials for teams up to 100 contacts. Sign up for a 30-day trial
-                                                <a href="https://app.campaignrabbit.com/" target="_blank" rel="noopener noreferrer"> Get Started Now <FaChevronRight/></a>
+                                                <a href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now <FaChevronRight/></a>
                                             </p>
                                         </div>
                                     </div>

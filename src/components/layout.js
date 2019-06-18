@@ -8,6 +8,11 @@ import Footer from './footer'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './layout.scss'
 
+if (typeof window !== 'undefined') {
+    window.jQuery = window.$ = require('jquery');
+    require('bootstrap');
+}
+
 const Layout = ({children, location, crumbLabel}) => (
     <StaticQuery
         query={graphql`
