@@ -3,7 +3,7 @@ title: "Collecting Email Address Before Adding an Item to Cart in WooCommerce"
 description: "Learn how to collect the email address of the customer before adding to cart so that you can recover it even if customer abandons the cart"
 date: "2019-06-01"
 author: "Ramesh"
-tags: ["woocommerce", "abandoned cart recovery emails", "email collection popup"]
+tags: ["woocommerce", "abandoned-cart-recovery-emails", "email-collection-popup"]
 category: woocommerce
 ---
 
