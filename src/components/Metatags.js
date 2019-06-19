@@ -26,21 +26,6 @@ const getSchemaOrgJSONLD = ({
           ...schemaOrgJSONLD,
           {
             '@context': url,
-            '@type': 'BreadcrumbList',
-            itemListElement: [
-              {
-                '@type': 'ListItem',
-                position: 1,
-                item: {
-                  '@id': url,
-                  name: title,
-                  image,
-                },
-              },
-            ],
-          },
-          {
-            '@context': url,
             '@type': 'BlogPosting',
             url,
             name: title,
@@ -81,7 +66,7 @@ const getSchemaOrgJSONLD = ({
   const url = props.url;
   const datePublished = props.date;
   const isBlogPost=props.isBlogPost;
-  const authorName =props.author
+  const authorName = props.author
   const sitename = props.sitename
 
   const schemaOrgJSONLD = getSchemaOrgJSONLD({
