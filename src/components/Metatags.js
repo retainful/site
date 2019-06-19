@@ -14,7 +14,7 @@ const getSchemaOrgJSONLD = ({
     const schemaOrgJSONLD = [
       {
         '@context': 'http://schema.org',
-        '@type': 'Website',
+        '@type': 'BlogPosting',
         url,
         name: title,
         alternateName: title,
@@ -25,31 +25,26 @@ const getSchemaOrgJSONLD = ({
       ? [
           ...schemaOrgJSONLD,
           {
-            '@context': url,
-            '@type': 'BlogPosting',
-            url,
-            name: title,
-            alternateName: title,
+            mainEntityOfPage: {
+              '@type': 'Website',
+              '@id': sitename,
+            },
             headline: title,
             image: {
               '@type': 'ImageObject',
               url: image,
             },
-            description,
+            datePublished,
             author: {
               '@type': 'person',
                name: authorName,
             },
             publisher: {
-              '@type': 'Website',
+              '@type': 'Organization',
               url: url,
               name:sitename,
             },
-            mainEntityOfPage: {
-              '@type': 'Website',
-              '@id': sitename,
-            },
-            datePublished,
+            description,
           },
         ]
       : schemaOrgJSONLD;
@@ -57,17 +52,16 @@ const getSchemaOrgJSONLD = ({
 
   const Metatags  =(props) => {
 
-    {console.log(props)}
-
   const title =  props.title;
   const description = props.description;
   const image = props.thumbnail;
   const pathname = props.pathname;
   const url = props.url;
-  const datePublished = props.date;
+  const datePublished = props.datePublished;
   const isBlogPost=props.isBlogPost;
-  const authorName = props.author
-  const sitename = props.sitename
+  const authorName = props.author;
+  const sitename = props.sitename;
+  const keywords = props.keywords ? props.keywords.join(`, `) : null;
 
   const schemaOrgJSONLD = getSchemaOrgJSONLD({
     url,
@@ -81,11 +75,12 @@ const getSchemaOrgJSONLD = ({
   });
   
   return (
-    <Helmet>
+    <Helmet title={title}>
       {/* General tags */}
       <meta name="robots" content="index, follow" />
       <meta name="title" content={title} />
       <meta name="description" content={description} />
+      {keywords ? <meta name= "keywords" content={keywords} />  : null}
       <meta name="image" content={image} />
 
       {/* Schema.org tags */}

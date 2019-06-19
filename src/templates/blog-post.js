@@ -89,7 +89,7 @@ export default function BlogPost(props) {
                 url={url}
                 pathname={props.location.pathname}
                 datePublished = {datePublished}
-                isBlogPost= "true"
+                isBlogPost= {true}
                 author={author}
                 sitename={sitename}
             />
