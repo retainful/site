@@ -1,78 +1,114 @@
 import React from 'react';
 import Helmet from 'react-helmet'
 
-function Metatags(props) {
+const getSchemaOrgJSONLD = ({
+    isBlogPost,
+    url,
+    title,
+    image,
+    description,
+    datePublished,
+    authorName,
+    sitename
+  }) => {
+    const schemaOrgJSONLD = [
+      {
+        '@context': 'http://schema.org',
+        '@type': 'Website',
+        url,
+        name: title,
+        alternateName: title,
+      },
+    ];
+  
+    return isBlogPost
+      ? [
+          ...schemaOrgJSONLD,
+          {
+            '@context': url,
+            '@type': 'BlogPosting',
+            url,
+            name: title,
+            alternateName: title,
+            headline: title,
+            image: {
+              '@type': 'ImageObject',
+              url: image,
+            },
+            description,
+            author: {
+              '@type': 'person',
+               name: authorName,
+            },
+            publisher: {
+              '@type': 'Website',
+              url: url,
+              name:sitename,
+            },
+            mainEntityOfPage: {
+              '@type': 'Website',
+              '@id': sitename,
+            },
+            datePublished,
+          },
+        ]
+      : schemaOrgJSONLD;
+  };
 
-    return (
-        <Helmet
-            title={props.title}
-            meta={[
-                { name: 'title', content: props.title },
+  const Metatags  =(props) => {
 
-                { name: 'description', content: props.description },
-                {
-                    property: 'og:title',
-                    content: props.title,
-                },
-                {
-                    property: 'og:url',
-                    content: props.pathname ? props.url + props.pathname : props.url,
-                },
+    {console.log(props)}
 
-                {
-                    property: 'og:image',
-                    content: props.thumbnail && props.thumbnail,
-                },
-                {
-                    property: 'og:image:secure_url',
-                    content: props.thumbnail && props.thumbnail,
-                },
+  const title =  props.title;
+  const description = props.description;
+  const image = props.thumbnail;
+  const pathname = props.pathname;
+  const url = props.url;
+  const datePublished = props.date;
+  const isBlogPost=props.isBlogPost;
+  const authorName = props.author
+  const sitename = props.sitename
 
-                {
-                    property: 'og:description',
-                    content: props.description,
-                },
+  const schemaOrgJSONLD = getSchemaOrgJSONLD({
+    url,
+    title,
+    image,
+    description,
+    datePublished,
+    isBlogPost,
+    authorName,
+    sitename
+  });
+  
+  return (
+    <Helmet>
+      {/* General tags */}
+      <meta name="robots" content="index, follow" />
+      <meta name="title" content={title} />
+      <meta name="description" content={description} />
+      <meta name="image" content={image} />
 
-                {
-                    property: 'og:image:width',
-                    content: '1200',
-                },
+      {/* Schema.org tags */}
+      <script type="application/ld+json">
+        {JSON.stringify(schemaOrgJSONLD)}
+      </script>
 
-                {
-                    property: 'og:image:height',
-                    content: '630',
-                },
-                {
-                    property: 'og:locale',
-                    content: 'en',
-                },
+      {/* OpenGraph tags */}
+      <meta property="og:url" content={url+pathname} />
+      {isBlogPost ? <meta property="og:type" content="article" /> : null} 
+      <meta property="og:title" content={title} />
+      <meta property="og:description" content={description} />
+      <meta property="og:image" content={image} />
 
-                { property: 'og:type', content: props.ogtype ? props.ogtype : 'website' },
-
-                { name: 'twitter:card', content: 'summary_large_image' },
-
-                { name: 'twitter:title', content: props.title },
-
-                {
-                    name: 'twitter:description',
-                    content: props.description,
-                },
-                {
-                    name: 'twitter:image',
-                    content: props.thumbnail && props.thumbnail,
-                },
-
-
-                { name: 'robots', content: 'index, follow' },
-
-                { name: 'twitter:creator', content: '@retainful' },
-                { name: 'twitter:domain', content: 'retainful.com' },
-                { property: 'og:site_name', content: 'Retainful' }
-            ]}
-        >
-            <html lang="en" />
-        </Helmet>
-    )
-}
+      {/* Twitter Card tags */}
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:creator" content="@retainful" />
+      <meta name="twitter:title" content={title} />
+      <meta name="twitter:description" content={description} />
+      <meta name="twitter:image" content={image} />
+      <meta name="twitter:domain" content="retainful.com" />
+    </Helmet>
+  );
+};
 
 export default Metatags;

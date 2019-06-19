@@ -66,7 +66,7 @@ So word the popup header differently!. Here are some creative headings for you!
 
 ### Want to provide a better motivation?
 
-Retainful understands the customer's hesitation in parting with their email. So we have come up with an incentivisation feature to motivate customers to give thier email.
+Retainful understands the customer's hesitation in parting with their email. So we have come up with an incentivisation feature to motivate customers to give thier email. You can display an offer in the Add to cart Popup and send a coupon code when customer enter's his email address.
 
-**Checkout the tutorial on [Incentivize customer to provide email before they add to cart](https://www.retainful.com/docs/woocommerce)**
+**Checkout the tutorial on [Showing an Offer in Email Collection Popup](https://www.retainful.com/docs/woocommerce/coupon-for-email-popup)**
 
