@@ -19,7 +19,7 @@ class PricingPage extends React.Component {
                         <div className="container">
                             <h2>All the tools you need <br/>
                                 in one workspace.</h2>
-                            <p>Estimate your monthly cost based on your customers.</p>
+                            <p>Choose a plan for your platform.</p>
                         </div>
                     </div>
 
@@ -28,16 +28,16 @@ class PricingPage extends React.Component {
                     <div className="faq-block">
                         <div className="container">
                             <div className="included-faq-block">
-                                <h3>FAQ</h3>
-                                <div className="row">
+                                <div className="row justify-content-center">
                                     <div className="col-sm-7">
+                                        <h3>FAQ</h3>
                                         <div className="faq-wrapper">
                                             <h4>How do estimate the number of customers?</h4>
                                             <p>Our pricing calculator takes into account the billing range at beginning of your billing cycle. If you cross a billing range, it will be accounted only in your next billing cycle.</p>
                                         </div>
                                         <div className="faq-wrapper">
                                             <h4>Do you have annual pricing plan?</h4>
-                                            <p>At the moment, we do not have an annual billing plan. But if you have a large customer base and wanted to have a customized quote, feel free to <a href="mailto:support@Retainful.com"> reach out to us!</a></p>
+                                            <p>At the moment, we do not have an annual billing plan. But if you have a large customer base and wanted to have a customized quote, feel free to <a href="mailto:support@retainful.com"> reach out to us!</a></p>
                                         </div>
 
                                         <div className="faq-wrapper">

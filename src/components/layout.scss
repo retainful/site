@@ -1067,29 +1067,37 @@ body {
   .pricing-section {
     width: 100%;
     height: 100%;
-    padding-top: 80px;
-    .enterprise-pricing-plan{
-      padding: 20px;
-      margin: 30px auto;
-      background-color: #FFFFFF;
-      box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, .1);
-      border: transparent;
-      border-radius: 10px;
-      .pricing-details{
-        padding-top: 0;
-        h4{
-          margin: 0 0 10px;
+    padding-top: 30px;
+    > h3 {
+      font-family: $primary-font !important;
+      font-size: 32px;
+      color: #526BCC;
+      font-weight: 700;
+      line-height: 1.4;
+      margin-bottom: 30px;
+    }
+  }
+  .enterprise-pricing-plan{
+    padding: 20px;
+    margin: 30px auto;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, .1);
+    border: transparent;
+    border-radius: 10px;
+    .pricing-details{
+      padding-top: 0;
+      h4{
+        margin: 0 0 10px;
+      }
+      p{
+        font-size: 16px;
+        strong{
+          color: #444;
         }
-        p{
-          font-size: 16px;
-          strong{
-            color: #444;
-          }
-          a{
-            display: inline-flex;
-            align-items: center;
-            margin-left: 10px;
-          }
+        a{
+          display: inline-flex;
+          align-items: center;
+          margin-left: 10px;
         }
       }
     }
@@ -1099,22 +1107,22 @@ body {
     padding-bottom: 30px;
   }
 
-  .pricing-intro h1 {
+  .pricing-intro h3 {
     font-size: 32px;
     color: #364655;
     font-weight: 600;
     line-height: 1.4;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
   }
 
   .pricing-intro p {
-    font-size: 16px;
-    color: #97a6b5;
+    font-size: 20px;
+    color: #777777;
     font-weight: 500;
     line-height: 1.6;
     letter-spacing: 0;
     margin-top: 10px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
   }
 
   .pricing-details {
@@ -1130,12 +1138,11 @@ body {
     border: transparent;
     border-radius: 10px;
     max-width: 400px;
-    text-align: left;
   }
   .pricing-section .featured {
-    //transform: scale(1.09);
-    //padding: 0;
-    //z-index: 2;
+    transform: scale(1.09);
+    padding: 0;
+    z-index: 2;
   }
   .table-left .icon, .table-right .icon {
     padding: 50px 50px 40px 50px;
@@ -1148,7 +1155,7 @@ body {
   }
 
   .table-left .pricing-details span.price-amount, .table-right .pricing-details span.price-amount {
-    display: inline-block;
+    display: block;
     font-size: 36px;
     font-weight: 600;
     color: #333333;
@@ -1169,7 +1176,7 @@ body {
 
   .table-left .pricing-details h3, .table-right .pricing-details h3 {
     font-size: 23px;
-    font-weight: 700;
+    font-weight: 600;
     color: #333333;
     margin-bottom: 5px;
     font-family: $primary-font !important;
@@ -2379,7 +2386,6 @@ body {
 }
 
 .legal-info {
-  font-family: $secondary-font;
   padding: 30px 0;
   h1, h2, h3, h4, h5, h6 {
     margin-top: 20px;
@@ -2547,7 +2553,6 @@ body {
   }
   .home-callouts {
     padding: 30px 0;
-    font-family: $secondary-font;
     .row--home-cards {
       justify-content: space-between;
     }
@@ -2606,7 +2611,6 @@ body {
     padding: 40px 0;
     background: #d1e6f9;
     text-align: center;
-    font-family: $secondary-font;
     .row--home-cards {
       justify-content: space-between;
     }
@@ -2734,7 +2738,6 @@ body {
     display: none;
   }
   .toc-wrapper{
-    font-family: $secondary-font;
     position: relative;
     top: 0;
     align-self: flex-start;
@@ -2809,7 +2812,6 @@ body {
 
 //Aside menu
 .aside-menu {
-  font-family: $secondary-font;
   padding: 50px 0;
   position: sticky;
   align-self: flex-start;
@@ -2921,7 +2923,6 @@ body {
 
 //Category page
 .category-container {
-  font-family: $secondary-font;
   .category-header {
     padding: 20px 0;
     background: #f7f7f7;
@@ -3461,13 +3462,13 @@ body {
     font-size: 32px;
   }
   p{
-    font-size: 18px;
-    font-weight: 300;
+    font-size: 16px;
+    font-weight: 400;
     color: #515168;
     margin: 0 auto;
     max-width: 680px;
     letter-spacing: 0;
-    line-height: 1.8;
+    line-height: 1.7;
   }
 }
 .contact-form{
@@ -3725,8 +3726,7 @@ body {
 
     p {
       font-size: 16px;
-      line-height: 1.7;
-      color: #888888;
+      color: #777777;
     }
 
     .faq-wrapper {
@@ -4072,7 +4072,6 @@ body {
     .customer-review{
       font-family: 'Lora', serif !important;
       font-style: italic;
-      display: inline-block;
       background: #ffffff;
       padding: 30px 50px;
       box-shadow: 0 0 5px 0 rgba(43, 43, 43, 0.1), 0 11px 6px -7px rgba(43, 43, 43, 0.1);
