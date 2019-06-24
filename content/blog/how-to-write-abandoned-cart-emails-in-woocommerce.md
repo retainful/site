@@ -1,8 +1,8 @@
 ---
 path: "/blog/how-to-write-abandoned-cart-emails-in-woocommerce/"
-date:  "2019-05-18"
+date: "2019-05-18"
 title: "How to write abandoned cart emails for your WooCommerce store"
-Description: "Cart recovery email is the best marketing strategy to recover abandoned carts and boost online sales. To run successful cart email campaigns, get to know how to create attractive cart recovery emails."
+description: "Cart recovery email is the best marketing strategy to recover abandoned carts and boost online sales. To run successful cart email campaigns, get to know how to create attractive cart recovery emails."
 image: "../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store.png"
 thumbnail: "../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store.png" 
 author: "Siddharth"
