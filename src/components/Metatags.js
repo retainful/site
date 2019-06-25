@@ -61,7 +61,7 @@ const getSchemaOrgJSONLD = ({
   const isBlogPost=props.isBlogPost;
   const authorName = props.author;
   const sitename = props.sitename;
-  // const keywords = props.keywords ? props.keywords.join(`, `) : null;
+  const keywords = props.keywords;
 
   const schemaOrgJSONLD = getSchemaOrgJSONLD({
     url,
@@ -80,7 +80,7 @@ const getSchemaOrgJSONLD = ({
       <meta name="robots" content="index, follow" />
       <meta name="title" content={title} />
       <meta name="description" content={description} />
-      {/*keywords ? <meta name= "keywords" content={keywords} />  : null*/}
+      {keywords ?<meta name= "keywords" content={keywords} /> : null }
       <meta name="image" content={image} />
 
       {/* Schema.org tags */}
