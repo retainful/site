@@ -4116,3 +4116,64 @@ body {
     }
   }
 }
+
+.nav-tabs {
+  display: inline-block;
+  border-bottom: 2px solid #DDD;
+  > li {
+    display: inline-block;
+    position: relative;
+    > a {
+      border: none;
+      color: #666;
+      padding: 10px;
+      display: block;
+      margin: 0 10px;
+      &.active {
+        border-width: 0;
+        border: none;
+        color: $primary;
+        background: transparent;
+        &:focus, &:hover {
+          border-width: 0;
+        }
+        &::after {
+          transform: scale(1);
+        }
+      }
+      &:hover {
+        border: none;
+        color: $primary;
+        background: transparent;
+        text-decoration: none;
+      }
+      &::after {
+        content: "";
+        background: $primary;
+        height: 2px;
+        position: absolute;
+        width: 100%;
+        left: 0px;
+        bottom: -1px;
+        transition: all 250ms ease 0s;
+        transform: scale(0);
+      }
+    }
+    &:hover > a::after {
+      transform: scale(1);
+    }
+  }
+}
+
+.tab-nav > li > a::after {
+  background: #21527d none repeat scroll 0% 0%;
+  color: #fff;
+}
+
+.tab-pane {
+  padding: 15px 0;
+}
+
+.tab-content {
+  padding: 20px;
+}
