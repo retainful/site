@@ -56,23 +56,33 @@ Following are the best strategies followed by leading eCommerce brands in the wo
 ____
 
 
-#### 1. Catchy Subject Line
+#### 1. Simple, Catchy Subject Line
 
 We get hundreds of emails everyday. But we only open and read a few!. The top most factor that decides the open rate is: Subject line.
+<link-text url="https://www.cmbinfo.com/knowledge-center/news/marketing-charts-brand-and-subject-lines-fuel-email-opens-clutter-drives-users-away/" target="_blank" rel="nofollow">64% of people said they open an email</link> based on the subject line. 
 If you go with a generic subject line like “You Left Something in the Cart”, no one will be opening it. 
 So, don’t send cart emails with subject line saying You left something..., Hurry..., You missed something… People are tired of seeing such patterns in email subject lines.
 
 **Grab the attention with a compelling subject lines like:**
 
-<callout>  
-- We’ve Saved it for You!     
-- Can We Help?      
+- We’ve Saved it for You!
+- Can We Help?
 - You got an Amazing sense of Fashion!
 - Lemme Teleport You Back to Your Cart! Free of Charge!
-</callout>
+
+**Take a look at the abandoned cart email from Casper**
 ![casper](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/af8c540d-81dd-4b3c-ba00-740877436b05.jpeg)
-  
-Well, look how caring ‘Casper’ has made the email subject line. “Come back to Bed” sounds caring and customers will certainly open it as it has an emotional connect.
+
+**What this abandoned cart email does right:**
+
+- The Subject Line itself is funny.
+- Look how caring ‘Casper’ has made the email subject line. 
+- “Come back to Bed” sounds caring and customers will certainly open
+- It has an emotional connect.
+- It is clean and simple.
+- The subject line even fits and visible in your iPhone Mail client.
+
+Here is an extensive list of <link-text url="https://sumo.com/stories/abandoned-cart-email-subject-lines" target="_blank" rel="nofollow">Abandoned Cart email subject lines</link>
 
 #### 2. Show the customer what’s left in the cart
 
@@ -80,23 +90,30 @@ Well, you can absolutely track and <link-text url="https://www.retainful.com/blo
 
 So, make sure your cart recovery email reminds customer of what’s left in the cart. Showing the abandoned cart items should be the primary content in any abandoned cart email.
 
-Look how ‘Ashford’ effectively used the email space to show the abandoned cart item. It’s obvious that this part showing the abandoned cart items gets the maximum customer attention. 
+
+Check the email from ‘Ashford’ 
 <br>
 ![](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/182ea367-56f8-4e3c-bd44-6f6f577db89f.jpeg)
 
+**What this abandoned cart email does right:**
+
+- It shows what the customer has left in the cart
+- The spacing makes you just focus on what you left.
+- And you get a one-click cart recovery button. A clear CTA.
+- And it recommends you items you might be interested. And this is based on what you left in the cart.
 
 #### 3. Single-click cart recovery (Call to action button)
 
-Let the customer recover their cart with a single click and take them back straight to their cart. This helps the customer complete the purchase more quickly. 
+Let the customer recover their cart with a single click. This helps the customer complete the purchase more quickly. 
 
 If you are taking them through a complex checkout process with multiple steps, there are chances that the customer might get distracted and will not complete his purchase. So ensure a distraction-free, single click recovery. And make sure you include that recovery link in the email follow-up.
 
-<br>
 ![](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/00151b88-4617-48f3-8c1f-ac0bad264c76.jpeg)
 
-<br>
 
-  ‘Michael Stars’ adds only two Call to action buttons in the above cart recovery email.
+**What this abandoned cart email does right:**
+
+-  ‘Michael Stars’ adds only two Call to action buttons in the above cart recovery email.
 -   Return to your cart- to take customers to the cart page so that he can add or remove products before checking out.
 -   Checkout Now- to take customers directly to the checkout page where the customer is just asked to complete payment.
   
@@ -118,6 +135,13 @@ So, what if the customers are shared with FREE shipping coupons and discount off
 
 ![Nordstorm](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/68ab3db6-7ca3-4949-8507-714c4b215f36.jpeg)
 
+**What this abandoned cart email does right:**
+
+- Free shipping is highlighted, while the rest of the content in the email takes a back seat.
+- And it is distraction free
+
+The email would do better if they fixed the cranky headline!
+
 #### 5. Share Support Details
 
 Sometimes your customer might have few queries regarding the product delivery, return policy, coupon restrictions, etc. and because of that could have abandoned cart.
@@ -126,7 +150,11 @@ In this case, you got to make sure that every query of your customer is answered
 
 ![Poppin](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/d0bee3ef-b56b-4f8a-a56e-69a98d310756.jpeg)
 
-I guess ‘Poppin’ is pretty obsessed to offer excellent customer support. Look how casual they write the support column in their cart email. Also, the support details they share shouldn’t be missed reading- it includes the support number, support availability (work timing), and email address to send feedback.
+
+**What this abandoned cart email does right:**
+
+- ‘Poppin’ is pretty obsessed to offer excellent customer support. Look how casual they write the support column in their cart email. 
+- Also, the support details they share - it includes the support number, support availability (work timing), and email address to send feedback.
 
 Complete. Isn’t it?
 
@@ -140,10 +168,11 @@ Its ‘Casper’ again.
 
 ![](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/af8c540d-81dd-4b3c-ba00-740877436b05.jpeg)
 
-They write solid abandoned cart recovery email.
--   Engaging email subject line
--   Simple call-to-action button and,
--   Social Proofing- Sharing customer testimonial.
+**What this abandoned cart email does right:**
+
+- Social Proofing- Sharing customer testimonial.
+- Engaging email subject line
+- Simple call-to-action button  
 
 Customer testimonials in cart recovery email can offer the best reason for customers to recover abandoned carts.
 
@@ -154,4 +183,4 @@ Customers abandon the cart for variety of reasons. With a proper follow-up and r
 
 And it is now easy to do this in your WooCommerce store by using Retainful. <link-text url="https://www.retainful.com/features/woocommerce">Get started with Retainful for free</link-text> and start receovering the abandoned checkouts. 
 
-<link-text url="https://www.retainful.com/features/woocommerce">Download Retainful for FREE!</link-text>
+<link-text url="https://www.retainful.com/features/woocommerce">Download Retainful plugin for your WooCommerce store for FREE!</link-text>
