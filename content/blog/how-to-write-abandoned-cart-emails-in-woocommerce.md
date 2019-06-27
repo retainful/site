@@ -52,9 +52,17 @@ So, how to write actionable abandoned cart emails?... How to make your customer 
 Following are the best strategies followed by leading eCommerce brands in the world to write best abandoned cart emails (explained with examples). Feel free to borrow from the examples to write your own abandoned cart emails.
 
 
-### What should be included in your cart recovery email? - Abandoned Cart Recovery Email Checklist
+### 6 Best Strategies for Abandoned Cart Emails with Examples
 ____
 
+Here is a list of abandoned cart email examples (Feel free to borrow from them!):
+
+1. Simple, Catch Subject Line
+2. Show the customer what’s left in the cart
+3. Single-click cart recovery (Call to Action)
+4. Tempt with discounts & Free Shipping
+5. Share Support Information
+6. Add Customer Reviews / Testimonials
 
 #### 1. Simple, Catchy Subject Line
 
@@ -102,7 +110,7 @@ Check the email from ‘Ashford’
 - And you get a one-click cart recovery button. A clear CTA.
 - And it recommends you items you might be interested. And this is based on what you left in the cart.
 
-#### 3. Single-click cart recovery (Call to action button)
+#### 3. Single-click cart recovery (Call to Action)
 
 Let the customer recover their cart with a single click. This helps the customer complete the purchase more quickly. 
 
@@ -158,7 +166,7 @@ In this case, you got to make sure that every query of your customer is answered
 
 Complete. Isn’t it?
 
-#### 6. Add Customer reviews
+#### 6. Add Customer Reviews / Testimonials
 
 Online shoppers are always obsessed with social proof. They look for product reviews before making an online purchase.
 
