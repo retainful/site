@@ -59,7 +59,7 @@ ____
 #### 1. Simple, Catchy Subject Line
 
 We get hundreds of emails everyday. But we only open and read a few!. The top most factor that decides the open rate is: Subject line.
-<link-text url="https://www.cmbinfo.com/knowledge-center/news/marketing-charts-brand-and-subject-lines-fuel-email-opens-clutter-drives-users-away/" target="_blank" rel="nofollow">64% of people said they open an email</link> based on the subject line. 
+<link-text url="https://www.cmbinfo.com/knowledge-center/news/marketing-charts-brand-and-subject-lines-fuel-email-opens-clutter-drives-users-away/" target="_blank" rel="nofollow">64% of people said they open an email</link-text> based on the subject line. 
 If you go with a generic subject line like “You Left Something in the Cart”, no one will be opening it. 
 So, don’t send cart emails with subject line saying You left something..., Hurry..., You missed something… People are tired of seeing such patterns in email subject lines.
 
