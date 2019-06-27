@@ -1,9 +1,5 @@
 const Menubar = [
     {
-        TITLE: 'Home',
-        LINK: '/',
-    },
-    {
         TITLE: 'Features',
         LINK: '/features/woocommerce',
         DROPDOWN_TARGET: 'featuresDropdown',

@@ -13,7 +13,7 @@ if (typeof window !== 'undefined') {
     require('bootstrap');
 }
 
-const Layout = ({children, location, crumbLabel}) => (
+const Layout = ({children, className, location, crumbLabel}) => (
     <StaticQuery
         query={graphql`
       query SiteTitleQuery {
@@ -26,7 +26,7 @@ const Layout = ({children, location, crumbLabel}) => (
     `}
         render={data => (
             <>
-                <div className="wrapper">
+                <div className={"wrapper " + (className)}>
                     <Header siteTitle={data.site.siteMetadata.title}/>
                     <Menu />
                     <div id="main" className="main">
