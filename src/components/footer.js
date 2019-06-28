@@ -1,35 +1,59 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import Logo from '../images/retainful-logo.png'
+import Logo from '../images/retainful-logo-white.png'
 import Container from "../components/container"
 import Row from "../components/row"
 import Col from "../components/column"
+
+import { FaFacebookF, FaTwitter} from 'react-icons/fa'
 
 export default function Footer() {
     return(
         <div className="footer-container">
             <Container>
+                <Link className="footer-logo" to="/"><img src={Logo} alt="Retainful" /></Link>
+                <hr/>
                 <Row>
-                    <Col>
-                        <Link className="footer-logo" to="/"><img src={Logo} alt="Retainful" /></Link>
-                        <p>Insert Next-Order coupons automatically and motivate customers to purchase repeatedly. And get insights on email opens and conversions. Its free.</p>
-                    </Col>
-                    <Col>
-                        <h4 className="footer-title">Also from us:</h4>
+                    <Col size="3">
+                        <h4 className="footer-title">Product</h4>
                         <ul>
-                            <li><a href="https://www.flycart.org/" target="_blank" rel="noopener noreferrer">Flycart</a></li>
-                            <li><a href="https://www.j2store.org/" target="_blank" rel="noopener noreferrer">J2Store</a></li>
-                            <li><a href="https://campaignrabbit.com/" target="_blank" rel="noopener noreferrer">Campaignrabbit</a></li>
-                            <li><a href="https://billingrabbit.com/" target="_blank" rel="noopener noreferrer">Billingrabbit</a></li>
+                            <li><a href="https://www.flycart.org/" target="_blank" rel="noopener noreferrer">Abandoned Cart Recovery</a></li>
+                            <li><a href="https://www.j2store.org/" target="_blank" rel="noopener noreferrer">Next Order Coupons</a></li>
+                            <li><a href="https://campaignrabbit.com/" target="_blank" rel="noopener noreferrer">Follow-up Emails</a></li>
+                            <li><a href="https://billingrabbit.com/" target="_blank" rel="noopener noreferrer">Customer Retention</a></li>
                         </ul>
                     </Col>
-                    <Col>
-                        <div>
-                            <h4 className="footer-title">Reach us</h4>
-                            <h5>CartRabbit International Pte Ltd</h5>
-                            <p>#07-04, High Street Centre, 1 North Bridge Road,  Singapore, 179094</p>
-                            <h5>CartRabbit Technologies Private Limited</h5>
-                            <p>SS Towers, Kalapatti Main Road, Coimbatore, Tamil Nadu <br />India - 641014</p>
+                    <Col size="3">
+                        <h4 className="footer-title">Platforms</h4>
+                        <ul>
+                            <li><a href="https://www.flycart.org/" target="_blank" rel="noopener noreferrer">Shopify</a></li>
+                            <li><a href="https://www.j2store.org/" target="_blank" rel="noopener noreferrer">WooCommerce</a></li>
+                            <li><a href="https://campaignrabbit.com/" target="_blank" rel="noopener noreferrer">Shopify Plus (coming soon)</a></li>
+                            <li><a href="https://billingrabbit.com/" target="_blank" rel="noopener noreferrer">BigCommerce (coming soon)</a></li>
+                        </ul>
+                    </Col>
+                    <Col size="4">
+                        <h4 className="footer-title">Company</h4>
+                        <ul>
+                            <li><a href="https://www.flycart.org/" target="_blank" rel="noopener noreferrer">About Us</a></li>
+                            <li><a href="https://www.j2store.org/" target="_blank" rel="noopener noreferrer">Blog</a></li>
+                            <li><a href="https://campaignrabbit.com/" target="_blank" rel="noopener noreferrer">Support</a></li>
+                            <li><a href="https://billingrabbit.com/" target="_blank" rel="noopener noreferrer">Contact Us</a></li>
+                        </ul>
+                        <h5>Also from us:</h5>
+                        <ul className="d-inline-flex">
+                            <li className="m-r-10"><a href="https://www.flycart.org/" target="_blank" rel="noopener noreferrer">Flycart</a></li>
+                            <li className="m-r-10"><a href="https://www.j2store.org/" target="_blank" rel="noopener noreferrer">J2Store</a></li>
+                            <li className="m-r-10"><a href="https://campaignrabbit.com/" target="_blank" rel="noopener noreferrer">Campaignrabbit</a></li>
+                            <li className="m-r-10"><a href="https://billingrabbit.com/" target="_blank" rel="noopener noreferrer">Billingrabbit</a></li>
+                        </ul>
+                    </Col>
+                    <Col size="2">
+                        <div className="footer-social-block">
+                            <div className="footer-social-links clearfix">
+                                <a target="_blank" href="https://www.facebook.com/campaignrabbit/" className="foot-social-link"><i className="fa fa-facebook"><FaFacebookF/></i></a>
+                                <a target="_blank" href="https://twitter.com/campaignrabbit/" className="foot-social-link"><i className="fa fa-twitter"><FaTwitter/></i></a>
+                            </div>
                         </div>
                     </Col>
                 </Row>

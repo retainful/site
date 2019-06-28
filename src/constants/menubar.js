@@ -1,18 +1,24 @@
 const Menubar = [
     {
-        TITLE: 'Features',
-        LINK: '/features/woocommerce',
+        TITLE: 'Product',
+        LINK: '/product/features/woocommerce',
         DROPDOWN_TARGET: 'featuresDropdown',
         DROPDOWN_LINKS: [
             {
+                ICON: 'https://raw.githubusercontent.com/campaignrabbit/cr-media/master/images/home-icons/360-degree-view-of-customers.png',
                 TITLE: 'WooCommerce',
-                LINK: '/features/woocommerce',
+                DESC: 'A complete payments platform engineered for growth.',
+                LINK: '/product/features/woocommerce',
+
             },
             {
+                ICON: 'https://raw.githubusercontent.com/campaignrabbit/cr-media/master/images/home-icons/follow-up-emails.png',
                 TITLE: 'Shopify',
-                LINK: '/features/shopify',
+                DESC: 'A complete payments platform engineered for growth.',
+                LINK: '/product/features/shopify',
             }
         ],
+        ISMEGAMENU: true
     },
     {
         TITLE: 'Pricing',

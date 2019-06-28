@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'gatsby';
 
 const HomeBanner = () =>(
     <div className="home hero-2">
@@ -14,12 +15,9 @@ const HomeBanner = () =>(
                             </p>
                             <h5><em>And Retainful is FREE!</em></h5>
                             <p>
-                                <a className="btn-action btn-edge"
-                            href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`}
-                            target="_blank" rel="noopener noreferrer">Download for WooCommerce</a>
-                                <a className="m-l-10 btn-action btn-edge btn-outlined"
-                                   href="#"
-                                   target="_blank" rel="noopener noreferrer">Download for Shopify</a>
+                                <a className="btn-action btn-edge btn-lg"
+                            href="https://app.retainful.com/"
+                            target="_blank" rel="noopener noreferrer">Get started for free</a>
                             </p>
                             <p className="m-t-5">
                                 <small>*<strong>No credit card</strong> is required</small>

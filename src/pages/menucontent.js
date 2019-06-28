@@ -27,13 +27,35 @@ class MenuCard extends React.Component {
                                 {card.TITLE}
                             </a>
                             <div className={"dropdown-menu"} aria-labelledby={card.DROPDOWN_TARGET}>
-                                {
+                                { !card.ISMEGAMENU &&
                                     card.DROPDOWN_LINKS.map((link) => {
                                         return (
                                             <a className="dropdown-item" href={link.LINK}>{link.TITLE}</a>
                                         )
                                     })
                                 }
+
+                                { card.ISMEGAMENU &&
+                                    <ul className="productsGroupPrimary">
+                                        {
+                                            card.DROPDOWN_LINKS.map((link) => {
+                                                return (
+                                                    <li>
+                                                        <a className="linkContainer item-payments" href={link.LINK}
+                                                            data-analytics-action="payments" data-analytics-source="nav_dropdown" tabIndex="-1">
+                                                            <img src={link.ICON} alt=""/>
+                                                        <div className="productLinkContent">
+                                                                <h3 className="linkTitle">{link.TITLE}</h3>
+                                                            <p className="linkSub">{link.DESC}</p>
+                                                            </div>
+                                                        </a>
+                                                    </li>
+                                                )
+                                            })
+                                        }
+                                    </ul>
+                                }
+
                             </div>
                         </>
                     }

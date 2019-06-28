@@ -81,6 +81,7 @@ module.exports = {
             options: {
                 fonts: [
                     `Dosis\:400,500,600`,
+                    `DM+Sans\:400,500,700`,
                     `Open+Sans\:300,400,600,700`,
                     `Lora\:400i,700i`
                 ]

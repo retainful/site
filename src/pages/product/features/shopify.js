@@ -1,9 +1,9 @@
 import React from 'react'
 import {Link} from 'gatsby'
 
-import Layout from '../../components/layout'
-import SEO from '../../components/seo';
-import FeatureIcon from '../../images/features-icon-sample.png';
+import Layout from '../../../components/layout'
+import SEO from '../../../components/seo';
+import FeatureIcon from '../../../images/features-icon-sample.png';
 
 const FeaturesPage = () => (
     <Layout>

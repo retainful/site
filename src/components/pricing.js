@@ -9,13 +9,16 @@ class PricingTable extends React.Component {
                     <Container>
                         <div className="tab">
                             <ul className="nav nav-tabs">
-                                <li className="active"><a data-toggle="tab" href="#woocommerce" className="active">WooCommerce</a></li>
-                                <li><a data-toggle="tab" href="#shopify">Shopify</a></li>
+                                <li><a data-toggle="tab" href="#woocommerce" className="active">
+                                    <img src="https://raw.githubusercontent.com/campaignrabbit/site/master/src/images/integration-icons/woocommerce-color.png" alt="WooCommerce"/>
+                                </a></li>
+                                <li><a data-toggle="tab" href="#shopify">
+                                    <img src="https://raw.githubusercontent.com/campaignrabbit/site/master/src/images/integration-icons/shopify-color.png" alt="Shopify"/>
+                                </a></li>
                             </ul>
-                            <div className="tab-content">
+                            <div className="tab-content tabs">
                                 <div id="woocommerce" className="tab-pane fade show in active">
                                     <div id="pricing" className="pricing-section text-center">
-                                        <h3>WooCommerce</h3>
                                         <div className="row">
                                             <div className="col-lg-4 col-md-4">
                                                 <div className="table-left wow fadeInDown">
@@ -80,7 +83,6 @@ class PricingTable extends React.Component {
                                 </div>
                                 <div id="shopify" className="tab-pane fade">
                                     <div id="pricing-shopify" className="pricing-section text-center">
-                                        <h3>Shopify</h3>
                                         <div className="row">
                                             <div className="offset-md-2 col-md-4">
                                                 <div className="table-left wow fadeInDown">

@@ -2,7 +2,6 @@ import React from 'react';
 import {Link} from 'gatsby';
 import {FaLongArrowAltRight} from 'react-icons/fa';
 import bannerLogo from "../../images/retainful-coupon-03.png";
-import Layout from "../../pages/features/woocommerce";
 
 const HomeFeatures = () => (
     <div className="home-features-container" id="features">
