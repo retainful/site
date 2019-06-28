@@ -1,8 +1,8 @@
 ---
 path: "/terms-of-service"
 updated: "2019-05-05"
-title: "Retainful Terms of Services | Disclaimer & Notice"
-description: "Read how Retainful publications structured the privacy policy and data consent for marketing promotions. Find how we use your data for email marketing campaigns."
+title: "Retainful Terms of Service | Disclaimer & Notice"
+description: "Terms of Service for Retainful ."
 ---
 This Retainful Subscription Terms of Service (“**Terms of Service**” or “**Agreement**“) is entered into by and between the Cartrabbit International Pte Ltd, a company incorporated in Singapore with a principal place of business located at 09-14, High Street Plaza, High Street, Singapore – 179433, on behalf of itself, and subsidiaries and affiliates set forth below (“**Cartrabbit**” or “**Retainful**”) and the entity or person placing an order for or accessing any Services (“**Customer**” or “**you**“). If you are accessing or using the Services on behalf of your company, you represent that you are authorized to accept this Agreement on behalf of your company, and all references to “you” or “Customer” reference your company.
 
