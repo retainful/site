@@ -59,9 +59,13 @@ const renderAst = new rehypeReact({
 
 export default function BlogPost(props) {
     const url = props.data.site.siteMetadata.siteUrl;
+    const sitename = props.data.site.siteMetadata.title;
     const thumbnail = props.data.markdownRemark.frontmatter.image.childImageSharp.fluid.src;
     const {title} = props.data.markdownRemark.frontmatter;
+    const datePublished = props.data.markdownRemark.frontmatter.date;
+    const author = props.data.markdownRemark.frontmatter.author;
     const {prev, next} = props.pageContext;
+    //const toc = props.data.markdownRemark.tableOfContents;
     // const toc = props.data.markdownRemark.htmlAst.children.filter((item)=>{
     //     if(item.tagName === "h3"){
     //         return item;
@@ -84,6 +88,10 @@ export default function BlogPost(props) {
                 thumbnail={url+thumbnail}
                 url={url}
                 pathname={props.location.pathname}
+                datePublished = {datePublished}
+                isBlogPost= {true}
+                author={author}
+                sitename={sitename}
             />
             <div className="single-blog-post">
                 <Container type='s'>
@@ -107,6 +115,10 @@ export default function BlogPost(props) {
                         }
                         <hr/>
                     </div>
+                        {/*} <div className="table-of-contents">
+                            <h4>Table of Contents</h4>
+                            <div  dangerouslySetInnerHTML={{__html: props.data.markdownRemark.tableOfContents}} />
+                    </div> */}
                     <div className="content">
                         {/*<div className="table-of-contents">*/}
                             {/*<h4>Table of Contents</h4>*/}
@@ -152,6 +164,7 @@ export const query = graphql`
     site {
         siteMetadata {
             siteUrl
+            title
           }
     }
   }

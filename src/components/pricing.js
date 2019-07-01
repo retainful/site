@@ -1,33 +1,138 @@
 import React from 'react'
 import Container from  '../components/container'
 
-const PricingTable = () =>(
-    <div id="pricing" className="pricing-section text-center">
-        <Container>
-            <div className="pricing-intro wow fadeInDown">
-                <h1>Get started in Minutes. It’s Free</h1>
-            </div>
-            <div className="row">
-                <div className="col-lg-4 offset-lg-4 col-md-12">
-                    <div className="table-left wow fadeInDown">
-                        <div className="pricing-details">
-                            <h2>Free</h2>
-
-                            <span>$0.00</span>
-                            <ul>
-                                <li>Unique Coupons</li>
-                                <li>Automatic Code Generation</li>
-                                <li>Percentage or Fixed</li>
-                                <li>Analytics & Insights</li>
+class PricingTable extends React.Component {
+    render() {
+        return (
+            <div id="price-slider">
+                <div className="calcuate-pricing-plan container">
+                    <Container>
+                        <div className="tab">
+                            <ul className="nav nav-tabs">
+                                <li><a data-toggle="tab" href="#woocommerce" className="active">
+                                    <img src="https://raw.githubusercontent.com/campaignrabbit/site/master/src/images/integration-icons/woocommerce-color.png" alt="WooCommerce"/>
+                                </a></li>
+                                <li><a data-toggle="tab" href="#shopify">
+                                    <img src="https://raw.githubusercontent.com/campaignrabbit/site/master/src/images/integration-icons/shopify-color.png" alt="Shopify"/>
+                                </a></li>
                             </ul>
-                            <p>
-                                <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
-                            </p>
+                            <div className="tab-content tabs">
+                                <div id="woocommerce" className="tab-pane fade show in active">
+                                    <div id="pricing" className="pricing-section text-center">
+                                        <div className="row">
+                                            <div className="col-lg-4 col-md-4">
+                                                <div className="table-left wow fadeInDown">
+                                                    <div className="pricing-details">
+                                                        <h3>Free</h3>
+                                                        <span className="price-amount">$ 0.00</span>
+                                                        <span className="price-period"> </span>
+                                                        <ul>
+                                                            <li>100 contacts</li>
+                                                            <li>Unlimited emails</li>
+                                                            <li>Unlimited automations</li>
+                                                            <li>Pop-ups</li>
+                                                            <li>Signup-forms</li>
+                                                            <li>Customer segmentation</li>
+                                                        </ul>
+                                                        <p className="text-center">
+                                                            <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="col-lg-4 col-md-4">
+                                                <div className="table-left wow fadeInDown">
+                                                    <div className="pricing-details">
+                                                        <h3>Pro</h3>
+                                                        <span className="price-amount">$ 69</span>
+                                                        <span className="price-period">per year</span>
+                                                        <ul>
+                                                            <li><strong>Everything in Free +</strong></li>
+                                                            <li>upto 2000 contacts</li>
+                                                            <li>Exit-Intent popups</li>
+                                                            <li>Advanced Segmentation</li>
+                                                            <li>Email and Chat priority support</li>
+                                                        </ul>
+                                                        <p className="text-center">
+                                                            <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="col-lg-4 col-md-4">
+                                                <div className="table-left wow fadeInDown">
+                                                    <div className="pricing-details">
+                                                        <h3>Business</h3>
+                                                        <span className="price-amount">$ 99</span>
+                                                        <span className="price-period">per year</span>
+                                                        <ul>
+                                                            <li><strong>Everything in Essential +</strong></li>
+                                                            <li>upto 5000 contacts</li>
+                                                            <li>Dedicated Account Manager</li>
+                                                            <li>Priority Support</li>
+                                                            <li>Migration from other platforms</li>
+                                                        </ul>
+                                                        <p className="text-center">
+                                                            <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="shopify" className="tab-pane fade">
+                                    <div id="pricing-shopify" className="pricing-section text-center">
+                                        <div className="row">
+                                            <div className="offset-md-2 col-md-4">
+                                                <div className="table-left wow fadeInDown">
+                                                    <div className="pricing-details">
+                                                        <h3>Free</h3>
+                                                        <span className="price-amount">$ 0.00</span>
+                                                        <span className="price-period"> </span>
+                                                        <ul>
+                                                            <li>100 contacts</li>
+                                                            <li>Unlimited emails</li>
+                                                            <li>Unlimited automations</li>
+                                                            <li>Pop-ups</li>
+                                                            <li>Signup-forms</li>
+                                                            <li>Customer segmentation</li>
+                                                        </ul>
+                                                        <p className="text-center">
+                                                            <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div className="col-lg-4 col-md-4">
+                                                <div className="table-left wow fadeInDown">
+                                                    <div className="pricing-details">
+                                                        <h3>Pro</h3>
+                                                        <span className="price-amount">$ 9.99</span>
+                                                        <span className="price-period">per month</span>
+                                                        <ul>
+                                                            <li><strong>Everything in Free +</strong></li>
+                                                            <li>upto 2000 contacts</li>
+                                                            <li>Exit-Intent popups</li>
+                                                            <li>Advanced Segmentation</li>
+                                                            <li>Email and Chat priority support</li>
+                                                        </ul>
+                                                        <p className="text-center">
+                                                            <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
+                    </Container>
                 </div>
             </div>
-        </Container>
-    </div>
-)
+        )
+    }
+}
+
 export default PricingTable;

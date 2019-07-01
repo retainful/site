@@ -3,7 +3,7 @@ title: "Collecting Email Address Before Adding an Item to Cart in WooCommerce"
 description: "Learn how to collect the email address of the customer before adding to cart so that you can recover it even if customer abandons the cart"
 date: "2019-06-01"
 author: "Ramesh"
-tags: ["woocommerce", "abandoned cart recovery emails", "email collection popup"]
+tags: ["woocommerce", "abandoned-cart-recovery-emails", "email-collection-popup"]
 category: woocommerce
 ---
 
@@ -66,7 +66,7 @@ So word the popup header differently!. Here are some creative headings for you!
 
 ### Want to provide a better motivation?
 
-Retainful understands the customer's hesitation in parting with their email. So we have come up with an incentivisation feature to motivate customers to give thier email.
+Retainful understands the customer's hesitation in parting with their email. So we have come up with an incentivisation feature to motivate customers to give thier email. You can display an offer in the Add to cart Popup and send a coupon code when customer enter's his email address.
 
-**Checkout the tutorial on [Incentivize customer to provide email before they add to cart](https://www.retainful.com/docs/woocommerce)**
+**Checkout the tutorial on [Showing an Offer in Email Collection Popup](https://www.retainful.com/docs/woocommerce/coupon-for-email-popup)**
 

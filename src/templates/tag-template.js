@@ -3,6 +3,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/layout';
 
 function Tags(props) {
+    console.log(props);
     const posts = props.data.allMarkdownRemark.edges;
     const { tag } = props.pageContext;
     return (
@@ -28,21 +29,21 @@ export default Tags;
 export const query = graphql`
 
  query TagsQuery($tag: String!) {
-allMarkdownRemark(
-      limit: 2000
-      sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { tags: { eq: $tag } } }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            title
-          }
-          fields {
-            slug
+    allMarkdownRemark(
+          limit: 2000
+          sort: { fields: [frontmatter___date], order: DESC }
+          filter: { frontmatter: { tags: { eq: $tag } } }
+        ) {
+          edges {
+            node {
+              frontmatter {
+                title
+              }
+              fields {
+                slug
+              }
+            }
           }
         }
-      }
     }
-}
 `
