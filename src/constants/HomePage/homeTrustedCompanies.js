@@ -1,6 +1,10 @@
 import React from 'react';
 import {Link} from "gatsby";
 
+import TrustedLogo1 from '../../images/trusted-logo-1.png'
+import TrustedLogo2 from '../../images/trusted-logo-2.png'
+import TrustedLogo3 from '../../images/trusted-logo-3.png'
+
 const HomeBrands = () =>(
     <div className="brand-container">
         <div className="container">
@@ -26,29 +30,23 @@ const HomeBrands = () =>(
                         </div>
                     </div>
                     <div className="col-md-6 col-sm-12">
-                        <h4>Trusted by 1,000+ companies big and small:</h4>
+                        <h4>1000+ companies trust us:</h4>
                         <div className="row">
                             <div className="col-md-3 col-sm-6">
                                 <div className="brand-img">
-                                    <img src="https://polymail.io/img/logos/twitch.png"
+                                    <img src={TrustedLogo1}
                                          alt="home-banner-illustration"/>
                                 </div>
                             </div>
                             <div className="col-md-3 col-sm-6">
                                 <div className="brand-img">
-                                    <img src="https://polymail.io/img/logos/twitch.png"
+                                    <img src={TrustedLogo2}
                                          alt="home-banner-illustration"/>
                                 </div>
                             </div>
                             <div className="col-md-3 col-sm-6">
                                 <div className="brand-img">
-                                    <img src="https://polymail.io/img/logos/twitch.png"
-                                         alt="home-banner-illustration"/>
-                                </div>
-                            </div>
-                            <div className="col-md-3 col-sm-6">
-                                <div className="brand-img">
-                                    <img src="https://polymail.io/img/logos/twitch.png"
+                                    <img src={TrustedLogo3}
                                          alt="home-banner-illustration"/>
                                 </div>
                             </div>

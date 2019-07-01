@@ -17,28 +17,44 @@ export default function Footer() {
                     <Col size="3">
                         <h4 className="footer-title">Product</h4>
                         <ul>
-                            <li><a href="https://www.flycart.org/" target="_blank" rel="noopener noreferrer">Abandoned Cart Recovery</a></li>
-                            <li><a href="https://www.j2store.org/" target="_blank" rel="noopener noreferrer">Next Order Coupons</a></li>
-                            <li><a href="https://campaignrabbit.com/" target="_blank" rel="noopener noreferrer">Follow-up Emails</a></li>
-                            <li><a href="https://billingrabbit.com/" target="_blank" rel="noopener noreferrer">Customer Retention</a></li>
+                            <li><Link to="/#">Abandoned Cart Recovery</Link></li>
+                            <li><Link to="/#">Next Order Coupons</Link></li>
+                            <li><Link to="/#">Follow-up Emails</Link></li>
+                            <li><Link to="/#">Customer Retention</Link></li>
                         </ul>
                     </Col>
                     <Col size="3">
                         <h4 className="footer-title">Platforms</h4>
                         <ul>
-                            <li><a href="https://www.flycart.org/" target="_blank" rel="noopener noreferrer">Shopify</a></li>
-                            <li><a href="https://www.j2store.org/" target="_blank" rel="noopener noreferrer">WooCommerce</a></li>
-                            <li><a href="https://campaignrabbit.com/" target="_blank" rel="noopener noreferrer">Shopify Plus (coming soon)</a></li>
-                            <li><a href="https://billingrabbit.com/" target="_blank" rel="noopener noreferrer">BigCommerce (coming soon)</a></li>
+                            <li>
+                                <Link to="/product/features/woocommerce">WooCommerce</Link>
+                            </li>
+                            <li>
+                                <Link to="/product/features/shopify">Shopify</Link>
+                            </li>
+                            <li>
+                                <Link to="/#">Shopify Plus (coming soon)</Link>
+                            </li>
+                            <li>
+                                <Link to="/#">BigCommerce (coming soon)</Link>
+                            </li>
                         </ul>
                     </Col>
                     <Col size="4">
                         <h4 className="footer-title">Company</h4>
                         <ul>
-                            <li><a href="https://www.flycart.org/" target="_blank" rel="noopener noreferrer">About Us</a></li>
-                            <li><a href="https://www.j2store.org/" target="_blank" rel="noopener noreferrer">Blog</a></li>
-                            <li><a href="https://campaignrabbit.com/" target="_blank" rel="noopener noreferrer">Support</a></li>
-                            <li><a href="https://billingrabbit.com/" target="_blank" rel="noopener noreferrer">Contact Us</a></li>
+                            <li>
+                                <Link to="/#">About Us</Link>
+                            </li>
+                            <li>
+                                <Link to="/blog">Blog</Link>
+                            </li>
+                            <li>
+                                <Link to="/support">Support</Link>
+                            </li>
+                            <li>
+                                <Link to="/support">Contact Us</Link>
+                            </li>
                         </ul>
                         <h5>Also from us:</h5>
                         <ul className="d-inline-flex">
