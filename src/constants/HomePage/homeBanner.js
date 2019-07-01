@@ -8,19 +8,17 @@ const HomeBanner = () =>(
                 <div className="row">
                     <div className="col-sm-7">
                         <div className="hero-content wow fadeIn">
-                            <h1><span className="highlight">Recover abandoned carts</span> & drive repeat purchases easily</h1>
-                            <p>Grow your business smartly <br/>
-                                Let customers recover abandoned carts in single click. <br/>
-                                Encourage repeat purchases by sending next order coupons automatically.
+                            <h1>Recover abandoned carts & drive repeat purchases easily</h1>
+                            <p> Recover every single cart. Don't lose sales anymore<br/>
+                                Encourage repeat purchases by sending coupons for next purchase automatically.
                             </p>
-                            <h5><em>And Retainful is FREE!</em></h5>
                             <p>
                                 <a className="btn-action btn-edge btn-lg"
                             href="https://app.retainful.com/"
-                            target="_blank" rel="noopener noreferrer">Get started for free</a>
+                            target="_blank" rel="noopener noreferrer">Get started FREE</a>
                             </p>
                             <p className="m-t-5">
-                                <small>*<strong>No credit card</strong> is required</small>
+                                <small>*<strong>No credit card</strong> required</small>
                             </p>
                         </div>
                     </div>

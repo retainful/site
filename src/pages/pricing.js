@@ -35,7 +35,7 @@ class PricingPage extends React.Component {
                     <div className="customer-reviews-section">
                         <div className="container">
                             <div className="reviews-intro">
-                                <h3>See why over 200+ customers love using Retainful</h3>
+                                <h3>See why 200+ customers love using Retainful</h3>
                             </div>
                             <div className="customer-reviews">
                                 <div className="row">
@@ -55,7 +55,7 @@ class PricingPage extends React.Component {
                                             <p>Clean plugin settings and the app is very each to use.</p>
                                             <div className="customer-meta">
                                                 <img src={LukeCavanagh} alt="Luke Cavanagh"/>
-                                                <span>Luke Cavanagh</span>
+                                                <span>Luke Cavanagh (LiquidWeb)</span>
                                             </div>
                                         </div>
                                     </div>

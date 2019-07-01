@@ -23,19 +23,20 @@ class PricingTable extends React.Component {
                                             <div className="col-lg-4 col-md-4">
                                                 <div className="table-left wow fadeInDown">
                                                     <div className="pricing-details">
-                                                        <h3>Free</h3>
+                                                        <h3>Free Forever</h3>
                                                         <span className="price-amount">$ 0.00</span>
                                                         <span className="price-period"> </span>
                                                         <ul>
-                                                            <li>100 contacts</li>
-                                                            <li>Unlimited emails</li>
-                                                            <li>Unlimited automations</li>
-                                                            <li>Pop-ups</li>
-                                                            <li>Signup-forms</li>
-                                                            <li>Customer segmentation</li>
+                                                            <li>Capture Abandoned Carts</li>
+                                                            <li>Unlimited Cart recovery emails</li>
+                                                            <li>Drip / Sequential Email Reminders</li>
+                                                            <li>3 pre-built email templates</li>
+                                                            <li>Next Order Coupons</li>
+                                                            <li>Analytics and Reports</li>
+                                                            <li>Standard Support</li>
                                                         </ul>
                                                         <p className="text-center">
-                                                            <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                            <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Free</a>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -48,13 +49,17 @@ class PricingTable extends React.Component {
                                                         <span className="price-period">per year</span>
                                                         <ul>
                                                             <li><strong>Everything in Free +</strong></li>
-                                                            <li>upto 2000 contacts</li>
-                                                            <li>Exit-Intent popups</li>
-                                                            <li>Advanced Segmentation</li>
-                                                            <li>Email and Chat priority support</li>
+                                                            <li>3 Premium Add-ons</li>
+                                                            <li> + Email Collection Popup</li>
+                                                            <li> + Coupon for Email Collection</li>
+                                                            <li> + Countdown Timer with auto coupon</li>
+                                                            <li>Premium Email Templates</li>
+                                                            <li>Usage Restrictions for Next Order Coupons</li>
+                                                            <li>Priority Support</li>
+                                                            <li>Use up to 1 website</li>
                                                         </ul>
                                                         <p className="text-center">
-                                                            <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                            <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Free</a>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -66,14 +71,13 @@ class PricingTable extends React.Component {
                                                         <span className="price-amount">$ 99</span>
                                                         <span className="price-period">per year</span>
                                                         <ul>
-                                                            <li><strong>Everything in Essential +</strong></li>
-                                                            <li>upto 5000 contacts</li>
-                                                            <li>Dedicated Account Manager</li>
+                                                            <li><strong>Everything in Pro +</strong></li>
+                                                            <li>Access to all future Premium add-ons</li>
                                                             <li>Priority Support</li>
-                                                            <li>Migration from other platforms</li>
+                                                            <li>Use up to 5 websites</li>
                                                         </ul>
                                                         <p className="text-center">
-                                                            <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                            <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Free</a>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -87,19 +91,26 @@ class PricingTable extends React.Component {
                                             <div className="offset-md-2 col-md-4">
                                                 <div className="table-left wow fadeInDown">
                                                     <div className="pricing-details">
-                                                        <h3>Free</h3>
+                                                        <h3>Free Forever</h3>
                                                         <span className="price-amount">$ 0.00</span>
                                                         <span className="price-period"> </span>
                                                         <ul>
-                                                            <li>100 contacts</li>
-                                                            <li>Unlimited emails</li>
-                                                            <li>Unlimited automations</li>
-                                                            <li>Pop-ups</li>
-                                                            <li>Signup-forms</li>
-                                                            <li>Customer segmentation</li>
+                                                            <li>1000 Cart recovery emails per month</li>
+                                                            <li>Drip / Sequential Emails</li>
+                                                            <li>Single Click Cart Recovery</li>
+                                                            <li>Incentivize with coupons</li>
+                                                            <li>Ready to deploy, conversion focused email templates</li>
+                                                            <li>Simple, Drag and Drop Visual Email builder</li>
+                                                            <li>Live Cart feed</li>
+                                                            <li>Actionable Analytics and Insights</li>
+                                                            <li>All Store Notification Emails</li>
+                                                            <li>Coupons for Next Purchase</li>
+                                                            <li>Beautiful, responsive email templates</li>
+                                                            <li>Up to 100 monthly orders (next purchase coupons)</li>
+                                                            <li>Standard support</li>
                                                         </ul>
                                                         <p className="text-center">
-                                                            <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                            <a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Free</a>
                                                         </p>
                                                     </div>
                                                 </div>
@@ -112,13 +123,12 @@ class PricingTable extends React.Component {
                                                         <span className="price-period">per month</span>
                                                         <ul>
                                                             <li><strong>Everything in Free +</strong></li>
-                                                            <li>upto 2000 contacts</li>
-                                                            <li>Exit-Intent popups</li>
-                                                            <li>Advanced Segmentation</li>
-                                                            <li>Email and Chat priority support</li>
+                                                            <li>Unlimited Cart Recovery Emails</li>
+                                                            <li>Unlimited Next Purchase Coupons</li>
+                                                            <li>Priority support</li>
                                                         </ul>
                                                         <p className="text-center">
-                                                            <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Now</a>
+                                                            <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Free</a>
                                                         </p>
                                                     </div>
                                                 </div>

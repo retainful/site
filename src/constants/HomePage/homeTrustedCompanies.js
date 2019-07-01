@@ -7,7 +7,7 @@ const HomeBrands = () =>(
             <div className="brand-text-container">
                 <div className="row">
                     <div className="col-md-6 col-sm-12 border-right-1">
-                        <h4>We have integrations with:</h4>
+                        <h4>Integrates with:</h4>
                         <div className="row">
                             <div className="col-md-5 col-sm-6">
                                 <div className="integration-img">

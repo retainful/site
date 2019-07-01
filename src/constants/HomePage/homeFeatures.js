@@ -15,8 +15,8 @@ const HomeFeatures = () => (
                         <p><img className="img-fluid"
                                 src={`${process.env.GATSBY_RF_MEDIA_URL}/abandoned_cart_recovery_emails.png`}
                                 alt="abandoned_cart_recovery_emails"/></p>
-                        <h4>Abandoned Cart Recovery Emails</h4>
-                        <p>Trigger follow-up email reminders automatically to recover abandoned carts</p>
+                        <h4>Recover Abandoned Carts</h4>
+                        <p>Automatically send a series of cart recovery emails. Recover as many abandoned checkouts as possible. A single click cart recovery tool.</p>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6">
@@ -24,8 +24,8 @@ const HomeFeatures = () => (
                         <p><img className="img-fluid"
                                 src={`${process.env.GATSBY_RF_MEDIA_URL}/next_order_discouny_coupon.png`}
                                 alt="next_order_discouny_coupon"/></p>
-                        <h4>Next order Coupon Generator</h4>
-                        <p>Generate Unique Next order coupon codes automatically on every purchase</p>
+                        <h4>Drive Repeat Purchases</h4>
+                        <p>Auto generate and send unique coupons for the next purchase within the order notification itself and bring customers back</p>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6">
@@ -34,7 +34,7 @@ const HomeFeatures = () => (
                                 src={`${process.env.GATSBY_RF_MEDIA_URL}/track_realtime_conversions.png`}
                                 alt="track_realtime_conversions"/></p>
                         <h4>Actionable Analytics & Insights</h4>
-                        <p>Track the performance of your cart recovery and coupon order emails</p>
+                        <p>Check your abandoned carts and their value. Track the performance of your cart recovery emails and next order coupons</p>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-6">
@@ -42,8 +42,8 @@ const HomeFeatures = () => (
                         <p><img className="img-fluid"
                                 src={`${process.env.GATSBY_RF_MEDIA_URL}/track_realtime_conversions.png`}
                                 alt="track_realtime_conversions"/></p>
-                        <h4>Actionable Analytics & Insights</h4>
-                        <p>Track the performance of your cart recovery and coupon order emails</p>
+                        <h4>Drag-and-Drop Visual Email Editor</h4>
+                        <p>Create beautiful emails with our drag-and-drop visual email builder. Use the pre-built, responsive email templates and get started quickly</p>
                     </div>
                 </div>
             </div>
@@ -57,15 +57,18 @@ const HomeFeatures = () => (
                 </div>
                 <div className="col-md-6">
                     <div className="features-list">
-                        <h3>Abandoned Cart Recovery Emails</h3>
-                        <p>Trigger follow-up email reminders automatically to recover abandoned carts</p>
+                        <h3>Abandoned Cart Recovery</h3>
+                        <p>60 to 70% of the shoppers abandoned their checkouts. Using a well-timed series of emails, it is possible to recover at least 45% of these carts.</p>
                         <ul>
+
                             <li>
-                                Trigger follow-up email reminders automatically to recover abandoned carts
+                                Trigger email reminders automatically when customers abandon their carts
                             </li>
-                            <li>Send unlimited cart recovery email reminders</li>
-                            <li>Easy to use short-codes to include customer details and order summary in your emails</li>
-                            <li>Helps you capture all abandoned carts including the guest carts</li>
+                            <li>Send unlimited cart recovery emails</li>
+                            <li>Schedule emails to be sent at perfect intervals</li>
+                            <li>Capture all abandoned carts, including the guest carts</li>
+                            <li>Personalize the emails with the customer's name</li>
+
                         </ul>
                         <p>
                             <a href="#">Learn more  <span><FaLongArrowAltRight/></span></a>
@@ -76,15 +79,15 @@ const HomeFeatures = () => (
             <div className="row align-items-center">
                 <div className="col-md-6">
                     <div className="features-list">
-                        <h3>Next Order Coupons</h3>
-                        <p>Generate Unique Next order coupon codes automatically on every purchase</p>
+                        <h3>Drive Repeat Purchases</h3>
+                        <p>Your transactional emails have the highest open rates. Unlock their revenue potential by sending a coupon for next purchase and product recommendations.</p>
                         <ul>
                             <li>
-                                Trigger follow-up email reminders automatically to recover abandoned carts
+                                Auto generate unique coupons for the next purchase and embed it in the order notification emails.
                             </li>
-                            <li>Send unlimited cart recovery email reminders</li>
-                            <li>Easy to use short-codes to include customer details and order summary in your emails</li>
-                            <li>Helps you capture all abandoned carts including the guest carts</li>
+                            <li>Auto apply the coupon when customers clicks the CTA / link </li>
+                            <li>Coupon can be a percentage or a flat discount</li>
+                            <li>Track the performance of the coupons in the Retainful Dashboard</li>
                         </ul>
                         <p>
                             <a href="#">Learn more <span><FaLongArrowAltRight/></span></a>
