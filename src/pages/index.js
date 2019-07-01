@@ -32,7 +32,7 @@ const IndexPage = () => (
         <div className="customer-reviews-section">
             <div className="container">
                 <div className="reviews-intro">
-                    <h3>See why over 200+ customers love using Retainful</h3>
+                    <h3>See why 200+ customers love using Retainful</h3>
                 </div>
                 <div className="customer-reviews">
                     <div className="row">
