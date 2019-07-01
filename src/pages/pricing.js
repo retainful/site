@@ -92,6 +92,17 @@ class PricingPage extends React.Component {
                             </div>
                         </div>
                     </div>
+
+                    <div className="home-download-section text-center">
+                        <div className="container">
+                            <h3>Get Started in Minutes</h3>
+                            <p>More Orders, More Revenue</p>
+                            <p>
+                                <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">SignUp Now</a>
+                            </p>
+                            <p><small>*<strong>No Credit Card</strong> is required</small></p>
+                        </div>
+                    </div>
                 </div>
             </Layout>
         )
