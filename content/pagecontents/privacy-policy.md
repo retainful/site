@@ -1,12 +1,12 @@
 ---
 path: "/privacy-policy"
 updated: "2019-05-05"
-title: "Retainful Terms of Services | Disclaimer & Notice"
-description: "Read how Retainful publications structured the privacy policy and data consent for marketing promotions. Find how we use your data for email marketing campaigns."
+title: "Privacy Policy | Retainful"
+description: "Privacy Policy for Retainful."
 ---
 Privacy Statement for Personally Identifiable Information of Cartrabbit International Pte Ltd.
 
-_Updated: May 1st, 2018_
+_Updated: May 1st, 2019_
 
 Cartrabbit International Private Limited and its affiliates (collectively “Cartrabbit”, “we” and “us”) is committed to protecting your privacy and processing your personally identifiable information (referred to as “PII” or “personal data” or “personal information”) with transparency.
 
