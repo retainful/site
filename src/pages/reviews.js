@@ -2,15 +2,15 @@ import React from 'react'
 import {FaTimes, FaCheck, FaGift, FaDownload, FaFilter, FaDollarSign} from 'react-icons/fa';
 import Layout from '../components/layout'
 import SEO from '../components/seo'
-
+import GetStarted from '../components/getstarted'
 import merock from '../images/reviews/merock.jpeg'
 import LukeCavanagh from '../images/reviews/Luke-Cavanagh.jpeg'
 
 
 const IndexPage = () => (
     <Layout>
-        <SEO title="Reviews | Retainful"
-             description="Retainful helps you recover abandoned carts in your WooCommerce and Shopify stores. Automatically send a sequence of emails when customers abandon their carts. Drive repeat purchases by sending unique coupon codes for next orders"
+        <SEO title="Our Customers | Retainful"
+             description="Companies big and small trust Retainful to recover abandoned carts and drive repeat purchases"
              keywords={[`abandoned cart recovery`, `WooCommerce Abandoned Cart recovery emails`, `ecommerce customer retention`, `woocommerce followup emails`, `next order coupons`, `shopify abandoned cart recovery`, `shopify abandoned cart analytics`]}/>
 
         <div className="review-banner">
@@ -26,12 +26,12 @@ const IndexPage = () => (
                     </div>
                     <div className="col-md-5">
                         <div className="feature-content">
-                            <h3>Retainful Reviews!</h3>
-                            <p>Retainful increases Shopify sales by driving repeated purchases and also encourages
-                                customers to instantly buy the abandoned cart items.</p>
+                            <h3>Customer Reviews!</h3>
+                            <p>Companies big and small trust Retainful to recover abandoned carts and drive repeat purchases.</p>
+                            <p>Want to try it out? Start for free!</p>
                             <p><a className="btn-action btn-edge btn-lg"
                                   href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`}
-                                  target="_blank" rel="noopener noreferrer">Get started</a></p>
+                                  target="_blank" rel="noopener noreferrer">Get started Free</a></p>
                         </div>
                     </div>
                 </div>
@@ -76,8 +76,11 @@ const IndexPage = () => (
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
+
+        <GetStarted/>
 
     </Layout>
 );
