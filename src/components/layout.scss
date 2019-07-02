@@ -33,7 +33,7 @@ body {
   font-size: 17px;
   font-weight: 400;
   color: #7d8fa0;
-  line-height: 1.6;
+  line-height: 1.7;
   font-family: $primary-font !important;
   overflow-x: hidden;
 }
@@ -3390,9 +3390,7 @@ body {
       margin: 0 auto;
       max-width: 620px;
       li {
-        color: #777777;
         list-style: none;
-        font-size: 16px;
         margin-bottom: 10px;
         position: relative;
         padding-left: 45px;
@@ -3436,9 +3434,6 @@ body {
       min-width: 30px;
     }
     p{
-      font-size: 16px;
-      font-weight: 400;
-      color: #777777;
       margin: 0 auto 20px;
       a{
         display: inline-block;
@@ -3523,10 +3518,7 @@ body {
   }
   p{
     font-size: 18px;
-    font-weight: 400;
-    color: #777777;
     margin: 0 auto;
-    line-height: 1.8;
   }
   &.shopify{
     .img-fluid{
@@ -3553,7 +3545,7 @@ body {
     font-size: 32px;
   }
   .features-download-intro{
-    background: #fff1e6;
+    background: #fff7f6;
     padding: 40px;
     border-radius: 4px;
     .btn-action{
@@ -3579,13 +3571,6 @@ body {
       font-weight:600;
       margin-bottom: 10px;
       font-size: 20px;
-    }
-    p{
-      font-size: 16px;
-      font-weight: 400;
-      color: #777777;
-      margin: 0 auto;
-      line-height: 1.8;
     }
   }
   &.shopify{
