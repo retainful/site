@@ -43,23 +43,24 @@ const IndexPage = () => (
                     <div className="row justify-content-left">
                         <div className="col-md-7">
                             <div className="customer-review">
-                                <h4>Great Next Order plugin option</h4>
-                                <p>It works great, a well-done plugin with a fast support team.</p>
+                                <h4>Easy to use plugin for abandoned cart</h4>
+                                <p>Clean plugin settings and the app is very each to use.</p>
                                 <div className="customer-meta">
-                                    <img src={merock} alt="merock"/>
-                                    <span>merock</span>
+                                    <img src={LukeCavanagh} alt="Luke Cavanagh"/>
+                                    <span>Luke Cavanagh <br /> <small>LiquidWeb</small></span>
                                 </div>
+
                             </div>
                         </div>
                     </div>
                     <div className="row justify-content-right">
                         <div className="col-md-7">
                             <div className="customer-review">
-                                <h4>Easy to use plugin for abandoned cart</h4>
-                                <p>Clean plugin settings and the app is very each to use.</p>
+                                <h4>Great Next Order plugin option</h4>
+                                <p>It works great, a well-done plugin with a fast support team.</p>
                                 <div className="customer-meta">
-                                    <img src={LukeCavanagh} alt="Luke Cavanagh"/>
-                                    <span>Luke Cavanagh</span>
+                                    <img src={merock} alt="merock"/>
+                                    <span>Remko Lopez<br /> <small>Brainding Agency</small></span>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +71,7 @@ const IndexPage = () => (
                                 <h4>This plugin is working well</h4>
                                 <p>This product has worked great for our business and has allowed us to convert customers that we most likely would not have. It’s very easy to set up and the plugin provides tremendous support if needed.</p>
                                 <div className="customer-meta">
-                                    <span> - bourji71</span>
+                                    <span>Bourji Rachid</span>
                                 </div>
                             </div>
                         </div>

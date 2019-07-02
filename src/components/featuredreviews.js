@@ -16,22 +16,23 @@ class FeaturedReviews extends React.Component {
                         <div className="row">
                             <div className="col-sm-6">
                                 <div className="customer-review">
-                                    <h4>Great Next Order plugin option</h4>
-                                    <p>It works great, a well-done plugin with a fast support team.</p>
+                                    <h4>Easy to use plugin for abandoned cart</h4>
+                                    <p>Clean plugin settings and the app is very each to use.</p>
                                     <div className="customer-meta">
-                                        <img src={merock} alt="merock"/>
-                                        <span>merock</span>
+                                        <img src={LukeCavanagh} alt="Luke Cavanagh"/>
+                                        <span>Luke Cavanagh <br /> <small>LiquidWeb</small></span>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-sm-6">
                                 <div className="customer-review">
-                                    <h4>Easy to use plugin for abandoned cart</h4>
-                                    <p>Clean plugin settings and the app is very each to use.</p>
+                                    <h4>Great Next Order plugin option</h4>
+                                    <p>It works great, a well-done plugin with a fast support team.</p>
                                     <div className="customer-meta">
-                                        <img src={LukeCavanagh} alt="Luke Cavanagh"/>
-                                        <span>Luke Cavanagh</span>
+                                        <img src={merock} alt="merock"/>
+                                        <span>Remko Lopez<br /> <small>Brainding Agency</small></span>
                                     </div>
+
                                 </div>
                             </div>
                         </div>
