@@ -17,7 +17,7 @@ class FeaturedReviews extends React.Component {
                             <div className="col-sm-6">
                                 <div className="customer-review">
                                     <h4>Easy to use plugin for abandoned cart</h4>
-                                    <p>Clean plugin settings and the app is very each to use.</p>
+                                    <p>Clean plugin settings and the app is very easy to use.</p>
                                     <div className="customer-meta">
                                         <img src={LukeCavanagh} alt="Luke Cavanagh"/>
                                         <span>Luke Cavanagh <br /> <small>LiquidWeb</small></span>
