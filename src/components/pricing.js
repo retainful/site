@@ -143,10 +143,7 @@ class PricingTable extends React.Component {
                             </div>
                         </div>
                         <div className="enterprise-pricing-plan text-center">
-                            <p>
-                                We also have special plans for nonprofit and education organizations.
-                            </p>
-                            <h3>Questions? <Link to="/support">Contact sales</Link></h3>
+                            <h3>Questions? <Link to="/support">Contact Us</Link></h3>
                         </div>
                     </Container>
                 </div>
