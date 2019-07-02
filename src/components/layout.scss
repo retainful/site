@@ -4556,3 +4556,27 @@ $i: 0;
     }
   }
 }
+
+.error-404-container{
+  background: #f7fcff;
+  //text-align: center;
+  h2{
+    color: #4a4a4a;
+    font-size: 48px;
+    font-weight: 800;
+  }
+  h3{
+    color: #4a4a4a;
+    font-size: 38px;
+    font-weight: 800;
+  }
+  p{
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  img{
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+  }
+}
