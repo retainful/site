@@ -1,9 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import Layout from '../../components/layout'
-import SEO from '../../components/seo';
-import HomeScreenshots from '../../constants/featuresScreenshots';
+import Layout from '../../../components/layout'
+import SEO from '../../../components/seo';
+import HomeScreenshots from '../../../constants/featuresScreenshots';
 
 const FeaturesPage = () => (
     <Layout>
@@ -178,14 +178,12 @@ const FeaturesPage = () => (
 
 
         {/*<HomeScreenshots/>*/}
-        <div id="pricing" className="pricing-section text-center">
-            <div className="container">
-                <div className="pricing-intro wow fadeInDown">
-                    <h3>Retain & Grow your WooCommerce Business Smart</h3>
-                    <p>
-                        <a className="btn-action btn-lg" href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`} target="_blank" rel="noopener noreferrer">Download Retainful</a>
-                    </p>
-                </div>
+        <div className="features-download-section text-center">
+            <div className="container features-download-intro wow fadeInDown">
+                <h3>Retain & Grow your WooCommerce<br/> Business Smart</h3>
+                <p>
+                    <a className="btn-action btn-lg" href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`} target="_blank" rel="noopener noreferrer">Download Retainful</a>
+                </p>
             </div>
         </div>
     </Layout>

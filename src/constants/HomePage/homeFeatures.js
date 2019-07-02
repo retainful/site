@@ -1,8 +1,7 @@
 import React from 'react';
 import {Link} from 'gatsby';
-import {FaCheck} from 'react-icons/fa';
+import {FaLongArrowAltRight} from 'react-icons/fa';
 import bannerLogo from "../../images/retainful-coupon-03.png";
-import Layout from "../../pages/features/woocommerce";
 
 const HomeFeatures = () => (
     <div className="home-features-container" id="features">
@@ -10,187 +9,99 @@ const HomeFeatures = () => (
             <div className="text-center">
                 <h3>Features</h3>
             </div>
-            <div className="row">
-                <div className="col-md-4">
+            <div className="row justify-content-center">
+                <div className="col-lg-3 col-md-6">
+                    <div className="hero-plugins">
+                        <p><img className="img-fluid"
+                                src={`${process.env.GATSBY_RF_MEDIA_URL}/abandoned_cart_recovery_emails.png`}
+                                alt="abandoned_cart_recovery_emails"/></p>
+                        <h4>Recover Abandoned Carts</h4>
+                        <p>Automatically send a series of cart recovery emails. Recover as many abandoned checkouts as possible. A single click cart recovery tool.</p>
+                    </div>
+                </div>
+                <div className="col-lg-3 col-md-6">
+                    <div className="hero-plugins">
+                        <p><img className="img-fluid"
+                                src={`${process.env.GATSBY_RF_MEDIA_URL}/next_order_discouny_coupon.png`}
+                                alt="next_order_discouny_coupon"/></p>
+                        <h4>Drive Repeat Purchases</h4>
+                        <p>Auto generate and send unique coupons for the next purchase within the order notification itself and bring customers back</p>
+                    </div>
+                </div>
+                <div className="col-lg-3 col-md-6">
+                    <div className="hero-plugins">
+                        <p><img className="img-fluid"
+                                src={`${process.env.GATSBY_RF_MEDIA_URL}/track_realtime_conversions.png`}
+                                alt="track_realtime_conversions"/></p>
+                        <h4>Actionable Analytics & Insights</h4>
+                        <p>Check your abandoned carts and their value. Track the performance of your cart recovery emails and next order coupons</p>
+                    </div>
+                </div>
+                <div className="col-lg-3 col-md-6">
+                    <div className="hero-plugins">
+                        <p><img className="img-fluid"
+                                src={`${process.env.GATSBY_RF_MEDIA_URL}/track_realtime_conversions.png`}
+                                alt="track_realtime_conversions"/></p>
+                        <h4>Drag-and-Drop Visual Email Editor</h4>
+                        <p>Create beautiful emails with our drag-and-drop visual email builder. Use the pre-built, responsive email templates and get started quickly</p>
+                    </div>
+                </div>
+            </div>
+            <div className="row align-items-center">
+                <div className="col-md-6">
                     <div className="features-list">
-                        <h3>Abandoned Cart Recovery Emails</h3>
-                        {/*<p>Retainful gives you a unique set of tools to retain your customers and increase revenue per customer.</p>*/}
                         <p><img className="img-fluid"
                                 src={`${process.env.GATSBY_RF_MEDIA_URL}/abandoned_cart_recovery_emails.png`}
                                 alt="abandoned_cart_recovery_emails"/></p>
                     </div>
                 </div>
-                <div className="col-md-4">
+                <div className="col-md-6">
                     <div className="features-list">
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Trigger follow-up email reminders automatically to recover abandoned carts</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Send unlimited cart recovery email reminders</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Easy to use short-codes to include customer details and order summary in your emails</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Helps you capture all abandoned carts including the guest carts</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4">
-                    <div className="features-list">
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Stop sending email reminders automatically when the cart is recovered</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Get notified when your customers recover the abandoned carts</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Track revenue - Compare Abandoned order value & the recovered cart value</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Notifies eCommerce store administrators when a cart is recovered</h4>
-                            </div>
-                        </div>
+                        <h3>Abandoned Cart Recovery</h3>
+                        <p>60 to 70% of the shoppers abandoned their checkouts. Using a well-timed series of emails, it is possible to recover at least 45% of these carts.</p>
+                        <ul>
+
+                            <li>
+                                Trigger email reminders automatically when customers abandon their carts
+                            </li>
+                            <li>Send unlimited cart recovery emails</li>
+                            <li>Schedule emails to be sent at perfect intervals</li>
+                            <li>Capture all abandoned carts, including the guest carts</li>
+                            <li>Personalize the emails with the customer's name</li>
+
+                        </ul>
+                        <p>
+                            <a href="#">Learn more  <span><FaLongArrowAltRight/></span></a>
+                        </p>
                     </div>
                 </div>
             </div>
-            <hr/>
-            <div className="row">
-                <div className="col-md-4">
+            <div className="row align-items-center">
+                <div className="col-md-6">
                     <div className="features-list">
-                        <h3>Next Order Coupons</h3>
+                        <h3>Drive Repeat Purchases</h3>
+                        <p>Your transactional emails have the highest open rates. Unlock their revenue potential by sending a coupon for next purchase and product recommendations.</p>
+                        <ul>
+                            <li>
+                                Auto generate unique coupons for the next purchase and embed it in the order notification emails.
+                            </li>
+                            <li>Auto apply the coupon when customers clicks the CTA / link </li>
+                            <li>Coupon can be a percentage or a flat discount</li>
+                            <li>Track the performance of the coupons in the Retainful Dashboard</li>
+                        </ul>
+                        <p>
+                            <a href="#">Learn more <span><FaLongArrowAltRight/></span></a>
+                        </p>
+                    </div>
+                </div>
+                <div className="col-md-6">
+                    <div className="features-list">
                         {/*<p>Retainful is the best tool to automate cart recovery emails and recover lost sales.</p>*/}
-                        <p><img className="img-fluid"
-                                src={`${process.env.GATSBY_RF_MEDIA_URL}/next_order_discouny_coupon.png`}
-                                alt="next_order_discouny_coupon"/></p>
-                    </div>
-                </div>
-                <div className="col-md-4">
-                    <div className="features-list">
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Generate Unique Next order coupon codes automatically on every purchase</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Send coupon codes along with the order transactional emails</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Trigger FOMO by setting expiry/validity to the next order coupons</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Set advanced coupon conditions - Create product & category based coupons</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4">
-                    <div className="features-list">
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Exclude any specific category/product from getting a discount via coupons</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Auto-apply coupon discount at the cart when customer clicks the email link</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Track the list of customers who have used the coupon vouchers</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Measure recovered revenue earned through next order coupons</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <hr/>
-            <div className="row">
-                <div className="col-md-4">
-                    <div className="features-list">
-                        <h3>Analytics & Insights</h3>
-                        {/*<p>With Retainful, you get a featured dashboard to track analytics, conversions and customer insights.</p>*/}
                         <p><img className="img-fluid"
                                 src={`${process.env.GATSBY_RF_MEDIA_URL}/track_realtime_conversions.png`}
                                 alt="track_realtime_conversions"/></p>
                     </div>
                 </div>
-                <div className="col-md-4">
-                    <div className="features-list">
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Track the performance of your cart recovery and coupon order emails</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Clean & detailed report on sale conversions and customer revenue insights</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Measure customer engagement with open & email click-through stats</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Track the number of individual sale conversions achieved</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-md-4">
-                    <div className="features-list">
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Check whether the abandoned customer type is a registered user or guest</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>View cart section helps you check the cart abandoned by the individuals</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/>  <h4>Filter the date range and analyze your abandoned cart recovery campaigns</h4>
-                            </div>
-                        </div>
-                        <div className="card">
-                            <div className="card-body">
-                                <FaCheck/> <h4>Logs every abandoned cart customer's email and guest IP in the dashboard</h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div className="text-center">
-                <p><Link to="/features/woocommerce" className="btn-action">See More</Link></p>
             </div>
         </div>
     </div>
