@@ -8,9 +8,9 @@ const HomeBanner = () =>(
                 <div className="row">
                     <div className="col-sm-7">
                         <div className="hero-content wow fadeIn">
-                            <h1>Recover abandoned carts & drive repeat purchases easily</h1>
-                            <p> Recover every single cart. Don't lose sales anymore<br/>
-                                Encourage repeat purchases by sending coupons for next purchase automatically.
+                            <h1>Recover abandoned carts & drive 10x more repeat purchases easily</h1>
+                            <p>Boost sales with automatic cart recovery campaigns.<br/>
+                                Get more dollars per customer by sending next purchase coupons.
                             </p>
                             <p>
                                 <a className="btn-action btn-edge btn-lg"
