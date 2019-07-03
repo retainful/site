@@ -490,31 +490,6 @@ body {
     margin: 0 auto;
   }
 
-  .home .btn-edge{
-    font-size: 16px;
-    font-weight: 600;
-    text-transform: capitalize;
-    padding: 5px 20px;
-    margin-bottom: 15px;
-    border-bottom: 3px solid #d45437;
-  }
-  .home .btn-outlined{
-    font-size: 16px;
-    font-weight: 600;
-    text-transform: capitalize;
-    padding: 5px 20px;
-    border: 1px solid #e4e8ed;
-    border-bottom: 3px solid #d45437;
-    background: #ffffff;
-    color: $primary;
-    &:hover {
-      color: $primary;
-      box-shadow: 0 5px 25px 0 rgba(0, 0, 100, .2);
-      outline: none !important;
-      text-decoration: none;
-    }
-  }
-
   .btn-action {
     display: inline-block;
     padding: 0 30px;
@@ -558,6 +533,31 @@ body {
     background: #f27052;
     color: #FFFFFF;
     outline: none !important;
+  }
+
+  .btn-edge{
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding: 5px 20px;
+    margin-bottom: 15px;
+    border-bottom: 3px solid #d45437;
+  }
+  .btn-outlined{
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding: 5px 20px;
+    border: 1px solid #e4e8ed;
+    border-bottom: 3px solid #d45437;
+    background: #ffffff;
+    color: $primary;
+    &:hover {
+      color: $primary;
+      box-shadow: 0 5px 25px 0 rgba(0, 0, 100, .2);
+      outline: none !important;
+      text-decoration: none;
+    }
   }
 
   .home .client-list {

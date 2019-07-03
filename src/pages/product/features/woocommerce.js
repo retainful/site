@@ -19,9 +19,14 @@ const FeaturesPage = () => (
                         <div className="text-center">
     
                             <p><img src="https://raw.githubusercontent.com/retainful/site-images/master/logo-woocommerce.png" alt="woocommerce"/></p>
-                            <p><a className="btn-action btn-edge btn-lg"
+                            <p>
+                                <a className="btn-action btn-edge btn-lg"
                                   href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`}
-                                  target="_blank" rel="noopener noreferrer">Download Free Plugin</a></p>
+                                  target="_blank" rel="noopener noreferrer">Download Free Plugin</a>
+                                <a className="btn-action m-l-10 btn-outlined btn-lg"
+                                  href="http://demo.retainful.com/"
+                                  target="_blank" rel="noopener noreferrer">Live Demo</a>
+                            </p>
                         </div>
                     </div>
                 </div>
