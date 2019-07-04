@@ -38,8 +38,15 @@ const BlogPage = ({ pageContext,props}) => {
                             <div className="content-section">
                                 <h3><Link to={(post.node.fields.slug).replace(/\/$/, "")}>{post.node.frontmatter.title}</Link></h3>
                                 <p>
-                                    <small>Posted by {post.node.frontmatter.author} on {post.node.frontmatter.date} in
-                                        <Link to={'blog/category/'+ post.node.frontmatter.category}> {post.node.frontmatter.category}</Link></small>
+                                    <small>
+                                        Posted by {post.node.frontmatter.author} on {post.node.frontmatter.date}
+                                        {post.node.frontmatter.category &&
+                                        <span className="category-name">
+                                            &nbsp;in
+                                            <Link to={'blog/category/' + post.node.frontmatter.category}> {(post.node.frontmatter.category).replace(/-/g, " ")}</Link>
+                                        </span>
+                                        }
+                                    </small>
                                 </p>
                                 <p>
                                     {post.node.frontmatter.description}
