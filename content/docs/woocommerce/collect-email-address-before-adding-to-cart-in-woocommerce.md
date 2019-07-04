@@ -7,7 +7,7 @@ tags: ["woocommerce", "abandoned-cart-recovery-emails", "email-collection-popup"
 category: woocommerce
 ---
 
- An import requirement to recover abandoned cart is the email address of the prospective customer.
+ An important requirement to recover abandoned cart is the email address of the prospective customer.
 
 As you have noticed, someone might add an item to cart. But if they leave  your site without purchasing the item, then you left with no way of reaching him or her.
 
