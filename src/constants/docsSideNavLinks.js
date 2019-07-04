@@ -13,6 +13,7 @@ const SIDENAV_LINKS = [
               {URL: '/docs/woocommerce/collect-email-address-before-adding-to-cart-in-woocommerce', TEXTNODE: 'Email Collection during Add to Cart'},
               {URL: '/docs/woocommerce/coupon-for-email-popup', TEXTNODE: 'Coupon for Email Collection Popup'},
               {URL: '/docs/woocommerce/next-order-coupon', TEXTNODE: 'Next Order Coupon'},
+              {URL: '/docs/woocommerce/coupon-timer', TEXTNODE: 'Coupon Timer'},
         ],
         BUTTON_LINK: '/docs/woocommerce/install-retainful-plugin-for-woocommerce',
     },
