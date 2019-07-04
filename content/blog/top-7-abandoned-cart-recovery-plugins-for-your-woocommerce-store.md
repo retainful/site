@@ -6,7 +6,7 @@ description: "All you need to know about Cart abandonment and its recovery throu
 author: "Deepika"
 image:  "../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store.png"
 thumbnail: "../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store.png"
-category: "WooCommerce"
+category: "woocommerce"
 ---
 
 It is no more a secret that over 60-80% of the shopping carts are abandoned every year. This is to say, that online business loses a vast count of customers every time when a cart is abandoned and left without a purchase.

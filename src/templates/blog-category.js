@@ -1,50 +1,79 @@
 import React from "react"
+import { Link, graphql } from "gatsby";
+import Img from 'gatsby-image';
 import PropTypes from "prop-types"
+// Components
 import Layout from "../components/layout";
 import Container from "../components/container";
-import NavSub from "../components/NavSub";
-// Components
-import { Link, graphql } from "gatsby"
+import MetaTags from '../components/Metatags';
+//Constants
+import BLOGCATEGORIES from "../constants/blogCategories";
 
-const Category = ({ pageContext, data }) => {
-    const { category } = pageContext
-    const { edges, totalCount } = data.allMarkdownRemark
-    const categoryHeader = `${totalCount} post${
-        totalCount === 1 ? "" : "s"
-        } in category: ${category}`
-
-    return (
-        <Layout>
-            <div className="category-container">
-                <div className="category-header">
-                    <Container>
-                        <h2>{categoryHeader}</h2>
-                    </Container>
-                </div>
-                <Container>
-                    <ul className="category-list">
-                        <h4>{category}</h4>
-                        {edges.map(({ node }) => {
-                            const { title } = node.frontmatter
-                            const { slug } = node.fields
-                            const { excerpt } = node.excerpt
+class Category extends React.Component {
+    constructor(props) {
+        super(props);
+    }
+    static renderCategoryMeta(category, totalCount) {
+        let categoryMeta = BLOGCATEGORIES.map(function(meta) {
+            if(category === meta.CATEGORY){
+                return(
+                    <>
+                        <MetaTags title={meta.METATITLE} description={meta.DESCRIPTION} thumbnail={meta.THUMBNAIL} keywords={meta.KEYWORDS} />;
+                        <div className="category-container">
+                            <div className="category-header">
+                                <Container>
+                                    <h2>{`${totalCount} post${
+                                        totalCount === 1 ? "" : "s"
+                                        } in category: ${meta.TITLE}`}</h2>
+                                </Container>
+                            </div>
+                        </div>
+                    </>
+                )
+            }
+        });
+        return categoryMeta;
+    }
+    render() {
+        const { category } = this.props.pageContext;
+        const { edges, totalCount } = this.props.data.allMarkdownRemark;
+        return (
+            <Layout>
+                { Category.renderCategoryMeta(category, totalCount) }
+                <div className="blog-list-container">
+                    <Container type="s">
+                        {edges.map((post) => {
                             return (
-                                <li key={slug}>
-                                    <Link to={slug}>{title}</Link>
-                                    <p>{excerpt}</p>
-                                </li>
+                                <div className="blog-post" key={post.node.fields.slug}>
+                                    <div className="image-section">
+                                        <Link to={(post.node.fields.slug).replace(/\/$/, "")}>
+                                            <Img fluid={post.node.frontmatter.image.childImageSharp.fluid} alt={post.node.frontmatter.title} />
+                                        </Link>
+                                    </div>
+                                    <div className="content-section">
+                                        <h3><Link to={(post.node.fields.slug).replace(/\/$/, "")}>{post.node.frontmatter.title}</Link></h3>
+                                        <p>
+                                            <small>Posted by {post.node.frontmatter.author} on {post.node.frontmatter.date} in
+                                                <Link to={'blog/category/'+ post.node.frontmatter.category}> {post.node.frontmatter.category}</Link></small>
+                                        </p>
+                                        <p>
+                                            {post.node.frontmatter.description}
+                                        </p>
+                                        <p>
+                                            {post.node.excerpt}
+                                        </p>
+                                        <Link to={(post.node.fields.slug).replace(/\/$/, "")}>Read more</Link>
+                                    </div>
+                                </div>
                             )
                         })}
-                    </ul>
-                    {/*
-                      This links to a page that does not yet exist.
-                      We'll come back to it!
-                    */}
-                </Container>
-            </div>
-        </Layout>
-    )
+                    </Container>
+                </div>
+            </Layout>
+        );
+    }
 }
+
 
 Category.propTypes = {
     pageContext: PropTypes.shape({
@@ -57,7 +86,6 @@ Category.propTypes = {
                 PropTypes.shape({
                     node: PropTypes.shape({
                         frontmatter: PropTypes.shape({
-                            path: PropTypes.string.isRequired,
                             title: PropTypes.string.isRequired,
                         }),
                         fields: PropTypes.shape({
@@ -82,15 +110,25 @@ export const pageQuery = graphql`
       totalCount
       edges {
         node {
-          frontmatter {
-            title
-            category
+            frontmatter {
+              title
+              description
+              date(formatString: "DD MMMM, YYYY")
+              author
+              image {
+                childImageSharp {
+                  fluid {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+              category
+            }
+            excerpt
+            fields {
+              slug
+            }
           }
-          fields{
-             slug
-          }
-          excerpt
-        }
       }
     }
   }

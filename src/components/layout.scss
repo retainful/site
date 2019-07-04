@@ -2330,6 +2330,9 @@ body {
         }
       }
     }
+    .category-name{
+      text-transform: capitalize;
+    }
   }
   .pagination-links{
     display: flex;
