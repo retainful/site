@@ -29,12 +29,12 @@ const BlogPage = ({ pageContext,props}) => {
                 <Container type="s">
                     { group.map(post => (
                         <div className="blog-post" key={post.node.fields.slug}>
-                        <div className="image-section">
-                        <Link to={(post.node.fields.slug).replace(/\/$/, "")}>
-                            <Img fluid={post.node.frontmatter.image.childImageSharp.fluid} alt={post.node.frontmatter.title} />
-                        </Link>
-                    {/* console.log(post.node.frontmatter.image)*/}
-                    </div>
+                            <div className="image-section">
+                                <Link to={(post.node.fields.slug).replace(/\/$/, "")}>
+                                    <Img fluid={post.node.frontmatter.image.childImageSharp.fluid} alt={post.node.frontmatter.title} />
+                                </Link>
+                            {/* console.log(post.node.frontmatter.image)*/}
+                            </div>
                             <div className="content-section">
                                 <h3><Link to={(post.node.fields.slug).replace(/\/$/, "")}>{post.node.frontmatter.title}</Link></h3>
                                 <p>

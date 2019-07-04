@@ -6,7 +6,7 @@ description: "Learn how to create effective abandoned cart recovery emails and s
 image: "../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store.png"
 thumbnail: "../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store.png" 
 author: "Siddharth"
-Category: "emailmarketing"
+Category: "email-marketing"
 ---
 
 Let’s say Your WooCommerce store is running successfully with a healthy amount of traffic. And your online revenue is pretty solid as well. But still, there's a lot of sales left behind. In other words, you might still be facing huge number of lost sales.    
