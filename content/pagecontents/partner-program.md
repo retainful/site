@@ -74,9 +74,9 @@ Because you've got a whole lot to gain and nothing to lose! We have been develop
 <column size="6" className="m-b-20">
 
 #### How is my commissions calculated?
-Lets say you have sold 100 copies of Retainful at $39 each, your commissions are:    
-`100 copies x $39 x 30% = $1,170`   
-In total, you have earned $1,170 in commissions at 30%.
+Lets say you have sold 100 copies of Retainful at $69 each, your commissions are:    
+`100 copies x $69 x 30% = $2,070`   
+In total, you have earned $2,070 in commissions at 30%.
 
 </column>
 <column size="6" className="m-b-20">
