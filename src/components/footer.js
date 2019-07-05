@@ -55,6 +55,9 @@ export default function Footer() {
                             <li>
                                 <Link to="/support">Contact Us</Link>
                             </li>
+                            <li>
+                                <Link to="/partner-program">Partner Program</Link>
+                            </li>
                         </ul>
                         <h5>Also from us:</h5>
                         <ul className="d-inline-flex">

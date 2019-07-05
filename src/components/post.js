@@ -37,9 +37,9 @@ const renderAst = new rehypeReact({
 
 
 const Post = ({ title,excerptData,description }) => (
-  <div>
-  <SEO title={title} description={description} />
-  {renderAst(excerptData)}
-  </div>
+  <>
+      <SEO title={title} description={description} />
+      {renderAst(excerptData)}
+  </>
 )
 export default Post
