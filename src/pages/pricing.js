@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'gatsby'
+import {Link, StaticQuery, graphql} from 'gatsby'
 import Layout from '../components/layout'
 import MetaTags from '../components/Metatags'
 import Pricing from '../components/pricing'
@@ -8,19 +8,10 @@ import FeaturedReviews from '../components/featuredreviews'
 import $ from 'jquery'
 
 import HomeTrutedCompanies from '../constants/HomePage/homeTrustedCompanies';
-import PricingFaq from '../constants/FAQ';
+import PageContent from "../components/pageContent";
+import Container from "../components/container";
 
 class PricingPage extends React.Component {
-    static renderFaqs() {
-        return PricingFaq.map(faq => (
-            <div className="col-sm-6" key={faq.QUESTION}>
-                <div className="faq-wrapper">
-                    <h4>{faq.QUESTION}</h4>
-                    <p>{faq.ANSWER}</p>
-                </div>
-            </div>
-        ));
-    }
     render() {
         return (
             <Layout>
@@ -47,14 +38,18 @@ class PricingPage extends React.Component {
                     <FeaturedReviews/>
 
                     <div className="faq-block">
-                        <div className="container">
-                            <div className="included-faq-block">
-                                <h3>FAQs: </h3>
-                                <div className="row justify-content-center">
-                                    {PricingPage.renderFaqs()}
-                                </div>
-                            </div>
-                        </div>
+                        <StaticQuery
+                            query={PricingFaqQuery}
+                            render={data => {
+                                return (
+                                    <Container>
+                                        <PageContent
+                                            excerptData={data.markdownRemark.htmlAst}
+                                        />
+                                    </Container>
+                                )
+                            }}
+                        />
                     </div>
 
                     <GetStarted/>
@@ -66,3 +61,14 @@ class PricingPage extends React.Component {
 }
 
 export default PricingPage
+
+export const PricingFaqQuery = graphql`
+ query PricingFaqQuery{
+      markdownRemark(frontmatter: {path: {eq: "/pricing-faq"}}){
+        htmlAst
+        frontmatter{
+          path
+        }
+      }
+  } 
+`
