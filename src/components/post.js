@@ -15,6 +15,7 @@ import Underline from './underline'
 import TitleLink from "./titleLink"
 import LinkText from "./linkText"
 import Gist from "./gist"
+import Card from "./Card"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
@@ -26,10 +27,11 @@ const renderAst = new rehypeReact({
       gist: Gist,
       "link-text": LinkText,
       row: Row,
-      col: Col,
+      column: Col,
       "table-contents": TableOfContents,
       cta:Cta,
-      "cta-box":CtaBox
+      "cta-box":CtaBox,
+      card: Card
   },
 }).Compiler
 
