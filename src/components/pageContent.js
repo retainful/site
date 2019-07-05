@@ -1,9 +1,5 @@
 import React from 'react'
 import rehypeReact from "rehype-react"
-import { Link } from 'gatsby'
-import Img from 'gatsby-image'
-import Container from './container'
-import SEO from './seo'
 import Row from "./row"
 import Col from "./column"
 import TableOfContents from "./TableOfContents"
@@ -38,10 +34,9 @@ const renderAst = new rehypeReact({
 }).Compiler
 
 
-const Post = ({ title,excerptData,description }) => (
+const PageContent = ({ excerptData }) => (
   <>
-      <SEO title={title} description={description} />
       {renderAst(excerptData)}
   </>
 )
-export default Post
+export default PageContent

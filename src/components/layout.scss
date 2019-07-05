@@ -1254,21 +1254,25 @@ body {
   .pricing-section .featured {
     position: relative;
     z-index: 2;
-    &:before{
-      content: 'Most Popular';
-      position: absolute;
-      top: -10px;
-      display: block;
-      right: 20px;
-      padding: 2px 15px 7px;
-      background: #52F2B9;
-      color: #000;
-      z-index: -1;
-      border-radius: 8px;
-      font-weight: 600;
-      text-transform: uppercase;
-      font-size: 14px;
+    .table-left{
+      position: relative;
+      &:before{
+        content: 'Most Popular';
+        position: absolute;
+        top: -30px;
+        display: block;
+        right: 8px;
+        padding: 2px 15px 7px;
+        background: #52F2B9;
+        color: #000;
+        z-index: -1;
+        border-radius: 8px;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 14px;
+      }
     }
+
   }
   
   .table-left .icon, .table-right .icon {
@@ -4309,6 +4313,10 @@ body {
         span{
           color: $primary;
           font-size: 18px;
+          font-weight: 600;
+          small{
+            color: #999999;
+          }
         }
       }
     }

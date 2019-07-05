@@ -6,7 +6,7 @@ import {groupBy} from "lodash";
 const Card = (props) => {
     const childrenArray = React.Children.toArray(props.children);
     const slottedChildren = groupBy(childrenArray, 'props.slot');
-    const cardClass = `card card-blog text-center col-md-${props.size}`;
+    const cardClass = `card card-blog col-md-${props.size} ${props.className}`;
     return (
         <div className={cardClass}>
             <div className="card_inner">
@@ -14,7 +14,7 @@ const Card = (props) => {
                 <div className="card_links">
                     {slottedChildren["card-links"]}
                 </div>
-                <p className="is-p">{slottedChildren["card-body"]}</p>
+                <div className="card-body">{slottedChildren["card-body"]}</div>
             </div>
             <div className="card_button">
                 {slottedChildren["card-button"]}
@@ -25,6 +25,7 @@ const Card = (props) => {
 
 Card.defaultProps = {
     size: '',
+    className: '',
 };
 
 export default Card;
