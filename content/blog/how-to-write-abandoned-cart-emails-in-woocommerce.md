@@ -55,11 +55,11 @@ Following are the best strategies followed by leading eCommerce brands in the wo
 ### 6 Best Strategies for Abandoned Cart Emails with Examples
 ____
 
-Here is a list of abandoned cart email examples (Feel free to borrow from them!):
+Here is a list of abandoned cart email strategies with examples (Feel free to borrow for your campaign!):
 
-1. Simple, Catch Subject Line
-2. Show the customer what’s left in the cart
-3. Single-click cart recovery (Call to Action)
+1. Simple, Catchy Subject Line
+2. Show what’s left in the cart
+3. Offer a Single-click cart recovery (Call to Action)
 4. Tempt with discounts & Free Shipping
 5. Share Support Information
 6. Add Customer Reviews / Testimonials
