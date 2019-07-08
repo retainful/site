@@ -6,6 +6,7 @@ import Row from "../components/row"
 import Col from "../components/column"
 
 import { FaFacebookF, FaTwitter} from 'react-icons/fa'
+import GdprReadBadge from '../images/gdpr_ready_badge.png'
 
 export default function Footer() {
     return(
@@ -68,6 +69,7 @@ export default function Footer() {
                         </ul>
                     </Col>
                     <Col size="2">
+                        <img src={GdprReadBadge} alt="" className="img-responsive"/>
                         <div className="footer-social-block">
                             <div className="footer-social-links clearfix">
                                 <a target="_blank" href="https://www.facebook.com/campaignrabbit/" className="foot-social-link"><i className="fa fa-facebook"><FaFacebookF/></i></a>
