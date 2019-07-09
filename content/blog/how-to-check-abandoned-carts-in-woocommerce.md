@@ -6,7 +6,7 @@ description: "Learn how to check abandoned carts in your WooCommerce store. Capt
 author: "Siddharth"
 image: "../images/How-to-check-abandoned-carts-in-woocommerce/How-to-check-abandoned-carts-in-woocommerce.png"
 thumbnail: "../images/How-to-check-abandoned-carts-in-woocommerce/How-to-check-abandoned-carts-in-woocommerce.png"
-category: 'WooCommerce'
+category: 'woocommerce'
 ogtype: blog
 ---
 

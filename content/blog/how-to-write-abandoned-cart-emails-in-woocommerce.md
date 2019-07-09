@@ -6,7 +6,7 @@ description: "Learn how to create effective abandoned cart recovery emails and s
 image: "../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store.png"
 thumbnail: "../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store.png" 
 author: "Siddharth"
-Category: "emailmarketing"
+Category: "email-marketing"
 ---
 
 Let’s say Your WooCommerce store is running successfully with a healthy amount of traffic. And your online revenue is pretty solid as well. But still, there's a lot of sales left behind. In other words, you might still be facing huge number of lost sales.    
@@ -55,11 +55,11 @@ Following are the best strategies followed by leading eCommerce brands in the wo
 ### 6 Best Strategies for Abandoned Cart Emails with Examples
 ____
 
-Here is a list of abandoned cart email examples (Feel free to borrow from them!):
+Here is a list of abandoned cart email strategies with examples (Feel free to borrow for your campaign!):
 
-1. Simple, Catch Subject Line
-2. Show the customer what’s left in the cart
-3. Single-click cart recovery (Call to Action)
+1. Simple, Catchy Subject Line
+2. Show what’s left in the cart
+3. Offer a Single-click cart recovery (Call to Action)
 4. Tempt with discounts & Free Shipping
 5. Share Support Information
 6. Add Customer Reviews / Testimonials

@@ -6,7 +6,7 @@ description: "Cart recovery email reminders can recover at least 30% - 40% of ab
 author: "Siddharth"
 image: "../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back.png"
 thumbnail: "../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back.png"
-category: "eCommerce"
+category: "ecommerce"
 ---
 
 Cart abandonment is a tough reality to accept if you are running an online store. Yes, 70% of your website visitors are going to leave your store without shopping.
