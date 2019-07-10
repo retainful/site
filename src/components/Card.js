@@ -1,8 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby'
 import {groupBy} from "lodash";
-
-
+import Img from "gatsby-image"
 const Card = (props) => {
     const childrenArray = React.Children.toArray(props.children);
     const slottedChildren = groupBy(childrenArray, 'props.slot');
@@ -10,6 +9,7 @@ const Card = (props) => {
     return (
         <div className={cardClass}>
             <div className="card_inner">
+            <div className="card_image">{slottedChildren["card-image"]}</div>
                 <h3 className="card_title" >{slottedChildren["card-title"]}</h3>
                 <div className="card_links">
                     {slottedChildren["card-links"]}
