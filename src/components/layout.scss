@@ -52,6 +52,12 @@ blockquote, q {
   quotes: none;
 }
 
+blockquote {
+  font-style: italic;
+  border-left: 3px solid $primary;
+  padding: 5px 15px;
+}
+
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
@@ -1309,21 +1315,25 @@ body {
   .pricing-section .featured {
     position: relative;
     z-index: 2;
-    &:before{
-      content: 'Most Popular';
-      position: absolute;
-      top: -10px;
-      display: block;
-      right: 20px;
-      padding: 2px 15px 7px;
-      background: #52F2B9;
-      color: #000;
-      z-index: -1;
-      border-radius: 8px;
-      font-weight: 600;
-      text-transform: uppercase;
-      font-size: 14px;
+    .table-left{
+      position: relative;
+      &:before{
+        content: 'Most Popular';
+        position: absolute;
+        top: -30px;
+        display: block;
+        right: 8px;
+        padding: 2px 15px 7px;
+        background: #52F2B9;
+        color: #000;
+        z-index: -1;
+        border-radius: 8px;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 14px;
+      }
     }
+
   }
   
   .table-left .icon, .table-right .icon {
@@ -2390,6 +2400,9 @@ body {
           }
         }
       }
+    }
+    .category-name{
+      text-transform: capitalize;
     }
   }
   .pagination-links{
@@ -4361,6 +4374,10 @@ body {
         span{
           color: $primary;
           font-size: 18px;
+          font-weight: 600;
+          small{
+            color: #999999;
+          }
         }
       }
     }
@@ -4639,5 +4656,78 @@ $i: 0;
     max-width: 500px;
     width: 100%;
     height: auto;
+  }
+}
+
+.affiliate-programme {
+  padding: 40px 0;
+  .topbar-content{
+    padding: 20px;
+    box-shadow: 0 0 0 1px rgba(63, 63, 68, 0.05), 0 1px 3px 0 rgba(63, 63, 68, 0.15);
+    border-radius: 4px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    p {
+      font-size: 18px;
+    }
+  }
+  p {
+    margin-bottom: 10px;
+  }
+  img {
+    max-width: 150px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  h2 {
+    color: #333333;
+    line-height: 1.3;
+  }
+  h4,h3 {
+    color: #333333;
+    line-height: 1.3;
+    margin-bottom: 10px;
+  }
+  h5 {
+    color: #7d8fa0;
+    line-height: 1.7;
+  }
+  .btn {
+    margin: 10px;
+  }
+}
+
+.affiliate-batch-banner .affiliate-batch-content {
+  display: block;
+  position: relative;
+  padding: 20px;
+  background: linear-gradient(to bottom right, #ff5558 30%, #ff746c 70%);
+  color: #fff;
+  border-radius: 4px;
+  margin: 10px 0;
+  transition: all 0.3s ease 0s;
+  text-align: center;
+  h4 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 400;
+  }
+  p {
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 0.03em;
+  }
+  .affiliate-batch-link {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    z-index: 2;
+  }
+  &:hover {
+    opacity: 0.9;
   }
 }
