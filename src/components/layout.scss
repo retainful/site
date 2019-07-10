@@ -66,6 +66,67 @@ q:before, q:after {
   }
 }
 
+.feature-card {
+  &.card {
+    position: relative;
+    display: inline-block;
+    padding: 30px;
+    background-color: #fff;
+    border: 1px solid #e8f2fc;
+    border-radius: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    @media (min-width: 768px) {
+      flex-basis: 48%;
+    }
+    .card_inner {
+      padding: 15px;
+      .card_icon {
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 50%;
+        background: #e8f2fc;
+        margin-bottom: 20px;
+        color: #007bff;
+      }
+      .card_title {
+        font-size: 21px;
+        margin-bottom: 30px;
+        font-weight: 600;
+        color: #294661;
+      }
+      .card_links {
+        display: block;
+        .card_link {
+          display: block;
+          margin-bottom: 10px;
+          font-size: 17px;
+          //color: #294661;
+          color: #007bff;
+          &:hover {
+            color: #007bff;
+          }
+        }
+      }
+    }
+    .card_button {
+      padding: 15px;
+      .btn {
+        display: inline-block;
+        padding: 8px 20px;
+        font-weight: 500;
+        color: #007bff;
+        border-color: #007bff;
+        &:hover {
+          background: #e8f2fc;
+        }
+      }
+    }
+  }
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
