@@ -15,15 +15,10 @@ import Underline from './underline'
 import TitleLink from "./titleLink"
 import LinkText from "./linkText"
 import Gist from "./gist"
-<<<<<<< HEAD
 import Card from './Card'
 import HeaderContent from './headercontent'
 import FooterTool from "./footertool"
 import Featurecontent from "./featuretool"
-=======
-import Card from "./Card"
-import Plan from "./Plan"
->>>>>>> adb1ae316b39eef9da644da447ad9806a29a3e77
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
