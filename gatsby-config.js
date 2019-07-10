@@ -87,6 +87,12 @@ module.exports = {
                 ]
             }
         },
+        {
+            resolve: 'gatsby-plugin-mailchimp',
+            options: {
+                endpoint: `${process.env.GATSBY_MAILCHIMP_API_URL}`
+            },
+        },
         // {
         //     resolve: `gatsby-plugin-typography`,
         //     options: {
