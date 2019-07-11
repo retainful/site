@@ -6,14 +6,8 @@ export default function Cta( props ) {
     if (!props.children) {
         return null;
     }
-    const classes = `cta cta-${props.type}`;
+    const classes = `btn-action btn-edge`;
     return(
-        <button className={classes} style={CtaButtton}>
-            { props.children }
-        </button>
+        <a href={props.url} target={props.target} rel={props.rel} className={classes}> { props.children } </a>
     )
 }
-
-Cta.defaultProps = {
-    type: 'info',
-};

@@ -50,7 +50,7 @@ const renderAst = new rehypeReact({
         gist: Gist,
         "link-text": LinkText,
         row: Row,
-        col: Col,
+        column: Col,
         "table-contents": TableOfContents,
         cta:Cta,
         "cta-box":CtaBox

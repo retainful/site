@@ -1,5 +1,5 @@
 import React from 'react'
-export default function Column( props ) {
+export default function Column( props ) {   
     if (!props.children) {
         return null;
     }
