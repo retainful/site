@@ -199,6 +199,9 @@ body {
   &.fixed-top{
     z-index: 1000;
   }
+  &.navbar-expand-md>.container{
+    flex-wrap: wrap;
+  }
 }
 
 .navbar .navbar-brand {
@@ -3718,19 +3721,17 @@ body {
   .intro-text-container {
     position: relative;
     height: auto;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     .wpb_content_element {
       margin-bottom: 0;
     }
-
     h2 {
       font-size: 42px;
       font-weight: 600;
-      line-height: 44px;
+      line-height: 48px;
       color: #333333;
       margin: 20px auto;
     }
-
     h3 {
       font-size: 28px;
       font-weight: 400;
@@ -3738,16 +3739,13 @@ body {
       color: #555;
       margin: 20px auto;
     }
-
     p {
       color: #777;
       font-weight: 400;
       font-size: 20px;
       line-height: 1.7;
-      max-width: 480px;
-      margin: 0 0 20px;
+      margin: 0 0 10px;
     }
-
     img {
       margin-top: 40px;
       border-radius: 10px;
@@ -4407,8 +4405,8 @@ body {
 }
 .tab .nav-tabs li a{
   display: inline-block;
-  padding: 20px 20px 10px;
-  margin: 0 10px -1px 0;
+  padding: 15px 20px;
+  margin: 0 10px 1px 0;
   font-size: 17px;
   font-weight: 600;
   color: #293241;
@@ -4681,7 +4679,7 @@ $i: 0;
   padding: 40px 0;
   .newsletter-header{
     h2{
-      font-size: 32px;
+      font-size: 34px;
       font-weight: 600;
     }
   }
@@ -4701,7 +4699,7 @@ $i: 0;
         position: absolute;
         top: 0;
         right: 0;
-        padding: 20px 50px;
+        padding: 20px 40px;
         border-radius: 50px;
         line-height: 1.42;
         font-weight: 600;
@@ -4716,6 +4714,12 @@ $i: 0;
         }
         &:disabled{
           cursor: not-allowed;
+        }
+      }
+      @media (max-width: 768px) {
+        .btn{
+          position: relative;
+          margin-top: 10px;
         }
       }
     }

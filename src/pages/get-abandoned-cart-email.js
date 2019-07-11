@@ -101,7 +101,7 @@ class SignUpPage extends React.Component{
                                     </ul>
                                 </section>
                             </div>
-                            <div className="col-md-4">
+                            <div className="col-md-4 text-center">
                                 <img className="img-fluid m-t-20"
                                      src={`${process.env.GATSBY_RF_MEDIA_URL}/home-banner-illustration.png`}
                                      alt="home-banner-illustration"/>
