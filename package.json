@@ -63,18 +63,11 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "build:lambda": "netlify-lambda build src/lambda",
     "develop": "gatsby develop",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
-  },
-  "proxy": {
-    "/.netlify/functions": {
-      "target": "http://localhost:9000",
-      "pathRewrite": {
-        "^/\\.netlify/functions": ""
-      }
-    }
   },
   "devDependencies": {
     "jshint": "^2.10.2",
