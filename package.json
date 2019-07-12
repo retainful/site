@@ -41,6 +41,7 @@
     "gatsby-transformer-sharp": "^2.1.8",
     "jquery": "^3.4.1",
     "lodash": "^4.17.11",
+    "netlify-lambda": "^1.5.0",
     "node-sass": "^4.12.0",
     "popper.js": "^1.14.6",
     "prismjs": "^1.15.0",
@@ -66,6 +67,14 @@
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+  },
+  "proxy": {
+    "/.netlify/functions": {
+      "target": "http://localhost:9000",
+      "pathRewrite": {
+        "^/\\.netlify/functions": ""
+      }
+    }
   },
   "devDependencies": {
     "jshint": "^2.10.2",
