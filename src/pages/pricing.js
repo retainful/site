@@ -22,7 +22,7 @@ class PricingPage extends React.Component {
                 />
                 <div className="pricing-banner-container">
                     <div className="intro-text-container">
-                        <div className="container">
+                        <div className="container container-s text-center">
                             <h2>Start recovering abandoned carts in your store. Get started for Free!</h2>
                             <p>Choose your platform and get started in minutes</p>
                             <p>
