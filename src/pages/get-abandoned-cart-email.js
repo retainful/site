@@ -5,74 +5,11 @@ import SignupForm from '../components/SignupForm'
 import Loading from '../components/Loading';
 import notify from '../helpers/notify';
 import axios from 'axios';
+// import addToMailchimp from 'gatsby-plugin-mailchimp';
 
 import HomeTrutedCompanies from '../constants/HomePage/homeTrustedCompanies';
 
 class SignUpPage extends React.Component{
-    constructor(props) {
-        super(props);
-        this.state = {
-            email: '',
-            loading: false
-        }
-    }
-
-    handleLoadingState = loading => {
-        //Set loading flag
-        this.setState({ loading: loading });
-    }
-
-    handleSendEmail = email => {
-        this.handleLoadingState(true);
-
-        const headers = {
-            'content-type': 'application/json',
-            Authorization: `auth ${process.env.GATSBY_MAILCHIMP_API_KEY} `,
-        };
-
-        // Construct req data
-        const data = '{"email_address":"'+ email +'", "status":"subscribed", "tags":["lead-magnet-templates"],"merge_fields":{"FNAME":"'+email+'"}}';
-
-        const postData = JSON.stringify(data);
-
-        const options = {
-            url: `${process.env.GATSBY_MAILCHIMP_API_URL}`,
-            method: 'POST',
-            headers: headers,
-            body: postData,
-            auth: {
-                'user': 'anystring',
-                'pass': `${process.env.GATSBY_MAILCHIMP_API_KEY}`
-            }
-        };
-
-        // request(options);
-
-        axios.post(`${process.env.GATSBY_MAILCHIMP_API_URL}`, options, {headers: headers})
-            .then(res => {
-           console.log(res);
-            if(res.data.success) {
-                //If the response from MailChimp is good...
-                notify('success', 'Subscribed!', res.data.success);
-                this.setState({ email: '' });
-                this.handleLoadingState(false);
-            } else {
-                //Handle the bad MailChimp response...
-                notify('error', 'Unable to subscribe!', res.data.error);
-                this.handleLoadingState(false);
-            }
-        }).catch(error => {
-            //This catch block returns an error if Node API returns an error
-            notify('error', 'Error. Please try again later.', error.message);
-            this.handleLoadingState(false);
-        });
-    }
-
-    handleOnChangeEmail = email => {
-        this.setState({
-            email: email
-        })
-    }
 
     render() {
         return (
@@ -88,10 +25,8 @@ class SignUpPage extends React.Component{
                                     <h2>Get Our Plug-and-Play Abandoned-Cart Email Templates</h2>
                                 </div>
                                 <section className="newsletter-content p-b-40">
-                                    {this.state.loading
-                                        ? <Loading message="Working on it..." />
-                                        : <SignupForm  handleSendEmail={this.handleSendEmail} handleOnChangeEmail={this.handleOnChangeEmail} email={this.state.email} />
-                                    }
+
+                                    <SignupForm  />
 
                                     <h5 className="m-b-20">Implement your own abandoned-cart email sequence with this download including:</h5>
                                     <ul className="m-l-20">

@@ -26,7 +26,7 @@ const Layout = ({children, className, location, crumbLabel}) => (
     `}
         render={data => (
             <>
-                <div className={"wrapper container-fluid " + (className ? className : '')}>
+                <div className={"wrapper " + (className ? className : '')}>
                     <Header siteTitle={data.site.siteMetadata.title}/>
                     <Menu />
                     <div id="main" className="main">
