@@ -75,42 +75,48 @@ module.exports.handler = (event, context, callback) => {
             callback(bodyObj.detail, null);
         }
 
-    });
+        const dataSec = {
+            email_address: email,
+        };
 
-    request({
-        method: "POST",
-        url: `https://${mcRegion}.api.mailchimp.com/3.0/automations/${mailChimpAutomationID}/emails/${mailChimpMailQueueID}/queue`,
-        body: subscriber,
-        headers: {
-            "Authorization": `apikey ${mailChimpAPI}`,
-            "Content-Type": "application/json"
-        }
-    }, (error, response, body) => {
-        if (error) {
-            callback(error, null)
-        }
-        const bodyObj = JSON.parse(body);
+        const subscriberSec = JSON.stringify(dataSec);
 
-        console.log("Mailchimp body: " + JSON.stringify(bodyObj));
-        console.log("Status Code: " + response.statusCode);
+        request({
+            method: "POST",
+            url: `https://${mcRegion}.api.mailchimp.com/3.0/automations/${mailChimpAutomationID}/emails/${mailChimpMailQueueID}/queue`,
+            body: subscriberSec,
+            headers: {
+                "Authorization": `apikey ${mailChimpAPI}`,
+                "Content-Type": "application/json"
+            }
+        }, (error1, response1, body1) => {
+            if (error1) {
+                callback(error1, null)
+            }
+            const bodyObj1 = JSON.parse(body1);
 
-        if (response.statusCode < 300 || (bodyObj.status === 400 && bodyObj.title === "Member Exists")) {
-            console.log("Added to list in Mailchimp automation email queue");
-            callback(null, {
-                statusCode: 201,
-                headers: {
-                    "Content-Type": "application/json",
-                    "Access-Control-Allow-Origin": "*",
-                    "Access-Control-Allow-Credentials": "true"
-                },
-                body: JSON.stringify({
-                    status: "saved email"
+            console.log("Mailchimp body: " + JSON.stringify(bodyObj1));
+            console.log("Status Code: " + response1.statusCode);
+
+            if (response1.statusCode < 300 || (bodyObj1.status === 400 && bodyObj1.title === "Member Exists")) {
+                console.log("Added to list in Mailchimp automation email queue");
+                callback(null, {
+                    statusCode: 201,
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Access-Control-Allow-Origin": "*",
+                        "Access-Control-Allow-Credentials": "true"
+                    },
+                    body: JSON.stringify({
+                        status: "saved email"
+                    })
                 })
-            })
-        } else {
-            console.log("Error from mailchimp", bodyObj.detail);
-            callback(bodyObj.detail, null);
-        }
+            } else {
+                console.log("Error from mailchimp", bodyObj1.detail);
+                callback(bodyObj1.detail, null);
+            }
+
+        });
 
     });
 
