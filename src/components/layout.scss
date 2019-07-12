@@ -361,7 +361,7 @@ body {
                 color: #6b7c93;
                 margin: 5px 0 0;
                 display: block;
-                white-space: nowrap;
+                //white-space: nowrap;
               }
             }
             &:hover{
@@ -401,6 +401,26 @@ body {
         visibility: visible;
         opacity: 1;
         transform: translateY(0%);
+      }
+    }
+  }
+  @media ( max-width:768px ) {
+    text-align: left;
+    align-items: flex-start;
+    max-height: 300px;
+    overflow: auto;
+    .dropdown{
+      .dropdown-menu{
+        visibility: visible;
+        opacity: 1;
+        transform: none;
+        position: relative;
+        box-shadow: none;
+        padding: 0;
+        margin: 0;
+        &:before, &:after{
+          display: none;
+        }
       }
     }
   }
@@ -3598,7 +3618,7 @@ body {
   }
   p{
     font-size: 18px;
-    margin: 0 auto;
+    margin: 0 auto 10px;
   }
   &.shopify{
     .img-fluid{
