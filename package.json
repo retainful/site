@@ -61,13 +61,13 @@
   ],
   "license": "MIT",
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "run-p start:**",
-    "start:app": "npm run develop",
-    "start:lambda": "netlify-lambda serve src/functions",
-    "build": "run-p build:**",
-    "build:app": "gatsby build",
+    "build": "gatsby build",
     "build:lambda": "netlify-lambda build src/functions",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "start:lambda": "netlify-lambda serve src/functions",
+    "format": "prettier --write \"src/**/*.js\"",
+    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "devDependencies": {
     "http-proxy-middleware": "^0.19.1",
