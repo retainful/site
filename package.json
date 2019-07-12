@@ -62,10 +62,11 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "build:lambda": "netlify-lambda build src/functions",
+    "build:lambda": "netlify-lambda build functions",
     "develop": "gatsby develop",
+    "prod": "npm run build; npm run build:lambda",
     "start": "npm run develop",
-    "start:lambda": "netlify-lambda serve src/functions",
+    "start:lambda": "netlify-lambda serve functions",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
