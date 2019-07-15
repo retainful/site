@@ -361,7 +361,7 @@ body {
                 color: #6b7c93;
                 margin: 5px 0 0;
                 display: block;
-                //white-space: nowrap;
+                white-space: nowrap;
               }
             }
             &:hover{
@@ -381,8 +381,9 @@ body {
         left: 20px;
         display: inline-block;
         border-right: 10px solid transparent;
-        border-bottom: 10px solid #f4f7fb;
+        border-bottom: 10px solid #ffffff;
         border-left: 10px solid transparent;
+        filter: drop-shadow(0px -1px 1px rgba(43, 43, 43, 0.2));
       }
       &:after {
         content: '';
@@ -404,22 +405,52 @@ body {
       }
     }
   }
+}
+
+.navbar-collapse{
   @media ( max-width:768px ) {
-    text-align: left;
-    align-items: flex-start;
     max-height: 300px;
     overflow: auto;
-    .dropdown{
-      .dropdown-menu{
-        visibility: visible;
-        opacity: 1;
-        transform: none;
-        position: relative;
-        box-shadow: none;
-        padding: 0;
-        margin: 0;
-        &:before, &:after{
-          display: none;
+    padding-bottom: 30px;
+    .navbar-nav {
+      text-align: left;
+      align-items: flex-start;
+      padding-bottom: 0 !important;
+      margin-top: 0;
+      &.navbar-right {
+        display: flex;
+        flex-direction: row;
+        .nav-item{
+          margin-right: 0.5rem;
+        }
+      }
+      .nav-item{
+        margin-top: 0.5rem;
+      }
+      .dropdown{
+        .dropdown-menu{
+          visibility: visible;
+          opacity: 1;
+          transform: none;
+          position: relative;
+          box-shadow: none;
+          padding: 0;
+          margin: 0;
+          &:before, &:after{
+            display: none;
+          }
+          ul.productsGroupPrimary{
+            li{
+              .linkContainer{
+                padding: 8px;
+                .productLinkContent{
+                  .linkSub{
+                    display: none;
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }
@@ -3367,6 +3398,9 @@ body {
     }
     .hero-img {
       float: right;
+      @media (max-width: 768px) {
+        float: none;
+      }
      }
     .hero-content{
       h5{
@@ -4776,7 +4810,7 @@ $i: 0;
         height: auto;
         border-radius: 50px;
       }
-      .btn{
+      .sign-up-button{
         position: absolute;
         top: 0;
         right: 0;
@@ -4785,14 +4819,10 @@ $i: 0;
         line-height: 1.42;
         font-weight: 600;
         font-size: 17px;
-        &.btn-success{
-          background: #32C733;
-          border-color: #32C733;
-          &:hover{
-            background: darken(#32C733, 9%);
-            border-color: darken(#32C733, 9%);
-          }
-        }
+        transition: 0.2s;
+        &:hover{
+          opacity: 0.8;
+         }
         &:disabled{
           cursor: not-allowed;
         }
