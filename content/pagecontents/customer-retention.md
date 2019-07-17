@@ -1,6 +1,7 @@
 ---
 path: "/customer-retention"
 title: "Customer Retention"
+description: "Drive more customers and increase your online sales 10x times with next order coupons. Retainful helps you generate unlimited smart coupons, track real-time sale conversions and more."
 keywords: "Smart coupons, Next order coupons"
 ---
 

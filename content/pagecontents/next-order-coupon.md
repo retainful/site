@@ -1,6 +1,7 @@
 ---
 path: "/next-order-coupon"
 title: "Next Order Coupon"
+description: "Retainful, a powerful Coupon Generator for WooCommerce & Shopify Stores allows you to send discount coupons to your customers. Automate your eCommerce growth and make customers stick with your business for long!"
 keywords: "Next order coupon, Coupon generator, Smart coupon"
 ---
 

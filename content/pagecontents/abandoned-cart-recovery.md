@@ -1,6 +1,7 @@
 ---
 path: "/abandoned-cart-recovery"
 title: "Abandoned cart recovery"
+description: "Recover your lost sales with Retainful, the most powerful abandoned cart recovery app. Grow your revenue, create abandoned cart recovery emails, automate cart recovery email campaigns and do more now!"
 keywords: "abandoned cart recovery, abandoned shopping cart recovery"
 ---
 
