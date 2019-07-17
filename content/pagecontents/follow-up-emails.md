@@ -1,6 +1,7 @@
 ---
 path: "/follow-up-emails"
 title: " Follow Up emails"
+description: "Sending cart recovery emails can help you recover almost 70% of your lost sales. With Retainful, you get to retarget customers with abandoned cart recovery emails, automate cart recovery campaigns, get detailed insights on email performance and more."
 keywords: "Cart recovery email, Abandoned cart email"
 ---
 

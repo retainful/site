@@ -14,6 +14,7 @@ const LandingPage = () => {
                     <Layout>
                     <Post
                       title = {data.markdownRemark.frontmatter.title}
+                      description = {data.markdownRemark.frontmatter.description}
                       keywords = {data.markdownRemark.frontmatter.keywords}
                       excerptData={data.markdownRemark.htmlAst}
                       />
@@ -31,6 +32,7 @@ query CustomerRetentionQuery{
   markdownRemark(frontmatter:{path:{eq:"/customer-retention"}}){
     htmlAst
     frontmatter{
+      description
       keywords
       title
     }

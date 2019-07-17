@@ -14,6 +14,7 @@ const LandingPage = () => {
                     <Layout>
                     <Post
                       title = {data.markdownRemark.frontmatter.title}
+                      description = {data.markdownRemark.frontmatter.description}
                       keywords = {data.markdownRemark.frontmatter.keywords}
                       excerptData={data.markdownRemark.htmlAst}
                       />
@@ -32,6 +33,7 @@ query AbandonedcartRecoveryQuery{
     htmlAst
     frontmatter{
       keywords
+      description
       title
     }
   }
