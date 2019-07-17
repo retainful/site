@@ -18,10 +18,10 @@ export default function Footer() {
                     <Col size="3">
                         <h4 className="footer-title">Product</h4>
                         <ul>
-                            <li><Link to="/#">Abandoned Cart Recovery</Link></li>
-                            <li><Link to="/#">Next Order Coupons</Link></li>
-                            <li><Link to="/#">Follow-up Emails</Link></li>
-                            <li><Link to="/#">Customer Retention</Link></li>
+                            <li><Link to="/abandoned-cart-recovery">Abandoned Cart Recovery</Link></li>
+                            <li><Link to="/next-order-coupon">Next Order Coupons</Link></li>
+                            <li><Link to="/follow-up-emails">Follow-up Emails</Link></li>
+                            <li><Link to="/customer-retention">Customer Retention</Link></li>
                         </ul>
                     </Col>
                     <Col size="3">
