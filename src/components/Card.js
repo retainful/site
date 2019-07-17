@@ -5,12 +5,12 @@ import Img from "gatsby-image"
 const Card = (props) => {
     const childrenArray = React.Children.toArray(props.children);
     const slottedChildren = groupBy(childrenArray, 'props.slot');
-    const cardClass = `card card-blog col-md-${props.size} ${props.className}`;
+    const cardClass = `col-md-${props.size} ${props.className}`;
     return (
         <div className={cardClass}>
             <div className="card_inner">
-            <div className="card_image">{slottedChildren["card-image"]}</div>
-                <h3 className="card_title" >{slottedChildren["card-title"]}</h3>
+            <div className="card_image" style={{maxWidth:'180px',maxHeight:'180px',margin:'0 auto'}}>{slottedChildren["card-image"]}</div>
+                <h3 className="card_title text-dark text-center">{slottedChildren["card-title"]}</h3>
                 <div className="card_links">
                     {slottedChildren["card-links"]}
                 </div>

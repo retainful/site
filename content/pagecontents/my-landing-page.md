@@ -71,9 +71,13 @@ __________
 __________
 
 
+### Reduce Cart abandonment & Welcome Customers to abandoned carts
+
+Don’t lose potential sale opportunities. Send personalized recovery emails and drive customers to a successful purchase. 
+
 <container>
 
-<featurecontent featurebodysizeleft="6" featurebodysizeright="6" leftcardsize="6" rigthcardsize="4">
+<featurecontent featurebodysizeleft="6" featurebodysizeright="6" leftcardsize="3" rigthcardsize="3">
 
 <div slot="right">
 
