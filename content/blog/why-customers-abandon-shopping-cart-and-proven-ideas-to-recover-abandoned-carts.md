@@ -22,7 +22,7 @@ This survey identified 10 reasons but there are many others.
 
 Read on to know more.
 
-## 13 reasons for shopping cart abandonment
+<h2><highlight>13 reasons for shopping cart abandonment</highlight></h2>
 
 This post sums up findings from different surveys and describes briefly the top reasons for shopping cart abandonment along with some suggestions to <link-text url="https://www.retainful.com/blog/the-simple-way-to-retain-all-your-customers" rel="noopener" target="_blank">recover the already abandoned carts</link-text>.
 
@@ -135,7 +135,7 @@ With more customers making online buying handy, it would be absurd if your store
 
 ___
 
-## Tips to recover abandoned carts
+<h2><highlight>Tips to recover abandoned carts</highlight></h2>
 
 Sometimes things go out of your hands even when all the 13 problems addressed above are set right. Others might be in a situation ready to implement the necessary measures but unsure about what to do with abandoned shopping carts.
 
@@ -161,7 +161,7 @@ The biggest mistake that you can make is to send the same cart recovery email to
 
 You must draft at least 3 to 4 emails with a focus on various things like discounts, product recommendations, customer support, and the like. Segment the customers and send different emails to the groups. The chances of conversion are higher when this is done.
 
-### Wrapping up...
+**Wrapping up...**
 
 Every customer base is different. So, you will have to identify the reasons for the increasing cart abandonment rate for your website and it is no cakewalk. You might have to initiate a survey or rectify glitches on your website by using this post as a guideline.
 

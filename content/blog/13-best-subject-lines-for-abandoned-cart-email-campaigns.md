@@ -4,8 +4,8 @@ title: "13 Best Subject Lines for Abandoned Cart Email Campaigns"
 date: "2019-05-30"
 author: "Sharon Thomas"
 description: "Are you in trouble due to boring subject lines in abandoned cart email campaigns? Then, this post with some of the best subject lines will bring about a change."
-image: "../images/13-email-subject-lines/13-email-subject-lines.jpg"
-thumbnail: "../images/13-email-subject-lines/13-email-subject-lines.jpg"
+image: "../images/13-email-subject-lines/13-email-subject-lines.png"
+thumbnail: "../images/13-email-subject-lines/13-email-subject-lines.png"
 ---
 
 Email marketing is one of the cheapest ways to allure customers and it is the same with getting back customers who have abandoned their carts when shopping online. Abandoned cart email campaigns always do well when planned the right way.

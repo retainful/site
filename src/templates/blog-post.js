@@ -65,7 +65,7 @@ export default function BlogPost(props) {
     const datePublished = props.data.markdownRemark.frontmatter.date;
     const author = props.data.markdownRemark.frontmatter.author;
     const {prev, next} = props.pageContext;
-    //const toc = props.data.markdownRemark.tableOfContents;
+    const toc = props.data.markdownRemark.tableOfContents;
     // const toc = props.data.markdownRemark.htmlAst.children.filter((item)=>{
     //     if(item.tagName === "h3"){
     //         return item;
@@ -120,11 +120,11 @@ export default function BlogPost(props) {
                             <div  dangerouslySetInnerHTML={{__html: props.data.markdownRemark.tableOfContents}} />
                     </div> */}
                     <div className="content">
-                        {/*<div className="table-of-contents">*/}
-                            {/*<h4>Table of Contents</h4>*/}
-                            {/*<ul>*/}
-                            {/*</ul>*/}
-                        {/*</div>*/}
+                        <div className="table-of-contents">
+                            <h4>Table of Contents</h4>
+                            <ul>
+                            </ul>
+                        </div>
                         {renderAst(props.data.markdownRemark.htmlAst)}
                     </div>
                     <div className="footer">
