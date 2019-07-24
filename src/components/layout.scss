@@ -3296,6 +3296,17 @@ body {
     }
   }
 }
+
+.spaced{
+  margin: 25px 0px;
+  padding: 0px 10px;
+  
+  p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
 .sidenav {
   padding-top: 10px;
   a, .dropdown-btn {
