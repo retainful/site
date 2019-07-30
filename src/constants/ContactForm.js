@@ -230,6 +230,7 @@ export default class ContactForm extends Component {
         </InputWrapper>
 
         <Submit
+          disabled={this.state.valid}
           name="submit"
           type="submit"
           value="Send It"
