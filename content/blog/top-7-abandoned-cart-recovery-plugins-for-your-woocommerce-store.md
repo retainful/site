@@ -120,7 +120,9 @@ Free for the lite version and Pro for single WP site is $119/ year
 
 <h3>4. <link-text url="https://wordpress.org/plugins/woo-save-abandoned-carts/" target="_blank" rel="noopener nofollow"> Save abandoned carts - WooCommerce live to check out field capture</link-text></h3><br>
 
-WooCommerce live checkout captures and saves individual activities of customers. You can check who abandons the cart without making the purchasepurchase.
+![Save abandoned carts - WooCommerce live to check out field capture](../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/save-abandoned-carts-woocommerce-live-checkout-field-capture.png)
+
+WooCommerce live checkout captures and saves individual activities of customers. You can check who abandons the cart without making the purchase.
 
 **Features of the plugin are as follows**
 

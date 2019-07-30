@@ -3,11 +3,11 @@ title: "Collecting Email Address Before Adding an Item to Cart in WooCommerce"
 description: "Learn how to collect the email address of the customer before adding to cart so that you can recover it even if customer abandons the cart"
 date: "2019-06-01"
 author: "Ramesh"
-tags: ["woocommerce", "abandoned cart recovery emails", "email collection popup"]
+tags: ["woocommerce", "abandoned-cart-recovery-emails", "email-collection-popup"]
 category: woocommerce
 ---
 
- An import requirement to recover abandoned cart is the email address of the prospective customer.
+ An important requirement to recover abandoned cart is the email address of the prospective customer.
 
 As you have noticed, someone might add an item to cart. But if they leave  your site without purchasing the item, then you left with no way of reaching him or her.
 

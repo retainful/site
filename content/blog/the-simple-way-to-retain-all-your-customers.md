@@ -6,7 +6,6 @@ date: "2019-01-18"
 author: "Siddharth"
 image: "../images/the-simple-way-to-retain-all-your-customers.jpg"
 thumbnail: "../images/the-simple-way-to-retain-all-your-customers.jpg"
-tags: ['javascript','react','gatsby']
 category: 'woocommerce'
 ---
 

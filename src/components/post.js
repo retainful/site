@@ -15,6 +15,14 @@ import Underline from './underline'
 import TitleLink from "./titleLink"
 import LinkText from "./linkText"
 import Gist from "./gist"
+import Card from './Card'
+import HeaderContent from './headercontent'
+import Footerfunnel from "./footerfunnel"
+import Featurecontent from "./featuretool"
+import FeaturedReviews from './featuredreviews'
+import Metatags from "./Metatags"
+import GetStarted from './getstarted'
+import Footer from "./footer"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
@@ -25,19 +33,28 @@ const renderAst = new rehypeReact({
       "title-link": TitleLink,
       gist: Gist,
       "link-text": LinkText,
-      row: Row,
-      col: Col,
+      row:Row,
+      column:Col,
       "table-contents": TableOfContents,
       cta:Cta,
-      "cta-box":CtaBox
+      "cta-box":CtaBox,
+      "container":Container,
+      card:Card,
+      headercontent:HeaderContent,
+      funnel:Footerfunnel,
+      featurecontent:Featurecontent,
+      reviews:FeaturedReviews,
+      getstarted:GetStarted,
+      footer:Footer,
   },
 }).Compiler
 
 
-const Post = ({ title,excerptData,description }) => (
-  <div>
-  <SEO title={title} description={description} />
-  {renderAst(excerptData)}
-  </div>
+const Post = ({ title,excerptData,description,keywords }) => (
+  <>
+    {console.log(keywords)}
+    <Metatags title={title} description={description} keywords={keywords} />
+    {renderAst(excerptData)}
+  </>
 )
 export default Post

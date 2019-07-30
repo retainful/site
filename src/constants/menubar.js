@@ -1,35 +1,45 @@
 const Menubar = [
     {
-        TITLE: 'Home',
-        LINK: '/',
-        CLASS: 'nav-link',
-        TARGET:''
+        TITLE: 'Product',
+        LINK: '/product/features/woocommerce',
+        DROPDOWN_TARGET: 'featuresDropdown',
+        DROPDOWN_LINKS: [
+            {
+                ICON: 'https://raw.githubusercontent.com/campaignrabbit/cr-media/master/images/home-icons/360-degree-view-of-customers.png',
+                TITLE: 'WooCommerce',
+                DESC:  'Download the Retainful Plugin for WooCommerce',
+                LINK: '/product/features/woocommerce',
+
+            },
+            {
+                ICON: 'https://raw.githubusercontent.com/campaignrabbit/cr-media/master/images/home-icons/follow-up-emails.png',
+                TITLE: 'Shopify',
+                DESC: 'Install the Shopify App and get started in minutes',
+                LINK: '/product/features/shopify',
+            }
+        ],
+        ISMEGAMENU: true
     },
     {
-        TITLE: 'Features',
-        LINK: '/features/woocommerce',
-        CLASS: 'nav-link',
-        TARGET:''
+        TITLE: 'Pricing',
+        LINK: '/pricing',
+    },
+    {
+        TITLE: 'Reviews',
+        LINK: '/reviews',
     },
     {
         TITLE: 'Support',
         LINK: '/support',
-        CLASS: 'nav-link',
-        TARGET:''
     },
     {
         TITLE: 'Blog',
         LINK: '/blog',
-        CLASS: 'nav-link',
-        TARGET:''
     },
     {
         TITLE: 'Docs',
         LINK: '/docs',
-        CLASS: 'nav-link',
-        TARGET:''
     },
-    
 ];
 
 export default Menubar;

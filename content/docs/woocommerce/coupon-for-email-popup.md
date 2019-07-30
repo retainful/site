@@ -3,7 +3,7 @@ title: "How to display an offer in the Email Collection Popup"
 description: "Learn how to motivate the customers by showing an offer in the Email Collection Popup at the time of adding an item to cart"
 date: "2019-06-01"
 author: "Ramesh"
-tags: ["woocommerce", "abandoned cart recovery emails", "email collection popup", "coupon popup"]
+tags: ["woocommerce", "abandoned-cart-recovery-emails", "email-collection-popup", "coupon-popup"]
 category: woocommerce
 ---
 

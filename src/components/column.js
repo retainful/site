@@ -1,9 +1,9 @@
 import React from 'react'
-export default function Column( props ) {
+export default function Column( props ) {   
     if (!props.children) {
         return null;
     }
-    const classes = `col-xs-12 col-md-${props.size} ${props.class}`;
+    const classes = `col-xs-12 col-md-${props.size} ${props.className}`;
     return(
         <div className={classes}>
             { props.children }
@@ -13,5 +13,5 @@ export default function Column( props ) {
 
 Column.defaultProps = {
     size: '4',
-    class: ''
+    className: ''
 };

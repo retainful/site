@@ -8,7 +8,12 @@ import Footer from './footer'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './layout.scss'
 
-const Layout = ({children, location, crumbLabel}) => (
+if (typeof window !== 'undefined') {
+    window.jQuery = window.$ = require('jquery');
+    require('bootstrap');
+}
+
+const Layout = ({children, className, location, crumbLabel}) => (
     <StaticQuery
         query={graphql`
       query SiteTitleQuery {
@@ -21,7 +26,7 @@ const Layout = ({children, location, crumbLabel}) => (
     `}
         render={data => (
             <>
-                <div className="wrapper">
+                <div className={"wrapper " + (className ? className : '')}>
                     <Header siteTitle={data.site.siteMetadata.title}/>
                     <Menu />
                     <div id="main" className="main">

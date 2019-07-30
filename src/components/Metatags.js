@@ -80,7 +80,7 @@ const getSchemaOrgJSONLD = ({
       <meta name="robots" content="index, follow" />
       <meta name="title" content={title} />
       <meta name="description" content={description} />
-      <meta name= "keywords" content={keywords} />
+      {keywords ?<meta name= "keywords" content={keywords} /> : null }
       <meta name="image" content={image} />
 
       {/* Schema.org tags */}
