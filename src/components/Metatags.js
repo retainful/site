@@ -9,6 +9,7 @@ const getSchemaOrgJSONLD = ({
     description,
     datePublished,
     dateModified,
+    keywords,
     authorName,
     sitename,
   }) => {
@@ -34,6 +35,7 @@ const getSchemaOrgJSONLD = ({
             },
             datePublished,
             dateModified,
+            keywords,
             author: {
               '@type': 'person',
                name: authorName,
@@ -44,7 +46,7 @@ const getSchemaOrgJSONLD = ({
               name:sitename,
               "logo":{
                 "@type":"ImageObject",
-                "url":url,
+                "url":'https://retainful.com/static/retainful-logo.png',
               },
             },
            
@@ -77,6 +79,7 @@ const getSchemaOrgJSONLD = ({
     isBlogPost,
     authorName,
     sitename,
+    keywords,
   });
   
   return (
