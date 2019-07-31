@@ -76,6 +76,7 @@ export default function BlogPost(props) {
                 url={url}
                 pathname={props.location.pathname}
                 datePublished = {datePublished}
+                datemodified = {props.data.markdownRemark.frontmatter.datemodified}
                 isBlogPost= {true}
                 author={author}
                 sitename={sitename}
@@ -148,6 +149,7 @@ export const query = graphql`
           }
           author
           date(formatString: "DD MMMM, YYYY")
+          datemodified(formatString: "DD MMMM, YYYY")
       }
     }
     site {

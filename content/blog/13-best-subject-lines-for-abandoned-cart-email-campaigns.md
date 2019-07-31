@@ -2,7 +2,7 @@
 path : "/blog/13-best-subject-lines-for-abandoned-cart-email-campaigns"
 title: "13 Best Subject Lines for Abandoned Cart Email Campaigns"
 date: "2019-05-30"
-dateModified: "2019-07-31"
+datemodified: "2019-07-31"
 author: "Sharon Thomas"
 description: "Are you in trouble due to boring subject lines in abandoned cart email campaigns? Then, this post with some of the best subject lines will bring about a change."
 image: "../images/13-email-subject-lines/13-email-subject-lines.png"
