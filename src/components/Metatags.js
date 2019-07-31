@@ -46,7 +46,7 @@ const getSchemaOrgJSONLD = ({
               name:sitename,
               "logo":{
                 "@type":"ImageObject",
-                "url":'https://retainful.com/static/retainful-logo.png',
+                "url":'https://retainful.com/retainful-logo.png',
               },
             },
            
