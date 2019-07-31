@@ -10,7 +10,7 @@ const getSchemaOrgJSONLD = ({
     datePublished,
     dateModified,
     authorName,
-    sitename
+    sitename,
   }) => {
     const schemaOrgJSONLD = 
       {
@@ -42,7 +42,12 @@ const getSchemaOrgJSONLD = ({
               '@type': 'Organization',
               url: url,
               name:sitename,
+              "logo":{
+                "@type":"ImageObject",
+                "url":url,
+              },
             },
+           
             description,
           }
       : schemaOrgJSONLD;
@@ -71,7 +76,7 @@ const getSchemaOrgJSONLD = ({
     dateModified,
     isBlogPost,
     authorName,
-    sitename
+    sitename,
   });
   
   return (
