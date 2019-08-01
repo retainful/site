@@ -197,21 +197,19 @@ Experiment with numbers and time intervals that should be set for abandoned cart
 
 Give the required attention to get back the same.
 
-Create impressive designs along with the following variables with a tinge of emotional connectivity to get responses for your reminders.
+Create impressive designs along with a tinge of emotional connectivity to get responses for your reminders.
 
 -   Identify your niche customers
     
 -   Design unique mails for those particular customers
     
--   Send mails Personally.  
- 
-There are huge benefits connected with personalized reminders that include the following.
+-   Send mails Personally
 
--   Cart abandonment recovery conversion rate is higher for personalized messages
+-   Witness increase in cart abandonment recovery conversion rates
     
--   Can make customers respond quickly
+-   Make customers respond quickly
     
--   Can instill trust and emotional connectivity with customers 
+-   Instill trust and emotional connectivity with customers
 
 Humans like responding to human-like advances rather than a machine-generated pre-typed message. Moreover, it impacts psychologically and more people tend to respond.
 
