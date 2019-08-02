@@ -7,7 +7,7 @@ author: "Sharon Thomas"
 image:  "../images/the-10-best-shopify-apps-to-recover-abandoned-cart/the-10-best-shopify-apps-to-recover-abandoned-cart.png"
 thumbnail: "../images/the-10-best-shopify-apps-to-recover-abandoned-cart/the-10-best-shopify-apps-to-recover-abandoned-cart.png"
 keywords: "best shopify abandoned cart app, shopify abandoned cart , abandoned cart recovery , best free shopping cart , cart abandonment shopify app"
-category: "WooCommerce"
+category: "Shopify"
 ---
 
 Have you ever come across a Shopify store with no record of abandoned carts? Silly question, is it? It is well known that there is no eCommerce store with zero cart abandonment rate. At least, it does give a head start to the topic right. 🙂
@@ -427,7 +427,7 @@ P.S. Facebook Messenger Marketing feature will be removed from CartKit app with 
 -   Email campaigns are available for sending birthday wishes and thank you emails.
     
 -   Simple and neat email sequences with plenty of white space.
-    
+    Getting premium Abandoned Cart email templates
 -   Real-time activity monitor with separate tabs all features included in the app.
     
 -   Syncs logged-in carts across devices for a smoother checkout.
