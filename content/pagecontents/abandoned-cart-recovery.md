@@ -117,6 +117,7 @@ Automation not just saves your time but gives room for a lot more marketing stra
 <div slot="left">
 
 ## Unlimited emails
+
 Retainful offers you unlimited emails for abandoned cart recovery.
 Here unlimited refers to both number of mails and designs.
 
@@ -150,6 +151,7 @@ Achieve a better outcome with abandoned cart recovery with unlimited number of e
 
 
 ## Well timed emails
+
 Mails can be well-timed with this abandoned cart recovery app.
 Boost sales using the benefits of well-timed emails because timely actions can reap you immense benefits like following.
 

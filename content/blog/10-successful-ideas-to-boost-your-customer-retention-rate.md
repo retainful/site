@@ -14,6 +14,8 @@ Ever heard of the saying, ***“The secret to success is to treat all customers 
 
 Existing customers mean much more profit to that of new customers. This can be vividly explained through the process of Customer Retention Rate.
 
+<toc></toc>
+
 ## What is Customer Retention Rate?
 
 Customer Retention Rate in its simplest sense is trying to retain more customers for a longer period of time so they spend more over their lifetime. It is the process of retaining old customers than investing in new leads.

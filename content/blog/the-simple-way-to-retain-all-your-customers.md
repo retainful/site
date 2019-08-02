@@ -49,6 +49,8 @@ Doesn't matter, Coz’ here’s one.
 
 The tool is completely FREE.
 
+<toc></toc>
+
 ## Retainful- The FREE conversion tool for WooCommerce and Shopify
 
 RetainFul is a conversion marketing tool to scale online revenue for Shopify and WooCommerce stores. This powerful tool reminds customers about their abandoned carts thereby increasing the chances to recover 70% of abandoned cart sales.

@@ -13,11 +13,13 @@ Email Marketing is the most economical way of bringing back customers who abando
 
 Here are some abandoned cart subject lines used by top retailers to reduce cart abandonment.
 
-<h2>13 Subject Line strategies for your abandoned cart emails</h2>
+<toc></toc>
+
+## 13 Subject Line strategies for your abandoned cart emails
 
 A look into these subject lines will change your general perspective on how to craft one. Let's dive in!
 
-<h3>‘Generic-type’ subject lines</h3>
+### ‘Generic-type’ subject lines
 
 The list of subject lines that you find here are the most commonly used ones. Any avid shopper will be used to coming across these after cart abandonment.
 
@@ -49,7 +51,7 @@ Some more examples for you.
 
 ___
 
-<h3>‘Funny n Friendly’ subject lines</h3>
+### ‘Funny n Friendly’ subject lines
 
 **1. Lemme Teleport You Back To Your Cart. Free Of Charge.**
 
@@ -84,7 +86,7 @@ Take a look at these too.
 ___
 
 
-<h3>‘Personalized’ subject lines</h3>
+### ‘Personalized’ subject lines
 
 <br>
 Campaign Monitor found out that <link-text url="https://www.campaignmonitor.com/blog/email-marketing/2019/07/15-email-personalization-stats-might-surprise-you/" rel="noopener nofollow" target="_blank">when emails have personalized subject lines, they are 26% more likely to be opened.</link-text> 
@@ -118,7 +120,7 @@ Here are more samples.
 
 ___
 
-<h3>‘We are concerned’ subject lines</h3>
+### ‘We are concerned’ subject lines
 
 You might never know the problem or emotion that a person is experiencing while shopping from the other end of the world. It does not mean you can stay away from addressing them in your abandoned cart email subject lines.
 
@@ -150,7 +152,7 @@ More options to choose from.
 
 ___
 
-<h3>‘Scarcity’ subject lines</h3>
+### ‘Scarcity’ subject lines
 
 Orders will pour in when you say ‘2 pieces of [product name] remain’. Everyone wants to own those last two pieces because people hate missing out on their favorite stuff.
 
@@ -183,7 +185,7 @@ Some more here.
 
 ___
 
-<h3>‘FOMO’ subject lines</h3>
+### ‘FOMO’ subject lines
 
 The tick of a clock literally pumps the heart at a faster pace. Similar is the purpose of a countdown which generates fear - the Fear Of Missing Out, dearly called FOMO.
 
@@ -215,15 +217,15 @@ More to ponder about.
 
 ___
 
-<h3>‘Product mention’ subject lines</h3>
+### ‘Product mention’ subject lines
 
 Forgetfulness is everywhere nowadays. We depend on gadgets to remind us of important things. So, the gadgets in your eCommerce store have the data of what the customer was about to purchase. Utilize that data to the fullest for the abandoned cart emails.
-
-**1. Still Deciding? Your Dolce & Gabbana Three-Button Wool Blazer Is Waiting!**
-
-*Sent by: The RealReal*
-
-It could have been just ‘Still Deciding?’ to make it short and sweet like a little nudge. Why should the product name be there?
+-
+**1. Still Deciding? Your Dolce- & Gabbana Three-Button Wool Blazer Is Waiting!**-
+-
+*Sent by: The RealReal*-
+-
+It could have been just ‘Still -Deciding?’ to make it short and sweet like a little nudge. Why should the product name be there?
 
 The answer is this. The RealReal is an online store that sells out clothes and accessories from various brands and designers. So, it is a necessity to let the customer know the product in the abandoned cart. In addition, it also acts as a reminder to entice the customer into completing the checkout.
 
@@ -245,7 +247,7 @@ Some extras…
 
 ___
 
-<h3>‘Being Sweet’ subject lines</h3>
+### ‘Being Sweet’ subject lines
 
 e-Commerce stores that decide on such subject lines must have a very kind heart and be generous with incentives.
 
@@ -275,7 +277,7 @@ Check out the below subject lines too.
 
 ___
 
-<h3>‘Getting curious’ subject lines</h3>
+### ‘Getting curious’ subject lines
 
 You have already tapped into your customer’s mind when you get them to think ‘What can that be?’, ‘What’s in there?’. This is done with subject lines that create a curiosity to open the email.
 
@@ -317,13 +319,13 @@ Too many subject lines from Chubbies? That is because they are worth it. They ar
 
 ___
 
-<h3>‘So close’ subject lines</h3>
+### ‘So close’ subject lines
 
 The customer might never know how far he has traveled to get to the checkout. Shopping cart abandonment is something like giving up on your gal when the destination is just around the corner.
 
 It is your duty to make the customer realize ‘You have come a long way. Why not take another step?’
 
-#### 1. Don’t Forget: You’re a Click Away from Making it Yours
+**1. Don’t Forget: You’re a Click Away from Making it Yours**
 
 *Sent by: Bloomingdale’s*
 
@@ -349,7 +351,7 @@ Seven more here.
 
 ___
 
-<h3>‘Word-play’ subject lines</h3>
+### ‘Word-play’ subject lines
 
 The inboxes of your customers’ are bombarded with hundreds of emails every day. How will you make yours stand out and noticeable? You play with words. When done, it catches the attention of the user immediately in seconds.
 
@@ -375,7 +377,7 @@ Other crazy subject lines.
 
 ___
 
-<h3>‘Obey my command’ subject lines</h3>
+### ‘Obey my command’ subject lines
 
 Think twice before you try out these subject lines. It is a word of caution. If you want this to work, you must know your audience inside out.
 
@@ -409,7 +411,7 @@ More examples.
 
 ___
 
-<h3>‘Emoji’ subject lines</h3>
+### ‘Emoji’ subject lines
 
 Emoji have replaced words from the time they were designed and the trend has never faded. When used in abandoned cart email subject lines, the emoji demands attention just like the word-play technique.
 

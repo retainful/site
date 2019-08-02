@@ -9,8 +9,6 @@ const FeatureContent = (props) => {
     const featureBodySizeLeft = `col-md-${props.featurebodysizeleft}`
     const featureBodySizeRight = `col-md-${props.featurebodysizerigth}`
     const cardClass = `features-list`;
-    const featureCardLeftSize = `feature-card col-md-${props.leftcardsize}`
-    const featureCardRightSize = `feature-card col-md-${props.rightcardsize}`
 
     return (
    

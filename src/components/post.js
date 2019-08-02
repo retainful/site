@@ -52,7 +52,6 @@ const renderAst = new rehypeReact({
 
 const Post = ({ title,excerptData,description,keywords }) => (
   <>
-    {console.log(keywords)}
     <Metatags title={title} description={description} keywords={keywords} />
     {renderAst(excerptData)}
   </>

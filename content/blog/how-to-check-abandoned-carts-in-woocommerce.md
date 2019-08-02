@@ -18,6 +18,9 @@ About 70% of the shoppers abandoned their carts, according to research firm Baym
 
 ___
 
+<toc>
+</toc>
+
 ### Why people abandon cart?  
 People abandoned their carts for a variety of reasons. Understanding why customers abandon cart can put you forward in knowing how to reduce it.
 

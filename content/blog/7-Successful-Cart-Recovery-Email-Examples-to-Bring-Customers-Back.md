@@ -17,6 +17,7 @@ And, that’s what this read is all about.
 
 Grow into a much smarter email strategist by learning from top brands & use those interesting ideas to write irresistible cart recovery emails.
 
+<toc></toc>
 
 ## What is an abandoned cart?
 How many times have you noticed too many clothes hanging inside a fashion store change room?

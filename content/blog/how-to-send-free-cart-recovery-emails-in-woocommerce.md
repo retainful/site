@@ -21,6 +21,8 @@ So, here is the post to show how to recover your lost sales- Hold.., you may fin
 But, there’s something interesting in here.    
 The post says ***How to send FREE cart recover email reminders*** in WooCommerce.
 
+<toc></toc>
+
 ## Why should you send cart recovery emails
 Well, the reasons to recover your abandoned carts are simple
 - 70 % of your potential sale volume is stalled in abandoned carts- So, recovering those abandoned carts can increase your sales volume by 70%
