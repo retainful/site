@@ -16,6 +16,7 @@ const SIDENAV_LINKS = [
               {URL: '/docs/woocommerce/coupon-timer', TEXTNODE: 'Countdown Timer with Coupon Auto Apply'},
               {URL: '/docs/woocommerce/next-order-coupon', TEXTNODE: 'Next Order Coupon'},
               {URL: '/docs/woocommerce/testing-next-order-coupons', TEXTNODE: 'Test Next order coupons'},
+              {URL: '/docs/woocommerce/getting-premium-abandoned-cart-mail-templates', TEXTNODE: 'Getting premium Abandoned Cart email templates'},
 
         ],
         BUTTON_LINK: '/docs/woocommerce/install-retainful-plugin-for-woocommerce',
