@@ -220,11 +220,11 @@ ___
 ### ‘Product mention’ subject lines
 
 Forgetfulness is everywhere nowadays. We depend on gadgets to remind us of important things. So, the gadgets in your eCommerce store have the data of what the customer was about to purchase. Utilize that data to the fullest for the abandoned cart emails.
--
-**1. Still Deciding? Your Dolce- & Gabbana Three-Button Wool Blazer Is Waiting!**-
--
+
+**1. Still Deciding? Your Dolce- & Gabbana Three-Button Wool Blazer Is Waiting!**
+
 *Sent by: The RealReal*-
--
+
 It could have been just ‘Still -Deciding?’ to make it short and sweet like a little nudge. Why should the product name be there?
 
 The answer is this. The RealReal is an online store that sells out clothes and accessories from various brands and designers. So, it is a necessity to let the customer know the product in the abandoned cart. In addition, it also acts as a reminder to entice the customer into completing the checkout.
