@@ -1,5 +1,5 @@
 require('dotenv').config({
-  path: `.env.${process.env.NODE_ENV}`,
+  path: `.env.${process.env}`,
 })
 
 // Connect to our Mailgun API wrapper and instantiate it 
