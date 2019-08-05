@@ -170,7 +170,7 @@ So, that’s basically how you effectively time your recovery emails. Do a lot A
 
 Found the post useful, do share your thoughts and ideas to grow our WooCommerce community.
 
-<link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" target="_blank" rel=“noopener><cta>Download Retainful</cta></link-text>
+<cta url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" target="_blank" rel=“noopener>Download Retainful</cta>
 
 <br>
 Well, if you want to know the list of other tools to <link-text url="https://www.retainful.com/blog/7-sales-conversion-tools-for-shopify-and-woocommerce/" target="_blank" rel=“noopener”>increase sales conversion in your WooCommerce store</link-text>, don’t forget to check this useful post. 

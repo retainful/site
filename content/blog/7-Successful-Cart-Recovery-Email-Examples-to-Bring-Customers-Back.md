@@ -44,7 +44,7 @@ Want to know their cart recovery email recipe?
 
 The following are some amazing cart recovery emails of popular online brands. Write such abandonment emails & lure customers to recover their abandoned carts.
 
-## Use Simple Checkout button
+### Use Simple Checkout button
  
 *Nothing Less… Nothing More* - <link-text url="https://www.ralphlauren.com/" target="_blank" rel="noopener nofollow">_Ralph Lauren_</link-text> 
 
@@ -102,7 +102,7 @@ Well, I guess that’s the email marketing strategy of Grovemade. Look how they 
 ![FOMO](../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/FOMO.jpeg)
 
 
-###Take the Opportunity to Up-sell and Cross-sell
+### Take the Opportunity to Up-sell and Cross-sell
 
 _See no window, Build one - Madewell Inc._
 
