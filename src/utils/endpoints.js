@@ -1,6 +1,6 @@
 
 const endpoints = {
-    contact: '/.netlify/functions/contact',
+    contact: '/.netlify/functions/supportform',
   }
   
   export default endpoints

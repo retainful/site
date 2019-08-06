@@ -22,6 +22,7 @@ export default function Footer() {
                             <li><Link to="/next-order-coupon">Next Order Coupons</Link></li>
                             <li><Link to="/follow-up-emails">Follow-up Emails</Link></li>
                             <li><Link to="/customer-retention">Customer Retention</Link></li>
+                            <li><Link to="/shopify-abandoned-cart">Shopify Abandoned cart</Link></li>
                         </ul>
                     </Col>
                     <Col size="3">
