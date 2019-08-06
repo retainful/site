@@ -20,6 +20,10 @@ import Col from "../components/column"
 import TableOfContents from "../components/TableOfContents"
 import Cta from "../components/cta"
 import CtaBox from '../components/ctabox'
+import authors from '../utils/authors'
+import { FaFacebookF, FaTwitter,FaLinkedin} from 'react-icons/fa'
+
+
 
 const PrimaryTitle = styled.h1`
     color: #f00;
@@ -66,6 +70,9 @@ export default function BlogPost(props) {
     const author = props.data.markdownRemark.frontmatter.author;
     const {prev, next} = props.pageContext;
     const toc = props.data.markdownRemark.tableOfContents;
+    const authorBio = authors.find(x => x.name === props.data.markdownRemark.frontmatter.author)
+
+    {console.log(authorBio)}
  
     return (
         <Layout>
@@ -107,6 +114,28 @@ export default function BlogPost(props) {
                     <div className="content">           
                         {renderAst(toc)(props.data.markdownRemark.htmlAst)}
                     </div>
+                    <hr/>
+                    <div>
+                    <h5>Author Bio</h5>
+                    <br/>
+                        <div className="row">
+                            <div className="col-md-3">
+                                <img className="img-author" style={{maxWidth: '150px',height: '150px',borderRadius:'100%'}} src={authorBio.imageUrl}/>
+                                <p><strong>{author}</strong></p>
+                            </div>
+                            <div className="col-md-9">
+                            <div>
+                                {authorBio.bio}
+                            </div>
+                            <div>
+                                {authorBio.linkedin ? <Link className="p-2" to={authorBio.linkedin}><FaLinkedin/></Link>:null}
+                                {authorBio.facebook ? <Link className="p-2" to={authorBio.facebook}><FaFacebookF/></Link>:null}
+                                {authorBio.twitter ? <Link className="p-2" to={authorBio.twitter}><FaTwitter/></Link>:null}
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    <hr/>
                     <div className="footer">
                         <Share title={title} url={url} pathname={props.location.pathname}/>
                         <PrevNext prev={prev && prev.node} next={next && next.node}/>
