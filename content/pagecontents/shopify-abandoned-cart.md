@@ -84,7 +84,7 @@ Join with us and double up your sales. Recover Shopify abandoned carts now.
 <div slot="right">
 
 ## Send automated emails
-No need to send emails manually. It is very simple with Shopify abandoned cart recovery plugin. Draft emails then add attachments like coupons if required, schedule them to be sent. Thus you can automate a series of emails to be sent. 
+No need to send emails manually. It is very simple with Shopify abandoned cart recovery app. Draft emails then add attachments like coupons if required, schedule them to be sent. Thus you can automate a series of emails to be sent. 
 
 
 </div>

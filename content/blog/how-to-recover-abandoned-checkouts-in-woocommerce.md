@@ -241,7 +241,7 @@ Here are the details.
 
 *Template Subject -* The sale is coming to a close {{customer_name}}. Not much time left to save your cart.
 
-Send this email in - 24hours
+*Send this email in* - 24hours
 
 **Email Body**
 
