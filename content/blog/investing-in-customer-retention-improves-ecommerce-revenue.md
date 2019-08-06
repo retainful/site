@@ -25,6 +25,8 @@ Trust the statistics, **the probability of selling to an existing customer is 60
 
 As aforesaid, the following are the reasons why it is always preferable to invest in customer retention.
 
+<toc></toc>
+
 ## 1. Existing customers spend more
 
 Your existing customers won't deny coupons and discounts offered by you. They are willing to spend an average of 13%, which is quite a huge term. Series of analysis says that customers are ready to spend on online stores that they are already familiar with.

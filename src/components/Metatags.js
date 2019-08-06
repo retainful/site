@@ -8,23 +8,22 @@ const getSchemaOrgJSONLD = ({
     image,
     description,
     datePublished,
+    dateModified,
+    keywords,
     authorName,
-    sitename
+    sitename,
   }) => {
-    const schemaOrgJSONLD = [
+    const schemaOrgJSONLD = 
       {
         '@context': 'http://schema.org',
         '@type': 'BlogPosting',
         url,
         name: title,
         alternateName: title,
-      },
-    ];
-  
+      }
     return isBlogPost
-      ? [
+      ? {
           ...schemaOrgJSONLD,
-          {
             mainEntityOfPage: {
               '@type': 'Website',
               '@id': sitename,
@@ -35,6 +34,8 @@ const getSchemaOrgJSONLD = ({
               url: image,
             },
             datePublished,
+            dateModified,
+            keywords,
             author: {
               '@type': 'person',
                name: authorName,
@@ -43,10 +44,14 @@ const getSchemaOrgJSONLD = ({
               '@type': 'Organization',
               url: url,
               name:sitename,
+              "logo":{
+                "@type":"ImageObject",
+                "url":'https://retainful.com/retainful-logo.png',
+              },
             },
+           
             description,
-          },
-        ]
+          }
       : schemaOrgJSONLD;
   };
 
@@ -58,6 +63,7 @@ const getSchemaOrgJSONLD = ({
   const pathname = props.pathname;
   const url = props.url;
   const datePublished = props.datePublished;
+  const dateModified = props.datemodified;
   const isBlogPost=props.isBlogPost;
   const authorName = props.author;
   const sitename = props.sitename;
@@ -69,9 +75,11 @@ const getSchemaOrgJSONLD = ({
     image,
     description,
     datePublished,
+    dateModified,
     isBlogPost,
     authorName,
-    sitename
+    sitename,
+    keywords,
   });
   
   return (

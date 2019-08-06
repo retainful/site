@@ -18,7 +18,9 @@ Time for some compelling stats!
 
 Feel the humongous difference. 
 
-### List of Customer Retention tools for your eCommerce store
+<toc></toc>
+
+## List of Customer Retention tools for your eCommerce store
 Whatever be your eCommerce platform, we’ve got you covered with this post. For all Shopify, WooCommerce, Prestashop, BigCommerce, Squarespace store owners out there, following is the list comprehended with the best customer retention tools.
 
 ### [1. Omnisend](https://www.omnisend.com/)
