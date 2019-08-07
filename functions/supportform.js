@@ -1,16 +1,12 @@
 // Gatsby uses weird config stuff
-const apiKey = process.env.MAILGUN_API_KEY
-const domain = process.env.MAILGUN_DOMAIN
-const MailID = process.env.MY_EMAIL_ADDRESS
+require('dotenv').config()
 
 // Connect to our Mailgun API wrapper and instantiate it 
 const mailgun = require('mailgun-js')
 const mg = mailgun({
-  apiKey: `${apiKey}`,
-  domain: `${domain}`,
+  apiKey: process.env.MAILGUN_API_KEY,
+  domain: process.env.MAILGUN_DOMAIN,
 })
-
-console.log(mg)
 
 const successCode = 200
 const errorCode = 400
@@ -25,7 +21,7 @@ exports.handler = function(event, context, callback) {
   let { name, email, subject, message } = data
   let mailOptions = {
     from: `${name} <${email}>`,
-    to: `${MailID}`,
+    to: process.env.MY_EMAIL_ADDRESS,
     replyTo: email,
     subject: `${subject}`,
     text: `${message}`,
