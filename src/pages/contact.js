@@ -36,9 +36,7 @@ export default class ContactForm extends Component {
     // if((data.name || data.email || data.subject || message == null || "")){
     //   this.handleError()
     // }
-    // console.log(data)
     axios.post(endpoints.contact, JSON.stringify(data)).then(response => {
-      {console.log("response "+response.statusCode)}
       if (response.statusCode !== 200) {
         this.handleError()
       } else {
@@ -125,8 +123,8 @@ export default class ContactForm extends Component {
            <Popup visible={this.state.showModal} onClickAway={() => this.closeModal()}>
               <p>
                 {error
-                  ? `Oops! Something went wrong. Ensure you're using a valid email address & try again. `
-                  : `Thank you for reaching out. We will get back to you soon.`}
+                  ? `Thank you for reaching out. We will get back to you soon.`
+                  : `Oops! Something went wrong. Ensure you're using a valid email address & try again. `}
               </p>
             </Popup>
           </form>
