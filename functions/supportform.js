@@ -10,6 +10,7 @@ const mg = mailgun({
 
 const successCode = 200
 const errorCode = 400
+const customErrorCode = 500
 const headers = {
   'Access-Control-Allow-Origin': '*',
   'Access-Control-Allow-Headers': 'Content-Type',
@@ -18,7 +19,55 @@ const headers = {
 // Our cloud function
 exports.handler = function(event, context, callback) {
   let data = JSON.parse(event.body)
-  let { name, email, subject, message } = data
+
+  console.log(data)
+
+
+  let { name, email, subject, message, error } = data
+
+  let errorMessage = null;
+
+  if (!data) {
+      errorMessage = "No form data supplied";
+      console.log(errorMessage);
+      callback(errorMessage);
+  }
+
+  if (!data.name) {
+      errorMessage = "No NAME supplied";
+      console.log(errorMessage);
+      callback(errorMessage);
+  }
+
+  if (!data.email) {
+      errorMessage = "No EMAIL supplied";
+      console.log(errorMessage);
+      callback(errorMessage);
+  }
+  
+  if (!data.subject) {
+      errorMessage = "No SUBJECT supplied";
+      console.log(errorMessage);
+      callback(errorMessage);
+  }
+  
+  if (!data.message) {
+      errorMessage = "No MESSAGE supplied";
+      console.log(errorMessage);
+      callback(errorMessage);
+  }
+
+if (errorMessage){
+    console.log("No Message Sent as " + errorMessage);
+    // callback("No Message Sent as " + errorMessage);
+    callback(null, {
+      customErrorCode,
+      headers,
+      body: JSON.stringify(error),
+    })
+}
+
+else{
   let mailOptions = {
     from: `${name} <${email}>`,
     to: process.env.MY_EMAIL_ADDRESS,
@@ -47,4 +96,5 @@ exports.handler = function(event, context, callback) {
       })
     }
   })
+}
 }
