@@ -1,27 +1,10 @@
 import React, { Component } from 'react'
 import axios from 'axios'
 import endpoints from '../utils/endpoints'
-import Modal from 'react-modal'
+// import styled from 'styled-components'
+import Popup from '../components/modal'
 import Layout from '../components/layout'
 
-// const Modal = {
-//   background: 'white',
-//   padding: '2em',
-//   position: 'fixed',
-//   minWidth: '75%',
-//   top: '50%',
-//   left: '50%',
-//   transform: 'translate(-50%, -50%)',
-//   margin: '0 auto',
-//   zIndex: '9999999',
-//   display: 'flex',
-//   flexFlow: 'column',
-//   textAlign: 'center',
-//   alignItems: 'flex-start',
-//   transition: 'all 0.3s ease',
-//   opacity: `${props => (props.visible ? '1' : '0')}`,
-//   visibility: `${props => (props.visible ? 'visible' : 'hidden')}`,
-//   }
 
 export default class ContactForm extends Component {
   constructor(props) {
@@ -50,6 +33,10 @@ export default class ContactForm extends Component {
     this.setState({ loading: true })
     let { name, email, subject, message } = this.state
     let data = { name, email, subject, message }
+    // if((data.name || data.email || data.subject || message == null || "")){
+    //   this.handleError()
+    // }
+    // console.log(data)
     axios.post(endpoints.contact, JSON.stringify(data)).then(response => {
       if (response.status !== 200) {
         this.handleError()
@@ -134,14 +121,13 @@ export default class ContactForm extends Component {
             <button name="submit" type="submit" value="Send It">
               Send
             </button>
-           <Modal visible={this.state.showModal}>
-          <p>
-            {error
-              ? `Oops! Something went wrong.  Ensure you're using a valid email address & try again. `
-              : `Thank you for reaching out. I'll get back to you as soon as
-            possible.`}
-          </p>
-            </Modal>
+           <Popup visible={this.state.showModal} onClickAway={() => this.closeModal()}>
+              <p>
+                {error
+                  ? `Oops! Something went wrong. Ensure you're using a valid email address & try again. `
+                  : `Thank you for reaching out. We will get back to you soon.`}
+              </p>
+            </Popup>
           </form>
         </div>
       </Layout>
