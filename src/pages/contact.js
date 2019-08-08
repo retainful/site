@@ -38,7 +38,8 @@ export default class ContactForm extends Component {
     // }
     // console.log(data)
     axios.post(endpoints.contact, JSON.stringify(data)).then(response => {
-      if (response.status !== 200) {
+      {console.log("response "+response.statusCode)}
+      if (response.statusCode !== 200) {
         this.handleError()
       } else {
         this.handleSuccess()
