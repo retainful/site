@@ -3781,6 +3781,25 @@ body {
     font-size: 18px;
     color: #555555;
   }
+  .btn-link{
+    display: inline-block;
+    margin-top: 15px;
+    font-weight: 600;
+    color: #222222;
+    transition: 0.2s;
+    &:after {
+      content: '>';
+      margin-left: 8px;
+      transition: 0.2s;
+    }
+    &:hover{
+      color: $primary;
+      &:after {
+        content: '>';
+        margin-left: 12px;
+      }
+    }
+  }
   h4{
     color: #363635;
     font-weight: 500;

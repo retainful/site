@@ -24,6 +24,8 @@ Track all the abandoned carts in your WooCommerce online store. You can track ev
 * Automatically capture the email as soon as the customer enters it at checkout
 * See what items were left by the customers in their carts
 
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
+
 </featurescontext>
 
 <featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Recover-Abandoned-Carts-with-Single-Click.png" heading="Recover Abandoned Carts with Single Click" imgposition="left">
@@ -35,6 +37,8 @@ When the cart is recovered, the plugin will automatically stop sending the email
 * Single-click cart recovery link included in the emails
 * Send as many emails as you want to recover carts, exactly when you want, as quickly as 30 min after they leave.
 * Not annoying to users--Emails are automatically stopped when a purchase is made.
+
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -49,6 +53,8 @@ Create a high-performing drip campaign and send emails at well-timed intervals i
 * 4th reminder can go 3 days after the cart is abandoned
 * 5th reminder can be sent 5 days after the cart abanonment
 
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
+
 </featurescontext>
 
 <featurescontext imgurl="https://images.ctfassets.net/xny2w179f4ki/390zqBIJLzsS8KK7S7UviH/2e3c6478627cb5ee0dd3f855ca191d16/all-customer-communication_2x.png" heading="Responsive, high-converting Email Templates" imgposition="left">
@@ -59,6 +65,8 @@ Save your precious time by using our pre-built email templates, optimized for co
 * 3 pre-built email templates
 * Responsive, mobile friendly emails
 * Highly customizable
+
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -71,6 +79,8 @@ Personalized emails get a higher open rates and click throughs when compared to 
 * Cart contents / items
 * Cart recovery link
 * Coupons
+
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -89,6 +99,8 @@ Most customers abandon their carts even before reaching the checkout step. So ca
 * Fully Customizable. Change the popup content easily
 * Compatible almost all themes
 
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
+
 </featurescontext>
 
 <featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Coupons-for-Email-Collection.png" heading="Coupons for Email Collection" imgposition="left">
@@ -101,6 +113,8 @@ Retainful can automatically email a coupon code when customer enter their email
 * Automatically email a coupon when customer gives their email
 * Customizable email template
 * Uses the built-in WooCommerce Coupons
+
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -115,6 +129,8 @@ It can automatically apply a coupon code and show sales countdown timer at the c
 * Position the timer at the top or just below the coupon or above the cart.
 * Auto apply a coupon code with the timer and set an expiry for the coupon.
 
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
+
 </featurescontext>
 
 <featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/IP-Filter.png" heading="IP Filter" imgposition="left">
@@ -125,6 +141,8 @@ Exclude capturing carts from selected IP addresses. Useful when you wanted to ex
 * Exclude a single IP or multiple IPs
 * Exclude a range of IPs (33.33.33.1 - 33.33.33.255)
 * Wildcards based exclusion. Useful when you want to exclude an entire region.
+
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -146,6 +164,8 @@ Retainful automatically embeds these coupon codes in the order confirmation emai
 * Coupon is included within the order confirmation email itself
 * Discount can be either a percentage or flat amount
 
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
+
 </featurescontext>
 
 <featurescontext imgurl="https://images.ctfassets.net/xny2w179f4ki/390zqBIJLzsS8KK7S7UviH/2e3c6478627cb5ee0dd3f855ca191d16/all-customer-communication_2x.png" heading="Auto Apply Coupon" imgposition="right">
@@ -155,6 +175,8 @@ Include a button or a link in the email that will automatically apply the coupon
 ####Key Features:
 * Single-click auto apply coupon url
 * Short code to include the coupon url in the email
+
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -167,6 +189,8 @@ You can control how the coupon is applied. You can set it to apply for all produ
 * Exclude / Include products / categories
 * Exclude items already on sale
 
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
+
 </featurescontext>
 
 <featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Trigger-FOMO-with-Coupon-Expiry.png" heading="Trigger FOMO with Coupon Expiry" imgposition="right">
@@ -176,6 +200,8 @@ Fear of Missing Out (FOMO) is one of the proven psychological trigger that can b
 ####Key Features:
 * Trigger FOMO using a coupon expiry
 * Short code for including expiry date in the email
+
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -195,6 +221,8 @@ Retainful comes with a beautiful dashboard showing you the number of abandoned c
 * Value of the abandoned carts & recovered carts
 * Date range filters for insights
 
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
+
 </featurescontext>
 
 <featurescontext imgurl="https://images.ctfassets.net/xny2w179f4ki/390zqBIJLzsS8KK7S7UviH/2e3c6478627cb5ee0dd3f855ca191d16/all-customer-communication_2x.png" heading="Sent Emails" imgposition="left">
@@ -206,6 +234,8 @@ See who have received your abandoned cart email series. The plugin includes a co
 * Filter the sent emails by customers (coming soon)
 * Filter by date range (coming soon)
 
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
+
 </featurescontext>
 
 <featurescontext imgurl="https://images.ctfassets.net/xny2w179f4ki/390zqBIJLzsS8KK7S7UviH/2e3c6478627cb5ee0dd3f855ca191d16/all-customer-communication_2x.png" heading="Next Order Coupon Performance" imgposition="right">
@@ -216,6 +246,8 @@ Get the list of successful conversions for the next order coupon codes at the [R
 * Real-time tracking of opens & conversions in [Retainful Dashboard](https://app.retainful.com)
 * View all the next order coupons sent to customers
 * View all the conversions or filter them by customers
+
+<a href="https://app.retainful.com" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
