@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import axios from 'axios'
 import endpoints from '../utils/endpoints'
-// import styled from 'styled-components'
 import Popup from '../components/modal'
 import Layout from '../components/layout'
 
@@ -33,14 +32,12 @@ export default class ContactForm extends Component {
     this.setState({ loading: true })
     let { name, email, subject, message } = this.state
     let data = { name, email, subject, message }
-    // if((data.name || data.email || data.subject || message == null || "")){
-    //   this.handleError()
-    // }
-    axios.post(endpoints.contact, JSON.stringify(data)).then(response => {
-      if (response.statusCode !== 200) {
-        this.handleError()
-      } else {
+    axios.post(endpoints.supportform, JSON.stringify(data)).then(response => {
+      {console.log(response)}
+      if (response.statusCode === 200) {
         this.handleSuccess()
+      } else {
+        this.handleError({response})
       }
     })
     e.preventDefault()
@@ -124,7 +121,7 @@ export default class ContactForm extends Component {
               <p>
                 {error
                   ? `Thank you for reaching out. We will get back to you soon.`
-                  : `Oops! Something went wrong. Ensure you're using a valid email address & try again. `}
+                  : `Sorry, All fields are required`}
               </p>
             </Popup>
           </form>
