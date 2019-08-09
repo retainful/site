@@ -76,6 +76,12 @@ q:before, q:after {
   }
 }
 
+@media (min-width: 1200px){
+  .container {
+    max-width: 1290px;
+  }
+}
+
 .feature-card {
   &.card {
     position: relative;
@@ -1519,6 +1525,16 @@ body {
 
   .pricing-section .table-center {
     margin-top: 0;
+  }
+
+  .money-back-guarantee-block{
+    background: #ffffff;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, 0.1);
+    border: transparent;
+    border-radius: 10px;
   }
 
   /*------------------------------------------------
@@ -3670,15 +3686,21 @@ body {
 .features-banner{
   padding: 60px 0;
   h3{
-    font-size: 38px;
-    color: #364655;
+    font-size: 42px;
+    color: #363635;
     font-weight: 600;
-    line-height: 1.2;
+    line-height: 1.1;
     margin-bottom: 10px;
   }
   p{
-    font-size: 18px;
+    font-size: 20px;
     margin: 0 auto 10px;
+    color: #555;
+  }
+  .btn-action.btn-lg {
+    height: auto;
+    padding: 8px 30px;
+    font-size: 16px;
   }
   &.shopify{
     .img-fluid{
@@ -3715,17 +3737,39 @@ body {
 }
 
 .features-container{
-  padding: 40px 0;
-  border-top: 1px solid #e5e5e5;
+  padding: 40px 15px;
+  h3{
+    color: #363635;
+    font-weight:600;
+    margin-bottom: 10px;
+    font-size: 42px;
+  }
+  p{
+    font-size: 18px;
+    color: #555555;
+  }
+  h4{
+    color: #363635;
+    font-weight: 500;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  ul {
+    padding-left: 25px;
+    text-align: left;
+    margin-top: 15px;
+    list-style-image: url("../images/tick.svg");
+    li {
+      color: #555555;
+      font-size: 18px;
+      font-weight: 400;
+      margin-bottom: 8px;
+    }
+  }
+
   .features-list{
     margin-top: 20px;
     margin-bottom: 20px;
-    h3{
-      color: #364655;
-      font-weight:600;
-      margin-bottom: 20px;
-      font-size: 32px;
-    }
     h4{
       color: #364655;
       font-weight:600;
