@@ -1,0 +1,41 @@
+sitemap: https://www.retainful.com/sitemap.xml
+
+User-agent:  *
+Disallow: /comments/feed/
+Disallow: /trackback/
+Disallow: /?s=*
+Disallow: /recommended/
+Disallow: /get/
+Disallow: /go/
+Disallow: /tag/
+Disallow: /author/
+Disallow: /category/
+Disallow: /blog/2
+Disallow: /blog/3
+Disallow: /blog/4
+Disallow: /blog/5
+Disallow: ?comments=*
+Disallow: /search?
+Disallow: /thanks
+Disallow: */feed 
+Disallow: */comments 
+Disallow: /*?* 
+Disallow: /*?
+
+User-agent: NinjaBot
+Allow: /
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: HTTrack
+Disallow: /

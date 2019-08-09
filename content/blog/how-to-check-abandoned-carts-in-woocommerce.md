@@ -34,7 +34,7 @@ Following are some of the most common reasons for people abandoning your online 
 - No transparent privacy and return policy
 - Complex payment gateway or less payment choices. 
 
-______
+___
       
 ## How to check abandoned carts in WooCommerce?
 
@@ -51,6 +51,7 @@ Retainful allows to check the abandoned carts in real-time. That is you can see 
 You can also view your site-wide statistics for cart abandonment - how many carts are abandoned, how many are recovered, what is the value of the recovered carts, items in the abandoned cart and more.
   
 ### Steps to check WooCommerce shopping abandoned carts
+
 ____
 
 #### Install & Activate Retainful       
