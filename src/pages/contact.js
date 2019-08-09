@@ -32,13 +32,13 @@ export default class ContactForm extends Component {
     this.setState({ loading: true })
     let { name, email, subject, message } = this.state
     let data = { name, email, subject, message }
-    axios.post(endpoints.supportform, JSON.stringify(data)).then(response => {
-      {console.log(response)}
-      if (response.statusCode === 200) {
-        this.handleSuccess()
-      } else {
-        this.handleError({response})
-      }
+    
+    axios.post(endpoints.supportform, JSON.stringify(data))
+    .then(response => {
+      this.handleSuccess()
+    })
+    .catch(error => {
+      this.handleError()
     })
     e.preventDefault()
   }
@@ -51,16 +51,17 @@ export default class ContactForm extends Component {
       subject: '',
       showModal: true,
       valid: false,
-      error: false,
-    })
+      alert:'Thank you for reaching out. We will get back to you soon.' 
+    }) 
   }
 
-  handleError = msg => {
+  handleError = msg => { 
+    
     this.setState({
       showModal: true,
+      alert: 'Sorry, All fields are required',
       valid: false,
-      loading: false,
-      error: true,
+      loading: false, 
     })
   }
 
@@ -73,7 +74,7 @@ export default class ContactForm extends Component {
   }
 
   render() {
-    let { name, email, subject, message,error} = this.state
+    let { name, email, subject, message, alert} = this.state
     return (
       <Layout>
         <div className="container contact-form">
@@ -85,7 +86,7 @@ export default class ContactForm extends Component {
               value={name}
               onChange={this.handleInputChange}
               required
-            />
+              />
 
             <input
               name="email"
@@ -94,7 +95,7 @@ export default class ContactForm extends Component {
               value={email}
               onChange={this.handleInputChange}
               required
-            />
+              />
 
             <input
               name="subject"
@@ -103,7 +104,7 @@ export default class ContactForm extends Component {
               value={subject}
               onChange={this.handleInputChange}
               required
-            />
+              />
 
             <textarea
               name="message"
@@ -112,16 +113,14 @@ export default class ContactForm extends Component {
               value={message}
               onChange={this.handleInputChange}
               required
-            />
+              />
 
             <button name="submit" type="submit" value="Send It">
               Send
             </button>
            <Popup visible={this.state.showModal} onClickAway={() => this.closeModal()}>
               <p>
-                {error
-                  ? `Thank you for reaching out. We will get back to you soon.`
-                  : `Sorry, All fields are required`}
+                {alert}
               </p>
             </Popup>
           </form>
