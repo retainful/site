@@ -67,11 +67,9 @@ class FeaturesPage extends React.Component {
                     query={FeaturesPageQuery}
                     render={data => {
                         return (
-                            <Container>
-                                <PageContent
-                                    excerptData={data.markdownRemark.htmlAst}
-                                />
-                            </Container>
+                            <PageContent
+                                excerptData={data.markdownRemark.htmlAst}
+                            />
                         )
                     }}
                 />

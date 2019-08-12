@@ -3768,8 +3768,12 @@ body {
   }
 }
 
+.toc-title-icon{
+  position: absolute;
+}
+
 .features-container{
-  padding: 40px 15px;
+  padding: 50px 15px;
   h3{
     color: #363635;
     font-weight:600;
@@ -3785,15 +3789,16 @@ body {
     display: inline-block;
     margin-top: 15px;
     font-weight: 600;
-    color: #222222;
+    color: $primary;
     transition: 0.2s;
+    padding: 10px 0;
     &:after {
       content: '>';
       margin-left: 8px;
       transition: 0.2s;
     }
     &:hover{
-      color: $primary;
+      color: $primary-dark;
       &:after {
         content: '>';
         margin-left: 12px;
@@ -3807,6 +3812,7 @@ body {
     font-size: 20px;
   }
   ul {
+    display: inline-block;
     padding-left: 25px;
     text-align: left;
     margin-top: 15px;
@@ -3816,6 +3822,12 @@ body {
       font-size: 18px;
       font-weight: 400;
       margin-bottom: 8px;
+      a{
+        color: #333333;
+        &:hover{
+          color: $primary;
+        }
+      }
     }
   }
 

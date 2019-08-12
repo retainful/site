@@ -15,6 +15,7 @@ import Card from "./Card"
 import Plan from "./Plan"
 import SignupForm from './SignupForm';
 import FeaturesContext from './FeaturesContext';
+import FeaturesContextWithColumns from './FeaturesContextWithColumns';
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
@@ -34,6 +35,7 @@ const renderAst = new rehypeReact({
       plan: Plan,
       "signup-form": SignupForm,
       "featurescontext": FeaturesContext,
+      "featurescolumns": FeaturesContextWithColumns,
   },
 }).Compiler
 
