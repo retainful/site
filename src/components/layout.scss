@@ -3835,10 +3835,16 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
     h4{
-      color: #364655;
+      color: #333333;
+      font-size: 23px;
       font-weight:600;
       margin-bottom: 10px;
-      font-size: 20px;
+    }
+    .features-img{
+      max-width: 50px;
+      height: auto;
+      margin-bottom: 15px;
+      border-radius: 8px;
     }
   }
   &.shopify{
@@ -3855,20 +3861,6 @@ body {
         font-size: 28px;
         font-weight: 700;
         color: #333333;
-      }
-    }
-    .features-list{
-      margin-top: 30px;
-      margin-bottom: 30px;
-      .features-img{
-        max-width: 50px;
-        height: auto;
-        margin-bottom: 15px;
-        border-radius: 8px;
-      }
-      h4{
-        color: #333333;
-        font-size: 23px;
       }
     }
   }

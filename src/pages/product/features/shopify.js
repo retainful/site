@@ -13,8 +13,8 @@ const ShopifyFeaturesPage = () => (
              keywords={[`shopify abandoned cart plugin`, `shopify abandoned cart recovery emails`, `shopify email follow-ups`, `shopify next order coupon`, `recover shopify abandoned carts`, `retainful shopify features`]}/>
         <div className="features-banner shopify">
             <div className="container">
-                <div className="row">
-                    <div className="col-md-5">
+                <div className="row align-items-center">
+                    <div className="col-md-6">
                         <div className="feature-content">
                             <h3>Grow your Shopify Revenue!</h3>
                             <p>Recover Abandoned Carts and Drive Repeat Sales.</p>
@@ -24,7 +24,7 @@ const ShopifyFeaturesPage = () => (
                                   target="_blank" rel="noopener noreferrer">Get started Free</a></p>
                         </div>
                     </div>
-                    <div className="col-md-7">
+                    <div className="col-md-6">
                         <div className="text-center">
                             <img className="img-fluid"
                                  src={`${process.env.GATSBY_RF_MEDIA_URL}/home-banner-illustration.png`}
