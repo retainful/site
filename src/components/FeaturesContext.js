@@ -7,17 +7,21 @@ class FeaturesContext extends React.Component{
         const bgColor = {
             'backgroundColor': this.props.bgColor
         };
+        let splitCol = null;
+        if(this.props.splitcol){
+            splitCol = this.props.splitcol.split(',');
+        }
         if(this.props.imgposition === 'left'){
             return(
                 <div className={classes} style={bgColor}>
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-sm-5">
+                            <div className={(this.props.splitcol) ? "col-md-"+splitCol[0] : "col-md-6"}>
                                 {this.props.imgurl &&
                                 <img src={this.props.imgurl} alt="" className="img-responsive p-r-30"/>
                                 }
                             </div>
-                            <div className="col-sm-7">
+                            <div className={(this.props.splitcol) ? "col-md-"+splitCol[1] : "col-md-6"}>
                                 {this.props.children}
                             </div>
                         </div>
@@ -29,10 +33,10 @@ class FeaturesContext extends React.Component{
                 <div className={classes} style={bgColor}>
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-sm-7">
+                            <div className={(this.props.splitcol) ? "col-md-"+splitCol[0] : "col-md-6"}>
                                 {this.props.children}
                             </div>
-                            <div className="col-sm-5">
+                            <div className={(this.props.splitcol) ? "col-md-"+splitCol[1] : "col-md-6"}>
                                 {this.props.imgurl &&
                                 <img src={this.props.imgurl} alt="" className="img-responsive p-l-30"/>
                                 }
@@ -60,12 +64,13 @@ class FeaturesContext extends React.Component{
 FeaturesContext.propTypes = {
     imgurl: PropTypes.string,
     bgColor: PropTypes.string,
+    splitcol: PropTypes.array
 };
 
 FeaturesContext.defaultProps = {
     imgposition: 'left',
     className: '',
-    bgColor: '#fff'
+    bgColor: '#fff',
 }
 
 export default FeaturesContext;

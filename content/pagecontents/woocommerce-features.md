@@ -89,7 +89,7 @@ Create a high-performing drip campaign and send emails at well-timed intervals i
 
 </featurescontext>
 
-<featurescontext imgurl="https://images.ctfassets.net/xny2w179f4ki/390zqBIJLzsS8KK7S7UviH/2e3c6478627cb5ee0dd3f855ca191d16/all-customer-communication_2x.png" imgposition="left" bgColor="#fff2e7">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Responsive%2C-high-converting-Email-Templates.png" imgposition="left" bgColor="#fff2e7">
 
 ###Responsive, high-converting Email Templates
 
@@ -160,7 +160,7 @@ Retainful can automatically email a coupon code when customer enter their email
 
 </featurescontext>
 
-<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Countdown-Timer-Add-an-urgency.png" imgposition="right">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Countdown-Timer.png" imgposition="right">
 
 ###Countdown Timer - Add an urgency
 
@@ -201,7 +201,7 @@ Send next order coupons within your order notification emails itself.
 
 </featurescontext>
 
-<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Send-Unique-Coupon-Codes-for-Next-Purchase.png" imgposition="left">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Next-Order-Coupons.png" imgposition="left">
 
 ###Send Unique Coupon Codes for Next Purchase
 Increase the average life time purchase value of a customer. Generate and send a unique, single-use discount code when a customer makes a purchase.    
@@ -217,7 +217,7 @@ Retainful automatically embeds these coupon codes in the order confirmation emai
 
 </featurescontext>
 
-<featurescontext imgurl="https://images.ctfassets.net/xny2w179f4ki/390zqBIJLzsS8KK7S7UviH/2e3c6478627cb5ee0dd3f855ca191d16/all-customer-communication_2x.png" imgposition="right" bgColor="#fff2e7">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Auto-Apply-Coupon.png" imgposition="right" bgColor="#fff2e7">
 
 ###Auto Apply Coupon
 
@@ -260,7 +260,7 @@ Fear of Missing Out (FOMO) is one of the proven psychological trigger that can b
 
 </featurescontext>
 
-<featurescontext imgposition="right" imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Abandoned-Recover-Cart%20Insights.png">
+<featurescontext imgposition="right" splitcol="7,5" imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Actionable-Analytics-%26-Insights.png">
 
 ###Actionable Analytics & Insights
 Get useful analytics on your sales conversions, next order coupon performance,      
