@@ -27,7 +27,7 @@ const ShopifyFeaturesPage = () => (
                     <div className="col-md-6">
                         <div className="text-center">
                             <img className="img-fluid"
-                                 src={`${process.env.GATSBY_RF_MEDIA_URL}/home-banner-illustration.png`}
+                                 src="https://images.ctfassets.net/xny2w179f4ki/7e3xXYmoIeUsYYUtS8CTAK/5c7ac59efd4009868a2dac07f71c96f2/InboxHeroUpdate_2x__1_.png"
                                  alt="shopify-banner-illustration"/>
 
                         </div>
