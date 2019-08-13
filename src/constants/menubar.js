@@ -5,14 +5,14 @@ const Menubar = [
         DROPDOWN_TARGET: 'featuresDropdown',
         DROPDOWN_LINKS: [
             {
-                ICON: 'https://raw.githubusercontent.com/campaignrabbit/cr-media/master/images/home-icons/360-degree-view-of-customers.png',
+                ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/woocommerce-shopping-cart.png',
                 TITLE: 'WooCommerce',
                 DESC:  'Download the Retainful Plugin for WooCommerce',
                 LINK: '/product/features/woocommerce',
 
             },
             {
-                ICON: 'https://raw.githubusercontent.com/campaignrabbit/cr-media/master/images/home-icons/follow-up-emails.png',
+                ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/shopify-icon.png',
                 TITLE: 'Shopify',
                 DESC: 'Install the Shopify App and get started in minutes',
                 LINK: '/product/features/shopify',

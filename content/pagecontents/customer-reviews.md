@@ -45,3 +45,18 @@ This product has worked great for our business and has allowed us to convert cus
 </div>
 </column>
 </row>
+<row className="justify-content-right">
+<column size="7">
+<div className="customer-review">
+
+#### Amazing support !
+This plugin works as intended, Great.   
+Got the paid version.   I had a conflict with my theme, and the support was super helpful with me fixing it and very kind.  **I recommend it highly.**
+<div className="customer-meta">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/reviews/Romain-Capelle.png" alt="merock"/>
+<span>Romain Capelle</span>
+
+</div>
+</div>
+</column>
+</row>

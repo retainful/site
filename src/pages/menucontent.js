@@ -43,7 +43,7 @@ class MenuCard extends React.Component {
                                                     <li>
                                                         <a className="linkContainer item-payments" href={link.LINK}
                                                             data-analytics-action="payments" data-analytics-source="nav_dropdown" tabIndex="-1">
-                                                            {/*<img src={link.ICON} alt=""/>*/}
+                                                            <img src={link.ICON} alt=""/>
                                                         <div className="productLinkContent">
                                                                 <h3 className="linkTitle">{link.TITLE}</h3>
                                                             <p className="linkSub">{link.DESC}</p>

@@ -40,7 +40,7 @@ class FeaturesPage extends React.Component {
                             <div className="col-md-6">
                                 <div className="text-center">
                                     <p><img
-                                        src="https://images.ctfassets.net/xny2w179f4ki/7e3xXYmoIeUsYYUtS8CTAK/5c7ac59efd4009868a2dac07f71c96f2/InboxHeroUpdate_2x__1_.png"
+                                        src="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/retainful-woocommerce-feature-bannerdashboard.png"
                                         alt="woocommerce" className="img-responsive"/></p>
 
                                 </div>

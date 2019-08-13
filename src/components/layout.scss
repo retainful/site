@@ -3859,6 +3859,32 @@ body {
       }
     }
   }
+
+  .section-link-block{
+    ul{
+      display: inline-block;
+      margin-top: 30px;
+      padding: 0;
+      li{
+        display: inline-block;
+        a{
+          color: $primary;
+          padding: 10px 20px;
+          display: inline-block;
+        }
+        &:after{
+          content: '';
+          border-right: 1px solid #ddd;
+          height: 50px;
+        }
+        &:last-child{
+          &:after{
+            display: none;
+          }
+        }
+      }
+    }
+  }
 }
 
 .how-it-works{

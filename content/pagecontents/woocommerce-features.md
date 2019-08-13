@@ -9,26 +9,14 @@ path: '/woocommerce-features'
 
 Recover abandoned carts, drive repeat purchases to boost and increase your sales by 10x
 
+<div class="section-link-block">
+
 * [Abandoned Cart Recovery](#abandoned-cart-recovery)
-    * [Capture Abandoned Carts](#capture-abandoned-carts)
-    * [Recover Abandoned Carts with Single Click](#recover-abandoned-carts-with-single-click)
-    * [Drip / Sequential Recovery Emails](#drip--sequential-recovery-emails)
-    * [Responsive, high-converting Email Templates](#responsive-high-converting-email-templates)
-    * [Personalisation with Short Codes](#personalisation-with-short-codes)
 * [Retainful Premium](#retainful-premium)
-    * [Email Collection Popup](#email-collection-popup)
-    * [Coupons for Email Collection](#coupons-for-email-collection)
-    * [Countdown Timer - Add an urgency](#countdown-timer---add-an-urgency)
-    * [IP Filter](#ip-filter)
 * [Next Order Coupons](#next-order-coupons)
-    * [Send Unique Coupon Codes for Next Purchase](#send-unique-coupon-codes-for-next-purchase)
-    * [Auto Apply Coupon](#auto-apply-coupon)
-    * [Coupon Usage Restrictions](#coupon-usage-restrictions)
-    * [Trigger FOMO with Coupon Expiry](#trigger-fomo-with-coupon-expiry)
 * [Actionable Analytics & Insights](#actionable-analytics--insights)
-    * [Abandoned / Recover Cart Insights](#actionable-analytics--insights)
-    * [Sent Emails](#actionable-analytics--insights)
-    * [Next Order Coupon Performance](#actionable-analytics--insights)
+
+</div>
 
 </featurescontext>
 
@@ -56,7 +44,7 @@ Track all the abandoned carts in your WooCommerce online store. You can track ev
 
 </featurescontext>
 
-<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Recover-Abandoned-Carts-with-Single-Click.png" imgposition="left" bgColor="#fff2e7">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Recover-Abandoned-Carts-with-Single-Click.png" imgposition="left" bgColor="#feefe8">
 
 ###Recover Abandoned Carts with Single Click
 
@@ -89,7 +77,7 @@ Create a high-performing drip campaign and send emails at well-timed intervals i
 
 </featurescontext>
 
-<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Responsive%2C-high-converting-Email-Templates.png" imgposition="left" bgColor="#fff2e7">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Responsive%2C-high-converting-Email-Templates.png" imgposition="left" bgColor="#feefe8">
 
 ###Responsive, high-converting Email Templates
 
@@ -143,7 +131,7 @@ Most customers abandon their carts even before reaching the checkout step. So ca
 
 </featurescontext>
 
-<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Coupons-for-Email-Collection.png" imgposition="left" bgColor="#fff2e7">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Coupons-for-Email-Collection.png" imgposition="left" bgColor="#feefe8">
 
 ###Coupons for Email Collection
 
@@ -217,7 +205,7 @@ Retainful automatically embeds these coupon codes in the order confirmation emai
 
 </featurescontext>
 
-<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Auto-Apply-Coupon.png" imgposition="right" bgColor="#fff2e7">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Auto-Apply-Coupon.png" imgposition="right" bgColor="#feefe8">
 
 ###Auto Apply Coupon
 
@@ -246,7 +234,7 @@ You can control how the coupon is applied. You can set it to apply for all produ
 
 </featurescontext>
 
-<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Trigger-FOMO-with-Coupon-Expiry.png" imgposition="right" bgColor="#fff2e7">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Trigger-FOMO-with-Coupon-Expiry.png" imgposition="right" bgColor="#feefe8">
 
 ###Trigger FOMO with Coupon Expiry
 
