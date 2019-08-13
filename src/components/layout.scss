@@ -2689,6 +2689,10 @@ body {
       }
     }
   }
+  .blog-post-share-block{
+    position: absolute;
+    left: 0;
+  }
 }
 
 .legal-info {
@@ -3684,7 +3688,7 @@ body {
 }
 
 .features-banner{
-  padding: 60px 0 20px;
+  padding: 10px 0;
   h3{
     font-size: 42px;
     color: #363635;

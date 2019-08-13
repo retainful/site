@@ -24,7 +24,7 @@ class FeaturesPage extends React.Component {
                 <div className="features-banner">
                     <div className="container">
                         <div className="row align-items-center">
-                            <div className="col-md-6">
+                            <div className="col-md-5">
                                 <h3>Grow your WooCommerce Revenue!</h3>
                                 <p>Retainful increases WooCommerce sales by driving repeated purchases and also encourages
                                     customers to instantly buy the abandoned cart items.</p>
@@ -37,10 +37,10 @@ class FeaturesPage extends React.Component {
                                        target="_blank" rel="noopener noreferrer">Live Demo</a>
                                 </p>
                             </div>
-                            <div className="col-md-6">
+                            <div className="col-md-7">
                                 <div className="text-center">
                                     <p><img
-                                        src="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/retainful-woocommerce-feature-bannerdashboard.png"
+                                        src="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/retainful-woocommerce-feature-banner-dashboard.png"
                                         alt="woocommerce" className="img-responsive"/></p>
 
                                 </div>

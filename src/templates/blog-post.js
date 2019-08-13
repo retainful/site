@@ -111,8 +111,9 @@ export default function BlogPost(props) {
                         }
                         <hr/>
                     </div>         
-                    <div className="content">           
+                    <div className="content">
                         {renderAst(toc)(props.data.markdownRemark.htmlAst)}
+                        <Share title={title} url={url} pathname={props.location.pathname}/>
                     </div>
                     <hr/>
                     <div>
@@ -137,7 +138,6 @@ export default function BlogPost(props) {
                     </div>
                     <hr/>
                     <div className="footer">
-                        <Share title={title} url={url} pathname={props.location.pathname}/>
                         <PrevNext prev={prev && prev.node} next={next && next.node}/>
                         <div className="text-right">
                             <hr/>

@@ -2,6 +2,7 @@ import React from 'react'
 import twitterIcon from '../images/twitter.png'
 import fbIcon from '../images/facebook.png'
 import './share.css'
+import { FaFacebookF, FaTwitter,FaLinkedin} from 'react-icons/fa'
 
 const Share = props => {
 
@@ -12,17 +13,17 @@ const Share = props => {
     props.pathname}`;
 
     return (
-        <div>
+        <div className="blog-post-share-block">
             <h4 className="center">Share</h4>
             <ul className="social">
                 <li>
                     <a href={fb} target="blank">
-                        <img src={fbIcon} alt="facebook" />
+                        <FaFacebookF size="30" />
                     </a>
                 </li>
                 <li>
                     <a href={twitter} target="blank">
-                        <img src={twitterIcon} alt="twitter" />
+                        <FaTwitter size="30" />
                     </a>
                 </li>
             </ul>
