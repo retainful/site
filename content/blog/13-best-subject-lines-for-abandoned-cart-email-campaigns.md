@@ -2,7 +2,7 @@
 path : "/blog/13-best-subject-lines-for-abandoned-cart-email-campaigns"
 title: "13 Best Subject Lines for Abandoned Cart Email Campaigns"
 date: "2019-05-30"
-datemodified: "2019-07-31"
+datemodified: "2019-08-10"
 author: "Sharon Thomas"
 description: "Are you in trouble due to boring subject lines in abandoned cart email campaigns? Then, this post with some of the best subject lines will bring about a change."
 image: "../images/13-email-subject-lines/13-email-subject-lines.png"
@@ -26,6 +26,8 @@ The list of subject lines that you find here are the most commonly used ones. An
 **1. Heading out without checking out?**
 
 *Sent by: Huckberry*
+
+![Heading out without checking out?](../images/13-email-subject-lines/Heading-out-without-checking-out.png)
 
 Rhyming words never fail to catch a person’s attention and Huckberry has used this element in the subject line of an abandoned cart email. Some marketers term this as the ‘oops approach’.
 
@@ -64,6 +66,8 @@ The use of informal language (lemme) resonates a friendly and fun-loving approac
 **2. Let’s check this off your list**
 
 *Sent by: Kate Spade*
+
+![Let’s check this off your list](../images/13-email-subject-lines/Lets-check-this-off-your-list.png)
 
 Kate Spade never fails to impress with their effective abandoned cart emails. The subject line is one aspect that catches the readers’ attention. It sends out a message that reads like ‘let’s do this together’ or ‘we can help you get through this’.
 
@@ -130,6 +134,8 @@ After all, you are human too. Guess the issue and give it a shot. Things might f
 
 *Sent by: Adidas*
 
+![Sorry to hear about your Wi-Fi](../images/13-email-subject-lines/Sorry-to-hear-about-your-Wi-Fi.png)
+
 Adidas addresses a concern by saying ‘Sorry to hear about your Wi-Fi’ in the abandoned cart email subject line. Has really something gone wrong? The fact here is that nothing is wrong with the Wi-Fi of the customer and Adidas very well knows it. After all, it is <link-text url="https://www.campaignrabbit.com/blog/17-ways-to-increase-your-ecommerce-revenue-through-email-marketing" rel="noopener" target="_blank">email marketing</link-text>.
 
 The email also starts with a header that supports the subject line and it reads ‘Is your wi-fi OK?’. Other details to shop again follow the heading. It is one of the best and unique abandoned cart subject lines which demands the attention of the user instantaneously.
@@ -178,6 +184,8 @@ Some more here.
 
 **6. One more chance to get 35% off!** - J. Crew Factory
 
+![One more chance](../images/13-email-subject-lines/One-more-chance-to-get-35-off.png)
+
 **7. Your favorite designs are flying off the shelves.**
 
 **8. CLEARANCE SALE: There is hardly any stock left. HURRY UP!!!**
@@ -215,6 +223,8 @@ More to ponder about.
 
 **8. Shirts for $39 ENDS MIDNIGHT** - Charles Tyrwhitt
 
+![Shirts for $39 ENDS MIDNIGHT](../images/13-email-subject-lines/Shirts-for-39-ENDS-MIDNIGHT.png)
+
 ___
 
 ### ‘Product mention’ subject lines
@@ -241,9 +251,9 @@ Some extras…
 
 **6. Introducing The Elk Ridge Polo Shirt** - Ralph Lauren
 
-**7. Hey, Your [product name] needs you.**
+**7. Hey, Your** [product name] **needs you.**
 
-**8. It has been so long. Come on and grab your [product name].**
+**8. It has been so long. Come on and grab your** [product name].
 
 ___
 
@@ -256,6 +266,8 @@ People are obsessed with offers and when there is one they never let go. It is e
 **1. Your Cart’s Loaded & Ready To Go - Free Shipping. No Minimum.**
 
 *Sent by: Under Armour*
+
+![Your Cart’s Loaded & Ready To Go - Free Shipping. No Minimum.](../images/13-email-subject-lines/Your-Cart-Loaded-&-Ready-To-Go-Free-Shipping-No-Minimum.png)
 
 Under Armour has done it right by mentioning ‘Free Shipping’ in the subject line. The point here is that the subject line indicates the reward that the customer gets for proceeding to checkout. This can never go wrong.
 
@@ -309,6 +321,8 @@ Get inspiration from these too.
 
 **5. Too busy to read this email?** - Bonobos
 
+![Too busy to read this email](../images/13-email-subject-lines/Your-Cart-Loaded-&-Ready-To-Go-Free-Shipping-No-Minimum.png)
+
 **6. Clocking in** - Chubbies
 
 **7. Your cart has gone for a ride.**
@@ -328,6 +342,8 @@ It is your duty to make the customer realize ‘You have come a long way. Why no
 **1. Don’t Forget: You’re a Click Away from Making it Yours**
 
 *Sent by: Bloomingdale’s*
+
+![Don’t Forget: You’re a Click Away from Making it Yours](../images/13-email-subject-lines/Dont-Forget.png)
 
 Bloomingdale’s is an online store that deals with clothing, jewelery, and skincare for all people alike. The subject line is a gentle reminder about how close the customer is to the checkout point.
 
@@ -371,7 +387,9 @@ Other crazy subject lines.
 
 **4. This is for YOUUUUUUUUUUUUUUUUU.**
 
-**5. ? AAAAAALLLL JEANS, DRESSES & TEES ARE ON SALE! ?** - Old Navy
+**5. AAAAAALLLL JEANS, DRESSES & TEES ARE ON SALE!** - Old Navy
+
+![AAAAAALLLL JEANS, DRESSES & TEES ARE ON SALE!](../images/13-email-subject-lines/AAAAAALLLL-JEANS-DRESSES-TEES-ARE-ON-SALE.png)
 
 **6. Dun-dun-dun… Buy one, get one 60% OFF ends today!** - Crocs
 
@@ -427,7 +445,7 @@ Other examples.
 
 **3. Your cart is wondering where you went ❤️**
 
-**4. Did you forget about me, Finch? 😱**
+**4. Did you forget about me, John? 😱**
 
 **5. Your cart MADE us send this reminder 🙂**
 
