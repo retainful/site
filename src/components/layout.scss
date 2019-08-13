@@ -76,12 +76,6 @@ q:before, q:after {
   }
 }
 
-@media (min-width: 1200px){
-  .container {
-    max-width: 1290px;
-  }
-}
-
 .feature-card {
   &.card {
     position: relative;
@@ -2689,6 +2683,39 @@ body {
       }
     }
   }
+  .blog-post-share-block{
+    position: absolute;
+    left: -120px;
+    top: 500px;
+    background-color: transparent;
+    box-shadow: none;
+    &.affix{
+      position: fixed;
+      top: 250px;
+      left: 20%;
+    }
+    .social{
+      display: block;
+      list-style: none;
+      li{
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        &:before{
+          content: none;
+        }
+        a{
+          display: inline-block;
+          padding: 10px;
+          transition: all 0.2s ease 0s;
+          transform: translateY(0);
+          &:hover{
+            transform: translateY(-2px);
+          }
+        }
+      }
+    }
+  }
 }
 
 .legal-info {
@@ -3684,7 +3711,7 @@ body {
 }
 
 .features-banner{
-  padding: 60px 0 20px;
+  padding: 40px 0;
   h3{
     font-size: 42px;
     color: #363635;

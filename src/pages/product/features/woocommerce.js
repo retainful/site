@@ -25,9 +25,8 @@ class FeaturesPage extends React.Component {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-md-6">
-                                <h3>Grow your WooCommerce Revenue!</h3>
-                                <p>Retainful increases WooCommerce sales by driving repeated purchases and also encourages
-                                    customers to instantly buy the abandoned cart items.</p>
+                                <h3>Recover Abandoned Carts & Grow your WooCommerce Sales</h3>
+                                <p>Boost sales by 10x with automated abandoned cart recovery campaigns. Drive repeat purchases with next order coupons. Get started free!</p>
                                 <p>
                                     <a className="btn-action btn-edge btn-lg"
                                        href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`}
@@ -40,7 +39,7 @@ class FeaturesPage extends React.Component {
                             <div className="col-md-6">
                                 <div className="text-center">
                                     <p><img
-                                        src="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/retainful-woocommerce-feature-bannerdashboard.png"
+                                        src="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/retainful-woocommerce-feature-banner-dashboard.png"
                                         alt="woocommerce" className="img-responsive"/></p>
 
                                 </div>
