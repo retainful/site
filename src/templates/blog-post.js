@@ -112,8 +112,8 @@ export default function BlogPost(props) {
                         <hr/>
                     </div>         
                     <div className="content">
-                        {renderAst(toc)(props.data.markdownRemark.htmlAst)}
                         <Share title={title} url={url} pathname={props.location.pathname}/>
+                        {renderAst(toc)(props.data.markdownRemark.htmlAst)}
                     </div>
                     <hr/>
                     <div>
