@@ -1,6 +1,6 @@
 ---
 path : "/blog/how-to-recover-abandoned-checkouts-in-woocommerce"
-title : How to Recover Abandoned Checkouts in WooCommerce (Ultimate guide + Email Templates)
+title : "How to Recover Abandoned Checkouts in WooCommerce (Ultimate guide + Email Templates)"
 date: "2019-06-18"
 datemodified: "2019-08-10"
 author: "Sharon Thomas"
@@ -327,13 +327,18 @@ To make things easier and more understandable, the whole process of dealing with
 
 ### Installation
 
+
 <link-text url="https://www.retainful.com/product/features/woocommerce" rel="noopener" target="_blank">Download</link-text> the recover abandoned cart WooCommerce plugin, Retainful, for FREE.
 On your Wordpress page, choose the Plugins tab.
 Search for Retainful plugin.
 Click ‘Install now’ to activate.
 You can also download Retainful manually from the WordPress plugin repository <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" rel="noopener nofollow" target="_blank">here.</link-text>
 
+___
+
 ![Retainful Dashboard](../images/how-to-recover-abandoned-checkouts-in-woocommerce/pluginSearch.png)
+
+___
 
 Then, upload the plugin and activate it on your WordPress website.
 Data is prime when it comes to email marketing and it is the same for abandoned cart recovery too. Before devising a strategic plan to recover the WooCommerce abandoned carts, one must know the exact number and the potential revenue lost in addition to other related data.
