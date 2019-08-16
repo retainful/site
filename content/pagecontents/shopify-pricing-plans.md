@@ -8,15 +8,11 @@ path: "/shopify-pricing-plans"
 <plan size="5" className="offset-md-1">
 
 <div slot="plan-title">
-
 Free Forever
-
 </div>
 
 <div slot="plan-price">
-
 $ 0
-
 </div>
 
 <div slot="plan-button">
@@ -48,21 +44,15 @@ $ 0
 <plan size="5" className="featured">
 
 <div slot="plan-title">
-
 Pro
-
 </div>
 
 <div slot="plan-price">
-
 $ 69
-
 </div>
 
 <div slot="plan-period">
-
-per year
-
+/ year
 </div>
 
 <div slot="plan-button">
