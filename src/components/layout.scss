@@ -1409,11 +1409,16 @@ body {
   }
 
   .table-left .pricing-details span.price-amount, .table-right .pricing-details span.price-amount {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 36px;
     font-weight: 600;
     color: #333333;
     margin: 0;
+    > div{
+      display: inline-block;
+    }
   }
   .table-left .pricing-details span.price-amount .symbol, .table-right .pricing-details span.price-amount .symbol {
     display: inline-block;
@@ -1423,7 +1428,7 @@ body {
   .table-left .pricing-details span.price-period, .table-right .pricing-details span.price-period {
     display: inline-block;
     font-size: 14px;
-    margin-left: 10px;
+    margin-left: 8px;
     font-weight: 500;
     color: #999;
   }
@@ -3450,7 +3455,7 @@ body {
     padding-bottom: 40px;
     .banner-bg{
       position: absolute;
-      right: -80px;
+      right: -135px;
       top: -90px;
       @media (min-width: 1200px) {
         right: -400px;
