@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Modal from 'react-awesome-modal'
-import { FaTimesCircle, FaWeight } from 'react-icons/fa'
+import {FaWindowClose } from 'react-icons/fa'
 
 export default class Popup extends Component {
   constructor(props) {
@@ -25,14 +25,24 @@ export default class Popup extends Component {
   render() {
     // const properties = props
     return (
-      <>
-        <Modal visible={this.props.visible} effect="fadeInUp">
+      <div style={{display:'flex',flexDirection:'column'}}>
+      <Modal visible={this.props.visible} effect="fadeInUp">
+        <a 
+        href="#"
+        onClick={this.props.onClickAway} 
+
+        style={{
+          float: 'right',
+          paddingRight:'10px',
+         }}
+      >
+        <FaWindowClose/>
+        </a>
           <div className="text-center" style={{padding:'50px',fontWeight:'bold'}}>
-            <a onClick={this.props.onClickAway} style={{float:'right'}}><FaTimesCircle/></a>
             {this.props.children}
           </div>
         </Modal>
-      </>
+        </div>
     )
   }
 }

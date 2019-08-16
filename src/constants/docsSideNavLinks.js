@@ -21,6 +21,16 @@ const SIDENAV_LINKS = [
         ],
         BUTTON_LINK: '/docs/woocommerce/install-retainful-plugin-for-woocommerce',
     },
+    {
+        TITLE: 'Shopify',
+        LINKS: [
+              {URL: '/docs/shopify/introduction', TEXTNODE: 'Introduction'},
+              {URL: '/docs/shopify/installation', TEXTNODE: 'Installation'},
+              {URL: '/docs/shopify/overview', TEXTNODE: 'overview'},
+              {URL: '/docs/shopify/setting-up-an-abandoned-cart-email-sequence', TEXTNODE: 'Setting up an abandoned cart email sequence'},
+        ],
+        BUTTON_LINK: '/docs/shopify/introduction',
+    },
 ];
 
 export default SIDENAV_LINKS;
