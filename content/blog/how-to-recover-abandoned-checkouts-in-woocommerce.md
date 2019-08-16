@@ -312,6 +312,8 @@ Recover abandoned cart WooCommerce plugin, Retainful, can be downloaded for FREE
 
 To make things easier and more understandable, the whole process of dealing with abandoned checkouts with Retainful for WooCommerce by sending emails can be broadly divided into four sections.
 
+-  Installation
+
 -   Checking for abandoned carts
     
 -   Configuration
@@ -341,17 +343,10 @@ ___
 ___
 
 Then, upload the plugin and activate it on your WordPress website.
-Data is prime when it comes to email marketing and it is the same for abandoned cart recovery too. Before devising a strategic plan to recover the WooCommerce abandoned carts, one must know the exact number and the potential revenue lost in addition to other related data.
-The data is essential to knock at the doors of customers again and will give an insight into the gravity of the situation.
-But where will you find it? Retainful has the answer to it.
 
 Data is prime when it comes to email marketing and it is the same for abandoned cart recovery too. Before devising a strategic plan to recover the WooCommerce abandoned carts, one must know the exact number and the potential revenue lost in addition to other related data.
 
-  
-
 The data is essential to knock at the doors of customers again and will give an insight into the gravity of the situation.
-
-  
 
 But where will you find it? Retainful has the answer to it.
 
@@ -775,7 +770,7 @@ With this, it can be concluded that the sequences vary a lot depending on the bu
 
 Do you think you are done with the abandoned cart recovery process? If so, this is just for the time being. More carts to be abandoned are on the way and the best way to know about them is to keep yourself informed.
 
-## Monitoring
+### Monitoring
 
 How do you know that carts have been abandoned and some have been recovered?
 
