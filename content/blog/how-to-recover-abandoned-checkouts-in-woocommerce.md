@@ -325,7 +325,20 @@ To make things easier and more understandable, the whole process of dealing with
 
 ----------
 
-  
+### Installation
+
+<link-text url="https://www.retainful.com/product/features/woocommerce" rel="noopener" target="_blank">Download</link-text> the recover abandoned cart WooCommerce plugin, Retainful, for FREE.
+On your Wordpress page, choose the Plugins tab.
+Search for Retainful plugin.
+Click ‘Install now’ to activate.
+You can also download Retainful manually from the WordPress plugin repository <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" rel="noopener nofollow" target="_blank">here.</link-text>
+
+![Retainful Dashboard](../images/how-to-recover-abandoned-checkouts-in-woocommerce/pluginSearch.png)
+
+Then, upload the plugin and activate it on your WordPress website.
+Data is prime when it comes to email marketing and it is the same for abandoned cart recovery too. Before devising a strategic plan to recover the WooCommerce abandoned carts, one must know the exact number and the potential revenue lost in addition to other related data.
+The data is essential to knock at the doors of customers again and will give an insight into the gravity of the situation.
+But where will you find it? Retainful has the answer to it.
 
 Data is prime when it comes to email marketing and it is the same for abandoned cart recovery too. Before devising a strategic plan to recover the WooCommerce abandoned carts, one must know the exact number and the potential revenue lost in addition to other related data.
 
@@ -523,19 +536,19 @@ Keep it simple for the first email. Just plain text with an enticing image - all
 
 Things to take note of in the email
 
--   The image
+-   **The image**           
  It is so colorful and welcoming. The chosen image is in sync with the subject line ‘Where have you been?’
 
--   Personalization
+-   **Personalization**             
 Personalization takes your email a notch higher because it indicates friendliness and concern. This email uses ‘Ryan’ as the customer name. When the email is automated to be sent to multiple people, {{customer_name}} - a short code can be used. This will automatically include the customer name from the cart details.
 
--   Cart details
+-   **Cart details**                
 This is just a reminder for the reader to reignite the spark to complete the checkout.
 
--   Link to cart
+-   **Link to cart**                
 The hyperlink is highlighted in contrasting color so that it gets noticed similar to a CTA.
 
--   Incentive
+-   **Incentive**               
 The email body also emphasizes on an undisclosed incentive at the checkout. This also, just like the cart recovery link, is highlighted.
 
 ![Email body](../images/how-to-recover-abandoned-checkouts-in-woocommerce/5.png)
@@ -570,22 +583,22 @@ This second email is drafted with the help of an email template available in Ret
 
 Things to take note of in the second email
 
--   Logo
+-   **Logo**                
 There is a provision in this template to include the company logo. The size can be adjusted.
 
--   Chat option    
+-   **Chat option**                 
 The availability of the live chat option will make the customer react instantly by connecting to the chat if there is any issue.
 
--   Headline
+-   **Headline**            
 The headline poses a question that sets the customer thinking It is also personalized with the short code.
 
--   Image
+-   **Image**               
 The image is that of the product in the cart with the mention of the price and the star rating. The star rating helps remind the customer of the quality of the product chosen and assures that he has made the right choice.
 
--   Incentive
+-   **Incentive**               
 An offer is always irresistible. So, give one when you want your customer to check out the abandoned carts.
 
--   CTA
+-   **CTA**             
 The CTA says ‘Grab It Now’. The text can be changed to anything that you prefer by clicking on the CTA and choosing the edit option.
 
 Now, the ‘Edit Template’ page will look like this.
@@ -613,13 +626,13 @@ Here again, a template available in the Premium version of Retainful has been us
 
 Things to note in the third email
 
--   Content
+-   **Content**             
 The content creates a sense of urgency to act fast. It also mentions the time left to save the cart.
 
--   Design
+-   **Design**              
 The design is captivating and demands attention, especially with the hues.
 
--   CTA
+-   **CTA**             
 There are two CTAs if you have noticed. One reason for 2 CTAs is convenience and the second is that it sends out a message to the customer to act fast immediately.
 
 The ‘Edit Template’ page after creating the 3 emails will look like this
@@ -638,7 +651,7 @@ Drafting cart recovery emails is an art. It is not just the content that matters
 
 The email elements that must be given prime importance are:
 
--   Subject line
+-   **Subject line**                
 A study says that 35% of people open emails based on the subject line. There are <link-text url="https://www.retainful.com/blog/13-best-subject-lines-for-abandoned-cart-email-campaigns" rel="noopener" target="_blank">different types of subject lines</link-text> like FOMO, scarcity, emoji, and many others. This has to interest the email recipient to take things forward from thereon.
 
 Eg: Did you leave something behind?
@@ -647,30 +660,30 @@ Your bottle of wine is waiting in the cart!
 
 Would you like an offer?
 
--   Product image 
+-   **Product image**               
 It is always a wise decision to include the image of the product in the cart details. This is to remind the potential buyer about the abandoned product. Pictures stay in memory than the names. 
 
--   A clear CTA
+-   **A clear CTA**             
 The CTA button must be highlighted in the cart abandonment email because ultimately, you want the reader to proceed to checkout. It should also be linked directly to the cart. If the CTA is not visible and hard to spot, the very purpose of it is lost.
 
--   Pleasing design 
+-   **Pleasing design**             
 The aesthetic aspect of an email is also a very important factor. You will never feel like going through an email that is crammed in. There must be some enough white space in the background. When there are splendid colors in there, they must blend in very well and make it visually pleasing.
 
--   Enticing copy
+-   **Enticing copy**           
 The writing in the email is sometimes overlooked at. Sometimes, writing alone has the power to recover a cart when done the right way. Use a language style that your customer base connects with very easily. You can also project the characteristics of your brand through writing.
 
--   Contact details  
+-   **Contact details**                 
 You must be around within the customer’s reach. The details of your contact must be mentioned so that the customer can get in touch in case of any issues or queries. Give a live chat option if available or display a toll-free number.
 
 Secondary elements that make an abandoned cart email more worthy of conversion are:
 
--   A discount
+-  **A discount**                
 This is what people want to be exact. This does not mean that you need to include the offer in all your WooCommerce abandoned cart emails. Adding the offer to the second email in the sequence is the best idea ever. This is a sure-fire method to get back the customer.
 
--   Product recommendations
+-   **Product recommendations**         
  You have the liberty to recommend other products in the email. They can be either complementary or products of the same category. This will ensure that the potential customer will resume shopping if he is uninterested in the abandoned product.
 
--   Social proof
+-   **Social proof**            
 People are always interested to know about product reviews and testimonials. Cart abandonment emails can be used as a platform to showcase them in order to build confidence to make a purchase.
 
 
@@ -787,13 +800,13 @@ Guest users must never be ignored because they too hold back more revenue just l
 -   Use data wisely to send out emails
 Emails work better when they are sent at a particular time and day of the week. There are various other parameters too based on which data can be collected like repeat buyers and location. Of course, this varies for different businesses. So, this must be monitored closely and the data must be put to use the right way to reap benefits.
 
--   Segment the user base
+-   **Segment the user base**           
 If you are dealing with cart recovery for the first time, it is advised to divide your user base so as to test different strategies. This saves time and will help you choose the best idea.
 
--   Think out of the box
+-   **Think out of the box**                
   Conventional ways of thinking sometimes hit a roadblock. Dare to be different to stand out from the crowd. Break the rules and go out of the way to reach out to your customer base.
 
--   Test..test...test
+-   **Test..test...test**                  
     This is the most important of all. Never mind if you are a start-up or a company with offices all over the globe, you have to keep experimenting and testing what works and what doesn’t. This is a continual process that helps uncover some mind-blowing ways to retain a customer.
  
 ## Closing thoughts…
