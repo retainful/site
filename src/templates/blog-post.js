@@ -129,9 +129,9 @@ export default function BlogPost(props) {
                                 {authorBio.bio}
                             </div>
                             <div>
-                                {authorBio.linkedin ? <Link className="p-2" to={authorBio.linkedin}><FaLinkedin/></Link>:null}
-                                {authorBio.facebook ? <Link className="p-2" to={authorBio.facebook}><FaFacebookF/></Link>:null}
-                                {authorBio.twitter ? <Link className="p-2" to={authorBio.twitter}><FaTwitter/></Link>:null}
+                                {authorBio.linkedin ? <a className="p-2" href={authorBio.linkedin}><FaLinkedin/></a>:null}
+                                {authorBio.facebook ? <a className="p-2" href={authorBio.facebook}><FaFacebookF/></a>:null}
+                                {authorBio.twitter ? <a className="p-2" href={authorBio.twitter}><FaTwitter/></a>:null}
                             </div>
                             </div>
                         </div>
