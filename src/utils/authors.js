@@ -24,12 +24,11 @@ const authors = [
     },
     {
       name: 'Vidya',
-      imageUrl: 'jane.jpg',
+      imageUrl: 'https://raw.githubusercontent.com/retainful/site-images/master/authorImages/vidhya-avatar.jpg',
       bio:
-        'Jane is a back-end developer, she specializes in security and her favourite stack is the MERN stack',
-      facebook: 'https://www.facebook.com/',
-      twitter: 'https://www.twitter.com/',
-      linkedin: 'https://www.linkedin.com/',
+        'Vidhya, a highly research-oriented content writer works for Retainful. Proficient with content writing, content marketing, digital marketing in eCommerce domains like WooCommerce and Shopify. Helps translate data-driven research into a tailor-made marketable content.',
+      twitter: 'https://twitter.com/VidhyaV7',
+      linkedin:'https://www.linkedin.com/in/vidhya-v-23272317a/',
     },
   ]
   
