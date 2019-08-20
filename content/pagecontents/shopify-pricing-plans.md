@@ -5,7 +5,7 @@ path: "/shopify-pricing-plans"
 
 <row>
 
-<plan size="3" className="offset-md-1">
+<plan size="4">
 
 <div slot="plan-title">
 Free Forever
@@ -42,7 +42,7 @@ $ 0
 
 </plan>
 
-<plan size="3" className="featured" className="offset-md-1">
+<plan size="4" className="featured">
 
 <div slot="plan-title">
 Pro
@@ -73,7 +73,7 @@ $ 9.99
 
 </plan>
 
-<plan size="3" >
+<plan size="4" >
 
 <div slot="plan-title">
 Business
