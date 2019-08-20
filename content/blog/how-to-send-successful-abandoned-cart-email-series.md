@@ -19,7 +19,7 @@ One of the promising places where you can start marketing is where cart abandonm
 
 Now comes the question, “Why people add products to their cart and why abandon the same? And how do we recover abandoned carts?”
 
-So the answer to this is, by sending recovery emails using <link-text url="https://www.retainful.com/product/features/shopify"   rel="noopener" target="_blank">abandoned cart recovery email plugins</link-text>. I am suggesting to use one because cart recovery plugins not just enables you to send recovery emails, but assists you to draft a successful email, evaluate the success rate and also automate them to be triggered at regular time intervals.
+So the answer to this is, by sending recovery emails using <link-text url="https://www.retainful.com/product/features/shopify" rel="noopener" target="_blank">abandoned cart recovery email plugins</link-text>. I am suggesting to use one because cart recovery plugins not just enables you to send recovery emails, but assists you to draft a successful email, evaluate the success rate and also automate them to be triggered at regular time intervals.
 
 Now let us discuss the most successful abandoned cart recovery process. What makes it successful? The need to emphasize on factors like email series, successful templates and much more in an elaborate manner.
 
@@ -171,6 +171,7 @@ Most importantly, see to it that the following factors are covered in your cart 
 
 ### 1st Email template
 <br>
+
 ![1st Email template](../images/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-1.png)
 
 **Sending day:** A few hours post cart abandonment or on the day of cart abandonment.
