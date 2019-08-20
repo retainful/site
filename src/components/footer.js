@@ -55,7 +55,7 @@ export default function Footer() {
                                 <Link to="/support">Support</Link>
                             </li>
                             <li>
-                                <Link to="/support">Contact Us</Link>
+                                <Link to="/contact">Contact Us</Link>
                             </li>
                             <li>
                                 <Link to="/partner-program">Partner Program</Link>
