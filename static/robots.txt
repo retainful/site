@@ -10,10 +10,6 @@ Disallow: /go/
 Disallow: /tag/
 Disallow: /author/
 Disallow: /category/
-Disallow: /blog/2
-Disallow: /blog/3
-Disallow: /blog/4
-Disallow: /blog/5
 Disallow: ?comments=*
 Disallow: /search?
 Disallow: /thanks
