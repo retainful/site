@@ -5,7 +5,7 @@ path: "/shopify-pricing-plans"
 
 <row>
 
-<plan size="5" className="offset-md-1">
+<plan size="4">
 
 <div slot="plan-title">
 Free Forever
@@ -23,7 +23,8 @@ $ 0
 
 <div slot="plan-features">
 
-* 1000 Cart recovery emails per month
+* Up to 100 Cart recovery emails per month
+* Up to 100 monthly orders with next purchase coupons
 * Drip / Sequential Emails
 * Single Click Cart Recovery
 * Incentivize with coupons
@@ -34,25 +35,25 @@ $ 0
 * All Store Notification Emails
 * Coupons for Next Purchase
 * Beautiful, responsive email templates
-* Up to 100 monthly orders (next purchase coupons)
+
 * Standard support
 
 </div>
 
 </plan>
 
-<plan size="5" className="featured">
+<plan size="4" className="featured">
 
 <div slot="plan-title">
 Pro
 </div>
 
 <div slot="plan-price">
-$ 69
+$ 9.99
 </div>
 
 <div slot="plan-period">
-/ year
+/ month
 </div>
 
 <div slot="plan-button">
@@ -66,7 +67,38 @@ $ 69
 * **Everything in Free +**
 * Unlimited Cart Recovery Emails
 * Unlimited Next Purchase Coupons
-* Priority Support
+* Priority Email Support
+
+</div>
+
+</plan>
+
+<plan size="4" >
+
+<div slot="plan-title">
+Business
+</div>
+
+<div slot="plan-price">
+$ 29
+</div>
+
+<div slot="plan-period">
+/ month
+</div>
+
+<div slot="plan-button">
+
+<a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Get Started Free</a>
+
+</div>
+
+<div slot="plan-features">
+
+* **Everything in PRO +**
+* Dedicated Onboard Specialist
+* Priority Email Support
+* Live Chat Support
 
 </div>
 
