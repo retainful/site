@@ -71,8 +71,6 @@ export default function BlogPost(props) {
     const {prev, next} = props.pageContext;
     const toc = props.data.markdownRemark.tableOfContents;
     const authorBio = authors.find(x => x.name === props.data.markdownRemark.frontmatter.author)
-
-    {console.log(authorBio)}
  
     return (
         <Layout>

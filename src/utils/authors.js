@@ -5,7 +5,8 @@ const authors = [
       bio:
         'Sharon Thomas is a content marketer and eCommerce growth hacker with specialization in email marketing, abandoned cart recovery, customer retention, and WooCommerce & Shopify plugins. She also has experience in creating content for education, hospitality, beauty, pregnancy & parenting, and other niches.',
       linkedin: 'https://www.linkedin.com/in/sharon-thomas-680475152',
-    },{
+    },
+    {
       name: 'Deepika',
       imageUrl: 'jane.jpg',
       bio:
