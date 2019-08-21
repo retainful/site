@@ -1,5 +1,7 @@
 // Gatsby uses weird config stuff
 require('dotenv').config()
+const jwt = require('jsonwebtoken')
+const privateKey = process.env.PRIVATE_KEY_FOR_JWT;
 
 // Connect to our Mailgun API wrapper and instantiate it 
 const mailgun = require('mailgun-js')
@@ -20,17 +22,29 @@ const headers = {
 exports.handler = function(event, context, callback) {
   let data = JSON.parse(event.body)
 
-  console.log(data)
+  let { name, subject, message, error, token } = data
 
-
-  let { name, subject, message, error } = data
-
+try{
+  var decoded = jwt.verify(data.token,privateKey);
+  
   let errorMessage = null;
 
   if (!data) {
       errorMessage = "No form data supplied";
       console.log(errorMessage);
       callback(errorMessage);
+  }
+
+  if(!decoded){
+    errorMessage = "Token Mismatch"
+    console.log(errorMessage);
+    callback(errorMessage);
+  }
+
+  if(!data.token){
+    errorMessage = "Something Failed";
+    console.log(errorMessage);
+    callback(errorMessage);
   }
 
   if (!data.name) {
@@ -45,7 +59,7 @@ exports.handler = function(event, context, callback) {
       console.log(errorMessage);
       callback(errorMessage);
   }
-  
+
   if (!data.message) {
       errorMessage = "No MESSAGE supplied";
       console.log(errorMessage);
@@ -91,5 +105,12 @@ else{
       })
     }
   })
+}
+}
+
+catch(error){
+  errorMessage = "Something Failed";
+  console.log(errorMessage);
+  callback(errorMessage);
 }
 }
