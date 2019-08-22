@@ -22,7 +22,7 @@ const headers = {
 exports.handler = function(event, context, callback) {
   let data = JSON.parse(event.body)
 
-  let { name, subject, message, error, token } = data
+  let {name, subject, message, error, token } = data
 
 try{
   var decoded = jwt.verify(data.token,privateKey);
@@ -68,7 +68,6 @@ try{
 
 if (errorMessage){
     console.log("No Message Sent as " + errorMessage);
-    // callback("No Message Sent as " + errorMessage);
     callback(null, {
       customErrorCode,
       headers,
@@ -80,7 +79,6 @@ else{
   let mailOptions = {
     from: `${name} <${process.env.MY_FEEDBACK_EMAIL_ADDRESS}>`,
     to: process.env.MY_EMAIL_ADDRESS,
-    replyTo: process.env.MY_FEEDBACK_EMAIL_ADDRESS,
     subject: `${subject}`,
     text: `${message}`,
   }
@@ -94,7 +92,7 @@ else{
       callback(null, {
         errorCode,
         headers,
-        body: JSON.stringify(error),
+        body: JSON.stringify("Message Not Hit Api" + error),
       })
     } else {
       console.log(body)
