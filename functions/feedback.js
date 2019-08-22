@@ -79,9 +79,13 @@ else{
   let mailOptions = {
     from: `${name} <${process.env.MY_FEEDBACK_EMAIL_ADDRESS}>`,
     to: process.env.MY_EMAIL_ADDRESS,
+    replyTo: process.env.MY_FEEDBACK_EMAIL_ADDRESS,
     subject: `${subject}`,
     text: `${message}`,
   }
+
+
+  console.log(mailOptions);
   
   // It's really as simple as this, 
   // directly from the Mailgun dashboard
