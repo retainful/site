@@ -26,7 +26,7 @@ const SIDENAV_LINKS = [
         LINKS: [
               {URL: '/docs/shopify/introduction', TEXTNODE: 'Introduction'},
               {URL: '/docs/shopify/installation', TEXTNODE: 'Installation'},
-              {URL: '/docs/shopify/overview', TEXTNODE: 'overview'},
+              {URL: '/docs/shopify/overview', TEXTNODE: 'Introduction to Retainful dashboard'},
               {URL: '/docs/shopify/setting-up-an-abandoned-cart-email-sequence', TEXTNODE: 'Setting up an abandoned cart email sequence'},
         ],
         BUTTON_LINK: '/docs/shopify/introduction',

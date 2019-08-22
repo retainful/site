@@ -29,13 +29,13 @@ Entice inactive users by adding a personal touch. Now you could add cart recover
 Recognise user behaviour with the help of analytics and reports and optimize conversion. With the analytics and reports, you get a 360 degree view on the user behaviour which helps you draft your retention strategies.
 
 - **Boost Repeat sales**
-Make your customers feel special by sending automated next order coupons within the order notification emails. Invite users to come back and purchase more.
+Make your customers feel special by sending <highlight>automated next order coupons</highlight> within the order notification emails. Invite users to come back and purchase more.
 
 - **Drag and Drop Visual Email Builder**
 Create well-crafted emails on-the-fly with the drag and drop email builder. Time saver,  ain't it?
 
 -**Customise store emails**
-One common issue that you might face with emails is the responsiveness of the email across all mail clients and all type of devices. Make sure that you send responsive, neatly-aligned customer emails using the templates that Retainful offers. Add some magic to the default store emails with the in-built store email templates. 
+One common issue that you might face with emails is the responsiveness of the email across all mail clients and all type of devices. Make sure that you send <highlight>responsive, neatly-aligned customer emails</highlight> using the templates that Retainful offers. Add some magic to the default store emails with the in-built store email templates. 
 
 -**Priority support**
 We have got your back. Receive a world-class priority support from our customer success team.
@@ -43,5 +43,5 @@ We have got your back. Receive a world-class priority support from our customer 
 
 ### What's next
 
-Get connected to Retainful within minutes.
+Get connected to Retainful within minutes by clicking <link-text url="https://www.retainful.com/docs/shopify/installation" target="_blank" rel="noopener">here</link-text>
 
