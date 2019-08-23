@@ -50,7 +50,7 @@ $ 69
 
 <div slot="plan-button">
 
-<a className="btn-action btn-lg" href="https://app.retainful.com/checkout/pro" target="_blank" rel="noopener noreferrer"> Get Started Free</a>
+<a className="btn-action btn-lg" href="https://app.retainful.com/checkout/pro" target="_blank" rel="noopener noreferrer"> Buy Now</a>
 
 </div>
 
@@ -86,7 +86,7 @@ $ 99
 
 <div slot="plan-button">
  
-<a className="btn-action btn-lg" href="https://app.retainful.com/checkout/business" target="_blank" rel="noopener noreferrer"> Get Started Free</a>
+<a className="btn-action btn-lg" href="https://app.retainful.com/checkout/business" target="_blank" rel="noopener noreferrer"> Buy Now</a>
 
 </div>
 
