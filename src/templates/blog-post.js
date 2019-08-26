@@ -115,21 +115,15 @@ export default function BlogPost(props) {
                     </div>
                     <hr/>
                     <div>
-                    <h5>Author Bio</h5>
+                    <h5  className="text-center" style={{textDecoration:'underline'}}>Author Bio</h5>
                     <br/>
-                        <div className="row">
-                            <div className="col-md-3">
+                        <div className="row align-items-center">
+                            <div className="col-md-3 text-center">
                                 <img className="img-author" style={{maxWidth: '150px',height: '150px',borderRadius:'100%'}} src={authorBio.imageUrl}/>
-                                <p><strong>{author}</strong></p>
                             </div>
                             <div className="col-md-9">
                             <div>
-                                {authorBio.bio}
-                            </div>
-                            <div>
-                                {authorBio.linkedin ? <a className="p-2" href={authorBio.linkedin}><FaLinkedin/></a>:null}
-                                {authorBio.facebook ? <a className="p-2" href={authorBio.facebook}><FaFacebookF/></a>:null}
-                                {authorBio.twitter ? <a className="p-2" href={authorBio.twitter}><FaTwitter/></a>:null}
+                                <strong>{authorBio.name}</strong>{" "}{authorBio.bio}
                             </div>
                             </div>
                         </div>
