@@ -7,6 +7,7 @@ author: "Sowbagya lakshmi"
 tags: ["shopify", "abandoned cart recovery", "retainful"]
 category: shopify
 ---
+
 ### **What is an abandoned cart email?**
 
 An abandoned cart email is a reminder or follow-up email sent to prospective users who have added products to their cart but left the store without completing their purchase.
