@@ -57,6 +57,7 @@ Before we hop on to the email configuration, let us look at the pre-requisite pa
 4) On the right corner, mention the From name, From address and the Reply to address as indicated below:
 
 ![Email configuration](../../images/docs/shopify/setting-up-an-ab-cart-email-sequence/email-config.png)
+
 NOTE: If you have not mentioned any from email, to email in the above fields, then Retainful would use the Email address used associated with your Retainful account.
 
 ### Email sequence scenario
@@ -120,11 +121,14 @@ Let us assume the following scenario:
 #### Steps to be followed
 1) We already have the first 3 email templates as part of the default email template series.
 2) Now, let us use the **Add email** option at the bottom of the Abandoned cart email templates section to create as many templates as we wish.
+
 ![Add emails](../../images/docs/shopify/setting-up-an-ab-cart-email-sequence/add-email-button.png)
 
-3) Once you click on the Add email button, a pop up would show up where you could choose the email template for the email template that you are now going to create and view a preview of the email template.
+
+1) Once you click on the Add email button, a pop up would show up where you could choose the email template for the email template that you are now going to create and view a preview of the email template.
 
 ![Preview and use template](../../images/docs/shopify/setting-up-an-ab-cart-email-sequence/preview-use-popup.png)
+
 
 4) Once you click on the **Use** button, you will be redirected to a page where you would be able to mention the time frame and subject line of the email. If you wish, you could make additional email layout customisations as well.
 
@@ -133,6 +137,7 @@ Let us assume the following scenario:
 5) Repeat the same process for the email template that should be sent after a week.
 
 ![1 week email template](../../images/docs/shopify/setting-up-an-ab-cart-email-sequence/1week-email-template.png)
+
 6) Now the email sequence would look as follows:
 
 ![New email sequence](../../images/docs/shopify/setting-up-an-ab-cart-email-sequence/new-email-sequence.png)
@@ -166,7 +171,9 @@ This section offers a bit more information about the abandonments and conversion
 4) Items in the cart
 5) Additional filters to sort and refine the data
 
+
 ![More view](../../images/docs/shopify/setting-up-an-ab-cart-email-sequence/more-analysis.png)
+
 While clicking on the view icon, the user's cart information pops up like this:
 
 ![Cart information](../../images/docs/shopify/setting-up-an-ab-cart-email-sequence/cart-info.png)
