@@ -1,7 +1,7 @@
 ---
 title : "How to send successful abandoned cart email series - Shopify"
 path : "/blog/how-to-send-successful-abandoned-cart-email-series"
-date: "2019-06-24"
+date: "2019-08-24"
 author: "Vidya"
 keywords: "shopify abandoned cart , shopify abandoned cart email, abandoned cart email shopify ,shopify shopping cart, reduce website abandonment, shopify best abandoned cart emails"
 description :  "Abandoned shopping carts are the most common caveats faced by Shopify stores. You can convert them into revenue using abandoned cart recovery plugins. Emails that are carefully-designed and well-timed, can promisingly recover abandoned carts."
@@ -9,6 +9,7 @@ image: "../images/how-to-send-successful-abandoned-cart-email-series/How-to-send
 thumbnail: "../images/how-to-send-successful-abandoned-cart-email-series/How-to-send-successful--Abandoned-cart-email-sequence-for-shopify.png"
 category: "shopify"
 ---
+
 Seven out of ten customers do abandon their shopping carts after adding products to it!
 
 Abandoned cart holds potential revenue in a dormant state. And you have to take the initiative and necessary steps to convert the dormant revenue into active ones.
