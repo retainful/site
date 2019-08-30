@@ -596,7 +596,7 @@ The headline poses a question that sets the customer thinking It is also persona
 The image is that of the product in the cart with the mention of the price and the star rating. The star rating helps remind the customer of the quality of the product chosen and assures that he has made the right choice.
 
 -   **Incentive**               
-An offer is always irresistible. So, give one when you want your customer to check out the abandoned carts.
+An offer is always irresistible. So, give one when you want your customer to <link-text url="http://blogcd.com/how-to-check-cart-abandonment-in-woocommerce/" rel="noopener" target="_blank">check out the abandoned carts.</link-text>
 
 -   **CTA**             
 The CTA says ‘Grab It Now’. The text can be changed to anything that you prefer by clicking on the CTA and choosing the edit option.
