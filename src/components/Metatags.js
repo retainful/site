@@ -68,7 +68,7 @@ const getSchemaOrgJSONLD = ({
   const authorName = props.author;
   const sitename = props.sitename;
   const keywords = props.keywords;
-
+  
   const schemaOrgJSONLD = getSchemaOrgJSONLD({
     url,
     title,
@@ -102,6 +102,10 @@ const getSchemaOrgJSONLD = ({
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />
+
+      {/*FB page/App  Integrations*/}
+      <meta property="fb:app_id" content="509777803167725" />
+      <meta property="fb:pages" content="880736582317208" />
 
       {/* Twitter Card tags */}
       <meta name="twitter:card" content="summary_large_image" />
