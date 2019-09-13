@@ -358,7 +358,7 @@ ___
 ![Loox](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Loox-Photo-Reviews.png)
 
 
-Loox is the best Shopify app meant to display social proofs. Over 40,000 Shopify merchants have used this to date and so many can’t go wrong.
+Loox is the best Shopify app meant to <link-text url="https://www.flycart.org/blog/wordpress/social-proof-role-in-ecommerce-conversion" rel="noopener" target="_blank">display social proofs.</link-text> Over 40,000 Shopify merchants have used this to date and so many can’t go wrong.
 
 Visuals create a greater impact and get the customers more interested in buying.
 
