@@ -52,7 +52,7 @@ This is one main reason why Privy has so many reviews and a 4.7 star rating. The
 
 Build an email list using popup campaign
 
-Privy is popular for list building with the help of popups that can be customized to any extent. In addition, it also offers overlays, banners, flyouts, embedded forms, and spin to win wheel. All of them are for the same purpose - to capture emails.
+Privy is popular for <link-text url="https://www.uberpopups.com/blog/10-popup-hacks-to-build-your-email-list" rel="noopner" target="_blank">list building with the help of popups</link-text> that can be customized to any extent. In addition, it also offers overlays, banners, flyouts, embedded forms, and spin to win wheel. All of them are for the same purpose - to capture emails.
 
 Send out automated emails
 
