@@ -35,6 +35,8 @@ You will be introduced to Shopify plugins that belong to the following category.
 
 ___
 
+<toc></toc>
+
 ## **Email Marketing**
 
 ### Privy
