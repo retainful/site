@@ -1,6 +1,6 @@
 ---
 title : "How to Use Humor in Abandoned Cart Recovery Emails"
-path : "how-to-use-humor-in-abandoned-cart-recovery-emails"
+path : "/blog/how-to-use-humor-in-abandoned-cart-recovery-emails"
 date: "2019-09-06"
 keywords: "shopify abandoned cart , shopify abandoned cart email, abandoned cart email shopify ,shopify shopping cart,shopify best abandoned cart emails"
 description : "Want abandoned cart visitors to return? Halt you boring abandoned cart recovery emails. Freshen them up with a dash of humor using these 8 methods."
@@ -23,6 +23,8 @@ You visualize as you read and are able to decipher the humor involved. The thoug
 Hence proven.
 
 Using humor in marketing will have a lasting impact on the minds of the people.
+
+<toc></toc>
 
 ## A brand that nailed humor in marketing…
 
@@ -287,9 +289,13 @@ If nothing works, the last and final resort is to add a funny video to the aband
 
 The video must be as short as possible so that the customer resorts more time to complete the purchase. Here is an example from Barkbox. <link-text url="https://www.mailcharts.com/email-examples/671/cart-abandonment/d804e5e4-7a67-3fad-4f89-f9d87df5ca85" rel="noopener nofollow"  target="_blank">Click on this link</link-text> to see the video in motion.
 
+<br>
 
-![Connect to a real-life situation](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/barkbox.png)
+<div class="d-flex justify-content-center">
 
+![Connect to a real-life situation](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/use-humour-in-abandoned-cart-emails.gif)
+
+</div>
 
 The puppy can’t wait to have his share of treats for the month. Wouldn’t you buy the box when you come across a sight like this?
 
