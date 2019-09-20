@@ -38,7 +38,7 @@ const BlogPage = ({ pageContext,props}) => {
                             <div className="content-section">
                                 <h3><Link to={(post.node.fields.slug).replace(/\/$/, "")}>{post.node.frontmatter.title}</Link></h3>
                                 <p>
-                                    <small>
+                                    <small style={{textTransform:'lowercase'}}>
                                         Posted by {post.node.frontmatter.author} on {post.node.frontmatter.date}
                                         {post.node.frontmatter.category &&
                                         <span className="category-name">
