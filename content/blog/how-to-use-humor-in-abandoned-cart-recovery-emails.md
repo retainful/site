@@ -9,8 +9,6 @@ thumbnail: "../images/how-to-use-humor-in-abandoned-cart-recovery-emails/how-to-
 author: "Sharon Thomas"
 ---
 
-
-
 Two scenarios are presented here.
 
 -   A student with a laptop, a table lamp, and a cup of coffee.
@@ -28,6 +26,8 @@ Using humor in marketing will have a lasting impact on the minds of the people.
 
 ## A brand that nailed humor in marketing…
 
+<br>
+
 DSC - Dollar Shave Club is out-of-the-world when it comes to using humor in marketing.
 
 Michael Dubin, the Founder said in an interview to The Brave Ones, “I have always been a passionate student of comedy and writing and I still am today.”
@@ -37,8 +37,11 @@ Michael studied improv comedy while in his teens and it has helped him immensely
 Check out this viral campaign for DSC.
 
 
+<br>
+
 <videoembed src="ZUG9qYTJMsI"></videoembed>
 
+<br>
 
 ‘Our Blades Are F***ing Great’. This phrase is what made it popular. When others refrained from using it, Michael used it sensibly.
 
@@ -55,6 +58,8 @@ But before that..
 Some aspects need to be addressed before you take the plunge.
 
 ## Is humor right for your brand?
+
+<br>
 
 This is an example quoted by Matt Maggiacomo in one of his articles about <link-text url="https://jilt.com/blog/humor-email-marketing/" rel="noopener nofollow" target="_blank">using humor in email marketing.
 </link-text>
@@ -80,15 +85,24 @@ Bring about a big change to your brand.
 
 A red signal - Take a detour and do what you are best at. Humor is not the only savior.
 
+<br>
+
 <download-cta url="https://app.retainful.com/register/" rel="noopener" target="_blank" buttontext="Try it Free">Start recovering abandoned carts & drive repeat sales.
 </download-cta>
 
 
+<br>
+
+
 ## Ways to use humor in abandoned cart recovery emails
+
+<br>
 
 This section is about 8 methods in which humor can be implemented practically into an abandoned cart email for Shopify or WooCommerce. Dive in.
 
 ### Start with the subject line
+
+<br>
 
 Are you on the hunt for <link-text url="https://www.retainful.com/blog/13-best-subject-lines-for-abandoned-cart-email-campaigns" rel="noopener" target="_blank">engaging subject lines
 </link-text> Then, adding humor is the way to go.
@@ -112,6 +126,8 @@ Oh boy! Your cart is running away.
 
 
 ### Weave a story
+
+<br>
 
 Most people love to read. Probably, that is why you are doing it now. The elements that get a reader glued are many but there is one basic rule to abide by for a <link-text url="https://www.campaignrabbit.com/blog/7-abandoned-cart-recovery-email-ideas-for-shopify-and-woocommerce" rel="noopener" target="_blank">Shopify abandoned cart email.
 </link-text>
@@ -168,6 +184,8 @@ Is this even possible? Well, maybe but the probability is one in a million.
 
 
 ### Use a mascot
+
+<br>
 
 The words ‘Disney’ and ‘Mickey Mouse’ are inseparable. With the mention of one, the other rushes into your mind. That is the power of advertising with a mascot.
 
@@ -251,6 +269,8 @@ Chubbies themselves feel that  <link-text url="https://www.campaignrabbit.com/do
 
 ### Give out suggestions to use abandoned products
 
+<br>
+
 ![Give out suggestions to use abandoned products](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/whisky-loot-content.png)
 
 A normal suggestion for a bottle of whisky goes like this - Use them at a party and other auspicious occasions. Let your guests feel kingly.
@@ -262,6 +282,7 @@ This is what Whisky Loot has done in this abandoned cart email. They have listed
 With this email, Whisky Loot has also marketed the product pretty well by saying ‘Travel to Scotland (in your mouth)’. It is a way of saying that the whisky is of Scottish taste and this makes the buy a compelling one.
 
 ### Connect to a real-life situation
+
 
 Real-life situations are easy to relate for anybody, no matter what. Use them to compare with the process of cart abandonment or recovery.
 
@@ -279,6 +300,7 @@ Don’t put this off like a software update. - (Rudy’s)
 
 The human characteristic of procrastination is targeted in the above sentence and there is no better example than a software update. This sentence is used as the header in an abandoned cart recovery email by Rudy’s. You will never forget to laugh here.
 
+<br>
 
 ![Connect to a real-life situation](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/rudy.png)
 
@@ -301,6 +323,7 @@ The puppy can’t wait to have his share of treats for the month. Wouldn’t you
 
 
 ## To summarize…
+
 
 Humor demands creativity, thinking wild, and out-of-the-box.
 
