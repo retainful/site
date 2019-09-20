@@ -21,6 +21,8 @@ import TableOfContents from "../components/TableOfContents"
 import Cta from "../components/cta"
 import CtaBox from '../components/ctabox'
 import authors from '../utils/authors'
+import DownloadPluginCTA from "../components/downloadplugincta"
+import Videoembed from "../components/videoembed"
 import { FaFacebookF, FaTwitter,FaLinkedin} from 'react-icons/fa'
 
 
@@ -57,7 +59,9 @@ const renderAst = toc => new rehypeReact({
         column: Col,
         toc : props => (<TableOfContents toc={toc} {...props}></TableOfContents>),
         cta:Cta,
-        "cta-box":CtaBox
+        "cta-box":CtaBox,
+        "download-cta":DownloadPluginCTA,
+        videoembed:Videoembed,
     },
 }).Compiler
 
