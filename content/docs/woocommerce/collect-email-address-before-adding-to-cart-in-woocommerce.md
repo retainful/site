@@ -7,7 +7,7 @@ tags: ["woocommerce", "abandoned-cart-recovery-emails", "email-collection-popup"
 category: woocommerce
 ---
 
- An import requirement to recover abandoned cart is the email address of the prospective customer.
+ An important requirement to recover abandoned cart is the email address of the prospective customer.
 
 As you have noticed, someone might add an item to cart. But if they leave  your site without purchasing the item, then you left with no way of reaching him or her.
 
@@ -25,6 +25,8 @@ The **Add to cart popup** premium add-on offers 2 awesome features
 
 - An Email Collection popup (triggered at the time of adding an item to cart)
 - Coupon code to incentivize the customer to give their email address
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/7a064bb6865942fb943a991709162e2e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### 1. Setting up Email Collection
 

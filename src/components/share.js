@@ -1,33 +1,43 @@
 import React from 'react'
 import twitterIcon from '../images/twitter.png'
 import fbIcon from '../images/facebook.png'
-import './share.css'
+// import './share.css'
+import { FaFacebookF, FaTwitter} from 'react-icons/fa'
+import $ from "jquery";
 
-const Share = props => {
+class Share extends React.Component{
+    componentDidMount () {
+        $(window).scroll(function () {
+            if ($(window).scrollTop() > 300) {
+                $('.blog-post-share-block').addClass('affix');
+            } else {
+                $('.blog-post-share-block').removeClass('affix');
+            }
+        })
+    }
+    render() {
+        const twitter = `https://twitter.com/intent/tweet?url=${this.props.url +
+        this.props.pathname}&text=${this.props.title}`;
 
-    const twitter = `https://twitter.com/intent/tweet?url=${props.url +
-    props.pathname}&text=${props.title}`;
-
-    const fb = `https://www.facebook.com/sharer/sharer.php?u=${props.url +
-    props.pathname}`;
-
-    return (
-        <div>
-            <h4 className="center">Share</h4>
-            <ul className="social">
-                <li>
-                    <a href={fb} target="blank">
-                        <img src={fbIcon} alt="facebook" />
-                    </a>
-                </li>
-                <li>
-                    <a href={twitter} target="blank">
-                        <img src={twitterIcon} alt="twitter" />
-                    </a>
-                </li>
-            </ul>
-        </div>
-    )
+        const fb = `https://www.facebook.com/sharer/sharer.php?u=${this.props.url +
+        this.props.pathname}`;
+        return(
+            <div className="blog-post-share-block">
+                <ul className="social">
+                    <li>
+                        <a href={twitter} target="blank">
+                            <FaTwitter size="25" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href={fb} target="blank">
+                            <FaFacebookF size="25" />
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        )
+    }
 }
 
 export default Share;

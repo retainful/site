@@ -54,6 +54,11 @@ typings/
 # dotenv environment variables file
 .env
 
+#lambda test files
+
+./lambda
+lambda
+
 # gatsby files
 .cache/
 public
@@ -73,3 +78,4 @@ yarn-error.log
 package.json
 package-lock.json
 .vscode/launch.json
+plans.md

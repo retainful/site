@@ -6,7 +6,6 @@ date: "2019-01-18"
 author: "Siddharth"
 image: "../images/the-simple-way-to-retain-all-your-customers.jpg"
 thumbnail: "../images/the-simple-way-to-retain-all-your-customers.jpg"
-tags: ['javascript','react','gatsby']
 category: 'woocommerce'
 ---
 
@@ -49,6 +48,8 @@ So, when was the last time you got an awful surprise?
 Doesn't matter, Coz’ here’s one.
 
 The tool is completely FREE.
+
+<toc></toc>
 
 ## Retainful- The FREE conversion tool for WooCommerce and Shopify
 

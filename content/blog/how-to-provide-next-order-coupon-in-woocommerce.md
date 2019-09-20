@@ -9,6 +9,8 @@ thumbnail: "../images/How-to-provide-Next-order-coupon-in-WooCommerce/How-to-pro
 category: 'woocommerce'
 ---
 
+<toc></toc>
+
 ## Next Order Coupon and Customer Retention
 
 *<underline>Quick Start</underline>- Customer retention saves 5 times more than the cost to acquire a new customer*
