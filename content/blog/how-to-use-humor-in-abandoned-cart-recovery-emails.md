@@ -112,7 +112,7 @@ Subject lines with humor stand apart from the others if done right. <link-text u
 
 Take a look at some examples.
 
-Lemme Teleport You Back To Your Cart. Free Of Charge. - Chubbies
+Lemme Teleport You Back To Your Cart. Free Of Charge. - _Chubbies_
 
 Do-be-do-be-do….Don’t keep you puppy waiting for his treats.
 
@@ -136,6 +136,8 @@ Use a conversational tone. Period.
 
 And conversational writing is made even more interesting when in the form of a story. Here is an example.
 
+<div class="p-2" style="border:2px solid #000">
+
 **Conversational tone**
 
 Where were you all this while?
@@ -150,6 +152,8 @@ You disappeared.
 
 We’re genuinely concerned you were whisked away by a large bird with strong talons and now flying somewhere over the Andes. Or maybe stolen by a clown circus. Or you found a wormhole in your closed and are now in an alternate space and time. Or you took the red pill.
 
+
+</div>
 
 Interesting, right? You did have a hearty laugh. The credit goes to the team from Threadless. The complete email is given below.
 
@@ -171,7 +175,7 @@ Take a look at this abandoned cart email from Ray-Ban which tells a story that i
 
 Did you notice the copy?
 
-Pry yourself loose, whack that bear in the nose (they hate that) and head back to Ray-Ban!
+_Pry yourself loose, whack that bear in the nose (they hate that) and head back to Ray-Ban!_
 
 
 That is hilarious!
@@ -201,7 +205,7 @@ Here is Chuck, the mascot of DSC, waiting for you.
 ![Use a mascot](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/dollar-shave-club-mascot.png)
 
 
-Seems Chuck wants to play peek-a-boo which is cute and appealing. Though ‘Chuck is bummin’ pretty hard’ to get back customers, the overall look of the abandoned cart email resonates humor on a light note.
+Seems Chuck wants to play peek-a-boo which is cute and appealing. Though _‘Chuck is bummin’_ pretty hard’ to get back customers, the overall look of the abandoned cart email resonates humor on a light note.
 
 No mascot? Then, the next idea is just right for you.
 
@@ -234,11 +238,11 @@ The cute dog in the email says ‘wait’ with a gesture that cannot be ignored.
 
 This email strikes the right chord because of the funny content too. Look at these lines.
 
-Don’t let the deals run away.
+_Don’t let the deals run away._
 
-Please don’t disappoint your dog.
+_Please don’t disappoint your dog._
 
-Lots of licks.
+_Lots of licks._
 
 
 All of the above lines are connected with the characteristics of the character - the dog. With this, the relationship is established between the character and the content which adds value for using the image.
@@ -258,10 +262,10 @@ Here is an example from Chubbies shorts.
 The copy goes like this.
 
 
-This is one of those automated emails that sometimes start with things like “Hey [first name]! Did you forget something in your shopping cart???”
+_This is one of those automated emails that sometimes start with things like “Hey [first name]! Did you forget something in your shopping cart???”_
 
 
-We think those are a little weird. So we figured we’d take this opportunity to tell you more about who we are and why we do what we do.
+_We think those are a little weird. So we figured we’d take this opportunity to tell you more about who we are and why we do what we do._
 
 
 Chubbies themselves feel that  <link-text url="https://www.campaignrabbit.com/docs/campaigns/how-campaigns-work" rel="noopener" target="_blank">sending automated emails
@@ -275,7 +279,7 @@ Chubbies themselves feel that  <link-text url="https://www.campaignrabbit.com/do
 
 A normal suggestion for a bottle of whisky goes like this - Use them at a party and other auspicious occasions. Let your guests feel kingly.
 
-Now, Whisky Loot turns it into - Take them to a dinner party and don’t share them.
+Now, Whisky Loot turns it into - _Take them to a dinner party and don’t share them._
 
 This is what Whisky Loot has done in this abandoned cart email. They have listed out 14 hilarious ways to use the abandoned whisky box.
 
@@ -288,15 +292,15 @@ Real-life situations are easy to relate for anybody, no matter what. Use them to
 
 The following snippets from abandoned cart emails prove that this is one of the easiest ways to bring in humour in emails.
 
-Getting out of sand traps ain’t easy.
+_Getting out of sand traps ain’t easy._
 
-You know what is easy?
+_You know what is easy?_
 
-Completing your Chubbies order. - (Chubbies)
+_Completing your Chubbies order. - (Chubbies)_
 
 Chubbies considers cart recovery as a very tough task to be completed and compares it to an even tougher task in real life - escaping sand traps.
 
-Don’t put this off like a software update. - (Rudy’s)
+_Don’t put this off like a software update. - (Rudy’s)_
 
 The human characteristic of procrastination is targeted in the above sentence and there is no better example than a software update. This sentence is used as the header in an abandoned cart recovery email by Rudy’s. You will never forget to laugh here.
 
