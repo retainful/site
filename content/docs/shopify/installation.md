@@ -46,4 +46,5 @@ NOTE: If you wish to change this logo in future, you could do so by logging in t
 
 Get, set, GO!
 
-Click here to know how to get started with Retainful!
+### Summary
+Now that you have installed the Retainful app, let's <link-text url="https://www.retainful.com/docs/shopify/overview" target="_blank" rel="noopener">get started.</link-text>

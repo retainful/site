@@ -8,6 +8,8 @@ tags: ["shopify", "abandoned cart recovery", "retainful", "reports", "analytics"
 category: shopify
 ---
 
+In this page, let us learn how to check the abandoned/ Live carts Reports.
+
 ### How to check abandoned carts and recovered carts
 
 Retainful offers a real-time monitoring and complete analysis of abandoned carts and recovered carts. One can view these reports in the dashboard of his/her Retainful dashboard under the **Abandoned carts section**.

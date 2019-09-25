@@ -78,7 +78,7 @@ You could also customise and add styles to the individual sections of the email 
 
 #### 4)Editing individual elements of the email
 
-	  If you wish to apply styles like changing the color, font-size, dimensions of a particular section, that can be done by clicking on that particular segment.
+If you wish to apply styles like changing the color, font-size, dimensions of a particular section, that can be done by clicking on that particular segment.
    When you click on a particular segment, a blue rectangle appears around the element or block. And the options to customise the layout appear on the right corner.
      
 ![Editing individual block](../../images/docs/shopify/customising-abandoned-cart-templates/editing-individual-block.png)
@@ -104,6 +104,7 @@ You could check if the email templates are responsive by making use of the icons
 Mobile view responsiveness can also be checked by clicking on the icon at the far left corner of the layout.
 
 ![Mobile view and formatting tools](../../images/docs/shopify/customising-abandoned-cart-templates/responsive-formatting.png)
+<call-out> TIP: Around 60% of your users might be checking out your site on a mobile device. Users tend to move to competitor's websites due to poor mobile experience. It becomes essential to make sure that your site is responsive.</call-out>
 
 #### 7) Other formatting tools
 

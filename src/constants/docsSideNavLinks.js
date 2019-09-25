@@ -27,9 +27,10 @@ const SIDENAV_LINKS = [
         LINKS: [
               {URL: '/docs/shopify/introduction', TEXTNODE: 'Introduction'},
               {URL: '/docs/shopify/installation', TEXTNODE: 'Installation'},
-              {URL: '/docs/shopify/overview', TEXTNODE: 'Introduction to Retainful dashboard'},
+              {URL: '/docs/shopify/introducing-the-retainful-dashboard', TEXTNODE: 'Introduction to Retainful dashboard'},
               {URL: '/docs/shopify/setting-up-an-abandoned-cart-email-sequence', TEXTNODE: 'Setting up an abandoned cart email sequence'},
               {URL: '/docs/shopify/customising-abandoned-cart-emails', TEXTNODE: 'Customising the abandoned cart recovery emails'},
+              {URL: '/docs/shopify/how-to-check-abandoned-carts-and-recovered-carts', TEXTNODE: 'How to check abandoned carts and recovered carts'},
               {URL: '/docs/shopify/live-carts', TEXTNODE: 'Live carts'},
         ],
         BUTTON_LINK: '/docs/shopify/introduction',
