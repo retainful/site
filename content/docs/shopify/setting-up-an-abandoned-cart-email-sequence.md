@@ -1,6 +1,6 @@
 ---
 title: "Setting up your first abandoned cart email template sequence"
-path: "/docs/shopify/setting-up-your-first-abandoned-cart-email-sequence"
+path: "/docs/shopify/setting-up-an-abandoned-cart-email-sequence"
 description: "Learn how to setup abandoned cart email template sequence using Retainful."
 date: "2019-08-06"
 author: "Sowbagya lakshmi"
