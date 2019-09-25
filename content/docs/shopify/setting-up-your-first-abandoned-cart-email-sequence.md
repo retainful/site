@@ -33,8 +33,8 @@ Let us now learn how to set up abandoned cart email sequences with Retainful.
 
 Before we hop on to the email configuration, let us look at the pre-requisite parameters that have to be tweaked. To do this, you can follow the below steps:
 
-- Login to your <link-text url="https://app.retainful.com/" target="_blank" rel="noopener">Retainful dashboard</link-text>
-- Once you login to the dashboard, click on the **Settings** tab. Scroll down to the **Abandoned carts** part.
+1) Login to your <link-text url="https://app.retainful.com/" target="_blank" rel="noopener">Retainful dashboard</link-text>
+2) Once you login to the dashboard, click on the **Settings** tab. Scroll down to the **Abandoned carts** part.
 
 ![Settings](../../images/docs/shopify/setting-up-an-ab-cart-email-sequence/settings.png)
 
@@ -69,6 +69,8 @@ Let us consider the following email sequence:
 * Send a follow-up after 1 hour of abandonment
 * Another reminder after 4 hours after abandonment
 * Yet another email after 24 hours after abandonment
+
+<call-out>TIP: The abandoned cart email strategy should be planned in such a way that you don't seem too pushy. An ideal sequence consists of 3-4 recovery emails in regular intervals.</call-out>
 
 ### Using the pre-defined templates
 
@@ -135,4 +137,5 @@ Let us assume the following scenario:
 Hurray! We have set up an email template sequence.
 
 Retainful would send automated, timed recovery emails when a user abandons his/her cart.
-Emails would be sent until a customer recovers the cart. The time interval between the email sequence can be modified as per your requirements.
+Emails would be sent until a customer recovers the cart.
+The time interval between the email sequence can be modified as per your requirements.

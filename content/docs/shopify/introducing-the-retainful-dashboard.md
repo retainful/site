@@ -1,6 +1,6 @@
 ---
 title: "Introducing the retainful dashboard"
-path: "/docs/shopify/overview"
+path: "/docs/shopify/introducing-the-retainful-dashboard"
 description: "This would give you an overview of Retainful."
 date: "2019-08-06"
 author: "Sowbagya lakshmi"
@@ -45,6 +45,7 @@ Create and customise your store emails on-the-go with the pre-designed templates
 ### 5. Next order coupons
 
 Know how your post purchase coupons have taken effect in this section. Here you can find the coupons that have been redeemed and the conversions that have occurred.
+
 <call-out>Discounts encourage customers to buy more. Discounts offered at the correct time are more effective in driving new sales from inactive customers.</call-out>
 ![Next order coupons](../../images/docs/shopify/Getting-started/next-order-coupons.png)
 
