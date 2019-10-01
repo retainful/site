@@ -14,7 +14,7 @@ description: "Partner Program for Retainful."
 ### Get a 30% commision on every referral you make
 Earn a passive income by recommending Retainful.
 
-<link-text className="btn btn-action btn-lg" url="https://flycart.tapfiliate.com/programs/retainful-partner-program/signup/" target="_blank" rel="noopener">Become our Partner</link-text>
+<link-text className="btn btn-action btn-lg" url="https://retainful.tapfiliate.com" target="_blank" rel="noopener">Become our Partner</link-text>
 
 in one simple step
 
@@ -94,6 +94,6 @@ You'll receive Paypal payouts at the end of each month for every referral you ma
 <div class="topbar-content m-t-30 text-center">
 
 ### Join Retainful partner program
-<a class="btn btn-action btn-lg" href="https://flycart.tapfiliate.com/programs/retainful-partner-program/signup/" target="_blank" rel="noopener">Sign up now</a>
+<a class="btn btn-action btn-lg" href="https://retainful.tapfiliate.com" target="_blank" rel="noopener">Sign up now</a>
 
 </div>
