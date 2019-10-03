@@ -23,7 +23,16 @@ import CtaBox from '../components/ctabox'
 import authors from '../utils/authors'
 import DownloadPluginCTA from "../components/downloadplugincta"
 import Videoembed from "../components/videoembed"
+import Definition from "../components/definition"
+import ClicktoTweet from "../components/clicktotweet"
+import ExclusiveBonus from "../components/exclusivebonus"
 import { FaFacebookF, FaTwitter,FaLinkedin} from 'react-icons/fa'
+import ThreeButtonCta from '../components/threebuttoncta';
+import ClaimTrail from '../components/claimtrail';
+import CheckList from "../components/checklist";
+import GetTemplates from "../components/gettemplates"
+import SocialFollow from "../components/socialfollow"
+import SendCoupon from "../components/sendcoupon"
 
 
 
@@ -62,6 +71,15 @@ const renderAst = toc => new rehypeReact({
         "cta-box":CtaBox,
         "download-cta":DownloadPluginCTA,
         videoembed:Videoembed,
+        definition:Definition,
+        clicktotweet:ClicktoTweet,
+        bonus:ExclusiveBonus,
+        "three-btn-cta":ThreeButtonCta,
+        "claim-trail":ClaimTrail,
+        checklist:CheckList,
+        "get-templates":GetTemplates,
+        "social-follow":SocialFollow,
+        "send-coupon":SendCoupon
     },
 }).Compiler
 
