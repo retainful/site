@@ -137,6 +137,15 @@ q:before, q:after {
   }
 }
 
+.tweet{
+  border: 2px solid $primary;
+}
+
+.bonus{
+  background-color:#FFD954;
+  border: $primary 2px solid;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
