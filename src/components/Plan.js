@@ -16,8 +16,10 @@ const Card = (props) => {
                     <div className="text-center">
                         {slottedChildren["plan-button"]}
                     </div>
+                        <span className="price-slogan pt-3" style={{fontSize:'12px !important'}}>
+                            {slottedChildren["pricing-slogan"]}
+                        </span>
                     {slottedChildren["plan-features"]}
-
                 </div>
             </div>
         </div>
