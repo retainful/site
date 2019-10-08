@@ -71,7 +71,7 @@ const HomeFeatures = () => (
 
                         </ul>
                         <p>
-                            <a href="#">Learn more  <span><FaLongArrowAltRight/></span></a>
+                            <Link to="/abandoned-cart-recovery">Learn more  <span><FaLongArrowAltRight/></span></Link>
                         </p>
                     </div>
                 </div>
@@ -90,7 +90,7 @@ const HomeFeatures = () => (
                             <li>Track the performance of the coupons in the Retainful Dashboard</li>
                         </ul>
                         <p>
-                            <a href="#">Learn more <span><FaLongArrowAltRight/></span></a>
+                            <Link to="/next-order-coupon">Learn more <span><FaLongArrowAltRight/></span></Link>
                         </p>
                     </div>
                 </div>
