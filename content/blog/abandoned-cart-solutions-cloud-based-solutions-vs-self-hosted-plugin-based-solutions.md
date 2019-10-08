@@ -29,19 +29,19 @@ These are called <link-text url="https://www.retainful.com/" rel="noopener" targ
 
 Your website really does not have to do anything except reporting the carts to the SaaS solutions (you’ll have to use a simple integration just for connecting your website with the SaaS Service). Even emails are sent using dedicated mail servers to ensure a better delivery rate.
 
-**Differences Between These Two Types of Cart Abandonment Solutions**
+## Differences Between These Two Types of Cart Abandonment Solutions
 
 I have taken three key metrics that are important for an eCommerce website and its abandoned cart email campaign.
 
-1.Performance and Page Speed
+1. Performance and Page Speed
 
-2.Email Scheduling (at timed intervals)
+2. Email Scheduling (at timed intervals)
 
-3.Email Delivery
+3. Email Delivery
 
 These three metrics will help you understand the difference between the two types of solutions.
 
-1. Performance and Page Speed
+### 1. Performance and Page Speed
 
 Page speed and performance have a direct impact on the conversions. The higher the speed is, the better the conversions will be. After all, no one wants to wait several minutes for the page to load and then buy.
 
@@ -69,25 +69,28 @@ It will be a critical issue on highly trafficked sites. Every request can trigge
 
 The reduced page load and speed will directly create an impact on your conversions. Customers tend to leave your shop if the page loads slowly. And as discussed, an evident drop will be seen in your conversion rates
 
-What happens if you use a SaaS solution on your website?
+**What happens if you use a SaaS solution on your website?**
 
 The only task your website will perform here is that it will report the carts to the SaaS API. And this is usually done using asynchronous requests from your website with very little resource utilisation compared to the entire tracking built in by the plugins.
 
 The remaining tasks - tracking abandoned carts, scheduling emails, sending them are all handled by the SaaS platform using its own computing resources. Your website does not get any additional load.
 
-2. Email Scheduling
+### 2. Email Scheduling
+
+
 
 An effective <link-text url="https://www.retainful.com/blog/how-to-use-humor-in-abandoned-cart-recovery-emails" rel="noopener" target="_blank">Abandoned cart follow-up email</link-text> campaign usually comprises at least 3 to 4 emails, sent sequentially at well timed intervals.
 
-For example:
+**For example:**
 
-1.First email after 1 hour after abandonment
+1. First email after 1 hour after abandonment
 
-2.2nd email after 6 hours after abandonment
+2. 2nd email after 6 hours after abandonment
 
-3.3rd email after 24 hours after abandonment
+3. 3rd email after 24 hours after abandonment
 
-4.4th Email after 2 days after abandonment
+4. 4th Email after 2 days after abandonment
+
 
 Some stores have more emails in the sequence. I have seen few stores using 6 to 8 email follow-ups as well.
 
@@ -99,7 +102,7 @@ How an abandoned cart plugin (that runs in your website) handles it?
 
 In order to trigger these emails, an abandoned cart plugin should use something called: CRON JOB (some will call it as Cron task or scheduled actions/tasks). Just think of it is a “Ping” to your site.
 
-CRON is used
+**CRON is used**
 
 - To determine if a cart is abandoned (you may have set the plugin to consider a cart as abandoned if a customer did not purchase within 30 minutes)
 
@@ -113,7 +116,7 @@ In most of the sites, WP CRON uses the default settings - that is when somebody 
 
 What if no one visited your site for a while in a day? Say, for 4 to 5 hours, it is idle. This means, none of the cron based schedules are running which also means that NO EMAILS ARE SENT.
 
-Chris Lema, a WP expert and VP at Liquidweb Hosting has this to say in his blog:
+**Chris Lema, a WP expert and VP at Liquidweb Hosting has this to say in his blog:**
 
 “Imagine a team of thieves who are set to rob a bank. They’ve hired a driver to pick them up at an appointed time. The exact time that they’ll walk out of the bank.
 
@@ -135,13 +138,13 @@ Uh oh! that’s a shame.
 
 Not convinced yet? Check the <link-text url="https://chrislema.com/understanding-wp-cron/" rel="noopener" target="\_blank">detailed post from Chris Lema</link-text>
 
-How does SaaS-based abandoned cart solutions handle it?
+**How does SaaS-based abandoned cart solutions handle it?**
 
 Well, as I mentioned earlier, SaaS providers like us, use our own queueing and scheduling systems. At Retainful, we’ve built our queuing infrastructure on top of the Amazon AWS SQS and SNS services for email scheduling and sending.
 
 Let’s say, you want to send your first email remainder 15 minutes after a cart is abandoned. The customer will get the email exactly after 15 minutes. Because our infrastructure can handle millions of queue jobs and scale automatically. You can check out the [power SQS](https://aws.amazon.com/sqs/).
 
-3. Email Deliverability
+### 3. Email Deliverability
 
 This is the most important part. With a better email deliverability, the conversion rates will be higher.
 
