@@ -25,18 +25,18 @@ These are plugins that can be installed on your website. And they operate using 
 
 **Solutions that Run On the Cloud**
 
-These are called <link-text url="https://www.retainful.com/" rel="noopener" target="_blank">SaaS</link-text> (Software-as-a-Service) solutions, which run on the cloud infrastructure like Amazon AWS or Google Cloud. One such example of a SaaS solution is Retainful which uses its own computing resources for tracking cart abandonments, scheduling and sending emails.
+These are called <link-text url="https://www.retainful.com/" rel="noopener" target="_blank">SaaS</link-text> (Software-as-a-Service) solutions, which run on the cloud infrastructure like Amazon AWS or Google Cloud. One such example of a SaaS solution is <link-text url="https://www.retainful.com" rel="noopener" target="_blank">Retainful</link-text> which uses its own computing resources for tracking cart abandonments, scheduling and sending emails.
 
 Your website really does not have to do anything except reporting the carts to the SaaS solutions (you’ll have to use a simple integration just for connecting your website with the SaaS Service). Even emails are sent using dedicated mail servers to ensure a better delivery rate.
+
+<toc></toc>
 
 ## Differences Between These Two Types of Cart Abandonment Solutions
 
 I have taken three key metrics that are important for an eCommerce website and its abandoned cart email campaign.
 
 1. Performance and Page Speed
-
 2. Email Scheduling (at timed intervals)
-
 3. Email Delivery
 
 These three metrics will help you understand the difference between the two types of solutions.
@@ -76,8 +76,7 @@ The only task your website will perform here is that it will report the carts to
 The remaining tasks - tracking abandoned carts, scheduling emails, sending them are all handled by the SaaS platform using its own computing resources. Your website does not get any additional load.
 
 ### 2. Email Scheduling
-
-
+</br>
 
 An effective <link-text url="https://www.retainful.com/blog/how-to-use-humor-in-abandoned-cart-recovery-emails" rel="noopener" target="_blank">Abandoned cart follow-up email</link-text> campaign usually comprises at least 3 to 4 emails, sent sequentially at well timed intervals.
 
@@ -142,7 +141,9 @@ Not convinced yet? Check the <link-text url="https://chrislema.com/understanding
 
 Well, as I mentioned earlier, SaaS providers like us, use our own queueing and scheduling systems. At Retainful, we’ve built our queuing infrastructure on top of the Amazon AWS SQS and SNS services for email scheduling and sending.
 
-Let’s say, you want to send your first email remainder 15 minutes after a cart is abandoned. The customer will get the email exactly after 15 minutes. Because our infrastructure can handle millions of queue jobs and scale automatically. You can check out the [power SQS](https://aws.amazon.com/sqs/).
+<cta url="https://app.retainful.com/register" rel="noopener" target="_blank">Try Retainful for Free!</cta>
+
+Let’s say, you want to send your first email remainder 15 minutes after a cart is abandoned. The customer will get the email exactly after 15 minutes. Because our infrastructure can handle millions of queue jobs and scale automatically. You can check out the <link-text url="https://aws.amazon.com/sqs/" rel="noopener nofollow">power SQS.</link-text>
 
 ### 3. Email Deliverability
 
@@ -166,15 +167,82 @@ With <link-text url="https://www.retainful.com/pricing" rel="noopener" target="_
 
 If you are still quite not clear, here’s a table that can help you understand better
 
+
+
 <table class="table table-bordered py-2">
-    <thead class="text-center"><tr><th>Features &amp; Options</th><th>Self Hosted Plugin Based Solutions</th><th>Cloud-Based Solutions</th></tr></thead><tbody><tr><td>1. User Control</td><td>Limited Access</td><td>Complete Access</td></tr><tr><td>2. Template Customization</td><td>Medium Customization Options</td><td>High Customization Options</td></tr><tr><td>1. Scheduled Email Deliveries</td><td>Depends on CRON Jobs</td><td>Email Gets Delivered Without Delay</td></tr><tr><td>3. Security Risk Level</td><td>Medium</td><td>Low</td></tr><tr><td>4. Reliability Factor</td><td>Cannot be Relied Way Too Much</td><td>Highly Reliable</td></tr><tr><td>6. OnPage Loading Speed</td><td>Might Conflict With Other Plugins</td><td>Blazing Speed</td></tr><tr><td>7. Migration</td><td>Difficult Most of the Times</td><td>Easy</td></tr><tr><td>8. Sensitive Data Breach</td><td>Medium</td><td>NIL</td></tr><tr><td>9. Tracking &amp; Reporting</td><td>Limited Access</td><td>Full Access</td></tr><tr><td>10. Downtime</td><td>Depends on Internet Resources</td><td>Runs on Dedicated Cloud Servers</td></tr><tr><td>11. Programming Skills</td><td>Required</td><td>Not Required</td></tr></tbody>
+   <thead class="text-center" style="background-color:#DCDCDC">
+      <tr>
+         <th>Features &amp; Options</th>
+         <th>Self Hosted Plugin Based Solutions</th>
+         <th>Cloud-Based Solutions</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><strong>1. User Control</strong></td>
+         <td>Limited Access</td>
+         <td>Complete Access</td>
+      </tr>
+      <tr>
+         <td><strong>2. Template Customization</strong></td>
+         <td>Medium Customization Options</td>
+         <td>High Customization Options</td>
+      </tr>
+      <tr>
+         <td><strong>1. Scheduled Email Deliveries</strong></td>
+         <td>Depends on CRON Jobs</td>
+         <td>Email Gets Delivered Without Delay</td>
+      </tr>
+      <tr>
+         <td><strong>3. Security Risk Level</strong></td>
+         <td>Medium</td>
+         <td>Low</td>
+      </tr>
+      <tr>
+         <td><strong>4. Reliability Factor</strong></td>
+         <td>Cannot be Relied Way Too Much</td>
+         <td>Highly Reliable</td>
+      </tr>
+      <tr>
+         <td><strong>6. OnPage Loading Speed</strong></td>
+         <td>Might Conflict With Other Plugins</td>
+         <td>Blazing Speed</td>
+      </tr>
+      <tr>
+         <td><strong>7. Migration</strong></td>
+         <td>Difficult Most of the Times</td>
+         <td>Easy</td>
+      </tr>
+      <tr>
+         <td><strong>8. Sensitive Data Breach</strong></td>
+         <td>Medium</td>
+         <td>NIL</td>
+      </tr>
+      <tr>
+         <td><strong>9. Tracking &amp; Reporting</strong></td>
+         <td>Limited Access</td>
+         <td>Full Access</td>
+      </tr>
+      <tr>
+         <td><strong>10. Downtime</strong></td>
+         <td>Depends on Internet Resources</td>
+         <td>Runs on Dedicated Cloud Servers</td>
+      </tr>
+      <tr>
+         <td><strong>11. Programming Skills</strong></td>
+         <td>Required</td>
+         <td>Not Required</td>
+      </tr>
+   </tbody>
 </table>
+
+
 
 **Summary**
 
 Unlike normal websites, an eCommerce website should be highly optimized, with faster loading pages. And their primary focus should only be on converting visitors into customers - quickly.
 
-Tracking abandoned carts, scheduling and <link-text url="https://www.campaignrabbit.com/blog/follow-up-emails-boost-your-freemium-products-conversion-rate" rel="noopener" target="_blank">sending follow-up emails</link-text> can be run outside of the website as they are no different from background processes. The site’s resources should not be wasted for tracking, storing, scheduling and sending the emails. Instead, these resources can be used to serve the pages faster.
+Tracking abandoned carts, scheduling and <link-text url="https://www.campaignrabbit.com/blog/follow-up-emails-boost-your-freemium-products-conversion-rate" rel="noopener nofollow" target="_blank">sending follow-up emails</link-text> can be run outside of the website as they are no different from background processes. The site’s resources should not be wasted for tracking, storing, scheduling and sending the emails. Instead, these resources can be used to serve the pages faster.
 
 Using a SaaS service like Retainful to handle your abandoned cart email campaigns will increase your revenue without adding any additional load on your website. Besides, you can ensure an effective, well-timed follow-up with better email deliverability.
 
