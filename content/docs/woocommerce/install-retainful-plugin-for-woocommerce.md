@@ -16,8 +16,10 @@ There are two methods of how the plugin can be installed.
 
 ![PluginfromWordpress](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/pluginSearch.png)
 
-Method 2:
+Here is a video on how to install the plugin using Method-1:
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/share/64bd0a3d113843829f6c09fabfe7a9d8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+**Method 2:**
 
 Download the plugin from Wordpress repository or click <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" rel="noopener nofollow" target="_blank">here.</link-text>
 
