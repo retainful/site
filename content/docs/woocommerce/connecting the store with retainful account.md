@@ -7,13 +7,15 @@ tags: ["connecting the store with Retainful", "woocommerce"]
 category: woocommerce
 ---
 
+Post installing the Retainful plugin on your site, the next step is to get your store connected to your Retainful account.
+
 ### Why should you connect your store with Retainful account
 By connecting the store with Retainful account, you would be able to avail the following benefits:
 
 1. **Access to Premium features**
 2. **Free trial for 14 days(for new users only)**
-3. **Drag and drop email template editor**
-4. **Option to set up abandoned cart recovery templates starting from 15 minutes of abandonment.**
+3. **Drag and drop email template editor(So you have better customization options for designing abandoned cart emails)**
+4. **Option to set up abandoned cart recovery templates starting from 15 minutes of abandonment(While if you don't connect, the minimum allowed time for recovery emails is 1 hour)**
 
 This article walks you through the process of connecting your Woocommerce store with your Retainful account. 
 
@@ -47,8 +49,22 @@ For those, who use Retainful plugin with version 1.x, please follow the below st
 
 #### For version 2.x
 
-For users who use Retainful plugin with version 2.x:
+    For users who use Retainful plugin with version 2.x:
 
 1. Follow the steps 1 to 3 as per the version 1.x.
 2. For 2.x, you will need both the** App ID** and the **Secret key** to be entered in order to connect the store with Retainful.
-3. So, you will have to copy both and paste them in your license tab to get connected to Retainful.
+3. So, you will have to copy both and paste them in your license tab to get connected to Retainful as follows:
+
+![2.x keys in retainful license tab](../../images/docs/connecting-the-store-with-retainful/2.x-keys-license-tab.png)
+
+4. A success message would appear indicating that you have been connected to Retainful account.
+
+Now that we have connected the store to Retainful, you would be able to  access the benefits mentioned above. 
+    
+#### Summary
+    
+In this article, we saw:
+1. Benefits of connecting the store with Retainful
+2. How to connect to Retainful(For version 1.x and 2.x)
+
+    		
