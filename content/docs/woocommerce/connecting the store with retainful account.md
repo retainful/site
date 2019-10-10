@@ -1,0 +1,54 @@
+---
+title: "Connecting the Store with Retainful account"
+description: "Learn how to connect the Store with Retainful account"
+date: "2019-10-09"
+author: "Sowbagya lakshmi"
+tags: ["connecting the store with Retainful", "woocommerce"]
+category: woocommerce
+---
+
+### Why should you connect your store with Retainful account
+By connecting the store with Retainful account, you would be able to avail the following benefits:
+
+1. **Access to Premium features**
+2. **Free trial for 14 days(for new users only)**
+3. **Drag and drop email template editor**
+4. **Option to set up abandoned cart recovery templates starting from 15 minutes of abandonment.**
+
+This article walks you through the process of connecting your Woocommerce store with your Retainful account. 
+
+### Connecting the store with Retainful
+
+#### For version 1.x
+For those, who use Retainful plugin with version 1.x, please follow the below steps to connect the store with your Retainful account:
+
+1. Login to your Retainful dashboard by clicking <link-text url="https://app.retainful.com" target="_blank" rel="noopener">here<link-text>. If you are a new user, you could sign up as well.
+
+![Login page](../../images/docs/connecting-the-store-with-retainful/1.x-dashboard-login-page.png)
+  
+2. Once you are logged in, you could find a button called **API keys** at the top right corner, next to your Avatar. 
+
+![API keys button](../../images/docs/connecting-the-store-with-retainful/1.x-API-keys.png)
+    
+3. Click on the button to view the APP ID. The resulting page will have your App ID and Secret key.
+
+![Keys page](../../images/docs/connecting-the-store-with-retainful/1.x-keys-page.png)
+
+4. As far as Version 1.x is concerned, you would need only the APP ID and not the secret key. So copy the App ID alone.
+
+5. On your store's dashboard, click on Woocommerce ->Retainful-Abandoned carts -> License and add the App ID, click the connect button.
+
+![Keys in license tab](../../images/docs/connecting-the-store-with-retainful/1.x-keys-license-tab.png)
+    
+6. A success message would appear indicating that you have been connected to Retainful as indicated in the above screenshot.
+
+ 7. Alternatively, you could click on the **dashboard** button on the License tab which would take you to the Retainful dashboard from where you could fetch your API keys as well.
+
+
+#### For version 2.x
+
+For users who use Retainful plugin with version 2.x:
+
+1. Follow the steps 1 to 3 as per the version 1.x.
+2. For 2.x, you will need both the** App ID** and the **Secret key** to be entered in order to connect the store with Retainful.
+3. So, you will have to copy both and paste them in your license tab to get connected to Retainful.
