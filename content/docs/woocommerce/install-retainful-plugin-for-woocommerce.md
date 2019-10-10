@@ -11,27 +11,27 @@ category: woocommerce
 The method of installation is the same for users who use Retainful version 1.x and 2.x. 
 There are two methods of how the plugin can be installed. 
 
-**Method 1 (easier and recommended)**
+### Method 1 (easier and recommended)**
 
-- You can search for retainful plugin from the plugins section.
-- Click on Install now and activate the plugin.
+1. You can search for retainful plugin from the plugins section.
+2. Click on Install now and activate the plugin.
 
 ![PluginfromWordpress](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/pluginSearch.png)
 
 Here is a video on how to install the plugin using Method-1, using the plugin manager:
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/64bd0a3d113843829f6c09fabfe7a9d8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-**Method 2:**
+### Method 2(By uploading the plugin)
 
-Download the plugin from Wordpress repository or click <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" rel="noopener nofollow" target="_blank">here.</link-text>
+1. Download the plugin from Wordpress repository or click <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" rel="noopener nofollow" target="_blank">here.</link-text>
 
-Navigate to plugins --> Add new --> Upload Plugin.
+2. Navigate to plugins --> Add new --> Upload Plugin.
 
 ![UploadPlugin](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/uploadPlugin.png)
 
-Choose the zip file and click on install now. 
-On click of "install now", the plugin will be activated. 
-You can see the plugin under Woocommerce Section
+3. Choose the zip file and click on install now. 
+4. On click of "install now", the plugin will be activated. 
+5. You can see the plugin under Woocommerce Section.
 Here is the screenshot after installing the plugin:
 
 ![Installation](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/RetainfulIntallation.png)
