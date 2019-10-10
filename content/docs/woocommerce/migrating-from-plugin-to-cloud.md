@@ -54,7 +54,7 @@ The migration option would be available if you update from Retainful version 1.x
 
   **Step-4: Switching back to plugin:**  
     
-    If you change your mind after migrating to cloud, you still have the option to switch back to plugin.
+If you change your mind after migrating to cloud, you still have the option to switch back to plugin.
     
 1.  After migration, the Abandoned carts, Sent emails and the Email templates are separately managed on the connected Retainful account. This is how your Retainful plugin page would look after migration:
 

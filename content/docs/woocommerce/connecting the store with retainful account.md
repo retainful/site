@@ -10,7 +10,7 @@ category: woocommerce
 Post installing the Retainful plugin on your site, the next step is to get your store connected to your Retainful account.
 
 ### Why should you connect your store with Retainful account
-By connecting the store with Retainful account, you would be able to avail the following benefits:
+By connecting the store with Retainful account, you would be able to avail the following advantages:
 
 1. **Access to Premium features**
 2. **Free trial for 14 days(for new users only)**
