@@ -7,8 +7,8 @@ tags: ["installation", "woocommerce"]
 category: woocommerce
 ---
 
-### Installation- For version 1.x:
-This article walks you through the process of installing the Retainful Plugin with version 1.x.
+### Installation- For both version 1.x and 2.x users:
+The method of installation is the same for users who use Retainful version 1.x and 2.x. 
 There are two methods of how the plugin can be installed. 
 
 **Method 1 (easier and recommended)**
@@ -38,7 +38,6 @@ Here is the screenshot after installing the plugin:
 
 Hurray ! We have now installed the plugin successfully.
 
-Here is a video on how to install the plugin by uploading the package:
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/share/8a23291dab0a47e8bea218bbbb27d156" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Note: 
