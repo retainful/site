@@ -16,11 +16,11 @@ So, this would improve the mail handling process significantly. Since we move al
 
 ### Points to be noted before migration
 
-- [x] 1. The migration option would only be available for users that update the Retainful plugin from version 1.x to 2.x.
-- [x] 2. If the version of Retainful plugin you are using is 2.x, then the cart and mail management would automatically be done via cloud. That is, the cart entries and mail templates would be available in your Retainful account and not on your site.
-- [x] 3. Once you migrate to cloud, the upcoming abandoned carts, in-progress carts and recovered carts would be recorded and managed in your Retainful account only. Only the Next order coupons and premium features would be listed on the plugin on your site's backend.
+- The migration option would only be available for users that update the Retainful plugin from version 1.x to 2.x.
+- If the version of Retainful plugin you are using is 2.x, then the cart and mail management would automatically be done via cloud. That is, the cart entries and mail templates would be available in your Retainful account and not on your site.
+- Once you migrate to cloud, the upcoming abandoned carts, in-progress carts and recovered carts would be recorded and managed in your Retainful account only. Only the Next order coupons and premium features would be listed on the plugin on your site's backend.
 
-### Prerequisites
+### Pre-requisites
 
 While using Retainful 2.x, the mail delivery is done with encryption, for security purposes. So, please make sure that your site's server has encryption library enabled.
 
@@ -54,7 +54,7 @@ The migration option would be available if you update from Retainful version 1.x
 
   **Step-4: Switching back to plugin:**  
     
-    If you change your mind after migrating to cloud, you still have the option to switch back to plugin.
+If you change your mind after migrating to cloud, you still have the option to switch back to plugin.
     
 1.  After migration, the Abandoned carts, Sent emails and the Email templates are separately managed on the connected Retainful account. This is how your Retainful plugin page would look after migration:
 
@@ -66,7 +66,7 @@ The migration option would be available if you update from Retainful version 1.x
 
 
   ### Summary
-    In this article, we saw how to:
+In this article, we saw how to:
 1.  Update the Retainful plugin
 2.  Migrate the entries to cloud
 3.  Switch back to plugin
