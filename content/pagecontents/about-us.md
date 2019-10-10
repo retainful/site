@@ -13,6 +13,8 @@ keywords: "retainful, What is retinful, ecommerce abandoned cart solutions"
 
 <column size="8">
 
+<column size="8">
+
 <h3 class="text-center"> Empowering eCommerce Stores WorldWide </h3>
 
 Retainful is an eCommerce solutions provider primarily focusing on helping online stores recover abandoned carts. And stores can do this by sending personalized follow-up emails, next order coupons, email drip campaigns, opt-in forms and every other possible thing that would help recover abandoned carts. You can find us at Shopify & WooCommerce for now. There’s more on our way!
@@ -22,6 +24,8 @@ Retainful is an eCommerce solutions provider primarily focusing on helping onlin
 We’ve been doing this quite a number of years now, helping our customers grow their revenue & sales numbers by providing a platform to recover abandoned carts. We do this every day. And we’ve created worldwide impressions by empowering online stores. 
 
 It’s a cycle with us here - we deliver memorable experiences to our customers, and they do the same to theirs. And we on the other end stay delighted for creating something spectacular that has been helping businesses scale growth consistently for years!
+
+</column>
 
 </column>
 
@@ -79,6 +83,8 @@ It’s a cycle with us here - we deliver memorable experiences to our customers,
 
 <column size="8">
 
+<column size="8">
+
 <h3 class="text-center"> Our Mission </h3>
 
 It’s simple. We thrive and are driven by this one thing - to create an environment that allows and gives every eCommerce store a chance to compete. On an average, 69% of carts are being abandoned. And on recovering these carts, you’ll be able to witness a huge spike in your revenue figures.
@@ -91,12 +97,16 @@ We are a group of people who like to create awesome things, deliver the best to 
 
 
 </column>
+    
+</column>
 
 </row>
 
 <div class="py-5">
 
 <div class="py-4 px-4 rounded-lg" style="background-color:#ffe6e6">
+
+<container>
 
 <row>
 
@@ -139,6 +149,8 @@ Retainful is GDPR Compliant. All your data is stored on a secured cloud platform
 </column>
 
 </row>
+
+</container>
 
 </div>
 
