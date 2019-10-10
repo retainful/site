@@ -20,7 +20,7 @@ So, this would improve the mail handling process significantly. Since we move al
 - If the version of Retainful plugin you are using is 2.x, then the cart and mail management would automatically be done via cloud. That is, the cart entries and mail templates would be available in your Retainful account and not on your site.
 - Once you migrate to cloud, the upcoming abandoned carts, in-progress carts and recovered carts would be recorded and managed in your Retainful account only. Only the Next order coupons and premium features would be listed on the plugin on your site's backend.
 
-### Prerequisites
+### Pre-requisites
 
 While using Retainful 2.x, the mail delivery is done with encryption, for security purposes. So, please make sure that your site's server has encryption library enabled.
 
