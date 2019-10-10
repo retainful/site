@@ -41,5 +41,19 @@ Yes. You can continue to use Retainful free version with the limited set of feat
 
 </div>
 </column>
+
+<column size="6">
+<div className="faq-wrapper">
+
+#### Will we be automatically charged when our trial is up?
+No. We don't ask for your credit card up front, so you'll only be charged when you decide you’re ready. If you want to continue after your trial, we'll ask for payment details. If not — cancel with a click, no questions asked.
+
+</div>
+</column>
+<column size="6">
+<div className="faq-wrapper">
+
+</div>
+</column>
 </row>
 </div>

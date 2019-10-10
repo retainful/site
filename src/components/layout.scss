@@ -1318,12 +1318,20 @@ body {
     color: #97a6b5;
   }
 
+.about-box-shadow
+{
+  box-shadow: white 0px 0px 0px 0px inset !important;
+}
+
+  
   /* ----- Pricing Tables Styling Starts ----- */
+
+  
 
   .pricing-section {
     width: 100%;
     height: 100%;
-    padding-top: 30px;
+    padding-top: 0px;
     > h3 {
       font-size: 32px;
       color: #526BCC;
@@ -1372,17 +1380,37 @@ body {
     padding: 20px 0 0 0;
   }
 
+  .plan-bdr-right
+  {
+    border-right: 1px solid #efe7e7;
+  }
+  .plan-bdr-left
+  {
+    border-left: 1px solid #efe7e7;
+  }
+  .pricing-section .table-left-rm
+  {
+    background: none !important;
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.1) !important;
+    border-left: 0px solid #efe7e7;
+  }
   .pricing-section .table-left, .pricing-section .table-right {
-    padding: 20px 20px 40px 20px;
+    padding: 20px 15px 10px 15px;
     margin: 0 auto;
     margin-bottom: 30px;
     background-color: #FFFFFF;
     box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, .1);
-    border: transparent;
-    border-radius: 10px;
+    border-radius: 0px;
     max-width: 400px;
   }
   
+  .pricing-plans-bg
+  {
+    background: #fff;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+    margin: 50px 0px;
+  }
+
   .pricing-section .featured {
     position: relative;
     z-index: 2;
@@ -1393,13 +1421,13 @@ body {
         position: absolute;
         top: -30px;
         display: block;
-        right: 8px;
-        padding: 2px 15px 7px;
-        background: #52F2B9;
-        color: #000;
+        right: 57px;
+        padding: 6px 15px 5px;
+        background: #3abd82;
+        color: #fff;
         z-index: -1;
-        border-radius: 8px;
-        font-weight: 600;
+        border-radius: 4px;
+        font-weight: 900;
         text-transform: uppercase;
         font-size: 14px;
       }
@@ -1459,24 +1487,27 @@ body {
   }
 
   .table-left .pricing-details p, .table-right .pricing-details p {
-    font-size: 16px;
+    font-size: 13px;
     font-weight: 500;
     line-height: 1.4;
   }
 
   .table-left .pricing-details ul, .table-right .pricing-details ul {
-    padding-left: 30px;
+    padding-left: 25px;
     text-align: left;
-    border-top: 1px solid #eee;
-    padding-top: 30px;
-    margin-top: 30px;
-    list-style-image: url("../images/tick.svg");
+    border-top: 1px dashed #efe7e7;
+    padding-top: 20px;
+    margin-top: 12px;;
+    list-style: none;
   }
 
   .table-left .pricing-details li, .table-right .pricing-details li {
-    font-size: 17px;
     font-weight: 500;
-    margin-bottom: 10px;
+    margin-bottom: 18px;
+    font-size: 15px;
+    line-height: 26px;
+    color: #797687;
+    text-indent: -10px;
   }
 
   .pricing-section .table-left:hover, .pricing-section .table-right:hover {
@@ -1501,7 +1532,7 @@ body {
     cursor: pointer;
     background: #ffffff;
     color: $primary;
-    border: 1px solid #cccccc;
+    border:1px solid #f27052;
     border-radius: 4px;
     box-sizing: border-box;
     transition: 0.2s;
@@ -1528,20 +1559,17 @@ body {
     border: 1px solid $primary;
     border-radius: 4px;
     box-sizing: border-box;
-    transition: 0.2s;
+
   }
   .pricing-section .table-left .btn-action:hover, .pricing-section .table-right .btn-action:hover {
     box-shadow: 0 8px 36px -3px rgba(20,45,100,.35);
   }
-
   .pricing-section .table-left, .pricing-section .table-right {
     margin-top: 20px;
   }
-
   .pricing-section .table-center {
     margin-top: 0;
   }
-
   .money-back-guarantee-block{
     background: #ffffff;
     padding: 20px;
@@ -1550,8 +1578,54 @@ body {
     box-shadow: 0px 0px 60px 0px rgba(0, 0, 0, 0.1);
     border: transparent;
     border-radius: 10px;
+  }  
+  .pricing-plans-icons img {
+    width: 8%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    position: relative;
+    bottom: 3px;
+  }
+  .pricing-plans-icons p{
+    margin-bottom: 15px;
+    color: #797687;
+    font-weight: 500;
+  }
+  .ptb-2 {
+    background: #fdf8f8;
+    padding: 30px 0px 10px!important;
   }
 
+
+  .plan-have {
+    width: 10px;
+    height: 12px;
+    position: relative;
+    right: 12px;
+    top: 1px
+  }
+
+  .plan-not {
+    width: 10px;
+    height: 12px;
+    position: relative;
+    right: 12px;
+    top: 1px
+  }
+
+  .plan-price-title h3
+  {
+    padding: 20px 0px 20px;
+    font-size: 30px;
+    color: #333;
+  }
+
+
+  .card-body-abt
+  {
+
+  }
   /*------------------------------------------------
   ---------- Ar Review Section Styling -------------
   ------------------------------------------------*/
@@ -2753,11 +2827,11 @@ body {
     color: #313131;
   }
   p, li {
-    color: #444;
+    color: #666;
     font-weight: 400;
     margin-top: 15px;
     font-size: 18px;
-    line-height: 2;
+    line-height: 30px;
   }
   ul {
     margin: 1em 0 1.5em;
@@ -5113,3 +5187,6 @@ $i: 0;
     color: #52c41a;
   }
 }
+
+
+
