@@ -1,5 +1,7 @@
 ---
 title: "Connecting the Store with Retainful account"
+path: "/docs/woocommerce/connecting-the-store-with-retainful-account
+"
 description: "Learn how to connect the Store with Retainful account"
 date: "2019-10-09"
 author: "Sowbagya lakshmi"
@@ -24,7 +26,8 @@ This article walks you through the process of connecting your Woocommerce store 
 #### For version 1.x
 For those, who use Retainful plugin with version 1.x, please follow the below steps to connect the store with your Retainful account:
 
-1. **Fetching the keys:** Login to your Retainful dashboard by clicking <link-text url="https://app.retainful.com" target="_blank" rel="noopener">here<link-text>. If you are a new user, you could sign up as well.
+1. **Fetching the keys:** Login to your Retainful dashboard by clicking <link-text url="https://app.retainful.com" target="_blank" rel="noopener">here<link-text>
+If you are a new user, you could sign up as well.
 
 ![Login page](../../images/docs/connecting-the-store-with-retainful/1.x-dashboard-login-page.png)
   
@@ -46,7 +49,6 @@ For those, who use Retainful plugin with version 1.x, please follow the below st
 
  7. Alternatively, you could click on the **dashboard** button on the License tab which would take you to the Retainful dashboard from where you could fetch your API keys as well.
 
-
 #### For version 2.x
 
 For users who use Retainful plugin with version 2.x:
@@ -64,8 +66,8 @@ Now that we have connected the store to Retainful, you would be able to  access 
 #### Video tutorial
     
 Here is a video on how to connect your Woocommerce store with your Retainful account.
-    <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src=" https://www.loom.com/share/a372e56018f14cbb82a32701fff5f65f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-   
+    <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/a372e56018f14cbb82a32701fff5f65f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 #### Summary
     
 In this article, we saw:

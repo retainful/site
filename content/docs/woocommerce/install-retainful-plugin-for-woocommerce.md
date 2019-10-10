@@ -19,7 +19,7 @@ There are two methods of how the plugin can be installed.
 ![PluginfromWordpress](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/pluginSearch.png)
 
 Here is a video on how to install the plugin using Method-1, using the plugin manager:
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/share/64bd0a3d113843829f6c09fabfe7a9d8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/64bd0a3d113843829f6c09fabfe7a9d8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 **Method 2:**
 
@@ -36,9 +36,10 @@ Here is the screenshot after installing the plugin:
 
 ![Installation](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/RetainfulIntallation.png)
 
-Hurray ! We have now installed the plugin successfully.
+Here is a video tutorial on how to install the plugin using Method-2, by uploading the package:
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/8a23291dab0a47e8bea218bbbb27d156" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/share/8a23291dab0a47e8bea218bbbb27d156" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+Hurray ! We have now installed the plugin successfully.
 
 Note: 
 - You need to follow any one of the above methods (DO NOT follow Method 2 if you already followed Method 1)

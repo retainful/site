@@ -13,6 +13,11 @@ Retainful comes with awesome cart recovery features, which helps you send automa
 
 This guide walks you through the process of creating **a sequence of Abandoned Cart Recovery Emails in your WooCommerce store**.
 
+### Setting up an abandoned cart email sequence for version 1.x:
+
+For those using Retainful with version 1.x, please follow the below procedure for setting up an abandoned cart email sequence.
+
+
 ### Step 1:Basic configuration
 
 Go to your WordPress Dashboard -> WooCommerce -> Retainful -> Settings tab.
