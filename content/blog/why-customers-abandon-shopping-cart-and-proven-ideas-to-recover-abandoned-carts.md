@@ -22,6 +22,8 @@ This survey identified 10 reasons but there are many others.
 
 Read on to know more.
 
+<toc></toc>
+
 <h2><highlight>13 reasons for shopping cart abandonment</highlight></h2>
 
 This post sums up findings from different surveys and describes briefly the top reasons for shopping cart abandonment along with some suggestions to <link-text url="https://www.retainful.com/blog/the-simple-way-to-retain-all-your-customers" rel="noopener" target="_blank">recover the already abandoned carts</link-text>.

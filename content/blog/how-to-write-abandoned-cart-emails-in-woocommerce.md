@@ -19,7 +19,9 @@ Here is a list of industry-wise cart abandonment rates
 
 *Statistics By: Optinmonster*
 
-### What if you can recover the abandoned carts?
+<toc></toc>
+
+## What if you can recover the abandoned carts?
 ____
 
 
@@ -31,7 +33,7 @@ Speaking reality, let’s say you can recover at least 45% of your abandoned car
 Doing your Math?...
 Don't worry! we have done the research for you and listed the best practices for writing effective copy for your abandoned cart recovery emails. Keep reading!
 
-### Why you should send an abandoned cart email?
+## Why you should send an abandoned cart email?
 ____
 
 Let's first understand why email is the best strategy for recovering the abandoned carts.
@@ -42,7 +44,7 @@ Abandoned cart emails are targetted emails sent to customers who have abandoned 
 
 Unlike any other promotional campaigns, cart recovery emails have the best open rate of 46%. And, interestingly 35% of cart recovery email click drives customers back to your store and resulting in successful conversion.
 
-### How to write effective abandoned cart emails that leads to conversion?
+## How to write effective abandoned cart emails that leads to conversion?
 ____
 
 On an average, a person checks his emails at least 5 - 7 times a day. You probably are doing that already. But to make a customer click your cart recovery link requires you to write an engaging and effective email.
@@ -52,7 +54,7 @@ So, how to write actionable abandoned cart emails?... How to make your customer 
 Following are the best strategies followed by leading eCommerce brands in the world to write best abandoned cart emails (explained with examples). Feel free to borrow from the examples to write your own abandoned cart emails.
 
 
-### 6 Best Strategies for Abandoned Cart Emails with Examples
+## 6 Best Strategies for Abandoned Cart Emails with Examples
 ____
 
 Here is a list of abandoned cart email strategies with examples (Feel free to borrow for your campaign!):
@@ -64,7 +66,7 @@ Here is a list of abandoned cart email strategies with examples (Feel free to bo
 5. Share Support Information
 6. Add Customer Reviews / Testimonials
 
-#### 1. Simple, Catchy Subject Line
+### 1. Simple, Catchy Subject Line
 
 We get hundreds of emails everyday. But we only open and read a few!. The top most factor that decides the open rate is: Subject line.
 <link-text url="https://www.cmbinfo.com/knowledge-center/news/marketing-charts-brand-and-subject-lines-fuel-email-opens-clutter-drives-users-away/" target="_blank" rel="nofollow">64% of people said they open an email</link-text> based on the subject line. 
@@ -92,7 +94,7 @@ So, don’t send cart emails with subject line saying You left something..., Hur
 
 Here is an extensive list of <link-text url="https://sumo.com/stories/abandoned-cart-email-subject-lines" target="_blank" rel="nofollow">Abandoned Cart email subject lines</link>
 
-#### 2. Show the customer what’s left in the cart
+### 2. Show the customer what’s left in the cart
 
 Well, you can absolutely track and <link-text url="https://www.retainful.com/blog/how-to-check-abandoned-carts-in-woocommerce" target="_blank" rel="noopener">check abandoned carts in your WooCommerce</link-text> store. But your customer may not actually remember what’s left in the cart.
 
@@ -110,7 +112,7 @@ Check the email from ‘Ashford’
 - And you get a one-click cart recovery button. A clear CTA.
 - And it recommends you items you might be interested. And this is based on what you left in the cart.
 
-#### 3. Single-click cart recovery (Call to Action)
+### 3. Single-click cart recovery (Call to Action)
 
 Let the customer recover their cart with a single click. This helps the customer complete the purchase more quickly. 
 
@@ -125,7 +127,7 @@ If you are taking them through a complex checkout process with multiple steps, t
 -   Return to your cart- to take customers to the cart page so that he can add or remove products before checking out.
 -   Checkout Now- to take customers directly to the checkout page where the customer is just asked to complete payment.
   
-#### 4. Tempt with discounts & Free Shipping
+### 4. Tempt with discounts & Free Shipping
 
 Ever asked customers the reason for cart abandonment?
 Well, here’s what Statista has got to say when it comes to Why People abandon shopping carts.  
@@ -150,7 +152,7 @@ So, what if the customers are shared with FREE shipping coupons and discount off
 
 The email would do better if they fixed the cranky headline!
 
-#### 5. Share Support Details
+### 5. Share Support Details
 
 Sometimes your customer might have few queries regarding the product delivery, return policy, coupon restrictions, etc. and because of that could have abandoned cart.
 
@@ -166,7 +168,7 @@ In this case, you got to make sure that every query of your customer is answered
 
 Complete. Isn’t it?
 
-#### 6. Add Customer Reviews / Testimonials
+### 6. Add Customer Reviews / Testimonials
 
 Online shoppers are always obsessed with social proof. They look for product reviews before making an online purchase.
 
@@ -184,7 +186,7 @@ Its ‘Casper’ again.
 
 Customer testimonials in cart recovery email can offer the best reason for customers to recover abandoned carts.
 
-### Final Thoughts
+## Final Thoughts
 ____
 
 Customers abandon the cart for variety of reasons. With a proper follow-up and reminders, it is possible to recover at least 30 to 40 percentage of lost sales.

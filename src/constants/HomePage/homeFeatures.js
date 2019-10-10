@@ -22,7 +22,7 @@ const HomeFeatures = () => (
                 <div className="col-lg-3 col-md-6">
                     <div className="hero-plugins">
                         <p><img className="img-fluid"
-                                src={`${process.env.GATSBY_RF_MEDIA_URL}/next_order_discouny_coupon.png`}
+                                src={`${process.env.GATSBY_RF_MEDIA_URL}/DriveRepeatPurchase.png`}
                                 alt="next_order_discouny_coupon"/></p>
                         <h4>Drive Repeat Purchases</h4>
                         <p>Auto generate and send unique coupons for the next purchase within the order notification itself and bring customers back</p>
@@ -31,7 +31,7 @@ const HomeFeatures = () => (
                 <div className="col-lg-3 col-md-6">
                     <div className="hero-plugins">
                         <p><img className="img-fluid"
-                                src={`${process.env.GATSBY_RF_MEDIA_URL}/track_realtime_conversions.png`}
+                                src={`${process.env.GATSBY_RF_MEDIA_URL}/Actionable-Analytics-%26-Insights-big.png`}
                                 alt="track_realtime_conversions"/></p>
                         <h4>Actionable Analytics & Insights</h4>
                         <p>Check your abandoned carts and their value. Track the performance of your cart recovery emails and next order coupons</p>
@@ -40,7 +40,7 @@ const HomeFeatures = () => (
                 <div className="col-lg-3 col-md-6">
                     <div className="hero-plugins">
                         <p><img className="img-fluid"
-                                src={`${process.env.GATSBY_RF_MEDIA_URL}/track_realtime_conversions.png`}
+                                src={`${process.env.GATSBY_RF_MEDIA_URL}/Drag-and-Drop-big.png`}
                                 alt="track_realtime_conversions"/></p>
                         <h4>Drag-and-Drop Visual Email Editor</h4>
                         <p>Create beautiful emails with our drag-and-drop visual email builder. Use the pre-built, responsive email templates and get started quickly</p>
@@ -71,7 +71,7 @@ const HomeFeatures = () => (
 
                         </ul>
                         <p>
-                            <a href="#">Learn more  <span><FaLongArrowAltRight/></span></a>
+                            <Link to="/abandoned-cart-recovery">Learn more  <span><FaLongArrowAltRight/></span></Link>
                         </p>
                     </div>
                 </div>
@@ -90,7 +90,7 @@ const HomeFeatures = () => (
                             <li>Track the performance of the coupons in the Retainful Dashboard</li>
                         </ul>
                         <p>
-                            <a href="#">Learn more <span><FaLongArrowAltRight/></span></a>
+                            <Link to="/next-order-coupon">Learn more <span><FaLongArrowAltRight/></span></Link>
                         </p>
                     </div>
                 </div>

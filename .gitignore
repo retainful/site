@@ -54,6 +54,11 @@ typings/
 # dotenv environment variables file
 .env
 
+#lambda test files
+
+./lambda
+lambda
+
 # gatsby files
 .cache/
 public

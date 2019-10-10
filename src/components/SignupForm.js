@@ -1,8 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import validator from 'validator';
 import axios from "axios";
-import notify from "../helpers/notify";
 
 const formAPI = '/.netlify/functions/signup'
 
@@ -42,14 +40,20 @@ export default class NewsletterForm extends React.Component{
         })
     }
 
-    renderForm() {
+    renderForm(placeholder, btnTxt, btnCls, btnColor, width) {
         const { success, loading } = this.state;
-        const buttonText = (loading) ? '...' : 'Notify Me';
+        const buttonText = (loading) ? '...' : btnTxt;
+        const buttonColor = {
+            background: btnColor,
+            borderColor: btnColor,
+        };
+        const formWidth = {
+            width: width
+        };
         const handler = (loading) ? noOp : this.handleSubmit;
 
         /* if they submitted the form, show thanks */
         if (success) {
-            notify('success', 'Subscribed!', success);
             return (
                 <div>
                     <div className="alert alert-success">
@@ -58,89 +62,32 @@ export default class NewsletterForm extends React.Component{
                 </div>
             )
         }
-
         return (
-            <form onSubmit={handler} className="form-inline newsletter-form">
-                <input
-                    type="email"
-                    name="email"
-                    className="form-control sign-up"
-                    ref={input => this.email = input}
-                    placeholder="Enter your email address..."
-                    required
-                />
-                <button  className="btn btn-success btn-lg sign-up-button" type="submit">
+            <form onSubmit={handler} className="form-inline newsletter-form" style={formWidth}>
+                <input type="email" name="email" className="form-control sign-up" ref={input => this.email = input} placeholder={placeholder} required/>
+                <button className={"btn btn-success btn-lg sign-up-button " + btnCls} style={buttonColor} type="submit">
                     {buttonText}
                 </button>
             </form>
         )
     }
 
-    // handleLoadingState = loading => {
-    //     //Set loading flag
-    //     this.setState({ loading: loading });
-    // }
-
-    // handleSendEmail = email => {
-    //     this.handleLoadingState(true);
-    //
-    //     const headers = {
-    //         'content-type': 'application/json',
-    //         Authorization: `auth ${process.env.MAILCHIMP_API_KEY} `,
-    //     };
-    //
-    //     // Construct req data
-    //     const data = '{"email_address":"'+ email +'", "status":"subscribed", "tags":["lead-magnet-templates"],"merge_fields":{"FNAME":"'+email+'"}}';
-    //
-    //     const postData = JSON.stringify(data);
-    //
-    //     const options = {
-    //         url: `${process.env.MAILCHIMP_API_URL}`,
-    //         method: 'POST',
-    //         headers: headers,
-    //         body: postData,
-    //         auth: {
-    //             'user': 'anystring',
-    //             'pass': `${process.env.MAILCHIMP_API_KEY}`
-    //         }
-    //     };
-    //
-    //     // request(options);
-    //
-    //     axios.post(`${process.env.MAILCHIMP_API_URL}`, options, {headers: headers})
-    //         .then(res => {
-    //             console.log(res);
-    //             if(res.data.success) {
-    //                 //If the response from MailChimp is good...
-    //                 notify('success', 'Subscribed!', res.data.success);
-    //                 this.setState({ email: '' });
-    //                 this.handleLoadingState(false);
-    //             } else {
-    //                 //Handle the bad MailChimp response...
-    //                 notify('error', 'Unable to subscribe!', res.data.error);
-    //                 this.handleLoadingState(false);
-    //             }
-    //         }).catch(error => {
-    //         //This catch block returns an error if Node API returns an error
-    //         notify('error', 'Error. Please try again later.', error.message);
-    //         this.handleLoadingState(false);
-    //     });
-    // }
-
-    // handleOnChangeEmail = email => {
-    //     this.setState({
-    //         email: email
-    //     })
-    // }
-
     render() {
         return (
             <>
-                {this.renderForm()}
+                {this.renderForm(this.props.placeholdertext,this.props.btntext, this.props.btnclass, this.props.btncolor, this.props.width)}
             </>
         )
     }
 }
+
+NewsletterForm.defaultProps = {
+    placeholdertext: 'Enter your email',
+    btntext: 'Sign Up for free',
+    btnclass: '',
+    btncolor: '#32C733',
+    width: ''
+};
 
 function formHandler(email) {
     const data = {

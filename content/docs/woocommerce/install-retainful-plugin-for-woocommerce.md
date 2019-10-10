@@ -1,12 +1,14 @@
 ---
 title: "Installing Retainful WooCommerce Abandoned Cart Recovery Email Plugin"
 description: "Learn how to install Retainful - WooCommerce Abandoned Cart and Next Order Coupon Plugin"
-date: "2019-01-25"
+date: "2019-10-09"
 author: "Siddharth"
 tags: ["installation", "woocommerce"]
 category: woocommerce
 ---
 
+### Installation- For both version 1.x and 2.x users:
+The method of installation is the same for users who use Retainful version 1.x and 2.x. 
 There are two methods of how the plugin can be installed. 
 
 **Method 1 (easier and recommended)**
@@ -16,8 +18,10 @@ There are two methods of how the plugin can be installed.
 
 ![PluginfromWordpress](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/pluginSearch.png)
 
-Method 2:
+Here is a video on how to install the plugin using Method-1, using the plugin manager:
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/64bd0a3d113843829f6c09fabfe7a9d8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+**Method 2:**
 
 Download the plugin from Wordpress repository or click <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" rel="noopener nofollow" target="_blank">here.</link-text>
 
@@ -31,6 +35,9 @@ You can see the plugin under Woocommerce Section
 Here is the screenshot after installing the plugin:
 
 ![Installation](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/RetainfulIntallation.png)
+
+Here is a video tutorial on how to install the plugin using Method-2, by uploading the package:
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/8a23291dab0a47e8bea218bbbb27d156" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Hurray ! We have now installed the plugin successfully.
 

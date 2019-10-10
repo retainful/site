@@ -15,6 +15,7 @@ You know e-commerce has become the phase of today’s fast-paced world. Do you w
 E-commerce business is a dime a dozen these days. Standing out from every other business out there needs a different perception of things altogether. Your customers keep your business growing. And every e-commerce store owner is struck with this question every now and then- How to make customers stick with their business for long?
 Well, We are here to provide you with simple but effective ideas to make your customers stay put for a worthwhile.
 
+<toc></toc>
 
 ## 1. Communicate on a regular basis
 

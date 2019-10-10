@@ -73,141 +73,120 @@ Recover lost sales with the most powerful abandoned cart recovery app. Trigger c
 <br>
 
 
-<div class="text-center">
-
-## Reduce Cart abandonment & Welcome Customers to abandoned carts
-Don’t lose potential sale opportunities. Send personalized recovery emails and drive customers to a successful purchase. 
-
-</div>
-
-<br>
-<br>
-<br>
-
-<container> 
-
-<row>
-
-<card size="3">
-   <div slot="card-title">Easy Integration with Shopify and WooCommerce</div>
-    <div slot="card-image">
-        <img src="../../src/images/Shopify-and-WooCommerce.png" alt="image Here"  />
-    </div>
-    <div slot="card-body"> 
-       Connect your Shopify and WooCommerce stores in minutes and Start recovering abandoned carts.
-    </div>
-</card>
-
-<card size="3">
-   <div slot="card-title">Grow Revenue easily than ever before</div>
-    <div slot="card-image">
-        <img src="../../src/images/Grow-Revenue.png" alt="image Here"  />
-    </div>
-    <div slot="card-body"> 
-        Abandoned cart recovery emails recover 40% of lost sales. That’s a 30% increase in your overall online revenue.
-    </div>
-</card>
-
-<card size="3">
-<div slot="card-title" style="padding-bottom:33px">Drag and Drop visual Email Editor</div>
-    <div slot="card-image">
-        <img src="../../src/images/Drag-and-Drop.png" alt="image Here"  />
-    </div>
-    <div slot="card-body">
-        Writing email is made easy. Drag and drop to create responsive cart recovery emails using Retainful’s visual email builder.
-    </div>
-</card>
-
-<card size="3">
-   <div slot="card-title">Automate Cart Recovery Email campaign</div>
-    <div slot="card-image">
-        <img src="../../src/images/email-campaign.png" alt="image Here" />
-    </div>
-    <div slot="card-body">
-    No more labor! Trigger a series of well-timed email reminders automatically.
-    Schedule a sequence of cart recovery emails to retarget customers who abandoned carts.
-    </div>
-</card>
-
-</row>
-
-</container>
-
-
-<br>
-<br>
-<br>
-
 <container>
 
+<div class="p-5">
+
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
 <div slot="right">
 
-## Unlimited cart recovery emails
+## Automatic email reminders
 
-No limits!
-Send an unlimited number of abandoned cart recovery emails. Create a drip campaign to trigger email reminders at scheduled intervals automatically. More the follow up emails you sent, more is the opportunity to convert all your abandoned carts.
+**Get started IMMEDIATELY with Retainful**
+
+- No need to wait till you draft an email from the scratch! 
+- Use drag and drop feature, no need to code. 
+- Pre-built, responsive email templates gives insights about successful cart recovery emails with ample scope for customization.
+- Starts sending emails after cart gets abandoned
+- Stops sending emails after the cart gets recovered
+- Plus a series of periodically timed automated emails can be automated
+- Enable single-click cart recovery
+
+Automation not just saves your time but gives room for a lot more marketing strategies to be explored.
+
 
 </div>
 
 
 <div slot="left">
 
-<img src="https://raw.githubusercontent.com/retainful/site-images/master/abandoned_cart_recovery_emails.png" width="500" height="350"/>
+<img src="../../content/images/landingpage/Abandoned-Cart-Recovery.png"/>
 
 
 </div>
 
 </featurecontent>
 
+</div>
+
+<div class="p-5">
+
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
 <div slot="left">
 
-## Ready to Use Email Templates
+## Unlimited emails
 
-Start recovering abandoned carts in minutes. Use our ready-made email templates and start your recovery campaign. Also, create your own cart email template using the simple drag and drop email builder.
+Retainful offers you unlimited emails for abandoned cart recovery.
+Here unlimited refers to both number of mails and designs.
+
+-   You can send as many numbers of emails that you prefer to send for abandoned cart recovery.
+    
+-   You can design as many designs of emails to be sent.
+
+ There is no cost per email.
+Achieve a better outcome with abandoned cart recovery with unlimited number of emails that gives you the uninterrupted freedom to try out which works the best.
+
 
 </div>
 
 <div slot="right">
 
 
-<img src="../../src/images/Ready-to-Use-Email-Templates.png" width="500" height="350"/>
+<img src="../../src/images/Ready-to-Use-Email-Templates.png"/>
 
 
 </div>
 
 </featurecontent>
 
+</div>
+
+<div class="p-5">
 
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
 <div slot="right">
 
-## Clean Report
 
-Get a clean report with cart abandonment rate and actionable insights on email campaigns.Track email conversions and measure your online growth made with successful conversions. Compare the cart values of abandoned carts and recovered carts to measure your revenue.
+## Well timed emails
+
+Mails can be well-timed with this abandoned cart recovery app.
+Boost sales using the benefits of well-timed emails because timely actions can reap you immense benefits like following.
+
+-   Chances of your email getting noticed increases.
+    
+-   Increased chances of getting good responses.
+    
+-   A set number of emails has got the potential to result in increased conversions.
+
+Figure out the optimal response yielding factors.
+
+Experiment with numbers and time intervals that should be set for abandoned cart recovery. Thereby increase conversion rates for abandoned cart recovery by setting up well-timed emails.
+
 
 </div>
 
 
 <div slot="left">
 
-<img src="../../src/images/Clean-Report.png" width="500" height="350"/>
+<img src="../../content/images/landingpage/Well-timed-emails.png"/>
 
 </div>
 
 
 </featurecontent>
 
+</div>
+
+<div class="p-5">
 
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
 <div slot="right">
 
-<img src="../../src/images/Priority-support.png" width="500" height="350"/>
+<img src="../../content/images/landingpage/Personalized-reminders.png"/>
 
 </div>
 
@@ -216,14 +195,67 @@ Get a clean report with cart abandonment rate and actionable insights on email c
 
 <div slot="left">
 
-## Priority support
+## Personalized reminders
 
-We’re always there to cover you! Need support? Reach us anytime and receive expert assistance.Our support team houses expert developers to assist in all your website requirement.
+Give the required attention to get back the same.
+
+Create impressive designs along with a tinge of emotional connectivity to get responses for your reminders.
+
+-   Identify your niche customers
+    
+-   Design unique mails for those particular customers
+    
+-   Send mails Personally
+
+-   Witness increase in cart abandonment recovery conversion rates
+    
+-   Make customers respond quickly
+    
+-   Instill trust and emotional connectivity with customers
+
+Humans like responding to human-like advances rather than a machine-generated pre-typed message. Moreover, it impacts psychologically and more people tend to respond.
 
 </div>
 
 
 </featurecontent>
+
+</div>
+
+<div class="p-5">
+
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="left">
+
+<img src="../../content/images/landingpage/Capture-abandoned-carts.png"/>
+
+</div>
+
+
+
+
+<div slot="right">
+
+## Capture abandoned carts
+It is important to make an effort to fetch data regarding all abandoned carts. 
+
+
+
+Stay updated with your cart behavior and the stats related to it.
+
+- Fetches data like the product abandoned by users. 
+- Fetches data regarding the product details abandoned by all users.
+- Fetches data regarding how many users abandoned how many products
+This helps to measure your business growth.
+
+
+</div>
+
+
+</featurecontent>
+
+</div>
 
 </container>
 

@@ -8,9 +8,7 @@ const FeatureContent = (props) => {
     const slottedChildren = groupBy(childrenArray, 'props.slot');
     const featureBodySizeLeft = `col-md-${props.featurebodysizeleft}`
     const featureBodySizeRight = `col-md-${props.featurebodysizerigth}`
-    const cardClass = `features-list text-center`;
-    const featureCardLeftSize = `feature-card text-center col-md-${props.leftcardsize}`
-    const featureCardRightSize = `feature-card text-center col-md-${props.rightcardsize}`
+    const cardClass = `features-list`;
 
     return (
    

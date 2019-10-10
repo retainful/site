@@ -22,6 +22,7 @@ export default function Footer() {
                             <li><Link to="/next-order-coupon">Next Order Coupons</Link></li>
                             <li><Link to="/follow-up-emails">Follow-up Emails</Link></li>
                             <li><Link to="/customer-retention">Customer Retention</Link></li>
+                            <li><Link to="/shopify-abandoned-cart">Shopify Abandoned cart</Link></li>
                         </ul>
                     </Col>
                     <Col size="3">
@@ -45,7 +46,7 @@ export default function Footer() {
                         <h4 className="footer-title">Company</h4>
                         <ul>
                             <li>
-                                <Link to="/#">About Us</Link>
+                                <Link to="/about-us">About Us</Link>
                             </li>
                             <li>
                                 <Link to="/blog">Blog</Link>
@@ -54,7 +55,7 @@ export default function Footer() {
                                 <Link to="/support">Support</Link>
                             </li>
                             <li>
-                                <Link to="/support">Contact Us</Link>
+                                <Link to="/contact">Contact Us</Link>
                             </li>
                             <li>
                                 <Link to="/partner-program">Partner Program</Link>
@@ -72,8 +73,8 @@ export default function Footer() {
                         <img src={GdprReadBadge} alt="" className="img-responsive"/>
                         <div className="footer-social-block">
                             <div className="footer-social-links clearfix">
-                                <a target="_blank" href="https://www.facebook.com/campaignrabbit/" className="foot-social-link"><i className="fa fa-facebook"><FaFacebookF/></i></a>
-                                <a target="_blank" href="https://twitter.com/campaignrabbit/" className="foot-social-link"><i className="fa fa-twitter"><FaTwitter/></i></a>
+                                <a target="_blank" href="https://www.facebook.com/retainful/" className="foot-social-link"><i className="fa fa-facebook"><FaFacebookF/></i></a>
+                                <a target="_blank" href="https://twitter.com/retainful/" className="foot-social-link"><i className="fa fa-twitter"><FaTwitter/></i></a>
                             </div>
                         </div>
                     </Col>

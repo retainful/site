@@ -4,10 +4,11 @@ import Container from  '../components/container'
 import WooPricing from "../components/WooPricing";
 import ShopifyPricing from "../components/ShopifyPricing";
 
+import Guaranteee from '../images/guarantee.png';
+
 class PricingTable extends React.Component {
     constructor(props) {
         super(props);
-        console.log(props)
     }
     render() {
         return (
@@ -36,6 +37,15 @@ class PricingTable extends React.Component {
                                         <ShopifyPricing/>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+                        <div className="money-back-guarantee-block text-left d-flex align-items-center">
+                            <div className="image-block m-r-20">
+                                <img src={Guaranteee} alt="Money back Guaranteee" className="img-responsive mw-100"/>
+                            </div>
+                            <div className="content-block">
+                                <h3 className="m-b-5">100% No-Risk Money Back Guarantee!</h3>
+                                <p>You are fully protected by our 100% No-Risk Double-Guarantee. If you don’t like Retainful over the next 14 days, then we will happily refund 100% of your money. No questions asked.</p>
                             </div>
                         </div>
                         <div className="enterprise-pricing-plan text-center">

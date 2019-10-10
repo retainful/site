@@ -3,7 +3,7 @@ path: "/blog/how-to-send-free-cart-recovery-emails-in-woocommerce/"
 date: "2019-04-02"
 title: "How to send FREE Cart Recovery emails in WooCommerce"
 description: "How to automate Cart Recovery email reminders with Retainful and recover your cart abandoned sales. Try Retainful- The FREE cart recovery email plugin loved by thousands of Happy WooCommerce store owners."
-author: "Siddharth "
+author: "Siddharth"
 image: "../images/how-to-send-free-cart-recovery-emails-in-woocommerce/how-to-send-free-cart-recovery-emails-in-woocommerce.png"
 thumbnail: "../images/how-to-send-free-cart-recovery-emails-in-woocommerce/how-to-send-free-cart-recovery-emails-in-woocommerce.png"
 category: "ecommerce"
@@ -20,6 +20,8 @@ So, here is the post to show how to recover your lost sales- Hold.., you may fin
 
 But, there’s something interesting in here.    
 The post says ***How to send FREE cart recover email reminders*** in WooCommerce.
+
+<toc></toc>
 
 ## Why should you send cart recovery emails
 Well, the reasons to recover your abandoned carts are simple
@@ -168,7 +170,7 @@ So, that’s basically how you effectively time your recovery emails. Do a lot A
 
 Found the post useful, do share your thoughts and ideas to grow our WooCommerce community.
 
-<link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" target="_blank" rel=“noopener><cta>Download Retainful</cta></link-text>
+<cta url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" target="_blank" rel=“noopener>Download Retainful</cta>
 
 <br>
 Well, if you want to know the list of other tools to <link-text url="https://www.retainful.com/blog/7-sales-conversion-tools-for-shopify-and-woocommerce/" target="_blank" rel=“noopener”>increase sales conversion in your WooCommerce store</link-text>, don’t forget to check this useful post. 

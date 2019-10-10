@@ -23,6 +23,8 @@ A study issued by Barilliance says, smaller the size of the screen, more is the 
 
 The issue is addressed and assisted with the help of plugins. And here is the list of preferred WordPress plugins that helps in cart recovery.
 
+<toc></toc>
+
 ## 7 Top WooCommerce abandoned cart recovery plugins
 ___
 
