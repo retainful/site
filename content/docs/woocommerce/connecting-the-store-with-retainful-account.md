@@ -1,5 +1,7 @@
 ---
 title: "Connecting the Store with Retainful account"
+path: "/docs/woocommerce/connecting-the-store-with-retainful-account
+"
 description: "Learn how to connect the Store with Retainful account"
 date: "2019-10-09"
 author: "Sowbagya lakshmi"
@@ -24,7 +26,8 @@ This article walks you through the process of connecting your Woocommerce store 
 #### For version 1.x
 For those, who use Retainful plugin with version 1.x, please follow the below steps to connect the store with your Retainful account:
 
-1. **Fetching the keys:** Login to your Retainful dashboard by clicking <link-text url="https://app.retainful.com" target="_blank" rel="noopener">here<link-text>. If you are a new user, you could sign up as well.
+1. **Fetching the keys:** Login to your Retainful dashboard by clicking <link-text url="https://app.retainful.com" target="_blank" rel="noopener">here<link-text>
+If you are a new user, you could sign up as well.
 
 ![Login page](../../images/docs/connecting-the-store-with-retainful/1.x-dashboard-login-page.png)
   
@@ -45,7 +48,6 @@ For those, who use Retainful plugin with version 1.x, please follow the below st
 6. A success message would appear indicating that you have been connected to Retainful as indicated in the above screenshot.
 
  7. Alternatively, you could click on the **dashboard** button on the License tab which would take you to the Retainful dashboard from where you could fetch your API keys as well.
-
 
 #### For version 2.x
 
