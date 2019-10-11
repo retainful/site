@@ -72,6 +72,11 @@ We have now added our store's logo to the abandoned cart mail template.
 Here is a video on how to add a store logo to your abandoned cart email templates.
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/80c0a13775044e10a6210925528891c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"</div>
 
+### Summary
+
+In this article, we saw how to:
+1. Add a store logo for versions 1.x (Legacy) and 2.x.
+
 
 
 
