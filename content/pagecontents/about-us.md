@@ -13,11 +13,11 @@ keywords: "retainful, What is retinful, ecommerce abandoned cart solutions"
 
 <container>
 
-<row class="justify-content-center">
+<row class="justify-content-center align-items-center">
 
 <column size="6">
 
-<h3> Empowering eCommerce Stores WorldWide </h3>
+<h3> Helping eCommerce Stores WorldWide </h3>
 
 Retainful is an eCommerce solutions provider primarily focusing on helping online stores recover abandoned carts. And stores can do this by sending personalized follow-up emails, next order coupons, email drip campaigns, opt-in forms and every other possible thing that would help recover abandoned carts. You can find us at Shopify & WooCommerce for now. There’s more on our way!
 
@@ -25,7 +25,7 @@ Retainful is an eCommerce solutions provider primarily focusing on helping onlin
 
 <column size="6">
 
-<img src="../images/Empowering-eCommerce-Stores-WorldWide.png">
+<img src="../images/landingpage/Empowering-eCommerce-Stores-WorldWide.jpg">
 
 </column>
 
@@ -35,11 +35,11 @@ Retainful is an eCommerce solutions provider primarily focusing on helping onlin
 <br>
 
 
-<row class="justify-content-center">
+<row class="justify-content-center align-items-center">
 
 <column size="6">
 
-<img src="../../src/images/Priority-support.png">
+<img src="../images/landingpage/How-Have-We-Been-of-Use-to-Our-Customers.png">
 
 </column>
 
@@ -76,7 +76,7 @@ It’s a cycle with us here - we deliver memorable experiences to our customers,
       <span> <img src="../images/a4.svg" alt="image Here" style="width: 80%;"> </span>  
     </div>
     <div slot="card-body"> 
-       Connected Stores
+       <strong>Connected Stores</strong>
     </div>
 </card>
 
@@ -86,7 +86,7 @@ It’s a cycle with us here - we deliver memorable experiences to our customers,
       <span> <img src="../images/a5.svg" alt="image Here" style="width: 80%;"> </span>  
     </div>
     <div slot="card-body"> 
-       Carts Recovered
+       <strong> Carts Recovered </strong>
     </div>
 </card>
 
@@ -96,7 +96,7 @@ It’s a cycle with us here - we deliver memorable experiences to our customers,
         <span> <img src="../images/a3.svg" alt="image Here" style="width: 80%;"> </span>
     </div>
     <div slot="card-body">
-        Next Order Coupons Sent
+        <strong> Next Order Coupons Sent </strong>
     </div>
 </card>
 

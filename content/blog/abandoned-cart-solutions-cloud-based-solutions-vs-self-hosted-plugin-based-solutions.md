@@ -1,7 +1,7 @@
 ---
 path: '/blog/abandoned-cart-solutions-cloud-based-solutions-vs-self-hosted-plugin-based-solutions'
 date: '2019-09-18'
-title: 'Abandoned Cart Solutions: Cloud-Based Solutions VS Self Hosted Plugin Based Solutions'
+title: 'Abandoned Cart Recovery Solutions: SaaS  Vs Plugins'
 description: 'It’s time to move on from self hosted plugin based solutions to cloud based solutions (SaaS) for recovering your abandoned carts. And here we’ve given every reason as to why you should be doing so!'
 author: 'Ramesh Elamathi'
 image: '../images/abandoned-cart-solutions-cloud-based-solutions-vs-self-hosted-plugin-based-solutions/abandoned-cart-solutions-cloud-based-solutions-vs-self-hosted-plugin-based-solutions.png'
@@ -163,7 +163,7 @@ One may argue that using an SMTP service like Sendgrid, Mailgun or Mandrill will
 
 However, when you get to use a SaaS service like Retainful, emails are delivered from dedicated IP pools. Our systems continuously monitor the IP pools and keep a tab on the reputation of each IP which means, the email deliverability is quite higher.
 
-With <link-text url="https://www.retainful.com/pricing" rel="noopener" target="_blank"> Retainful’s Business Plan</link-text>, you can also choose to send the email from your own domain name.
+With <link-text url="https://www.retainful.com/pricing" rel="noopener" target="_blank"> Retainful’s Business Plan,</link-text> you can also choose to send the email from your own domain name.
 
 If you are still quite not clear, here’s a table that can help you understand better
 
