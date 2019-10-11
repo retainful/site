@@ -7,6 +7,7 @@ description: "Your faulty eCommerce checkout page design leads to cart abandonme
 author: "Sharon Thomas"
 image: "../images/how-to-reduce-checkout-time-in-a-shopping-cart/how-to-reduce-checkout-time-in-a-shopping-cart.png"
 thumbnail: "../images/how-to-reduce-checkout-time-in-a-shopping-cart/how-to-reduce-checkout-time-in-a-shopping-cart.png"
+category: "ecommerce"
 ---
 
 Straight to the point…

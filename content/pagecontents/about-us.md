@@ -17,9 +17,9 @@ keywords: "retainful, What is retinful, ecommerce abandoned cart solutions"
 
 <column size="6">
 
-<h3> Helping eCommerce Stores WorldWide </h3>
+<h3> We Help eCommerce Stores Grow Everyday </h3>
 
-Retainful is an eCommerce solutions provider primarily focusing on helping online stores recover abandoned carts. And stores can do this by sending personalized follow-up emails, next order coupons, email drip campaigns, opt-in forms and every other possible thing that would help recover abandoned carts. You can find us at Shopify & WooCommerce for now. There’s more on our way!
+Retainful is an eCommerce solutions provider who has been helping online stores grow since 2018. We help stores recover abandoned carts by allowing them to create automated email campaigns, send next order coupons, email drip campaigns, opt-in forms and more., You can find us at Shopify & WooCommerce for now. There’s more on our way!
 
 </column>
 
@@ -203,7 +203,7 @@ Retainful is GDPR Compliant. All your data is stored on a secured cloud platform
 
 <column size="8">
 
-At heart, we always think of our customers and make sure that every change we bring in or make to Retainful, our customers feel good about it. Because it’s all about you here! 
+At heart, we always think of our customers and make sure that every change we bring or make to Retainful, our customers feel good about it. Because it’s all about you here! 
 
 <br>
 
