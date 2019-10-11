@@ -22,7 +22,7 @@ So, this would improve the mail handling process significantly. Since we move al
 
 ### Pre-requisites
 
-While using Retainful 2.x, the mail delivery is done with encryption, for security purposes. So, please make sure that your site's server has encryption library enabled.
+While using Retainful 2.x, the mail delivery is done with encryption, for security purposes. So, please make sure that your site's server has mcrypt php library enabled.
 
 ### Migration from version 1.x to 2.x
 
@@ -63,7 +63,6 @@ If you change your mind after migrating to cloud, you still have the option to s
  2. If you wish to switch back to plugin itself, you can click on the above indicated button. If you switch back from cloud to plugin, the upcoming abandoned carts, live carts would be maintained in the plugin itself.
 
  3. Those entries that were recorded after migrating to cloud before switching back to plugin, would still be maintained on your Retainful account.
-
 
   ### Summary
 In this article, we saw how to:
