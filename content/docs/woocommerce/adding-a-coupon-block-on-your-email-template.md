@@ -1,7 +1,7 @@
 ---
 title: "Adding a coupon block on your email template"
-description: ""
-date: "2019-10-09"
+description: "A coupon discount can drive more repeat sales. Here is how you could add coupons to your abandoned cart emails."
+date: "2019-10-11"
 author: "Sowbagya lakshmi"
 tags: ["adding a coupon block on your email template", "woocommerce", "abandoned cart emails"]
 category: woocommerce
