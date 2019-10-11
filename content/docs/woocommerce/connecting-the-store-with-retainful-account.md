@@ -31,7 +31,7 @@ If you are a new user, you could sign up as well.
 
 ![Login page](../../images/docs/connecting-the-store-with-retainful/1.x-dashboard-login-page.png)
   
-2. Once you are logged in, you could find a button called **API keys** at the top right corner, next to your Avatar. 
+1. Once you are logged in, you could find a button called **API keys** at the top right corner, next to your Avatar. 
 
 ![API keys button](../../images/docs/connecting-the-store-with-retainful/1.x-API-keys.png)
     
@@ -71,7 +71,6 @@ Here is a video on how to connect your Woocommerce store with your Retainful acc
 #### Summary
     
 In this article, we saw:
-1. Benefits of connecting the store with Retainful
-2. How to connect to Retainful(For version 1.x and 2.x)
 
-    		
+1. Benefits of connecting the store with Retainful                          
+2. How to connect to Retainful(For version 1.x and 2.x)

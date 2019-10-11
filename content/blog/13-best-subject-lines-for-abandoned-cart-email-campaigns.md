@@ -7,6 +7,7 @@ author: "Sharon Thomas"
 description: "Are you in trouble due to boring subject lines in abandoned cart email campaigns? Then, this post with some of the best subject lines will bring about a change."
 image: "../images/13-email-subject-lines/13-email-subject-lines.png"
 thumbnail: "../images/13-email-subject-lines/13-email-subject-lines.png"
+category: "marketing"
 ---
 
 Email Marketing is the most economical way of bringing back customers who abandon their carts. The planning of an <link-text url="https://www.retainful.com/blog/how-to-write-abandoned-cart-emails-in-woocommerce" rel="noopener" target="_blank"> abandoned cart email</link-text> campaign should start off not with the content of the email but the subject line. If that impresses the customer, then there is no looking back. Open rates will soar high followed by returning customers.
