@@ -1,5 +1,5 @@
 ---
-path: '/blog/abandoned-cart-solutions-saas-vs-plugins'
+path: '/blog/abandoned-cart-recovery-solutions-saas-vs-plugin'
 date: '2019-09-18'
 title: 'Abandoned Cart Recovery Solutions: SaaS  Vs Plugins'
 description: 'It’s time to move on from self hosted plugin based solutions to cloud based solutions (SaaS) for recovering your abandoned carts. And here we’ve given every reason as to why you should be doing so!'
