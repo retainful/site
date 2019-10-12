@@ -31,7 +31,7 @@ const StandardPricingPage = () =>{
                 </div>
             </div>
             <Container>
-                <div id="pricing" className="pricing-section text-center">
+                <div id="pricing" className="pricing-section text-center pricing-plans-bg">
                     <StandardPricingTable/>
                 </div>
             </Container>
