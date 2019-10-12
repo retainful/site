@@ -1,7 +1,6 @@
 ---
 title: "Connecting the Store with Retainful account"
-path: "/docs/woocommerce/connecting-the-store-with-retainful-account
-"
+path: "/docs/woocommerce/connecting-the-store-with-retainful-account"
 description: "Learn how to connect the Store with Retainful account"
 date: "2019-10-09"
 author: "Sowbagya lakshmi"

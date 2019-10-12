@@ -3,7 +3,7 @@ title: "Adding a store logo on your email template"
 description: "A store logo is a symbol of making the user remember your brand. Here is how you could add one to your abandoned cart emails."
 date: "2019-10-11"
 author: "Sowbagya lakshmi"
-tags: ["adding a coupon block on your email template", "woocommerce", "abandoned cart emails"]
+tags: ["adding a store logo", "woocommerce", "abandoned cart emails"]
 category: woocommerce
 ---
 
@@ -111,7 +111,7 @@ If you wish to customize the store logo, you could do so by following the below 
 
 You could customize the logo as per your wish.
 
-**Video tutorial**
+**Video tutorials**
 
 Here is a video on how to add a store logo to your abandoned cart email templates:
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/80c0a13775044e10a6210925528891c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -120,17 +120,9 @@ Here is a video on how you could customize the store logo:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/80b6969ded5f499abdc3d7f634d98aa1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
 ### Summary
 
 In this article, we saw how to:
 
 1. Add a store logo to your abandoned cart emails.
 2. Customize the logo.
-
-
-
-
-
-
-
