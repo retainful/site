@@ -9,20 +9,15 @@ category: woocommerce
 
 ### Why should I migrate to cloud
 
- When you are using the Retainful plugin with version 1.x, the abandoned carts management is handled via the wordpress scheduler. All the abandoned cart, recovered cart and in-progress cart entries would be listed on your site's Retainful plugin dashboard. Also, all the mail management occurs within your site. 
+Unlike Retainful version 1.x, where mail handling and cart management occurs at the Woocommerce store itself, if you migrate to the cloud the cart and mail management would be done in the Retainful account dashboard and not on your site. 
 
-While on the other hand, if you migrate to the cloud(option available for existing users if you update the plugin from version 1.x to 2.x), the cart and mail management would be done in the Retainful account dashboard and not on your site. 
-So, this would improve the mail handling process significantly. Since we move all the mail handling to the cloud, the site's resources would not be occupied, which would save database space occupancy, thus increasing your site's speed.
-
-### Points to be noted before migration
-
-- The migration option would only be available for users that update the Retainful plugin from version 1.x to 2.x.
-- If the version of Retainful plugin you are using is 2.x, then the cart and mail management would automatically be done via cloud. That is, the cart entries and mail templates would be available in your Retainful account and not on your site.
-- Once you migrate to cloud, the upcoming abandoned carts, in-progress carts and recovered carts would be recorded and managed in your Retainful account only. Only the Next order coupons and premium features would be listed on the plugin on your site's backend.
+More information for reasons of migration can be found <link-text url="https://www.retainful.com/blog/abandoned-cart-solutions-cloud-based-solutions-vs-self-hosted-plugin-based-solutions">here</link-text>.
 
 ### Pre-requisites
 
 While using Retainful 2.x, the mail delivery is done with encryption, for security purposes. So, please make sure that your site's server has mcrypt php library enabled.
+>NOTE: The migration option would only be available for users that update the Retainful plugin from version 1.x to 2.x.
+> For users who use Retainful 2.x by default, the cart and mail management would be done via cloud only.
 
 ### Migration from version 1.x to 2.x
 
@@ -52,18 +47,10 @@ The migration option would be available if you update from Retainful version 1.x
     
   1. As mentioned before, after you migrate to cloud, there has to be an abandoned cart email sequence maintained on the Retainful account as well. There would be a default set of templates on the Account. You could use these templates or create a new email sequence as per your requirements.
 
-  **Step-4: Switching back to plugin:**  
+  **Switching back to plugin:**  
     
 If you change your mind after migrating to cloud, you still have the option to switch back to plugin.
     
-1.  After migration, the Abandoned carts, Sent emails and the Email templates are separately managed on the connected Retainful account. This is how your Retainful plugin page would look after migration:
-
- ![Switch back to plugin](../../images/docs/migrating-from-plugin-to-cloud/post-migration.png)
-    
- 2. If you wish to switch back to plugin itself, you can click on the above indicated button. If you switch back from cloud to plugin, the upcoming abandoned carts, live carts would be maintained in the plugin itself.
-
- 3. Those entries that were recorded after migrating to cloud before switching back to plugin, would still be maintained on your Retainful account.
-
   ### Summary
 In this article, we saw how to:
 1.  Update the Retainful plugin
