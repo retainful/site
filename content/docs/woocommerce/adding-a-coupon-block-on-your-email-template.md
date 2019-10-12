@@ -64,7 +64,7 @@ So, user has successfully claimed the discount!
 
 Here is a video tutorial that illustrates the process of adding a coupon block to your Abandoned cart emails:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/279cc5aece7f46b9af2b93bd874c6023" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"</div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/279cc5aece7f46b9af2b93bd874c6023" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ### For version 2.x
@@ -114,7 +114,7 @@ The coupon code has been claimed by the user.
 
 Here is a video on how to add a coupon block to your abandoned cart recovery emails.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/1e99048fceab4b27ab0b9941334f01b3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"</div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1e99048fceab4b27ab0b9941334f01b3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Summary
 
