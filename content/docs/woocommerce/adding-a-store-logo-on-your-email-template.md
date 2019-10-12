@@ -19,7 +19,7 @@ Users who have Retainful version 1.x on their site can follow the below process 
 
 ![Default logo on template](../../images/docs/adding-a-logo-to-abandoned-cart-templates/default-logo.png)
 
-2. Now, this is a static logo which you can be swapped with your store's logo.
+2. Now, this is a static logo which can be swapped with your store's logo.
 3. To remove this logo, place the cursor on the logo element and you would see a list of options popup. Click on the X mark to remove the existing default logo.
 
 ![Remove the logo](../../images/docs/adding-a-logo-to-abandoned-cart-templates/remove-logo.png)
@@ -40,7 +40,7 @@ We have now added a Store logo to our recovery emails.
 Here is a short video that explains how you could add a store logo to your abandoned cart recovery emails.
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/3a43fb2073e6468cac6934247ca9d90f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"</div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3a43fb2073e6468cac6934247ca9d90f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### For version 2.x:
 
@@ -70,12 +70,13 @@ We have now added our store's logo to the abandoned cart mail template.
 
 **Video tutorial**
 Here is a video on how to add a store logo to your abandoned cart email templates.
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"&gt;&lt;iframe src="https://www.loom.com/embed/80c0a13775044e10a6210925528891c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"</div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/80c0a13775044e10a6210925528891c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Summary
 
 In this article, we saw how to:
-1. Add a store logo for versions 1.x (Legacy) and 2.x.
+
+Add a store logo for versions 1.x (Legacy) and 2.x.
 
 
 
