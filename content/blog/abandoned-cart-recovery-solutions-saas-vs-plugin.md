@@ -10,9 +10,9 @@ category: 'eCommerce'
 ogtype: 'blog'
 ---
 
-Cart abandonment has now become a serious problem for online stores. In fact, stores need lightspeed rescue solutions to address cart abandonment problems. And as for abandoned carts, small or large, it really doesn’t matter because abandoned carts are a fact. With an effective follow-up, it is proven that 40 to 50 percent of abandoned carts can be recovered, which will boost your revenue by at least 5x.
+Cart abandonment has now become a serious problem for online stores.  Small or large, it really doesn’t matter. It's a fact.  And, stores need lightspeed rescue solutions to address cart abandonment problems. With an effective follow-up, it is proven that 40 to 50 percent of abandoned carts can be recovered, which will boost your revenue by at least 5x.
 
-When it comes to abandoned cart follow-ups, there are a number of solutions available especially for WooCommerce based stores. They can be broadly classified into two categories:
+When it comes to abandoned cart follow-ups, there are a number of solutions available especially for WooCommerce based stores. They can be broadly classified into two categories based on their architecture:
 
 1. Plugins that run within your website
 2. Solutions that run on the cloud (SaaS)
@@ -23,7 +23,7 @@ Let me explain these two types of solutions a bit more.
 
 These are plugins that can be installed on your website. And they operate using your own server resources for running the entire abandoned cart email campaigns. Operations like continuous abandoned carts tracking, email scheduling and sending them at different intervals are performed using your website’s resources.
 
-**Solutions that Run On the Cloud**
+**Solutions that Run On the Cloud (SaaS - Software As a Service)**
 
 These are called <link-text url="https://www.retainful.com/" rel="noopener" target="_blank">SaaS</link-text> (Software-as-a-Service) solutions, which run on the cloud infrastructure like Amazon AWS or Google Cloud. One such example of a SaaS solution is <link-text url="https://www.retainful.com" rel="noopener" target="_blank">Retainful</link-text> which uses its own computing resources for tracking cart abandonments, scheduling and sending emails.
 
@@ -39,7 +39,7 @@ I have taken three key metrics that are important for an eCommerce website and i
 2. Email Scheduling (at timed intervals)
 3. Email Delivery
 
-These three metrics will help you understand the difference between the two types of solutions.
+These three metrics will help you understand the difference between the two types of solutions. Let's have a look!
 
 ### 1. Performance and Page Speed
 
@@ -165,84 +165,73 @@ However, when you get to use a SaaS service like Retainful, emails are delivered
 
 With <link-text url="https://www.retainful.com/pricing" rel="noopener" target="_blank"> Retainful’s Business Plan,</link-text> you can also choose to send the email from your own domain name.
 
-If you are still quite not clear, here’s a table that can help you understand better
-
-
+If you are still quite not clear, here’s a simple comparison that can help you understand better
 
 <table class="table table-bordered py-2">
    <thead class="text-center" style="background-color:#DCDCDC">
       <tr>
          <th>Features &amp; Options</th>
-         <th>Self Hosted Plugin Based Solutions</th>
-         <th>Cloud-Based Solutions</th>
+         <th>Plugin</th>
+         <th>SaaS</th>
       </tr>
    </thead>
    <tbody>
       <tr>
-         <td><strong>1. User Control</strong></td>
-         <td>Limited Access</td>
-         <td>Complete Access</td>
+         <td><strong>1. Performance</strong></td>
+         <td>Poor. Because it uses your store resources</td>
+         <td>High. Runs in Cloud Infrastructure</td>
       </tr>
       <tr>
-         <td><strong>2. Template Customization</strong></td>
-         <td>Medium Customization Options</td>
-         <td>High Customization Options</td>
+         <td><strong>2. Page Speed</strong></td>
+         <td>Poor.</td>
+         <td>High</td>
       </tr>
       <tr>
-         <td><strong>1. Scheduled Email Deliveries</strong></td>
-         <td>Depends on CRON Jobs</td>
-         <td>Email Gets Delivered Without Delay</td>
+         <td><strong>3. Resource Consumption</strong></td>
+         <td>Your site resources</td>
+         <td>Its own resources. No burden for your store</td>
       </tr>
       <tr>
-         <td><strong>3. Security Risk Level</strong></td>
-         <td>Medium</td>
-         <td>Low</td>
+         <td><strong>4. Customisation</strong></td>
+         <td>Very limited</td>
+         <td>Highly Customizable</td>
       </tr>
       <tr>
-         <td><strong>4. Reliability Factor</strong></td>
-         <td>Cannot be Relied Way Too Much</td>
+         <td><strong>5. Reliability</strong></td>
+         <td><link-text url="https://chrislema.com/understanding-wp-cron/" rel="noopener" target="\_blank">Questionable</link-text></td>
          <td>Highly Reliable</td>
       </tr>
       <tr>
-         <td><strong>6. OnPage Loading Speed</strong></td>
-         <td>Might Conflict With Other Plugins</td>
-         <td>Blazing Speed</td>
+         <td><strong>6. Delivery Rate</strong></td>
+         <td>Low to Medium. (Poor if you are on shared servers)</td>
+         <td>Higher</td>
       </tr>
       <tr>
-         <td><strong>7. Migration</strong></td>
-         <td>Difficult Most of the Times</td>
-         <td>Easy</td>
+         <td><strong>7. Usability</strong></td>
+         <td>Moderate</td>
+         <td>Easy to Use</td>
       </tr>
       <tr>
-         <td><strong>8. Sensitive Data Breach</strong></td>
-         <td>Medium</td>
-         <td>NIL</td>
+         <td><strong>8. Mail Handling</strong></td>
+         <td>Your server</td>
+         <td>Dedicated Mail Servers</td>
       </tr>
-      <tr>
-         <td><strong>9. Tracking &amp; Reporting</strong></td>
-         <td>Limited Access</td>
-         <td>Full Access</td>
+            <tr>
+         <td><strong>9. Analytics and Reporting</strong></td>
+         <td>Limited</td>
+         <td>Extensive</td>
       </tr>
-      <tr>
-         <td><strong>10. Downtime</strong></td>
-         <td>Depends on Internet Resources</td>
-         <td>Runs on Dedicated Cloud Servers</td>
-      </tr>
-      <tr>
-         <td><strong>11. Programming Skills</strong></td>
-         <td>Required</td>
-         <td>Not Required</td>
-      </tr>
+
    </tbody>
 </table>
 
 
 
-**Summary**
+### Summary
 
 Unlike normal websites, an eCommerce website should be highly optimized, with faster loading pages. And their primary focus should only be on converting visitors into customers - quickly.
 
-Tracking abandoned carts, scheduling and <link-text url="https://www.campaignrabbit.com/blog/follow-up-emails-boost-your-freemium-products-conversion-rate" rel="noopener nofollow" target="_blank">sending follow-up emails</link-text> can be run outside of the website as they are no different from background processes. The site’s resources should not be wasted for tracking, storing, scheduling and sending the emails. Instead, these resources can be used to serve the pages faster.
+Tracking abandoned carts, scheduling and sending follow-up emails can be run outside of the website as they are no different from background processes. The site’s resources should not be wasted for tracking, storing, scheduling and sending the emails. Instead, these resources can be used to serve the pages faster.
 
 Using a SaaS service like Retainful to handle your abandoned cart email campaigns will increase your revenue without adding any additional load on your website. Besides, you can ensure an effective, well-timed follow-up with better email deliverability.
 
@@ -259,3 +248,5 @@ So we introduced email scheduling and sending in the Retainful App in the cloud.
 Ready to make the switch and increase your store revenue with better Abandoned Cart Email follow-ups?
 
 Sign up for free and connect your store to get started in minutes!
+
+<cta url="https://app.retainful.com/register" rel="noopener" target="_blank">Try Retainful for Free!</cta>
