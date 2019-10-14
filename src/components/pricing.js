@@ -30,10 +30,8 @@ const StandardPricingPage = () =>{
                     <StandardPricingTable/>
                 </div>
             </Container>
-            <HomeTrutedCompanies/>
-            <FeaturedReviews/>
 
-            <div className="faq-block">
+            {/*<div className="faq-block">
                 <StaticQuery
                     query={StandardPricingpageFaqQuery}
                     render={data => {
@@ -46,8 +44,7 @@ const StandardPricingPage = () =>{
                         )
                     }}
                 />
-            </div>
-            <GetStarted/>
+                </div>*/}
         </div>
     )
 }

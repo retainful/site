@@ -1,5 +1,6 @@
 ---
-title: "Mail chimp integration"
+title: "Mail chimp Integration"
+path: "/docs/woocommerce/mailchimp-integration"
 description: "Now add your Retainful users' emails to your mailchimp list."
 date: "2019-10-12"
 author: "Sowbagya lakshmi"

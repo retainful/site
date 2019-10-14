@@ -1,5 +1,6 @@
 ---
 title: "Adding a store logo on your email template"
+path: "/docs/woocommerce/adding-a-store-logo-on-your-email-template"
 description: "A store logo is a symbol of making the user remember your brand. Here is how you could add one to your abandoned cart emails."
 date: "2019-10-11"
 author: "Sowbagya lakshmi"

@@ -10,7 +10,7 @@ const Card = (props) => {
     const cardClass = `col-md-${props.size} ${props.className}`;
     return (
         <div className={cardClass}>
-            <div className="table-left table-left-rm wow fadeInDown ">
+            <div className="table-left table-left-rm wow fadeInDown plan-bdr-hr">
                 <div className="pricing-details price-plan-list">
                     <h3 className="plan-title" >{slottedChildren["plan-title"]}</h3>
                     <div className="original-price" >{slottedChildren["original-price-line"]}</div>
