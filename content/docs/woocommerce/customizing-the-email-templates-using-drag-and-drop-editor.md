@@ -113,3 +113,21 @@ Viewing the template in full screen, downloading the template, adding styles via
 
 
 You could add styles and make the layout of the abandoned cart email templates even more beautiful.
+
+**Video tutorial**
+
+Here is a video of how to customize the abandoned cart emails. In this video you will see how to:
+1. Insert a new section to your email template
+2. Add text element, unsubscribe block
+3. Customize a selected block
+4. Ensure responsiveness
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/120d0455822c4821b1698ddd350c4259" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+#### Summary
+
+In this article we saw how to:
+1. Divide your mail templates into columns or add new sections
+2. Add new elements and text blocks
+3. Customize the individual elements
+4. Ensure responsiveness
