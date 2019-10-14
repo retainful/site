@@ -29,7 +29,7 @@ Retainful can help recover these abandoned carts and increase your revenue by 10
 
 </featurescontext>
 
-<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Capture-Abandoned-Carts.png" imgposition="right">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Capture-Abandoned-Carts.png" imgposition="right" >
 
 ###Capture Abandoned Carts
 
@@ -44,7 +44,7 @@ Track all the abandoned carts in your WooCommerce online store. You can track ev
 
 </featurescontext>
 
-<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Recover-Abandoned-Carts-with-Single-Click.png" imgposition="left" bgColor="#feefe8">
+<featurescontext imgurl="https://raw.githubusercontent.com/retainful/site-images/d54608b02e9839535881b2de221187d845c39122/woocommerce-features-images/cart.png" imgposition="left" bgColor="#feefe8">
 
 ###Recover Abandoned Carts with Single Click
 
@@ -248,7 +248,7 @@ Fear of Missing Out (FOMO) is one of the proven psychological trigger that can b
 
 </featurescontext>
 
-<featurescontext imgposition="right" splitcol="7,5" imgurl="https://raw.githubusercontent.com/retainful/site-images/master/woocommerce-features-images/Actionable-Analytics-%26-Insights.png">
+<featurescontext imgposition="right" splitcol="7,5" imgurl="https://raw.githubusercontent.com/retainful/site-images/d54608b02e9839535881b2de221187d845c39122/woocommerce-features-images/dashboard.png">
 
 ###Actionable Analytics & Insights
 Get useful analytics on your sales conversions, next order coupon performance,      
