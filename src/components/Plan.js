@@ -13,6 +13,7 @@ const Card = (props) => {
             <div className="table-left table-left-rm wow fadeInDown ">
                 <div className="pricing-details price-plan-list">
                     <h3 className="plan-title" >{slottedChildren["plan-title"]}</h3>
+                    <div className="original-price" >{slottedChildren["original-price-line"]}</div>
                     <span className="price-amount">{slottedChildren["plan-price"]} <span className="price-period">{slottedChildren["plan-period"]}</span></span>
                     <div className="text-center">
                         {slottedChildren["plan-button"]}
