@@ -49,7 +49,7 @@ No credit card required.
 
 </plan>
 
-<plan size="3" class="plan-bdr-right">
+<plan size="3">
 
 <div slot="plan-title">
 Starter
@@ -57,7 +57,7 @@ Starter
 
 <div slot="original-price-line">
 
-normally 29/month
+normally $29/month
 
 </div>
 
@@ -152,7 +152,7 @@ Professional
 
 <div slot="original-price-line">
 
-normally 199/month
+normally $199/month
 
 </div>
 
