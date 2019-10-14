@@ -7,6 +7,7 @@ description : "Want abandoned cart visitors to return? Halt you boring abandoned
 image: "../images/how-to-use-humor-in-abandoned-cart-recovery-emails/how-to-use-humor-in-abandoned-cart-recovery-emails.png"
 thumbnail: "../images/how-to-use-humor-in-abandoned-cart-recovery-emails/how-to-use-humor-in-abandoned-cart-recovery-emails.png"
 author: "Sharon Thomas"
+category: "marketing"
 ---
 
 Two scenarios are presented here.

@@ -65,4 +65,3 @@ In this article, we saw how to:
 
 1. Fetch keys from Retainful account
 2. Add the keys to the store and validate the keys
-    		

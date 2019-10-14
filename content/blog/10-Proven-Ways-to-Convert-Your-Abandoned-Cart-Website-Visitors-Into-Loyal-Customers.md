@@ -8,6 +8,7 @@ description : "Struggling to retain customers? Forget retaining. This post is ab
 author: "Sharon Thomas"
 image: "../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers.png"
 thumbnail: "../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers.png"
+category: "ecommerce"
 ---
 
 Time is running out. You might have to forsake a loyal customer by the time you scan the intro. So, let’s get to the point.
