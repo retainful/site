@@ -1,6 +1,5 @@
 ---
 title: "Connecting the Store with Retainful account"
-path: "/docs/woocommerce/connecting-the-store-with-retainful-account"
 description: "Learn how to connect the Store with Retainful account"
 date: "2019-10-09"
 author: "Sowbagya lakshmi"
@@ -9,6 +8,14 @@ category: woocommerce
 ---
 
 Post installing the Retainful plugin on your site, the next step is to get your store connected to your Retainful account.
+
+### Why should you connect your store with Retainful account
+By connecting the store with Retainful account, you would be able to avail the following advantages:
+
+1. **Access to Premium features**
+2. **Free trial for 14 days(for new users only)**
+3. **Drag and drop email template editor(So you have better customization options for designing abandoned cart emails)**
+4. **Option to set up abandoned cart recovery templates starting from 15 minutes of abandonment(While if you don't connect, the minimum allowed time for recovery emails is 1 hour)**
 
 This article walks you through the process of connecting your Woocommerce store with your Retainful account. 
 
@@ -61,7 +68,6 @@ Here is a video on how to connect your Woocommerce store with your Retainful acc
 
 #### Summary
     
-In this article, we saw how to:
-
-1. Fetch keys from Retainful account
-2. Add the keys to the store and validate the keys
+In this article, we saw:
+1. Benefits of connecting the store with Retainful account.
+2. How to connect to Retainful(For version 1.x and 2.x)
