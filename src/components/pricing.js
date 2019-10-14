@@ -20,16 +20,6 @@ const StandardPricingPage = () =>{
             keywords="retainful pricing plans, abandoned cart recovery, cart abandonment, shopify abandoned checkouts, woocommerce abandoned cart recovery"
         />
         <div className="pricing-banner-container">
-            <div className="intro-text-container">
-                <div className="container container-s text-center">
-                    <h2>Recover your lost sales and boost your revenue by 10x.</h2>
-                    <h4>Join 1000+ store owners who get more revenue with Retainful.</h4>
-                    <p>
-                    <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">Get started for FREE</a>
-                    </p>
-                    <p>Simple, honest prices. No surprises! No annual contracts</p>
-                </div>
-            </div>
             <Container>
                 <div id="pricing" className="pricing-section text-center pricing-plans-bg">
                     <StandardPricingTable/>
