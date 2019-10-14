@@ -1,61 +1,72 @@
 import React from 'react'
 import {Link, StaticQuery, graphql} from 'gatsby'
-import Container from  '../components/container'
-import WooPricing from "../components/WooPricing";
-import ShopifyPricing from "../components/ShopifyPricing";
+import Layout from '../components/layout'
+import MetaTags from '../components/Metatags'
+import StandardPricingTable from '../components/StandardPricing'
+import GetStarted from '../components/getstarted'
+import FeaturedReviews from '../components/featuredreviews'
+import $ from 'jquery'
 
-import Guaranteee from '../images/guarantee.png';
+import HomeTrutedCompanies from '../constants/HomePage/homeTrustedCompanies';
+import PageContent from "../components/pageContent";
+import Container from "../components/container";
 
-class PricingTable extends React.Component {
-    constructor(props) {
-        super(props);
-    }
-    render() {
-        return (
-            <div id="price-slider">
-                <div className="calcuate-pricing-plan container">
-                    <Container>
-                        <div className="tab">
-                            <ul className="nav nav-tabs">
-                                <li><a data-toggle="tab" href="#woocommerce" className="active">
-                                    {/*<img src="https://raw.githubusercontent.com/campaignrabbit/site/master/src/images/integration-icons/woocommerce-color.png" alt="WooCommerce"/>*/}
-                                    WooCommerce
-                                </a></li>
-                                <li><a data-toggle="tab" href="#shopify">
-                                    {/*<img src="https://raw.githubusercontent.com/campaignrabbit/site/master/src/images/integration-icons/shopify-color.png" alt="Shopify"/>*/}
-                                    Shopify
-                                </a></li>
-                            </ul>
-                            <div className="tab-content tabs">
-                                <div id="woocommerce" className="tab-pane fade show in active">
-                                    <div id="pricing" className="pricing-section text-center">
-                                        <WooPricing/>
-                                    </div>
-                                </div>
-                                <div id="shopify" className="tab-pane fade">
-                                    <div id="pricing-shopify" className="pricing-section text-center">
-                                        <ShopifyPricing/>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="money-back-guarantee-block text-left d-flex align-items-center">
-                            <div className="image-block m-r-20">
-                                <img src={Guaranteee} alt="Money back Guaranteee" className="img-responsive mw-100"/>
-                            </div>
-                            <div className="content-block">
-                                <h3 className="m-b-5">100% No-Risk Money Back Guarantee!</h3>
-                                <p>You are fully protected by our 100% No-Risk Double-Guarantee. If you don’t like Retainful over the next 14 days, then we will happily refund 100% of your money. No questions asked.</p>
-                            </div>
-                        </div>
-                        <div className="enterprise-pricing-plan text-center">
-                            <h3>Questions? <Link to="/support">Contact Us</Link></h3>
-                        </div>
-                    </Container>
+const StandardPricingPage = () =>{
+    return(
+        <Layout>
+        <MetaTags
+            title="Pricing Plans | Retainful"
+            description="Start recovering abandoned carts in your Shopify and WooCommerce stores. Get started for FREE!"
+            keywords="retainful pricing plans, abandoned cart recovery, cart abandonment, shopify abandoned checkouts, woocommerce abandoned cart recovery"
+        />
+        <div className="pricing-banner-container">
+            <div className="intro-text-container">
+                <div className="container container-s text-center">
+                    <h2>Recover your lost sales and boost your revenue by 10x.</h2>
+                    <h4>Join 1000+ store owners who get more revenue with Retainful.</h4>
+                    <p>
+                    <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">Get started for FREE</a>
+                    </p>
+                    <p>Simple, honest prices. No surprises! No annual contracts</p>
                 </div>
             </div>
-        )
-    }
+            <Container>
+                <div id="pricing" className="pricing-section text-center pricing-plans-bg">
+                    <StandardPricingTable/>
+                </div>
+            </Container>
+            <HomeTrutedCompanies/>
+            <FeaturedReviews/>
+
+            <div className="faq-block">
+                <StaticQuery
+                    query={StandardPricingFaqPageQuery}
+                    render={data => {
+                        return (
+                            <Container>
+                                <PageContent
+                                    excerptData={data.markdownRemark.htmlAst}
+                                />
+                            </Container>
+                        )
+                    }}
+                />
+            </div>
+            <GetStarted/>
+        </div>
+    </Layout>
+    )
 }
 
-export default PricingTable;
+export default StandardPricingPage
+
+export const StandardPricingFaqPageQuery = graphql`
+ query StandardPricingFaqPageQuery{
+      markdownRemark(frontmatter: {path: {eq: "/pricing-faq"}}){
+        htmlAst
+        frontmatter{
+          path
+        }
+      }
+  } 
+`
