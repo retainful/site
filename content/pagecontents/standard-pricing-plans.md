@@ -5,19 +5,23 @@ path: "/standard-pricing-plans"
 
 <row>
 
-<plan size="3" className="plan-bdr-right">
+<plan size="3" class="plan-bdr-right">
 
 <div slot="plan-title">
 Free
 </div>
 
+ <div slot="original-price-line">   
+<br>
+</div>
+
 <div slot="plan-price">
-$ 0
+<sup>$</sup>0
 </div>
 
 <div slot="plan-button">
 
-<a className="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Try  It Free </a>
+<a class="btn-outline btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer"> Try  It Free </a>
 
 </div>
 
@@ -33,11 +37,11 @@ No credit card required.
 
 <ul>
 
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Upto 300 contacts</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Standard Support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/close.svg" className="plan-not">Premium Add-ons (WooCommerce)</li>
-<li><img src="../images/landingpage/pricing-plans-icons/close.svg" className="plan-not">Live chat support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/close.svg" className="plan-not">Dedicated Onboard Specialist</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 300 contacts</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Premium Add-ons (WooCommerce)</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Standard Support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Live chat support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Dedicated Onboard Specialist</li>
 
 </ul>
 
@@ -45,31 +49,34 @@ No credit card required.
 
 </plan>
 
-<plan size="3" className="plan-bdr-right">
+<plan size="3" class="plan-bdr-right">
 
 <div slot="plan-title">
 Starter
 </div>
 
-<div slot="plan-price">
-$ 9
+<div slot="original-price-line">
+
+normally 29/month
+
 </div>
 
-<div slot="plan-period">
- / month
+<div slot="plan-price">
+
+<sup>$</sup>9<sub>/month</sub>
+
 </div>
 
 <div slot="plan-button">
 
-<a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
 
 </div>
 
 <div slot="pricing-slogan">
 
-Free forever.
-
-No credit card required.
+Everything you need to          
+drive more results.
 
 </div>
 
@@ -77,11 +84,11 @@ No credit card required.
 
 <ul>
 
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Upto 2000 contacts</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Priority Email Support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Premium Add-ons (WooCommerce)</li>
-<li><img src="../images/landingpage/pricing-plans-icons/close.svg" className="plan-not">Live chat support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/close.svg" className="plan-not">Dedicated Onboard Specialist</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 2000 contacts</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Premium Add-ons (WooCommerce)</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Priority Email Support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Live chat support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Dedicated Onboard Specialist</li>
 
 </ul>
 
@@ -89,30 +96,34 @@ No credit card required.
 
 </plan>
 
-<plan size="3"  className="featured plan-bdr-right">
+<plan size="3"  class="featured">
 
 <div slot="plan-title">
 Growth
 </div>
 
-<div slot="plan-price" >
-$ 29
+<div slot="original-price-line">
+
+normally $59/month
+
 </div>
 
-<div slot="plan-period">
- / month
+<div slot="plan-price" >
+
+<sup>$</sup>29<sub>/month</sub>
+
 </div>
 
 <div slot="pricing-slogan">
 
-Everything you need to          
-drive more results
+Great for growing businesses        
+who want to do more.
 
 </div>
 
 <div slot="plan-button">
  
-<a className="btn-action btn-lg" href="https://app.retainful.com/checkout/business" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/checkout/business" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
 
 </div>
 
@@ -120,12 +131,12 @@ drive more results
 
 <ul class="pricing-details_list">
 
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Upto 5000 Contacts</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Priority Email Support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Premium Add-ons (WooCommerce)</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Custom Email Domain</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Live chat support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/close.svg" className="plan-not">Dedicated Onboard Specialist</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 5000 Contacts</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Premium Add-ons (WooCommerce)</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Priority Email Support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Custom Email Domain</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Live chat support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Dedicated Onboard Specialist</li>
 
 </ul>
   
@@ -139,24 +150,26 @@ drive more results
 Professional
 </div>
 
-<div slot="plan-price">
-$ 99
+<div slot="original-price-line">
+
+normally 199/month
+
 </div>
 
-<div slot="plan-period">
-/ month
+<div slot="plan-price">
+<sup>$</sup>99<sub>/month</sub>
 </div>
 
 <div slot="plan-button">
 
-<a className="btn-action btn-lg" href="https://app.retainful.com/checkout/pro" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/checkout/pro" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
 
 </div>
 
 <div slot="pricing-slogan">
 
-Great for growing businesses        
-who want to do more.
+All the tools necessary to 
+transform your conversions.
 
 </div>
 
@@ -164,12 +177,12 @@ who want to do more.
 
 <ul>
 
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Unlimited Contacts</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Priority Email Support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Premium Add-ons (WooCommerce)</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Custom Email Domain</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Live chat support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" className="plan-have">Dedicated Onboard Specialist</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Unlimited Contacts</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Premium Add-ons (WooCommerce)</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Priority Email Support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Custom Email Domain</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Live chat support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Dedicated Onboard Specialist</li>
 
 </ul>
 
