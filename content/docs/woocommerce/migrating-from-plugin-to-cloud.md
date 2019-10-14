@@ -21,11 +21,13 @@ While using Retainful 2.x, the mail delivery is done with encryption, for securi
 
 ### Migration from version 1.x to 2.x
 
-**Step-1: Upgrading from version 1.x to 2.x:** 
+#### Step-1: Upgrading from version 1.x to 2.x
 
 The migration option would be available if you update from Retainful version 1.x to 2.x as mentioned before. Hence, the first step is to update the plugin version from 1.x to 2.x
 
-1. A one-click update option would be available on your store's plugin manager if you have connected the store with your Retainful plugin. If you haven't connected the store with your account yet, you could do so by clicking <link-text url="" target="_blank" rel="noopener">here<link-text>.
+1. A one-click update option would be available on your store's plugin manager if you have connected the store with your Retainful plugin. If you haven't connected the store with your account yet, you could do so by clicking <link-text url="https://www.retainful.com/docs/woocommerce/connecting-the-store-with-retainful-account" target="_blank" rel="noopener">here.<link-text>
+
+
 2.  Once you connect the store with Retainful account, navigate to your Plugin manager(Woocommerce->Plugins->Installed plugins). You would find an update button below Retainful- Abandoned carts as shown below:
 ![Update button](../../images/docs/migrating-from-plugin-to-cloud/updte-button.png) 
     
@@ -34,24 +36,25 @@ The migration option would be available if you update from Retainful version 1.x
     
 > NOTE: For new users, you could install the plugin straight away and all the data would be maintained on cloud. To learn how to install the plugin, click <link-text url="https://www.retainful.com/docs/woocommerce/install-retainful-plugin-for-woocommerce" target="_blank" rel="noopener">here</link-text>   
 
-**Step-2: Migrating to cloud:**
+#### Step-2: Migrating to cloud       
     
 1. Now that you have updated to 2.x, a button would appear at the Retainful page on your site.
-    ![Switch to cloud button](../../images/docs/migrating-from-plugin-to-cloud/switch-to-cloud-button.png)
-    
-2. Clicking on the button would move all the upcoming abandoned cart, in-progress carts and recovered cart entries to the Retainful account. Make sure that you have <link-text url="https://www.retainful.com/docs/woocommerce/connecting%20the%20store%20with%20retainful%20account" target="_blank" rel="noopener">connected the store with your Retainful account</link-text>.
-   
+
+![Switch to cloud button](../../images/docs/migrating-from-plugin-to-cloud/switch-to-cloud-button.png)      
+
+2. Clicking on the button would move all the upcoming abandoned cart, in-progress carts and recovered cart entries to the Retainful account. Make sure that you have <link-text url="https://www.retainful.com/docs/woocommerce/connecting-the-store-with-retainful-account" target="_blank" rel="noopener">connected the store with your Retainful account.</link-text>
+
 3. As far as Abandoned cart email templates are concerned, you will have to set up a series of new ones in your Retainful account, so that the users who abandon carts after migration would get notified.
 
-**Step-3: Post migrating to cloud:**
-    
-  1. As mentioned before, after you migrate to cloud, there has to be an abandoned cart email sequence maintained on the Retainful account as well. There would be a default set of templates on the Account. You could use these templates or create a new email sequence as per your requirements.
+#### Step-3: Post migrating to cloud
 
-  **Switching back to plugin:**  
-    
+1. As mentioned before, after you migrate to cloud, there has to be an abandoned cart email sequence maintained on the Retainful account as well. There would be a default set of templates on the Account. You could use these templates or create a new email sequence as per your requirements.
+
+**Switching back to plugin:**  
+
 If you change your mind after migrating to cloud, you still have the option to switch back to plugin.
-    
-  ### Summary
+
+### Summary
 In this article, we saw how to:
 1.  Update the Retainful plugin
 2.  Migrate the entries to cloud

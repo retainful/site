@@ -12,7 +12,7 @@ A store logo is the symbol of your brand. Make sure they get a place in your aba
 
 With Retainful, you could add your Store's logo anywhere on the Abandoned cart emails that you send. This article walks you through the process of adding a logo on your Recovery mail templates.
 
-### For legacy version- 1.x:
+### For legacy version- 1.x
 
 Users who have Retainful version 1.x on their site can follow the below process to add a store logo to your Abandoned cart mails.
 
@@ -43,12 +43,12 @@ Here is a short video that explains how you could add a store logo to your aband
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3a43fb2073e6468cac6934247ca9d90f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### For version 2.x:
+### For version 2.x
 
 Once you start using Retainful version 2.x, all the mail handling is done on your Retainful account that is connected to your store.
 Here is how you could add a store logo to your mail templates while using version 2.x
 
-**Method-1: Editing the existing logo:**
+**Method-1: Editing the existing logo**
 
 1. Login to your Retainful account that is connected to your Woocommerce store.
 2. Click on Emails ->Choose a template or add a new template.

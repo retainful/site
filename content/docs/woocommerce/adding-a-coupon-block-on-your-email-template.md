@@ -15,7 +15,7 @@ This guide explains how you could add a coupon discount block on your cart recov
 
 > NOTE: This is a PREMIUM Feature. Make sure that you have activated the Premium add on of Retainful.
 
-### For Legacy version 1.x:
+### For Legacy version 1.x
 For those who use the Retainful plugin with version 1.x, the following is the process of adding a coupon to your abandoned cart email templates.
 
  **Step-1: Create a coupon** 
