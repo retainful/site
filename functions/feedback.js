@@ -112,7 +112,7 @@ else{
 
 catch(error){
   errorMessage = "Something Failed";
-  console.log(errorMessage);
+  console.log(error);
   callback(errorMessage);
 }
 }
