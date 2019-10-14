@@ -5,6 +5,7 @@ import PageContent from "../components/pageContent";
 class StandardPricingTable extends React.Component {
     render() {
         return (
+            <div className="col-md-12">
             <StaticQuery
                 query={StandardPricingPlanQuery}
                 render={data => {
@@ -15,6 +16,7 @@ class StandardPricingTable extends React.Component {
                     )
                 }}
             />
+            </div>
         )
     }
 }

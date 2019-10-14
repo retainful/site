@@ -5,7 +5,7 @@ path: "/standard-pricing-plans"
 
 <row>
 
-<plan size="3" class="plan-bdr-right">
+<plan size="3" class="plan-bdr-right plan-bdr-bg">
 
 <div slot="plan-title">
 Free
@@ -49,7 +49,7 @@ No credit card required.
 
 </plan>
 
-<plan size="3">
+<plan size="3" class="plan-bdr-bg">
 
 <div slot="plan-title">
 Starter
@@ -96,7 +96,7 @@ drive more results.
 
 </plan>
 
-<plan size="3"  class="featured">
+<plan size="3"  class="featured plan-bdr-bg">
 
 <div slot="plan-title">
 Growth
@@ -144,7 +144,7 @@ who want to do more.
 
 </plan>
 
-<plan size="3">
+<plan size="3" class="plan-bdr-bg">
 
 <div slot="plan-title">
 Professional

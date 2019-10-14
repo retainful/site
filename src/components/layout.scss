@@ -1384,11 +1384,13 @@ body {
   {
     border-right: 1px solid #efe7e7;
   }
-  // .plan-bdr-hr:hover
-  // {
-  //   box-shadow: 0 0px 17px 0px rgba(0, 0, 0, 0.15);
-  //   background: #fdf8f8;
-  // }
+  .plan-bdr-bg
+  {
+    &:hover{
+      box-shadow: 0 0px 17px 0px rgba(0, 0, 0, 0.15);
+      background: #fdf8f8;
+    }
+  }
   .plan-bdr-left
   {
     border-left: 1px solid #efe7e7;
@@ -1400,7 +1402,7 @@ body {
     border-left: 0px solid #efe7e7;
   }
   .pricing-section .table-left, .pricing-section .table-right {
-    padding: 20px 15px 10px 15px;
+    padding:15px 0px 0px 0px;
     margin: 0 auto;
     margin-bottom: 30px;
     background-color: #FFFFFF;
