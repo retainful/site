@@ -22,6 +22,7 @@ class FeaturedReviews extends React.Component {
                                         <img src={LukeCavanagh} alt="Luke Cavanagh"/>
                                         <span>Luke Cavanagh <br /> <small>LiquidWeb</small></span>
                                     </div>
+                                    <br/>
                                 </div>
                             </div>
                             <div className="col-sm-6">
@@ -32,6 +33,7 @@ class FeaturedReviews extends React.Component {
                                         <img src={merock} alt="merock"/>
                                         <span>Remko Lopez<br /> <small>Brainding Agency</small></span>
                                     </div>
+                                    <br/>
 
                                 </div>
                             </div>
