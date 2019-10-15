@@ -26,7 +26,7 @@ Make sure you have installed the Retainful 2.0 plugin.
 
 ### Migration from version 1.x to 2.x
 
-#### Step-1: Upgrading from version 1.x to 2.x
+#### Step 1: Upgrading from version 1.x to 2.x
 
 Install or update to the Retainful 2.0 plugin.
 
@@ -38,17 +38,31 @@ Install or update to the Retainful 2.0 plugin.
     
 > NOTE: Are you a new user? These steps are not relevant for you! Please skipe the entire guide.
 
-#### Step-2: Switching to cloud       
+#### Step 2: Switching to cloud       
     
 1. Now that you have updated to 2.x, a button would appear at the Retainful page on your site.
+![Switch to cloud button](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/switch-to-cloud.png)
 
-![Switch to cloud button](../../images/docs/migrating-from-plugin-to-cloud/switch-to-cloud-button.png)      
+2. Press that button. 
 
-2. Press that button. Before pressing the button, make sure that you have <link-text url="https://www.retainful.com/docs/woocommerce/connecting-the-store-with-retainful-account" target="_blank" rel="noopener">connected the store with your Retainful account.</link-text>
+3. You will see a Connection tab 
+![Switch to cloud button](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/connection-tab.png)
 
-3. Go to your Retainful Dashboard -> Emails -> Email Templates. Create an abandoned cart email template with our brand new drag and drop editor. 
+4. Login to your [Retainful Dashboard](https://app.retainful.com) and then go to the Settings to get your App ID and Secret Key.
 
-#### Step-3: Post migration
+5. Copy these keys and paste them in your Connection tab.
+
+#### Step 3: Create your first email template
+
+Your store is now connected. To start recovering abandoned carts, create at least one Email template in your Retainful Dashboard and set it active.
+
+Go to Retainful Dashboard -> Emails -> Email Templates. Create an abandoned cart email template with our brand new drag and drop editor and set it live. 
+
+NOTE: You can create as many email templates as you required for your recovery email sequence. There is no limit.
+
+You are now all set to receover abandoned :-)
+
+#### Post migration
 
 An ideal abandoned cart recovery campaign comprises at least 3 emails. So go ahead and create the required emails for your sequence and set them active once you are done.
 
