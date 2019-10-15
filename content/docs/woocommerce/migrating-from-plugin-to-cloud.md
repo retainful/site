@@ -52,6 +52,10 @@ Install or update to the Retainful 2.0 plugin.
 
 5. Copy these keys and paste them in your Connection tab.
 
+6. Press the "Connect" button
+
+> IMPORTANT NOTE: If you are an existing user and only used the App ID before, please click "Reconnect" button after entering the Secret Key.
+
 #### Step 3: Create your first email template
 
 Your store is now connected. To start recovering abandoned carts, create at least one Email template in your Retainful Dashboard and set it active.
@@ -70,8 +74,6 @@ An ideal abandoned cart recovery campaign comprises at least 3 emails. So go ahe
 
 If you change your mind after migrating to cloud, you still have the option to switch back to plugin.
 
-### Summary
-In this article, we saw how to:
-1.  Update the Retainful plugin
-2.  Migrate the entries to cloud
-3.  Switch back to plugin
+### What's Next ?
+
+[Creating an Abandoned Cart Email Template with Drag and Drop Editor](https://www.retainful.com/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor)
