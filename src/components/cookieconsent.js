@@ -17,8 +17,8 @@ class CookieConsent extends Component {
       visible: false,
       style: {
         alignItems: "baseline",
-        background: "#333",
-        color: "white",
+        background: "#F8F8F8",
+        color: "#364655",
         display: "flex",
         flexWrap: "wrap",
         // justifyContent: "center",

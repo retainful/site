@@ -33,7 +33,7 @@ const IndexPage = () => (
         <GetStarted/>
 
         <div class="row d-flex justify-content-center">
-                <CookieConsent className="container" style={{textShadow: "2px 2px black",borderRadius:'5px' }}  
+                <CookieConsent className="container" style={{borderRadius:'5px' }}  
                 buttonStyle={{color:"Black", fontWeight: "bolder",borderRadius:'5px'}}>
                     <p>We use cookies to improve your experience on our website.</p>
                 </CookieConsent>
