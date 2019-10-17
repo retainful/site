@@ -29,10 +29,10 @@ class FeaturesPage extends React.Component {
                                 <p>Boost sales by 10x with automated abandoned cart recovery campaigns. Drive repeat purchases with next order coupons. Get started free!</p>
                                 <p>
                                     <a className="btn-action btn-edge btn-lg"
-                                       href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`}
+                                       href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}/?utm_source=traffic&utm_medium=above-fold&utm_campaign=download_plugin&utm_content=woocommerce_feature_page`}
                                        target="_blank" rel="noopener noreferrer">Download Free Plugin</a>
                                     <a className="btn-action m-l-10 btn-outlined btn-lg"
-                                       href="http://demo.retainful.com/"
+                                       href="https://demo.retainful.com/?utm_source=traffic&utm_medium=cta&utm_campaign=live_demo&utm_content=woocommerce_feature_page"
                                        target="_blank" rel="noopener noreferrer">Live Demo</a>
                                 </p>
                             </div>
