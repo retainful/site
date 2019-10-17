@@ -52,8 +52,6 @@ For users who use Retainful plugin with version 2.x:
 
 4. A success message would appear indicating that you have been connected to Retainful account.
 
-Now that we have connected the store to Retainful, you would be able to  access the benefits mentioned above. 
-
 #### Video tutorial
     
 Here is a video on how to connect your Woocommerce store with your Retainful account.
