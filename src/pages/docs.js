@@ -9,6 +9,7 @@ import CALLOUTS from '../constants/docsCallouts';
 import SEO from '../components/seo';
 import SideNav from '../components/SideNav';
 import SideNavLinks from '../constants/docsSideNavLinks';
+import Cta from "../components/cta"
 
 
 class DocsPage extends React.Component {
@@ -71,11 +72,25 @@ class DocsPage extends React.Component {
                                     <p>Read about how Retainful works.</p>
                                     <div className="home-callouts">
                                         <div className="row row--home-cards">
-                                            {DocsPage.renderCallouts()}
+                                            {DocsPage.renderCallouts()}                                            
                                         </div>
+                                        <div className="row row--home-cards">
+                                        <div className="features-download-section text-center col-md-12" style={{padding: '40px 15px'}}>
+                                        <div className="features-download-intro wow fadeInDown">
+                                            <h3>Recover Abandoned Carts & Drive Repeat Sales. <br/> Grow your Revenue by 10x.</h3>
+                                            <p>Start sending targeted email reminders and recover every single cart</p>
+                                            <p>
+                                                <a className="btn-action btn-lg" href="https://app.retainful.com/?utm_source=traffic&utm_campaign=get_start_free&utm_term=cta&utm_content=docs"
+                                                target="_blank" rel="noopener noreferrer">Get Started Free</a>
+                                            </p>
+                                            <small>*No credit card required.</small>
+                                        </div>
+                                        </div>
+                                    </div>
                                     </div>
                                 </div>
                             </div>
+                            
                         </div>
                     </div>
                 </div>
