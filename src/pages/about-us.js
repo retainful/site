@@ -15,23 +15,21 @@ var h3center ={
 const AboutUs = () => {
   return (
     <Layout>
-    <StaticQuery
-    query={AboutUsQuery}
-    render={data => {
-      return (
-        <div className="legal-info" style={h3center}>
-          <Container>
-            <Post
-              title={data.markdownRemark.frontmatter.title}
-              description={data.markdownRemark.frontmatter.description}
-              keywords={data.markdownRemark.frontmatter.keywords}
-              excerptData={data.markdownRemark.htmlAst}
-            />
-          </Container>
-        </div>
-    )
-  }}
-  />         
+      <StaticQuery
+      query={AboutUsQuery}
+      render={data => {
+        return (
+          <div className="legal-info" style={h3center}>
+              <Post
+                title={data.markdownRemark.frontmatter.title}
+                description={data.markdownRemark.frontmatter.description}
+                keywords={data.markdownRemark.frontmatter.keywords}
+                excerptData={data.markdownRemark.htmlAst}
+              />
+          </div>
+      )
+    }}
+    />       
   </Layout>
     )
   }
