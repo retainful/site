@@ -17,7 +17,7 @@ keywords: "abandoned cart recovery, abandoned shopping cart recovery"
 
 Recover lost sales with the most powerful abandoned cart recovery app. Trigger cart recovery emails and motivate customers to buy cart instantly. 
  
-<cta url="https://app.retainful.com" target="_blank" rel="noopener">Recover Cart for FREE</cta>
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=abandoned_cart_recovery&utm_campaign=recover_your_cart&utm_term=cta" target="_blank" rel="noopener">Recover Cart for FREE</cta>
 
 </div>
 

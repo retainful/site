@@ -19,7 +19,7 @@ Join with us and double up your sales. Recover Shopify abandoned carts now.
 
  
  
-<cta url="https://app.retainful.com" target="_blank" rel="noopener">Recover Cart for FREE</cta>
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=shopify_abandoned_cart&utm_campaign=recover-cart-for-free&utm_term=cta" target="_blank" rel="noopener">Recover Cart for FREE</cta>
 
 </div>
 
