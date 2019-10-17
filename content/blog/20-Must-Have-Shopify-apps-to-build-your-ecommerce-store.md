@@ -6,7 +6,8 @@ keywords: "shopify apps,best selling apps,marketing apps,best shopify apps,shopi
 description : "Amateur or experienced - know what your eCommerce store needs the most. Grow your business, customers, and revenue by integrating these 20 Shopify apps."
 author: "Sharon Thomas"
 image: "../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/20-best-must-have-shopify-apps-to-build-your-ecommerce-store.png"
-thumbnail: "../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/20-best-must-have-shopify-apps-to-build-your-ecommerce-store.png" 
+thumbnail: "../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/20-best-must-have-shopify-apps-to-build-your-ecommerce-store.png"
+category: "shopify"
 ---
 
 How much time would you consume for choosing a product of your liking from an eCommerce store?

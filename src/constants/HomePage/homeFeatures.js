@@ -71,7 +71,7 @@ const HomeFeatures = () => (
 
                         </ul>
                         <p>
-                            <Link to="/abandoned-cart-recovery">Learn more  <span><FaLongArrowAltRight/></span></Link>
+                            <a href="https://www.retainful.com/abandoned-cart-recovery?utm_source=seo&utm_medium=landing_page&utm_campaign=abandoned_cart_recovery&utm_term=learn_more&utm_content=home_page">Learn more  <span><FaLongArrowAltRight/></span></a>
                         </p>
                     </div>
                 </div>
@@ -90,7 +90,7 @@ const HomeFeatures = () => (
                             <li>Track the performance of the coupons in the Retainful Dashboard</li>
                         </ul>
                         <p>
-                            <Link to="/next-order-coupon">Learn more <span><FaLongArrowAltRight/></span></Link>
+                            <a href="https://www.retainful.com/next-order-coupon?utm_source=seo&utm_medium=landing_page&utm_campaign=next-order-coupon&utm_term=learn_more&utm_content=home_page">Learn more <span><FaLongArrowAltRight/></span></a>
                         </p>
                     </div>
                 </div>

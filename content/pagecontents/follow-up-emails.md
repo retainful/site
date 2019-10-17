@@ -20,7 +20,7 @@ Recover abandoned carts and Grow revenue by 40% with cart recovery email. Do Not
 
 
  
-<cta url="https://app.retainful.com" target="_blank" rel="noopener">Follow up emails for FREE</cta>
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=follow_up_emails&utm_campaign=get_start_free&utm_term=cta" target="_blank" rel="noopener">Follow up emails for FREE</cta>
 
 </div>
 
