@@ -6,6 +6,7 @@ author: "Kiruthiga"
 tags: ["installation", "woocommerce", "abandoned-cart-recovery-emails"]
 category: woocommerce
 ---
+> The following guide applies for Retainful 1.x Legacy versions. If you are using Retainful 2.0, you can manage the abandoned carts in your [Retainful Dashboard](https://app.retainful.com) itself.
 
 More than 69% of the shoppers abandon their carts. But with a well-timed email follow-ups, it is possible to recover at least 39% of them.
 
