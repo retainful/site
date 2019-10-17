@@ -3,6 +3,7 @@ import {Link} from 'gatsby'
 import { FaTimes, FaCheck, FaGift, FaDownload, FaFilter, FaDollarSign } from 'react-icons/fa';
 import Layout from '../components/layout'
 import SEO from '../components/seo'
+import CookieConsent from "../components/cookieconsent";
 
 import bannerLogo from '../images/retainful-coupon-03.png'
 import customerBanner from '../images/retainful-customers.png'
@@ -31,6 +32,12 @@ const IndexPage = () => (
         <FeaturedReviews/>
         <GetStarted/>
 
+        <div class="row d-flex justify-content-center">
+                <CookieConsent className="container" style={{textShadow: "2px 2px black",borderRadius:'5px' }}  
+                buttonStyle={{color:"Black", fontWeight: "bolder",borderRadius:'5px'}}>
+                    <p>We use cookies to improve your experience on our website.</p>
+                </CookieConsent>
+            </div>
     </Layout>
 );
 
