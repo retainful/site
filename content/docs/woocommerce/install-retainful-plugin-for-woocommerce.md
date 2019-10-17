@@ -21,7 +21,7 @@ There are two methods of how the plugin can be installed.
 Here is a video on how to install the plugin using Method-1, using the plugin manager:
 <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/64bd0a3d113843829f6c09fabfe7a9d8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### Method 2(By uploading the plugin)
+### Method 2 (By uploading the plugin)
 
 1. Download the plugin from Wordpress repository or click <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" rel="noopener nofollow" target="_blank">here.</link-text>
 
@@ -30,16 +30,11 @@ Here is a video on how to install the plugin using Method-1, using the plugin ma
 ![UploadPlugin](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/uploadPlugin.png)
 
 3. Choose the zip file and click on install now. 
-4. On click of "install now", the plugin will be activated. 
-5. You can see the plugin under Woocommerce Section.
-Here is the screenshot after installing the plugin:
+4. Activate the plugin after the installation
 
-![Installation](https://raw.githubusercontent.com/retainful/site-images/master/docs/Installation/RetainfulIntallation.png)
+### What's Next ?
 
-Here is a video tutorial on how to install the plugin using Method-2, by uploading the package:
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/8a23291dab0a47e8bea218bbbb27d156" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-Hurray ! We have now installed the plugin successfully.
+[Connect your WooCommerce store with your Retainful Account] (https://www.retainful.com/docs/woocommerce/connecting-the-store-with-retainful-account)
 
 Note: 
 - You need to follow any one of the above methods (DO NOT follow Method 2 if you already followed Method 1)

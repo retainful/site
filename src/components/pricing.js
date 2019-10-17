@@ -20,7 +20,7 @@ const StandardPricingPage = () =>{
                     <h2>Recover your lost sales and boost your revenue by 10x.</h2>
                     <h4>Join 1000+ store owners who get more revenue with Retainful.</h4>
                     <p>
-                    <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">Get started for FREE</a>
+                    <a className="btn-action btn-lg" href="https://app.retainful.com/?utm_source=pricing_page&utm_medium=above_fold_cta&utm_campaign=get-started-for-free&utm_term=cta" target="_blank" rel="noopener noreferrer">Get started for FREE</a>
                     </p>
                     <p>Simple, honest prices. No surprises! No annual contracts</p>
                 </div>
@@ -30,10 +30,8 @@ const StandardPricingPage = () =>{
                     <StandardPricingTable/>
                 </div>
             </Container>
-            <HomeTrutedCompanies/>
-            <FeaturedReviews/>
 
-            <div className="faq-block">
+            {/*<div className="faq-block">
                 <StaticQuery
                     query={StandardPricingpageFaqQuery}
                     render={data => {
@@ -46,8 +44,7 @@ const StandardPricingPage = () =>{
                         )
                     }}
                 />
-            </div>
-            <GetStarted/>
+                </div>*/}
         </div>
     )
 }

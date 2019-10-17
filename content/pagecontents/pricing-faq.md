@@ -12,6 +12,31 @@ path: '/pricing-faq'
 <column size="6">
 <div className="faq-wrapper">
 
+<br>
+
+#### What is a Contact?
+A contact is a single person or a customer that has an activity in the store, like abandoning a cart. Think of 1 email address as 1 contact. 
+
+<br>
+
+#### How is the total number of contacts calculated?
+
+By counting the number of customers (a.k.a) emails stored in your account. Contacts that have unsubscribed or deleted will not be counted in your total
+
+<br>
+
+#### How many emails I can send?
+
+Unlimited. There is no limit on the number of emails sent. 
+
+<br>
+
+#### What happens when my contact limit reached?
+
+You can still track abandoned carts and the next order coupons from your store. But emails will not be sent until you upgrade to the next higher plan.
+
+<br>
+
 #### What eCommerce platforms does Retainful supports?
 Currently, Retainful is available for Shopify and WooCommerce. The integration for Shopify Plus and BigCommerce will be available soon. We also have plans for an integration with Volusion & Magento.
   
@@ -20,38 +45,33 @@ Currently, Retainful is available for Shopify and WooCommerce. The integration f
 <column size="6">
 <div className="faq-wrapper">
 
+<br>
+
+#### Do you have any setup cost?
+
+Absolutely not. There are no hidden costs. No annual contracts or commitments. Pay as you grow. Cancel anytime.
+
+<br>
+
 #### What are my payment options?
+
 Shopify store owners are billed via the Shopify itself. They would see the monthly charges reflect on their invoice. WooCommerce Store owners can pay by credit card (powered by Stripe) in our Billing section. WooCommerce stores are billed annually.
 
-</div>
-</column>
-<column size="6">
-<div className="faq-wrapper">
+<br>
 
 #### Can I upgrade to a Paid plan easily?
 Yes. Just click the Upgrade button in your Retainful Dashboard -> Billing section. No additional set up or process is required. You can get the paid plan features automatically.
 
-</div>
-</column>
-<column size="6">
-<div className="faq-wrapper">
+<br>
 
 #### Can I continue to use the free version ?
 Yes. You can continue to use Retainful free version with the limited set of features.
 
-</div>
-</column>
-
-<column size="6">
-<div className="faq-wrapper">
+<br>
 
 #### Will we be automatically charged when our trial is up?
 No. We don't ask for your credit card up front, so you'll only be charged when you decide you’re ready. If you want to continue after your trial, we'll ask for payment details. If not — cancel with a click, no questions asked.
 
-</div>
-</column>
-<column size="6">
-<div className="faq-wrapper">
 
 </div>
 </column>

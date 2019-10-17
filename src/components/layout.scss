@@ -1384,6 +1384,13 @@ body {
   {
     border-right: 1px solid #efe7e7;
   }
+  .plan-bdr-bg
+  {
+    &:hover{
+      box-shadow: 0 0px 17px 0px rgba(0, 0, 0, 0.15);
+      background: #fdf8f8;
+    }
+  }
   .plan-bdr-left
   {
     border-left: 1px solid #efe7e7;
@@ -1395,7 +1402,7 @@ body {
     border-left: 0px solid #efe7e7;
   }
   .pricing-section .table-left, .pricing-section .table-right {
-    padding: 20px 15px 10px 15px;
+    padding:15px 0px 0px 0px;
     margin: 0 auto;
     margin-bottom: 30px;
     background-color: #FFFFFF;
@@ -1414,6 +1421,8 @@ body {
   .pricing-section .featured {
     position: relative;
     z-index: 2;
+    box-shadow: 0 0px 17px 0px rgba(0, 0, 0, 0.15);
+    background: #fdf8f8;
     .table-left{
       position: relative;
       &:before{
@@ -1449,10 +1458,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 36px;
-    font-weight: 600;
+    font-size: 50px;
+    font-weight: 500;
     color: #333333;
-    margin: 0;
+    line-height: 36px;
+    margin-top: 22px;
+    padding-bottom: 30px;
+    border-bottom: 1px dashed #efe7e7;
     > div{
       display: inline-block;
     }
@@ -1592,12 +1604,33 @@ body {
     color: #797687;
     font-weight: 500;
   }
+  sup{
+    font-size: 18px;
+    font-weight: 500;
+    position: relative;
+    top: -18px;
+    right: 3px;
+    color: #5d5d5d;
+    }
+  sub{
+    font-size: 15px;
+    font-weight: 500;
+    color: #5d5d5d;
+     }
   .ptb-2 {
-    background: #fdf8f8;
-    padding: 30px 0px 10px!important;
+    background: #ffffff;
+    padding: 30px 0px 10px !important;
+    border-top: 1px solid #efe7e7;
   }
 
-
+  .original-price  p{
+    display: block;
+    font-size: 20px !important;
+    font-weight: 300 !important;
+    line-height: 1;
+    margin: -10px 0 0px;
+    text-decoration: line-through red;
+  }
   .plan-have {
     width: 10px;
     height: 12px;
@@ -1621,7 +1654,16 @@ body {
     color: #333;
   }
 
-
+  .original-price p {
+    display: block;
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: #6b6b6b;
+    line-height: 25px;
+    margin: 15px 0 0px;
+    -webkit-text-decoration: line-through red;
+    text-decoration: line-through red;
+  }
   .card-body-abt
   {
 
