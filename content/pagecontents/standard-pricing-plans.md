@@ -123,7 +123,7 @@ who want to do more.
 
 <div slot="plan-button">
  
-<a class="btn-action btn-lg" href="https://app.retainful.com/checkout/business" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
 
 </div>
 
@@ -162,14 +162,14 @@ normally $199/month
 
 <div slot="plan-button">
 
-<a class="btn-action btn-lg" href="https://app.retainful.com/checkout/pro" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
+<a class="btn-action btn-lg" href="https://app.retainful.com" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
 
 </div>
 
 <div slot="pricing-slogan">
 
 All the tools necessary to 
-transform your conversions.
+increase your conversions.
 
 </div>
 
