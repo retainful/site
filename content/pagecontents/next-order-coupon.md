@@ -19,7 +19,7 @@ keywords: "Next order coupon, Coupon generator, Smart coupon"
 Encourage customers to buy repeatedly at your eCommerce store with attractive Next Order Coupons
 
  
-<cta url="https://app.retainful.com" target="_blank" rel="noopener">Create Coupon for FREE</cta>
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=next_order_coupons&utm_campaign=recover_your_cart&utm_term=cta" target="_blank" rel="noopener">Create Coupon for FREE</cta>
 
 </div>
 
