@@ -12,7 +12,7 @@ const SIDENAV_LINKS = [
               {URL: '/docs/woocommerce/install-retainful-plugin-for-woocommerce', TEXTNODE: 'Installation'},
               {URL: '/docs/woocommerce/connecting-the-store-with-retainful-account', TEXTNODE: 'Connecting your store with Retainful'},
               {URL: '/docs/woocommerce/migrating-from-plugin-to-cloud', TEXTNODE: 'Migrating from plugin to cloud'},
-              {URL: '/docs/woocommerce/retainful-upgrading-to-premium', TEXTNODE: 'Premium Add-ons'},
+              {URL: '/docs/woocommerce/retainful-upgrading-to-premium', TEXTNODE: 'Installing Premium Add-ons'},
               {URL: '/docs/woocommerce/mailchimp-integration', TEXTNODE: 'MailChimp Integration'},
               {URL: '/docs/woocommerce/retainful-abandoned-cart-recovery', TEXTNODE: 'Abandoned Cart Recovery Emails'},
               {URL: '/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor', TEXTNODE: 'Customizing the abandoned cart email templates using Drag and drop editor'},

@@ -61,13 +61,6 @@ export default function Footer() {
                                 <Link to="/partner-program">Partner Program</Link>
                             </li>
                         </ul>
-                        <h5>Also from us:</h5>
-                        <ul className="d-inline-flex">
-                            <li className="m-r-10"><a href="https://www.flycart.org/" target="_blank" rel="noopener noreferrer">Flycart</a></li>
-                            <li className="m-r-10"><a href="https://www.j2store.org/" target="_blank" rel="noopener noreferrer">J2Store</a></li>
-                            <li className="m-r-10"><a href="https://campaignrabbit.com/" target="_blank" rel="noopener noreferrer">Campaignrabbit</a></li>
-                            <li className="m-r-10"><a href="https://billingrabbit.com/" target="_blank" rel="noopener noreferrer">Billingrabbit</a></li>
-                        </ul>
                     </Col>
                     <Col size="2">
                         <img src={GdprReadBadge} alt="" className="img-responsive"/>
