@@ -8,11 +8,12 @@ const SIDENAV_LINKS = [
     {
         TITLE: 'WooCommerce',
         LINKS: [
+              {URL: '/docs/woocommerce/getting-started-woocommerce', TEXTNODE: 'Getting Started'},
               {URL: '/docs/woocommerce/install-retainful-plugin-for-woocommerce', TEXTNODE: 'Installation'},
-              {URL: '/docs/woocommerce/connecting-the-store-with-retainful-account', TEXTNODE: 'Connecting the Store with Retainful account'},
+              {URL: '/docs/woocommerce/connecting-the-store-with-retainful-account', TEXTNODE: 'Connecting your store with Retainful'},
               {URL: '/docs/woocommerce/migrating-from-plugin-to-cloud', TEXTNODE: 'Migrating from plugin to cloud'},
-              {URL: '/docs/woocommerce/retainful-upgrading-to-premium', TEXTNODE: 'Upgrade to Premium'},
-              {URL: '/docs/woocommerce/mailchimp-integration', TEXTNODE: 'Mail Chimp Integration'},
+              {URL: '/docs/woocommerce/retainful-upgrading-to-premium', TEXTNODE: 'Installing Premium Add-ons'},
+              {URL: '/docs/woocommerce/mailchimp-integration', TEXTNODE: 'MailChimp Integration'},
               {URL: '/docs/woocommerce/retainful-abandoned-cart-recovery', TEXTNODE: 'Abandoned Cart Recovery Emails'},
               {URL: '/docs/woocommerce/creating-an-abandoned-cart-email-sequence', TEXTNODE: 'Creating your first abandoned cart email series'},
               {URL: '/docs/woocommerce/using-drag-and-drop-editor', TEXTNODE: 'using Drag and drop editor'},
@@ -28,7 +29,7 @@ const SIDENAV_LINKS = [
               {URL: '/docs/woocommerce/getting-premium-abandoned-cart-mail-templates', TEXTNODE: 'Getting premium Abandoned Cart email templates'},
 
         ],
-        BUTTON_LINK: '/docs/woocommerce/install-retainful-plugin-for-woocommerce',
+        BUTTON_LINK: '/docs/woocommerce/getting-started-woocommerce',
     },
     {
         TITLE: 'Shopify',

@@ -11,6 +11,8 @@ category: woocommerce
 The method of installation is the same for users who use Retainful version 1.x and 2.x. 
 There are two methods of how the plugin can be installed. 
 
+>Note: You need to follow any one of the above methods (DO NOT follow Method 2 if you already followed Method 1)
+
 ### Method 1 (easier and recommended)**
 
 1. You can search for retainful plugin from the plugins section.
@@ -34,7 +36,5 @@ Here is a video on how to install the plugin using Method-1, using the plugin ma
 
 ### What's Next ?
 
-[Connect your WooCommerce store with your Retainful Account] (https://www.retainful.com/docs/woocommerce/connecting-the-store-with-retainful-account)
+[Connect your WooCommerce store with your Retainful Account](https://www.retainful.com/docs/woocommerce/connecting-the-store-with-retainful-account)
 
-Note: 
-- You need to follow any one of the above methods (DO NOT follow Method 2 if you already followed Method 1)
