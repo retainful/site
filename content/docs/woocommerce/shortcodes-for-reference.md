@@ -1,6 +1,6 @@
 ---
 title: "Shortcodes for reference"
-path: "/docs/woocommerce/shortcodes-for-reference.md"
+path: "/docs/woocommerce/shortcodes-for-reference"
 description: "Shortcodes can be used to personalize your email templates. Here is a list of shortcodes that are allowed and how to use them on your templates."
 date: "2019-10-10"
 author: "Sowbagya lakshmi"

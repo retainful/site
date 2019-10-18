@@ -17,6 +17,7 @@ const SIDENAV_LINKS = [
               {URL: '/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor', TEXTNODE: 'Customizing the abandoned cart email templates using Drag and drop editor'},
               {URL: '/docs/woocommerce/adding-a-store-logo-on-your-email-template', TEXTNODE: 'Adding a store logo on your email template'},
               {URL: '/docs/woocommerce/adding-a-coupon-block-on-your-email-template', TEXTNODE: 'Adding a coupon block on your email template'},
+              {URL: '/docs/woocommerce/shortcodes-for-reference', TEXTNODE: 'Shortcodes for reference'},              
               {URL: '/docs/woocommerce/exit-intent-popup', TEXTNODE: 'Exit Intent Popup'},
               {URL: '/docs/woocommerce/collect-email-address-before-adding-to-cart-in-woocommerce', TEXTNODE: 'Email Collection Popup'},
               {URL: '/docs/woocommerce/coupon-for-email-popup', TEXTNODE: 'Coupon for Email Collection Popup'},
