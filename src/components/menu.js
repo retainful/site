@@ -7,10 +7,10 @@ const Menu = () => (
         <MenuCard />
          <ul className="navbar-nav ml-auto navbar-right">
             <li className="nav-item">
-                <a href="https://app.retainful.com" target="_blank" className="nav-link btn-link">Log in</a>
+                <a href="https://app.retainful.com/?utm_source=login&utm_medium=navigation_bar&utm_campaign=website" target="_blank" className="nav-link btn-link">Log in</a>
             </li>
             <li className="nav-item">
-                <a href="https://app.retainful.com" target="_blank" className="btn-cta nav-link">Sign Up</a>
+                <a href="https://app.retainful.com/?utm_source=signup&utm_medium=navigation_bar&utm_campaign=website" target="_blank" className="btn-cta nav-link">Sign Up</a>
             </li>
         </ul>
     </div>
