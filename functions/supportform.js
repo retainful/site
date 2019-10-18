@@ -70,7 +70,7 @@ if (errorMessage){
 else{
   let mailOptions = {
     from: `${name} <${email}>`,
-    to: process.env.MY_EMAIL_ADDRESS,
+    to: process.env.TO_EMAIL_ADDRESS,
     replyTo: email,
     subject: `${subject}`,
     text: `${message}`,
