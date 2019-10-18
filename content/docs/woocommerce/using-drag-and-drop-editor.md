@@ -1,6 +1,6 @@
 ---
-title: "Customizing the abandoned cart email templates using Drag and drop editor"
-path: "/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor"
+title: "Using drag and drop editor"
+path: "/docs/woocommerce/using-drag-and-drop-editor"
 description: "You could customize the cart recovery templates easily using a drag and drop editor."
 date: "2019-10-12"
 author: "Sowbagya lakshmi"
