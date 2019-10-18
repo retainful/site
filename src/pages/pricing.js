@@ -2,7 +2,7 @@ import React from 'react'
 import {Link, StaticQuery, graphql} from 'gatsby'
 import Layout from '../components/layout'
 import MetaTags from '../components/Metatags'
-import Pricing from '../components/pricing'
+import StandardPricingTable from '../components/pricing'
 import GetStarted from '../components/getstarted'
 import FeaturedReviews from '../components/featuredreviews'
 import $ from 'jquery'
@@ -20,18 +20,10 @@ class PricingPage extends React.Component {
                     description="Start recovering abandoned carts in your Shopify and WooCommerce stores. Get started for FREE!"
                     keywords="retainful pricing plans, abandoned cart recovery, cart abandonment, shopify abandoned checkouts, woocommerce abandoned cart recovery"
                 />
-                <div className="pricing-banner-container">
-                    <div className="intro-text-container">
-                        <div className="container container-s text-center">
-                            <h2>Start recovering abandoned carts in your store. Get started for Free!</h2>
-                            <p>Choose your platform and get started in minutes</p>
-                            <p>
-                                <a className="btn-action btn-lg" href="https://app.retainful.com/" target="_blank" rel="noopener noreferrer">Get started FREE</a>
-                            </p>
-                        </div>
-                    </div>
-
-                    <Pricing/>
+                <div className="pricing-banner-container">                    
+                <Container>
+                       <StandardPricingTable/>
+                    </Container>
 
                     <HomeTrutedCompanies/>
 

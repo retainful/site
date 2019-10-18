@@ -3,6 +3,7 @@ require('dotenv').config()
 const jwt = require('jsonwebtoken')
 const privateKey = process.env.PRIVATE_KEY_FOR_JWT;
 
+
 // Connect to our Mailgun API wrapper and instantiate it 
 const mailgun = require('mailgun-js')
 const mg = mailgun({
@@ -23,6 +24,8 @@ exports.handler = function(event, context, callback) {
   let data = JSON.parse(event.body)
 
   let {name, subject, message, error, token } = data
+  
+  console.log(data.token)
 
 try{
   var decoded = jwt.verify(data.token,privateKey);
@@ -42,7 +45,7 @@ try{
   }
 
   if(!data.token){
-    errorMessage = "Something Failed";
+    errorMessage = "Something Failed because of no token found";
     console.log(errorMessage);
     callback(errorMessage);
   }
@@ -77,9 +80,9 @@ if (errorMessage){
 
 else{
   let mailOptions = {
-    from: `${name} <${process.env.MY_FEEDBACK_EMAIL_ADDRESS}>`,
-    to: process.env.MY_EMAIL_ADDRESS,
-    replyTo: process.env.MY_FEEDBACK_EMAIL_ADDRESS,
+    from: `${name} <${process.env.FROM_EMAIL_ADDRESS}>`,
+    to: process.env.TO_EMAIL_ADDRESS,
+    replyTo: process.env.FROM_EMAIL_ADDRESS,
     subject: `${subject}`,
     text: `${message}`,
   }
@@ -112,7 +115,7 @@ else{
 
 catch(error){
   errorMessage = "Something Failed";
-  console.log(errorMessage);
+  console.log(error);
   callback(errorMessage);
 }
 }

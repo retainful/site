@@ -13,6 +13,7 @@ Disallow: /category/
 Disallow: ?comments=*
 Disallow: /search?
 Disallow: /thanks
+Disallow: /standard-pricing-plans
 Disallow: */feed 
 Disallow: */comments 
 Disallow: /*?* 

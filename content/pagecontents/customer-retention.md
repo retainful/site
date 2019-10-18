@@ -18,7 +18,7 @@ keywords: "Smart coupons, Next order coupons"
 A smart coupon encourages customers to stick with your online store for long… A smart coupon increases your WooCommerce and Shopify revenue by 10x…
 
  
-<cta url="https://app.retainful.com" target="_blank" rel="noopener">Grow 10x Sales</cta>
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=customer_retention&utm_campaign=grow_10x&utm_term=cta" target="_blank" rel="noopener">Grow 10x Sales</cta>
 
 </div>
 

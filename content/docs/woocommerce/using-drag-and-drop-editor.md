@@ -1,5 +1,6 @@
 ---
-title: "Customizing the abandoned cart email templates using Drag and drop editor"
+title: "Using drag and drop editor"
+path: "/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor"
 description: "You could customize the cart recovery templates easily using a drag and drop editor."
 date: "2019-10-12"
 author: "Sowbagya lakshmi"
@@ -33,24 +34,28 @@ This is how the template layout can be segmented with the use of tools in the se
 2. **Element tab**- This section helps you add new text blocks, buttons, images, divider and so on.
 
 <call-out>
-    1. A clear CTA encourages users to complete the abandoned purchase. If you are looking to add <highlight>call-to-action buttons</highlight> on your recovery emails, you could do so by using the button block.
-    2.  Avoid customer frustruation. Send GDPR-compliant abandoned cart emails. This can be done with the Unsubscribe button element. The other store emails would still be delivered.
-    3.  Some users might have abandoned their cart because they had questions and didn't know where to get them answered. Why not make use of the recovery mails to do that? Use the Text block to answer FAQs.
-    </call-out>
+
+1. A clear CTA encourages users to complete the abandoned purchase. If you are looking to add <highlight>call-to-action buttons</highlight> on your recovery emails, you could do so by using the button block.
+
+2.  Avoid customer frustruation. Send GDPR-compliant abandoned cart emails. This can be done with the Unsubscribe button element. The other store emails would still be delivered.
+
+3.  Some users might have abandoned their cart because they had questions and didn't know where to get them answered. Why not make use of the recovery mails to do that? Use the Text block to answer FAQs.
+
+</call-out>
 
 ![Element tools](../../images/docs/customizing-templates-using-editor/element-tools.png)
 
 3. **Store block**- Every abandoned cart email should have certain elements like:
-            - The brand's logo
-            - The cart items
-            - The price of the order
-            - A discount coupon(at the right time)
-     Here is how you could add these elements on your recovery emails.
+- The brand's logo
+- The cart items
+- The price of the order
+- A discount coupon(at the right time)
+Here is how you could add these elements on your recovery emails.
 
 ![Store elements](../../images/docs/customizing-templates-using-editor/store-tools.png)
 The store element section offers options to enter dynamic data from the store. So, the parameters require bit more explanation. Following are the options available at the store element area:
 
-- **Logo block** -  To know how to add a store logo to your emails and customize the logo, click <link-text url="https://www.retainful.com/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor" target="_blank" rel="noopener">here</link-text>
+- **Logo block** -  To know how to add a store logo to your emails and customize the logo, click <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-store-logo-on-your-email-template" target="_blank" rel="noopener">here</link-text>
 
 - **Coupon block** - To know how to add a coupon block to your recovery emails, click <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-coupon-block-on-your-email-template">here</link-text>
 
@@ -97,10 +102,14 @@ You could style each and every element as per your requirements.
 #### Checking responsiveness across devices
 
 Around 61% percent of your stores users are checking your emails on mobile devices.  This becomes all the more reason to optimize your emails for mobile devices.
-<call-out>To make emails responsive:
-    1. Avoid large images
-    2. Keep your emails brief
-    </call-out>
+
+<call-out>
+
+1. Avoid large images
+2. Keep your emails brief
+
+</call-out>
+
 You could check if the email templates are responsive by making use of the icons at the left corner of the email template layout:
 
 ![Responsiveness](../../images/docs/customizing-templates-using-editor/responsive-tab.png)

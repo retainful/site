@@ -11,8 +11,8 @@ description: "Partner Program for Retainful."
 
 <div class="text-center topbar-content">
 
-### Get a 30% commision on every referral you make
-Earn a passive income by recommending Retainful.
+### Get a 30% Commission on Every Referral You Make
+A One - Year Recursive Commission Payout Program
 
 <link-text className="btn btn-action btn-lg" url="https://retainful.tapfiliate.com" target="_blank" rel="noopener">Become our Partner</link-text>
 
@@ -25,7 +25,7 @@ in one simple step
 
 ![Tux, the Linux mascot](https://www.flycart.org/images/affiliates_icons/icon_rewards.png)
 #### Awesome Rewards
-You can earn a 30% commission by recommending Retainful. Sell more, Earn more!
+Recommend Retainful and get 30% recursive commissions for 1 year as reward. Sell More. Earn More!
 
 </column>
 
@@ -67,16 +67,17 @@ We will provide you with tools to help you promote Retainful on your website cam
 <column size="6" className="m-b-20">
 
 #### Why Join Retainful Partner program
-Because you've got a whole lot to gain and nothing to lose! We have been developing premium WordPress Plugins for our users for quite a while now. We also provide high quality support to our customers. Our partner program comes with real commissions.
+Because you've got a whole lot to gain and nothing to lose! We have been developing premium eCommerce SaaS tools for our users quite a while now. We also provide high quality support to our customers. Our partner program comes with real commissions.
 
 </column>
 
 <column size="6" className="m-b-20">
 
 #### How is my commissions calculated?
-Lets say you have sold 100 copies of Retainful at $69 each, your commissions are:    
-`100 copies x $69 x 30% = $2,070`   
-In total, you have earned $2,070 in commissions at 30%.
+Let’s say you’ve sold one copy of Retainful at $99. You get,                
+`1 x $99 x 30% = $29.7 x 12 = $356.4` for 1 year               
+`For 10 copies, you get $3564`              
+`For 100 copies, you get $35640.` 
 
 </column>
 <column size="6" className="m-b-20">
