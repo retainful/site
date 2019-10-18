@@ -1,5 +1,6 @@
 ---
-title: "Customizing the abandoned cart email templates using Drag and drop editor"
+title: "Using drag and drop editor"
+path: "/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor"
 description: "You could customize the cart recovery templates easily using a drag and drop editor."
 date: "2019-10-12"
 author: "Sowbagya lakshmi"
@@ -21,7 +22,9 @@ At the email template layout, you could see a pre-defined template. The tools fo
 
 ![Available options](../../images/docs/customizing-templates-using-editor/blocks-available.png)
 
-1. **Section tab**\- In this part, you can find tools that allow you to add segments to your email template, for example, if you wish to divide the template layout into 2 or 3 columns, you could drag and drop blocks from this section.
+1. **Section tab** - Divide and Conquer!
+Divide the email into neat columns.
+In this part, you can find tools that allow you to add segments to your email template, for example, if you wish to divide the template layout into 2 or 3 columns, you could drag and drop blocks from this section.
 
 ![Section tab](../../images/docs/customizing-templates-using-editor/section-columns.png)
 This is how the template layout can be segmented with the use of tools in the section tab:
@@ -30,14 +33,29 @@ This is how the template layout can be segmented with the use of tools in the se
 
 2. **Element tab**- This section helps you add new text blocks, buttons, images, divider and so on.
 
+<call-out>
+
+1. A clear CTA encourages users to complete the abandoned purchase. If you are looking to add <highlight>call-to-action buttons</highlight> on your recovery emails, you could do so by using the button block.
+
+2.  Avoid customer frustruation. Send GDPR-compliant abandoned cart emails. This can be done with the Unsubscribe button element. The other store emails would still be delivered.
+
+3.  Some users might have abandoned their cart because they had questions and didn't know where to get them answered. Why not make use of the recovery mails to do that? Use the Text block to answer FAQs.
+
+</call-out>
+
 ![Element tools](../../images/docs/customizing-templates-using-editor/element-tools.png)
 
-3. **Store block**- To add logos, or coupons and fetch and display other store data, you could make use of the tools found here.
+3. **Store block**- Every abandoned cart email should have certain elements like:
+- The brand's logo
+- The cart items
+- The price of the order
+- A discount coupon(at the right time)
+Here is how you could add these elements on your recovery emails.
 
 ![Store elements](../../images/docs/customizing-templates-using-editor/store-tools.png)
 The store element section offers options to enter dynamic data from the store. So, the parameters require bit more explanation. Following are the options available at the store element area:
 
-- **Logo block** -  To know how to add a store logo to your emails and customize the logo, click <link-text url="https://www.retainful.com/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor" target="_blank" rel="noopener">here</link-text>
+- **Logo block** -  To know how to add a store logo to your emails and customize the logo, click <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-store-logo-on-your-email-template" target="_blank" rel="noopener">here</link-text>
 
 - **Coupon block** - To know how to add a coupon block to your recovery emails, click <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-coupon-block-on-your-email-template">here</link-text>
 
@@ -70,11 +88,12 @@ And the options to customise the layout appear on the right corner.
 
 4. **Dimension block** -In this section, you can modify the width, height and padding of the selected block.
 
-5. **Typography block** -This segment has options that let you control the font style of the selected block.
+5. **Typography block** -  Make your emails look attractive and captivating by using the right font, size and alignment. This segment has options that let you control the font style and alignment of the selected block.
 
 ![Typography](../../images/docs/customizing-templates-using-editor/typography-block.png)
 
-6. **Decorations block**-This section would allow you to add other CSS styles to the selected element.
+6. **Decorations block**- Keep your product in mind while designing your emails. Highlight when necessary using the ideal background color.
+This section would allow you to add other CSS styles to the selected element.
 
 ![Decorations](../../images/docs/customizing-templates-using-editor/decorations-block.png)
 
@@ -82,7 +101,14 @@ You could style each and every element as per your requirements.
 
 #### Checking responsiveness across devices
 
-<call-out>Around 61% percent of your stores users are checking your emails and accessing your site on mobile phones. Responsive design eases the checkout process and improves user experience.</call-out>
+Around 61% percent of your stores users are checking your emails on mobile devices.  This becomes all the more reason to optimize your emails for mobile devices.
+
+<call-out>
+
+1. Avoid large images
+2. Keep your emails brief
+
+</call-out>
 
 You could check if the email templates are responsive by making use of the icons at the left corner of the email template layout:
 
@@ -90,9 +116,27 @@ You could check if the email templates are responsive by making use of the icons
 
 #### Other formatting tools 
 
-Viewing the template in full screen, downloading the template, adding styles via html code, undo and redo options can be found at the top right corner of the template layout.
+Viewing the template in full screen, downloading the template, adding styles via html code, undo, redo, preview options can be found at the top right corner of the template layout.
 
 ![Other formatting tools](../../images/docs/customizing-templates-using-editor/responsive-formatting.png)
 
 
 You could add styles and make the layout of the abandoned cart email templates even more beautiful.
+
+**Video tutorial**
+
+Here is a video of how to customize the abandoned cart emails. In this video you will see how to:
+1. Insert a new section to your email template
+2. Add text element, unsubscribe block
+3. Customize a selected block
+4. Ensure responsiveness
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/120d0455822c4821b1698ddd350c4259" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+#### Summary
+
+In this article we saw how to:
+1. Divide your mail templates into columns or add new sections
+2. Add new elements and text blocks
+3. Customize the individual elements
+4. Ensure responsiveness

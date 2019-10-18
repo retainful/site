@@ -32,7 +32,7 @@ const ReviewsPage = () => (
                             <p>Companies big and small trust Retainful to recover abandoned carts and drive repeat purchases.</p>
                             <p>Want to try it out? Start for free!</p>
                             <p><a className="btn-action btn-edge btn-lg"
-                                  href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}`}
+                                  href="https://app.retainful.com/?utm_source=traffic&utm_medium=above_fold&utm_campaign=get_start_free&utm_term=cta&utm_content=review_page"
                                   target="_blank" rel="noopener noreferrer">Get started Free</a></p>
                         </div>
                     </div>
