@@ -12,10 +12,11 @@ category: woocommerce
 
 Retainful lets you personalize your abandoned cart email templates with the help of shortcodes.
 
-<call-out>As a part of personalization, make sure that your recovery emails contain atleast one or all of the following:
-1. User's name.
-2. Link to recover their cart.
-3. Items on the user's cart.
+<call-out>
+As a part of personalization, make sure that your recovery emails contain atleast one or all of the following:<br>
+    1. User's name.<br>
+    2. Link to recover their cart.<br>
+    3. Items on the user's cart.<br>
 </call-out>
 
 Retainful offers you endless possibilites to use shortcodes whenever and wherever you wish on your email templates.

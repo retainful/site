@@ -13,7 +13,7 @@ There are two methods of how the plugin can be installed.
 
 >Note: You need to follow any one of the above methods (DO NOT follow Method 2 if you already followed Method 1)
 
-### Method 1 (easier and recommended)**
+### Method 1 (easier and recommended)
 
 1. You can search for retainful plugin from the plugins section.
 2. Click on Install now and activate the plugin.
