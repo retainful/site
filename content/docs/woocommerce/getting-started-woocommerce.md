@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Retainful"
-description: "Learn how to get started with Retainful and start recovering abandoned carts"
+description: "Learn how to get started with Retainful and start recovering abandoned carts in your WooCommerce store"
 date: "2019-10-15"
 author: "Ramesh"
 tags: ["installation", "woocommerce"]
@@ -17,10 +17,11 @@ Get started with Retainful in 2 simple steps.
 
 It is that easy.
 
-Step 2: Create an abandoned cart recovery email sequence
-
-- Login to [Retainful Dashboard](https://app.retainful.com) and go to Emails section
-- Under Email Templates, click Add Email to get started.
+### Step 2: Create an abandoned cart recovery email sequence
 
 
+- Go to Emails -> Email Templates in your Retainful dashboard.
+- Check this guide for [creating your first abandoned cart recovery email sequence](https://www.retainful.com/docs/woocommerce/creating-an-abandoned-cart-email-sequence)
 
+
+You are now ready to recover abandoned carts in your WooCommerce store. 
