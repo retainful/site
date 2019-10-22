@@ -139,7 +139,7 @@ There is only one thing I wish to tell you, my friend.
 
 You are leaving some money on the table and compromising on retaining your customer if you hesitate to take the reins now.
 
-# Which is the best method to recover a cart?
+## Which is the best method to recover a cart?
 
 There are numerous ways in which a cart can be recovered. With improving technology, many other ways are being invented.
 
@@ -385,7 +385,7 @@ Just save and move on.
 Now, the real game starts. This is where you can falter with the blink of an eye. Watch out and test different methods and strategies to reach out to your customers.
   
 
-## The Cart recovery process
+### The Cart recovery process
 
 This is the most important stage of the whole lot and can be broken down into three sections.
 
@@ -399,7 +399,7 @@ They are
 
 Come, let’s learn about each of it in detail.
 
-### How to create an email template
+#### How to create an email template
 
 In the Retainful plugin, click on ‘Emails’ tab from the menu.
 
@@ -517,7 +517,7 @@ Necessary styles can be applied to the blocks with font, alignment, height, colo
 
 Now that you know the features of this page, let’s go on to create the first email.
 
-#### The First Email
+##### The First Email
 
 Enter the email subject and other details.
 
@@ -578,7 +578,7 @@ Save & Close the template created and you will be taken back to the ‘Email Tem
 Repeat the same process for the second and third emails too.
 
 
-#### The Second Email
+##### The Second Email
 
 The details of the email are the following.
 
@@ -633,7 +633,7 @@ Save & Close the email. Now, the ‘Email Templates’ tab will look like this w
 <br>
 
 
-#### The Third Email
+##### The Third Email
 
 Here are the details.
 
@@ -677,7 +677,7 @@ All the three emails created are enabled as shown above and gets triggered autom
 
 ----------
 
-### How to write abandoned cart recovery emails
+#### How to write abandoned cart recovery emails
 
 Drafting cart recovery emails is an art. It is not just the content that matters. There are various other aspects to it. Take a look.
 
@@ -758,7 +758,7 @@ All of the phrases above are the ones that catch the attention. One aspect to be
 
 <br>
 
-### Best sequence for abandoned cart email campaigns
+#### Best sequence for abandoned cart email campaigns
 
 Do you have a preconceived notion that there is just one time sequence that works for all cart recovery campaigns?
 
@@ -786,13 +786,13 @@ Even so, <link-text url="https://blog.recart.com/how-i-generated-103271-by-reduc
 
 Let’s look at it in brief.
 
-### Example 1:
+**Example 1:**
 
 Recart was experimenting with abandoned cart emails and tried various email sequences. They found out that the best sequence that worked for them was 10minutes-24hours-72hours. They reported that they could make $103, 271 with this method in a year.
 
 Here is another success story.
 
-### Example 2:
+**Example 2:**
 
 <br>
 
@@ -805,7 +805,7 @@ Email 1 - $19.6K, Email 2 - $9.02k, Email 3 - $1.19k, Email 4 - $5k, Email 5 - $
 
 I personally feel 4 emails would suffice looking at the revenue recovered. 6 emails is a lot to handle.  
 
-### Example 3:
+**Example 3:**
 
 Mark D. Hall, a Conversion Rate Optimization (CRO) professional, when working on projects concluded the following to be the best email sequence of the lot.
 
