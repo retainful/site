@@ -385,7 +385,7 @@ Just save and move on.
 Now, the real game starts. This is where you can falter with the blink of an eye. Watch out and test different methods and strategies to reach out to your customers.
   
 
-## The Cart recovery process
+### The Cart recovery process
 
 This is the most important stage of the whole lot and can be broken down into three sections.
 
@@ -399,7 +399,7 @@ They are
 
 Come, let’s learn about each of it in detail.
 
-### How to create an email template
+#### How to create an email template
 
 In the Retainful plugin, click on ‘Emails’ tab from the menu.
 
@@ -517,7 +517,7 @@ Necessary styles can be applied to the blocks with font, alignment, height, colo
 
 Now that you know the features of this page, let’s go on to create the first email.
 
-#### The First Email
+##### The First Email
 
 Enter the email subject and other details.
 
@@ -578,7 +578,7 @@ Save & Close the template created and you will be taken back to the ‘Email Tem
 Repeat the same process for the second and third emails too.
 
 
-#### The Second Email
+##### The Second Email
 
 The details of the email are the following.
 
@@ -633,7 +633,7 @@ Save & Close the email. Now, the ‘Email Templates’ tab will look like this w
 <br>
 
 
-#### The Third Email
+##### The Third Email
 
 Here are the details.
 
@@ -677,7 +677,7 @@ All the three emails created are enabled as shown above and gets triggered autom
 
 ----------
 
-### How to write abandoned cart recovery emails
+#### How to write abandoned cart recovery emails
 
 Drafting cart recovery emails is an art. It is not just the content that matters. There are various other aspects to it. Take a look.
 
@@ -758,7 +758,7 @@ All of the phrases above are the ones that catch the attention. One aspect to be
 
 <br>
 
-### Best sequence for abandoned cart email campaigns
+#### Best sequence for abandoned cart email campaigns
 
 Do you have a preconceived notion that there is just one time sequence that works for all cart recovery campaigns?
 
