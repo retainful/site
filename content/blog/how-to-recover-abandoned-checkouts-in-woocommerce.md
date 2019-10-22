@@ -139,7 +139,7 @@ There is only one thing I wish to tell you, my friend.
 
 You are leaving some money on the table and compromising on retaining your customer if you hesitate to take the reins now.
 
-# Which is the best method to recover a cart?
+## Which is the best method to recover a cart?
 
 There are numerous ways in which a cart can be recovered. With improving technology, many other ways are being invented.
 
@@ -786,13 +786,13 @@ Even so, <link-text url="https://blog.recart.com/how-i-generated-103271-by-reduc
 
 Let’s look at it in brief.
 
-### Example 1:
+**Example 1:**
 
 Recart was experimenting with abandoned cart emails and tried various email sequences. They found out that the best sequence that worked for them was 10minutes-24hours-72hours. They reported that they could make $103, 271 with this method in a year.
 
 Here is another success story.
 
-### Example 2:
+**Example 2:**
 
 <br>
 
@@ -805,7 +805,7 @@ Email 1 - $19.6K, Email 2 - $9.02k, Email 3 - $1.19k, Email 4 - $5k, Email 5 - $
 
 I personally feel 4 emails would suffice looking at the revenue recovered. 6 emails is a lot to handle.  
 
-### Example 3:
+**Example 3:**
 
 Mark D. Hall, a Conversion Rate Optimization (CRO) professional, when working on projects concluded the following to be the best email sequence of the lot.
 
