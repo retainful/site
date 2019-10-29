@@ -1,6 +1,7 @@
 ---
-path: "/blog/how-to-check-abandoned-carts-in-woocommerce/"
+path: "/blog/how-to-check-abandoned-carts-in-woocommerce"
 date: "2019-05-12"
+datemodified: "2019-10-18"
 title: "How to check abandoned carts in WooCommerce"
 description: "Learn how to check abandoned carts in your WooCommerce store. Capture abandoned carts and recover them by sending automatic reminder emails"
 author: "Siddharth"
@@ -15,7 +16,7 @@ Cart abandonment is one of the bigger challenges faced by eCommerce stores. What
 ## What is cart abandonment?
 
 About 70% of the shoppers abandoned their carts, according to research firm Baymard Institute. People visit your online store, browse through various product categories, add products to the cart but most of them leave the site without buying. That is called cart abandonment.
-
+****
 ___
 
 <toc>
@@ -36,89 +37,94 @@ Following are some of the most common reasons for people abandoning your online 
 
 ___
       
-## How to check abandoned carts in WooCommerce?
+## How to Check Abandoned Carts in WooCommerce?
 
-Even the most robust eCommerce platform- WooCommerce experiences cart abandonment. And WooCommerce doesn’t provide a feature to check the abandoned carts, unfortunately. 
+To check the carts that are being abandoned, you’ll be needing a tool that’s robust, reliable and completely yours. An App like Retainful could be doing the job.
 
-Recovering abandoned carts is possible only when you know your cart abandonment rate.
-
-Luckily, you can use plugins to find out carts abandoned by the customers. In this blog, we are going to the use Retainful, the most versatile and poopular Abandoned Cart plugin for WooCommerce.
-
-![Retainful](../images/How-to-check-abandoned-carts-in-woocommerce/retainful.jpeg)
-
-Retainful allows to check the abandoned carts in real-time. That is you can see live carts (customer is adding and checking out), abandoned carts (customer abandoned it already), recovered cart (by using Retainful's automated recovery tools).
-
-You can also view your site-wide statistics for cart abandonment - how many carts are abandoned, how many are recovered, what is the value of the recovered carts, items in the abandoned cart and more.
-  
-### Steps to check WooCommerce shopping abandoned carts
-
-____
-
-#### Install & Activate Retainful       
-
-- <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/advanced/" target="_blank" rel="noopener">Download Retainful</link-text>
-- Install and Activate the Retainful plugin
-
-![Retainful Dashboard](../images/How-to-check-abandoned-carts-in-woocommerce/retainfulDashboard.jpeg)
-
-#### Set up Retainful in 2 minutes
-
-Once installed, you must decide when should a cart be considered as abandoned?
-
-This holds priority because you don’t want to be disturbing customers who haven’t actually abandoned their carts.
- 
--   Go to the Settings tab and set the time limits on when to consider cart as abandoned.       
-
- 
-![Retainful Settings](../images/How-to-check-abandoned-carts-in-woocommerce/retainfulSettings.jpeg)
+![](../images/How-to-check-abandoned-carts-in-woocommerce/retainful.jpeg)
 
 <br>
 
-#### Checking abandoned carts with Retainful
+Retainful comes with power-packed features and allows you to check abandoned carts in real-time. And also the number of recovered carts and live carts in your store. There’s a whole lot of other <link-text url="https://www.retainful.com/product/features/woocommerce" rel="noopener" target="_blank">things you can do with Retainful.</link-text> For now, we’ll get to the point.,
 
-Now, just go to your WordPress Dashboard -> WooCommerce -> Retainful to check your abandoned carts. Retainful offers one of the most simple and clean dashboard. 
-![Retainful Admin Panel](../images/How-to-check-abandoned-carts-in-woocommerce/AdminDashboard.png)
+<cta url="https://app.retainful.com" rel="noopener" target="_blank">Try Retainful For Free!</cta>
 
-- Toggle to abandoned/ recovered carts in the plugin dashboard  
-- You can then find the list of abandoned cart details.
+## Steps to Check WooCommerce Shopping Abandoned Carts
 
-#### Dashboard & Cart Recovery Ideas
-- You can track three type carts in your WooCommerce store.
-- Abandoned Carts, Recovered carts & In-progress carts.  
-    While the first two are self-explanatory, the third type- In progress cart is an exclusive Retainful feature.    
-- The in-progress cart or live cart shows the list of online carts that are being actively shopped at that particular moment.   
+### Install & Activate Retainful
 
-Also… you can retrieve a lot of useful data with which you can plan your cart recovery email strategy.
-- Cart Status says whether the cart is abandoned, recovered or live. Interestingly, the color given to each cart status makes it much simpler to identify the cart types.
-- Cart Expired date- The success of every cart recovery email campaign depends on how often you send the cart recovery email reminders. Getting to know when the cart abandonment date helps to <link-text url="https://www.campaignrabbit.com/blog/grow-your-ecommerce-store-with-9-effective-automated-emails" target="_blank" rel="noopener">schedule and automate your recovery email campaigns</link-text>.   
-- Customer name/ IP- Track customers who abandon carts and offer them with special <link-text url="https://www.flycart.org/blog/wordpress/how-to-create-a-user-role-specific-coupon-code" rel="noopener" target="_blank">customer based coupons.</link-text>
-- Customer type and email show whether the customer is registered or a guest user.
-- Cart Value- Until you see how much sale volume is abandoned, you won’t really push harder. Measure the success of your cart recovery email campaign by comparing the values of the abandoned and recovered cart value.
-
-### Recover abandoned carts
-
-Now you have seen the abandoned carts in your WooCommerce store. The next step is to recover them.
-Retainful comes with an easy, automatic cart recovery feature as well. You can create a sequence of abandoned cart recovery emails, which are sent in well-timed intervals.
-
-For Example:
-
-- Send an email 1 hour after customer abandons the cart
-- Do another email follow-up 3 hours after the cart is abandoned
-- Remind the customer again 1 day after the abandonment
-- Still not recovered, send one more reminder 2nd day.
-
-These emails can be automatically sent using the Retainful. You can create this email sequence using Retainful in minutes.
-<link-text url="https://www.retainful.com/docs/woocommerce/retainful-abandoned-cart-recovery" target="_blank" rel="noopener">Here is a step by step guide to creating abandoned cart recovery email reminders</link-text>.
-
-
-**Going the Extra Mile…**  
-As mentioned above additional taxes and zero coupon availability are the two major reasons for cart abandonment.  
-Here’s something you can do about that & that too for FREE.
-
-- Offer Payment based discounts with <link-text url="https://wordpress.org/plugins/woo-payment-method-based-fees-and-discounts/" rel="noopener" target="_blank">Payment method based fees and discounts for WooCommerce</link-text>
+1.  Download Retainful
     
-- <link-text url="https://www.retainful.com/blog/how-to-provide-next-order-coupon-in-woocommerce" rel="noopener" target="_blank">Create Next order coupon codes</link-text>  with Retainful and drive repeated sales.
+2.  Install and Active the Retainful Plugin.
     
-Enjoy the rest of the day.
 
-Cheers!
+![](../images/How-to-check-abandoned-carts-in-woocommerce/retainfulDashboard.jpeg)
+
+<br>
+
+The installation process takes no more than two minutes.
+
+### Setting up Retainful
+
+Once installed, you should be deciding as to when a cart should be considered as abandoned. Because you don’t want to create chaos among customers who haven’t actually abandoned their carts right? So,
+
+-   Go to the Settings tab and scroll down to the ‘Abandoned Carts’ section. And set the time limit as to when a cart should be considered as abandoned.
+    
+-   You can also choose whether you should get a notification when a cart is recovered or not.
+    
+-   Mark duplicate carts if need be and also set the time limit as to when a cart should be marked duplicate.
+    
+-   And then, click the Save button.
+    
+
+  
+
+![](../images/How-to-check-abandoned-carts-in-woocommerce/abandonedCarts.png)
+
+<br>
+
+You’ve now set specific criteria as to when a cart should be considered abandoned.
+
+Now, the next step,
+
+### Checking abandoned carts with Retainful
+
+Checking abandoned carts with Retainful is easier than said. Because Retainful offers one of the most simple and clean dashboards with stellar data.
+
+All you have to do is,
+
+-   Click on the “Carts” section from the Retainful menu.
+    
+-   Toggle to “Abandoned Carts” in the “Filter By” section.
+    
+
+![](../images/How-to-check-abandoned-carts-in-woocommerce/dashboard.png)
+
+<br>
+
+-   You can find the list of abandoned cart details along with the date of abandonment, the customer’s name, and the abandoned cart’s value. Retainful automatically assigns a custom cart ID for the abandoned cart.
+    
+
+You can even check the number of recovered carts and the number of live carts by selecting from the different filter options that are available.
+
+## Recover Abandoned Carts   
+
+<br>
+
+With Retainful, it’s not just about knowing the number of carts that are abandoned. You can even recover them by sending automated abandoned cart recovery emails (we’ve given the total abandoned cart value in the dashboard for enough motivation (wink)). Sending well-timed <link-text url="https://www.retainful.com/blog/how-to-write-abandoned-cart-emails-in-woocommerce" rel="noopener" target="_blank">crafted cart recovery emails</link-text> can help you recover more abandoned carts. Here’s an example
+
+-   Send the 1st cart email 1 hour after the customer abandons the cart.
+    
+-   The second email goes 3 hours after the cart is left abandoned.
+    
+-   The third, 1 day after abandonment.
+    
+-   And the final email, 2 days after the cart is being abandoned.
+    
+<br>
+
+You can stop sending emails anywhere in between once your cart is recovered (with Retainful, everything is automated. You just have to set it and forget it). <link-text url="https://www.retainful.com/docs/woocommerce/retainful-abandoned-cart-recovery" rel="noopener" target="_blank">Here’s a step by step guide to create abandoned cart recovery email reminders with Retainful.</link-text>
+
+So, that’s pretty much about how to check abandoned carts in WooCommerce. It’s easy and quick. The clean dashboard gives you enough information about your WooCommerce that helps you make informed decisions which directly reflect on your store’s growth!
+
+So, know what’s happening in your store and start recovering abandoned carts while it’s not too late!
