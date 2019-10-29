@@ -1,6 +1,7 @@
 ---
-path: "/blog/how-to-provide-next-order-coupon/"
+path: "/blog/how-to-provide-next-order-coupon-in-woocommerce"
 date: "2019-01-25"
+datemodified: "2019-10-18"
 title: "How to provide Next order coupon in WooCommerce"
 description: "Learn to provide a coupon for the next purchase when a customer makes an order and send it within the order notification email itself"
 author: "Siddharth"
@@ -11,70 +12,109 @@ category: 'woocommerce'
 
 <toc></toc>
 
-## Next Order Coupon and Customer Retention
+## Next Order Coupons and Customer Retention
 
-*<underline>Quick Start</underline>- Customer retention saves 5 times more than the cost to acquire a new customer*
+It’s different these days. WooCommerce Stores (literally every single store) out there has understood how important customer retention is and they’ve been taking drastic measures to retain their customers. Because they know that,
 
-Earlier...  
-You make a Sale.  
-And send a plain order confirmation email. Do you?  
-Sorry to say this. You have failed to impress your customers.
+“Acquiring a new customer costs 5x times more than retaining a customer”
 
-What if…  
-You create a smart coupon and ask the customer to use it on the Next purchase.
+That’s some eye-opening stat ain’t it?
 
-* The Next order coupon drives your WooCommerce store with repeated sales.
-* The customers shop continuously at your store. Hence, Customer Retention achieved.
+So, how do stores retain customers?
 
-<underline>Easter Egg</underline>- Pay ZERO! Install FREE!
-<link-text url="https://www.retainful.com/" target="\_blank">
-RetainFul is the FREE WordPress plugin</link-text> to create amazing Next order coupons and achieve 100% customer retention.
+They engage, send personalized emails, conduct give away contests and use some other traditional <link-text url="https://www.retainful.com/blog/10-successful-ideas-to-boost-your-customer-retention-rate" rel="noopener" target="_blank">customer retention methods</link-text>.
 
-Now with RetainFul...   
-You make a Sale.  
-And send an order confirmation mail with a Next order coupon code.
-Congrats! You have retained your customer.
+Not saying it won’t work. But, every one of these works on a may or may not framework.
 
-### Quick Guide - How to create Next order coupon in WooCommerce
+You need something more powerful, something immediate that would allow you to say “There’s one more customer who’s going to be with my store forever”. That’s the kind of solution you should be having!
 
-Before you start, please download and install the <link-text url="https://www.retainful.com/" target="\_blank">customer retention strategy plugin- RetainFul</link-text>. The guide assumes that you already have the WordPress plugin installed and activated.
+And, here’s one such solution - Next Order Coupons aka Smart Coupons or WooCommerce Next Order Discount Coupons.
 
-#### Step 1- Creating the Next order WooCommerce coupon
+Let’s see how this works by assuming a scenario,
 
-* Select <underline>Coupon Type</underline> - Simple Percentage or Flat price discount.
-* Enter the <underline>Coupon Value</underline>
-* Set the coupon condition in <underline>Apply coupon to</underline> field. This coupon scenario allows the coupon to be used by anyone apart from your direct customer.
-* Where in the email should coupon be displayed? <underline>Display coupon message</underline> after order details
-* Add the <underline>Custom Coupon message</underline> that needs to displayed in the order confirmation/ transactional email,
+There’s this customer who is very much interested in a product of yours and he/she has finally placed the order!
 
-![alt text](../images/How-to-provide-Next-order-coupon-in-WooCommerce/step1.png)
+Nice. Now you must do something in order to retain him/her forever!
 
-### Short Codes
+Here’s what you can do - send a next order coupon along with their order confirmation email *(offering a 10 - 20% discount on their next order).*
 
-Use the following shortcodes to show the coupon details in the email text,
+**There are two things you achieve out of this,**
 
-* {{coupon_code}} - coupon code
-* {{coupon_amount}} - coupon amount
-* {{coupon_url}} - URL to apply coupon automatically
-* {{coupon_expiry_date}} - coupon expiry date. If the coupon does not have any expiry date this will be attached to the message.
+-   You get to drive repeat purchases because your customer has just bought something he/she likes. And a sweet nudge eventually makes them visit your store again.
+    
+-   Customer Retention - the moment he/she visits your store again, that’s customer retention happening.
+  
+And the best part is, you can be sending next order coupons with Retainful forever!
 
-### Step 2- Setting usage restrictions of the Coupon
+Too much talking? Let’s get to the point!
 
-RetainFul offers you with all the advanced usage restriction features.
+### Quick Guide - How to Create Next Order Coupon in WooCommerce
 
-* The minimum and maximum spend value are set. The coupon is valid if the customer shops between the set values.
-* Coupon Expiry- The next order coupon is set to expire in 10 days for this coupon scenario.  
- **Note**- The validity of the coupon starts from the day of the first purchase.
-* You can also create the next order coupon for certain products and categories alone at your WooCommerce store.
-* Click on <underline>Save</underline> to make your Next order coupon campaign go active.
+Before we start, we assume that you have already installed Retainful. We’ll be getting over with this in 2 quick steps.
 
+#### Step 1 - Creating the Next Order WooCommerce Coupon
 
-![alt text](../images/How-to-provide-Next-order-coupon-in-WooCommerce/step2.png)
+**Note:** Below attached is a screenshot of Retainful Plugin’s Next Order Coupon section image. 
 
-Yes, It takes no more than 2 minutes to create your Next order coupons in WooCommerce.
+![Step 1](../images/How-to-provide-Next-order-coupon-in-WooCommerce/step1.png)
 
-What makes you wait? Is it the plugin price worrying you?
+1.  Open Retainful and toggle to the “Next Order Coupon” section.
+    
+2.  Check the “Yes” radio button to enable next order coupons.
+    
+3.  Choose from a variety of given order status options like completed order, canceled order and more. Coupons will not be generated by Retainful until the order status meets the chosen option.
+    
+4.  Choose who you should be displaying your smart coupons to - the administrator, the customer or all users (and there are more options available).
+    
+5.  Select your coupon type - Percentage or Flat Discount.
+    
+6.  And then, mention the coupon value. Remember, if this space is left blank, coupons will not be generated. Also, the minimum value of the coupon should be 1.
+    
+7.  Choose whether or not to send coupons for orders created in the backend.
+    
+8.  Choose where the coupon should be displayed in the order notification email - after the order details, or the customer details or the order meta details.
+    
+9.  Create a custom coupon message if you want to. And also make sure you enter the specifics in the coupon shortcodes,
+    
 
-The price you need to pay to retain all your customers is ZERO. <link-text url="https://www.retainful.com/" target="\_blank">RetainFul is FREE!</link-text>
+-   {{coupon_code}} - coupon code
+    
+-   {{coupon_amount}} - coupon amount
+    
+-   {{coupon_url}} - URL to apply coupon automatically
+    
+-   {{coupon_expiry_date}} - coupon expiry date. If the coupon does not have any expiry date this will not be attached to the message.
+    
 
-<link-text url="https://www.retainful.com/" target="\_blank">Download the plugin now</link-text> and create a beautiful customer experience.
+We are done with step 1, the coupon creation part. Now, for the second step.
+
+#### Step 2 - Setting Usage Restrictions for the Coupon
+
+Retainful comes with power-packed coupon usage restriction options.  
+
+![Step2](../images/How-to-provide-Next-order-coupon-in-WooCommerce/step2.png)
+
+You will find the coupon usage restriction when you scroll
+
+1.  The minimum and maximum spend values can be set. The coupon is valid only if the customer shops between the set values.
+    
+2.  Set coupon validity date. You can simply leave it blank or enter 0 if you do not want the coupon to expire.
+    
+3.  Choose multiple date formats for coupon expiry.
+    
+4.  Choose to which products and categories your next order coupon should be displayed and not be displayed.
+    
+5.  And once you are done with customizing your coupon, make sure you click Save.
+    
+
+Your Next Order Coupon is all set and ready to go live.
+
+<cta url="https://app.retainful.com" rel="noopener" target="_blank">Try Retainful For Free!</cta>
+
+Yeah, we know. It takes no more than 2 minutes to create a Next Order Coupon with Retainful. It’s all about how efficiently you make use of this to retain your customers.
+
+Haven’t you started creating your WooCommerce Discount Coupon already?
+
+<link-text url="https://www.retainful.com/next-order-coupon" rel="noopener" target="_blank">Start creating next order coupons</link-text>
+ and drive repeat purchases and retain more customers, and let us know once when you’ve sent a thousand smart coupons! 
+We’ll be waiting to hear from you!
