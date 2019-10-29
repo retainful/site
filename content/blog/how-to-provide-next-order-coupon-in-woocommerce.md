@@ -14,7 +14,7 @@ category: 'woocommerce'
 
 ## Next Order Coupons and Customer Retention
 
-It’s different these days. WooCommerce Stores (literally every single store) out there has understood how important customer retention is and they’ve been taking drastic measures to retain their customers. Because they know that,
+It’s different these days. WooCommerce Stores (_literally every single store_) out there has understood how important customer retention is and they’ve been taking drastic measures to retain their customers. Because they know that,
 
 “Acquiring a new customer costs 5x times more than retaining a customer”
 
@@ -26,7 +26,7 @@ They engage, send personalized emails, conduct give away contests and use some o
 
 Not saying it won’t work. But, every one of these works on a may or may not framework.
 
-You need something more powerful, something immediate that would allow you to say “There’s one more customer who’s going to be with my store forever”. That’s the kind of solution you should be having!
+You need something more powerful, something immediate that would allow you to say _**“There’s one more customer who’s going to be with my store forever”.**_ That’s the kind of solution you should be having!
 
 And, here’s one such solution - Next Order Coupons aka Smart Coupons or WooCommerce Next Order Discount Coupons.
 
@@ -54,7 +54,11 @@ Before we start, we assume that you have already installed Retainful. We’ll be
 
 #### Step 1 - Creating the Next Order WooCommerce Coupon
 
-**Note:** Below attached is a screenshot of Retainful Plugin’s Next Order Coupon section image. 
+<br>
+
+<small><em>**Note:** Below attached is a screenshot of Retainful Plugin’s Next Order Coupon section image.</em></small>
+
+<br>
 
 ![Step 1](../images/How-to-provide-Next-order-coupon-in-WooCommerce/step1.png)
 
