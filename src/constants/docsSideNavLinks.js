@@ -20,6 +20,7 @@ const SIDENAV_LINKS = [
               {URL: '/docs/woocommerce/adding-a-coupon-block-on-your-email-template', TEXTNODE: 'Adding a coupon block to your email template'},
               {URL: '/docs/woocommerce/how-to-make-your-emails-personal', TEXTNODE: 'How to make your email more personal'},
               {URL: '/docs/woocommerce/shortcodes-for-reference', TEXTNODE: 'Shortcodes for reference'},
+              {URL: '/docs/woocommerce/custom-email-domain', TEXTNODE: 'Sending emails from a custom domain'},
               {URL: '/docs/woocommerce/mailchimp-integration', TEXTNODE: 'MailChimp Integration'},
               {URL: '/docs/woocommerce/exit-intent-popup', TEXTNODE: 'Exit Intent Popup'},
               {URL: '/docs/woocommerce/collect-email-address-before-adding-to-cart-in-woocommerce', TEXTNODE: 'Email Collection Popup'},
