@@ -25,7 +25,7 @@ An ideal abandoned cart email sequence consists of 3 emails. Here is an example 
 
 ### Creating the first email
 
-1) <link-text url="https://app.retainful.com/" target="_blank" rel="noopener">Login to or Sign up with Retainful.</link-text>
+1) <link-text url="https://app.retainful.com/?utm_source=abandoned_cart_recovery_mails&utm_medium=retainful_dashboard&utm_campaign=docs" target="_blank" rel="noopener">Login to or Sign up with Retainful.</link-text>
 2) When you first login to your account, you would see the **Create** button. Click on the Create button to get started. 
 
 ![Create button](../../images/docs/creating-abandoned-cart-mail-series/create-button.png)
