@@ -15,7 +15,7 @@ This guide walks you through the steps to show a countdown timer using the Reati
 -   Install and activate Retainful - <link-text url="https://www.retainful.com/features/woocommerce" target="_blank" rel="noopener">Abandoned Cart recovery email plugin for Woocommerce</link-text>.
 -   Activate Retainful Premium (Coupon Timer is part of the Peminum features of Retainful)
 
-<link-text url="https://app.retainful.com/" target="_blank" rel="noopener">Upgrade to Premium</link-text> (if you have not done it yet)  
+<link-text url="https://app.retainful.com/?utm_source=coupon_timer&utm_medium=upgrade_to_premium&utm_campaign=docs" target="_blank" rel="noopener">Upgrade to Premium</link-text> (if you have not done it yet)  
   
 
 ## The coupon timer premium add on offers the following features

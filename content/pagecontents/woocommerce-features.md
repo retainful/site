@@ -127,7 +127,7 @@ Most customers abandon their carts even before reaching the checkout step. So ca
 * Fully Customizable. Change the popup content easily
 * Compatible almost all themes
 
-<a href="https://app.retainful.com/?utm_source=coupons_for_email_collection&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=email_collection_popup&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 

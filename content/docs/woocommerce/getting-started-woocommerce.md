@@ -11,9 +11,9 @@ Get started with Retainful in 2 simple steps.
 
 ### Step 1: Connect your store
 
-- [Sign Up for an account. It's free.](https://app.retainful.com) 
-- [Download and Install the Retainful Plugin in your WordPress site](https://www.retainful.com/docs/woocommerce/install-retainful-plugin-for-woocommerce)
-- [Connect your store with your Retainful account](https://www.retainful.com/docs/woocommerce/connecting-the-store-with-retainful-account)
+- <link-text url="https://app.retainful.com/?utm_source=getting_started&utm_medium=sign_up_for_an_account&utm_campaign=docs" rel="noopener" target="_blank">Sign Up for an account. It's free.</link-text> 
+- <link-text url="https://www.retainful.com/docs/woocommerce/install-retainful-plugin-for-woocommerce" rel="noopener" target="_blank">Download and Install the Retainful Plugin in your WordPress site</link-text>
+- <link-text url="https://www.retainful.com/docs/woocommerce/connecting-the-store-with-retainful-account" rel="noopener" target="_blank">Connect your store with your Retainful account</link-text>
 
 It is that easy.
 

@@ -21,7 +21,7 @@ In this guide, let us walk you through the steps to add an Exit Intent Popup for
 Before we begin, the guide assumes the following:
 
 - You have installed and activated the [Retainful - Abandoned Cart recovery email plugin for WooCommerce](https://www.retainful.com/features/woocommerce)
-- Installed and activated Retainful Premium (Exit Intent Popup is a part of the Premium features of Retainful). [Upgrade to premium](https://app.retainful.com) if you have not done it yet.
+- Installed and activated Retainful Premium (Exit Intent Popup is a part of the Premium features of Retainful). [Upgrade to premium](https://app.retainful.com/?utm_source=exit_intent_popup&utm_medium=upgrade_to_premium&utm_campaign=docs) if you have not done it yet.
 - IMPORTANT NOTE: It is not yet WMPL ready. We are working hard to bring multi-lingual support for the Exit Intent Popup
 
 The **Exit Intent Popup** premium add-on offers 2 awesome features

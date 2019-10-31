@@ -23,8 +23,8 @@ This guide walks you through the steps.
 
 ### Step 1:  Download the Retainful Premium
 
-- Login to [https://app.retainful.com](https://app.retainful.com)
-- Click on the **Upgrade to Premium** link or directly go to [Billing section](https://app.retainful.com/billing)
+- Login to [https://app.retainful.com](https://app.retainful.com/?utm_source=coupon_for_email_popup&utm_medium=app_retainful&utm_campaign=docs)
+- Click on the **Upgrade to Premium** link or directly go to [Billing section](https://app.retainful.com/billing/?utm_source=coupon_for_email_popup&utm_medium=app_retainful_billing&utm_campaign=docs)
 - Choose a plan and pay. (It's worth an investment as you can recoop with just a few recovered carts!)
 - Download the Retainful Premium plugin.
 
@@ -91,5 +91,5 @@ That's a great motivation for the customer to complete his purchase. Even if he 
 
 ### What's Next?
 
-- Get Retainful Premium now by logging into [https://app.retainful.com/billing](https://app.retainful.com/billing) 
+- Get Retainful Premium now by logging into [https://app.retainful.com/billing](https://app.retainful.com/billing/?utm_source=coupon_for_email_popup&utm_medium=app_retainful_billing&utm_campaign=docs) 
 - Learn how to set up a sequence of [Abandoned Cart recover email reminders](https://www.retainful.com/docs/woocommerce/retainful-abandoned-cart-recovery)

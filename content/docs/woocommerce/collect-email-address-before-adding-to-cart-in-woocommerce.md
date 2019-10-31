@@ -19,7 +19,7 @@ This guide walks you through the steps to Collect Email Address using the Retain
 Before we begin, the guide assumes the following:
 
 - You have installed and activated the [Retainful - Abandoned Cart recovery email plugin for WooCommerce](https://www.retainful.com/features/woocommerce)
-- Installed and activated Retainful Premium (Email Collection is part of the Premium features of Retainful). [Upgrade to premium](https://app.retainful.com) if you have not done it yet.
+- Installed and activated Retainful Premium (Email Collection is part of the Premium features of Retainful). [Upgrade to premium](https://app.retainful.com/?utm_source=email_collection_popup&utm_medium=upgrade_to_premium&utm_campaign=docs) if you have not done it yet.
 
 The **Add to cart popup** premium add-on offers 2 awesome features
 
