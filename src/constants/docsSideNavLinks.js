@@ -27,6 +27,7 @@ const SIDENAV_LINKS = [
               {URL: '/docs/woocommerce/coupon-for-email-popup', TEXTNODE: 'Coupon for Email Collection Popup'},
               {URL: '/docs/woocommerce/coupon-timer', TEXTNODE: 'Countdown Timer with Coupon Auto Apply'},
               {URL: '/docs/woocommerce/next-order-coupon', TEXTNODE: 'Next Order Coupon'},
+              {URL: '/docs/woocommerce/how-to-display-coupon-code-on-thank-you-page', TEXTNODE: 'How to display a coupon code on thank you page'},
               {URL: '/docs/woocommerce/testing-next-order-coupons', TEXTNODE: 'Testing your next order coupons'},
               {URL: '/docs/woocommerce/gdpr-compliance', TEXTNODE: 'How to ensure GDPR compliance'},
 
