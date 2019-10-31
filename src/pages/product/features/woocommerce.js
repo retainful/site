@@ -29,10 +29,10 @@ class FeaturesPage extends React.Component {
                                 <p>Boost sales by 10x with automated abandoned cart recovery campaigns. Drive repeat purchases with next order coupons. Get started free!</p>
                                 <p>
                                     <a className="btn-action btn-edge btn-lg"
-                                       href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}/?utm_source=traffic&utm_medium=above-fold&utm_campaign=download_plugin&utm_content=woocommerce_feature_page`}
+                                       href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}/?utm_source=above_fold&utm_medium=download_free_plugin&utm_campaign=woocommerce_features_page`}
                                        target="_blank" rel="noopener noreferrer">Download Free Plugin</a>
                                     <a className="btn-action m-l-10 btn-outlined btn-lg"
-                                       href="https://demo.retainful.com/?utm_source=traffic&utm_medium=cta&utm_campaign=live_demo&utm_content=woocommerce_feature_page"
+                                       href="https://demo.retainful.com/utm_source=above_fold&utm_medium=live_demo&utm_campaign=woocommerce_features_page"
                                        target="_blank" rel="noopener noreferrer">Live Demo</a>
                                 </p>
                             </div>
@@ -79,7 +79,7 @@ class FeaturesPage extends React.Component {
                         <h3>Grow your revenue by 10x.</h3>
                         <p>Start recovering abandoned carts and <br/> driving repeat purchases in your WooCommerce store</p>
                         <p>
-                            <a className="btn-action btn-lg" href="https://app.retainful.com"
+                            <a className="btn-action btn-lg" href="https://app.retainful.com/?utm_source=bottom_cta&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page"
                                target="_blank" rel="noopener noreferrer">Get started for FREE</a>
                         </p>
                     </div>

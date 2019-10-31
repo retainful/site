@@ -19,7 +19,7 @@ const FeaturesPage = () => (
                             <p>Recover Abandoned Carts and Drive Repeat Sales.</p>
                             <p>Customize all your store notification emails, and match your branding</p>
                             <p><a className="btn-action btn-edge btn-lg"
-                                  href="https://app.retainful.com/?utm_source=traffic&utm_medium=above_the_fold&utm_campaign=get_start_free&utm_term=cta&utm_content=shopify_feature_page"
+                                  href="https://app.retainful.com/?utm_source=above_cta&utm_medium=get_started_for_free&utm_campaign=shopify_feature_page"
                                   target="_blank" rel="noopener noreferrer">Get started Free</a></p>
                         </div>
                     </div>
@@ -116,7 +116,7 @@ const FeaturesPage = () => (
                 <h3>Recover Abandoned Carts & Drive Repeat Sales. <br/> Grow your Shopify Sales</h3>
                 <p>Start sending targeted email reminders and recover every single cart</p>
                 <p>
-                    <a className="btn-action btn-lg" href="https://app.retainful.com/?utm_source=traffic&utm_medium=below_fold&utm_campaign=get_start_free&utm_term=cta&utm_content=shopify_feature_page"
+                    <a className="btn-action btn-lg" href="https://app.retainful.com/?utm_source=bottom_cta&utm_medium=get_started_for_free&utm_campaign=shopify_feature_page"
                        target="_blank" rel="noopener noreferrer">Get Started Free</a>
                 </p>
                 <small>*No credit card required.</small>

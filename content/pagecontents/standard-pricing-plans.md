@@ -21,7 +21,7 @@ Free
 
 <div slot="plan-button">
 
-<a class="btn-outline btn-lg" href="https://app.retainful.com/?utm_source=conversion&utm_medium=free&utm_campaign=pricing" target="_blank" rel="noopener noreferrer"> Try  It Free </a>
+<a class="btn-outline btn-lg" href="https://app.retainful.com/?utm_source=free&utm_medium=try_it_for_free&utm_campaign=pricing" target="_blank" rel="noopener noreferrer"> Try  It Free </a>
 
 </div>
 
@@ -69,7 +69,7 @@ normally $29/month
 
 <div slot="plan-button">
 
-<a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=conversion&utm_medium=starter&utm_campaign=pricing" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=starter&utm_medium=start_free_trail&utm_campaign=pricing" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
 
 </div>
 
@@ -123,7 +123,7 @@ who want to do more.
 
 <div slot="plan-button">
  
-<a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=conversion&utm_medium=growth&utm_campaign=pricing" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=growth&utm_medium=start_free_trail&utm_campaign=pricing" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
 
 </div>
 
@@ -162,7 +162,7 @@ normally $199/month
 
 <div slot="plan-button">
 
-<a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=conversion&utm_medium=professional&utm_campaign=pricing" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=professional&utm_medium=start_free_trail&utm_campaign=pricing" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
 
 </div>
 

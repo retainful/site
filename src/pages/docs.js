@@ -78,7 +78,7 @@ class DocsPage extends React.Component {
                                                     <h3>Recover Abandoned Carts & Drive Repeat Sales. <br/> Grow your Revenue by 10x.</h3>
                                                     <p>Start sending targeted email reminders and recover every single cart</p>
                                                     <p>
-                                                        <a className="btn-action btn-lg" href="https://app.retainful.com/?utm_source=traffic&utm_campaign=get_start_free&utm_term=cta&utm_content=docs"
+                                                        <a className="btn-action btn-lg" href="https://app.retainful.com/?utm_source=folder_cta&utm_campaign=get_start_free&utm_term=cta&utm_content=get_started_free"
                                                         target="_blank" rel="noopener noreferrer">Get Started Free</a>
                                                     </p>
                                                     <small>*No credit card required.</small>
