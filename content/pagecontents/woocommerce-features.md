@@ -35,12 +35,12 @@ Retainful can help recover these abandoned carts and increase your revenue by 10
 
 Track all the abandoned carts in your WooCommerce online store. You can track even visitors who abandon carts not only after they’ve entered their email address, but also those leave even before reaching the checkout.
 
-####Key Features:
+#### Key Features:
 * Capture all abandoned carts including guest carts
 * Automatically capture the email as soon as the customer enters it at checkout
 * See what items were left by the customers in their carts
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=capture_abandoned_carts&utm_campaign=get_start_for_free&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=capture_abandoned_cart&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -56,7 +56,7 @@ When the cart is recovered, the plugin will automatically stop sending the email
 * Send as many emails as you want to recover carts, exactly when you want, as quickly as 30 min after they leave.
 * Not annoying to users--Emails are automatically stopped when a purchase is made.
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=recover_abandoned_carts_with_single_click&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=recover_abandoned_carts_with_single_click&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -73,7 +73,7 @@ Create a high-performing drip campaign and send emails at well-timed intervals i
 * 4th reminder can go 3 days after the cart is abandoned
 * 5th reminder can be sent 5 days after the cart abanonment
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=drip_sequential_recovery_emails&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=drip_sequential_recovery_emails&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -88,7 +88,7 @@ Save your precious time by using our pre-built email templates, optimized for co
 * Responsive, mobile friendly emails
 * Highly customizable
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=responsive_high_converting_email_templates&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=responsive_high_converting_email_templates&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -104,7 +104,7 @@ Personalized emails get a higher open rates and click throughs when compared to 
 * Cart recovery link
 * Coupons
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=personalisation_with_short_codes&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=personalisation_with_short_codes&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -127,7 +127,7 @@ Most customers abandon their carts even before reaching the checkout step. So ca
 * Fully Customizable. Change the popup content easily
 * Compatible almost all themes
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=email_collection_popup&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=coupons_for_email_collection&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -144,7 +144,7 @@ Retainful can automatically email a coupon code when customer enter their email
 * Customizable email template
 * Uses the built-in WooCommerce Coupons
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=cupons_for_email_collection&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=coupons_for_email_collection&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -161,7 +161,7 @@ It can automatically apply a coupon code and show sales countdown timer at the c
 * Position the timer at the top or just below the coupon or above the cart.
 * Auto apply a coupon code with the timer and set an expiry for the coupon.
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=countdown_timer_add_an_urgency&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=countdown_timer&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -176,7 +176,7 @@ Exclude capturing carts from selected IP addresses. Useful when you wanted to ex
 * Exclude a range of IPs (33.33.33.1 - 33.33.33.255)
 * Wildcards based exclusion. Useful when you want to exclude an entire region.
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=ip_filter&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=ip_filter&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -201,7 +201,7 @@ Retainful automatically embeds these coupon codes in the order confirmation emai
 * Coupon is included within the order confirmation email itself
 * Discount can be either a percentage or flat amount
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=send_unique_coupon_codes_for_next_purchase&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=send_unique_coupon_codes_for_next_purchase&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -215,7 +215,7 @@ Include a button or a link in the email that will automatically apply the coupon
 * Single-click auto apply coupon url
 * Short code to include the coupon url in the email
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=auto_apply_coupon&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=auto_apply_coupon&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -230,7 +230,7 @@ You can control how the coupon is applied. You can set it to apply for all produ
 * Exclude / Include products / categories
 * Exclude items already on sale
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=coupon_usage_restrictions&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=coupon_uasge_restrictions&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -244,7 +244,7 @@ Fear of Missing Out (FOMO) is one of the proven psychological trigger that can b
 * Trigger FOMO using a coupon expiry
 * Short code for including expiry date in the email
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=trigger-fomo_with_coupon_expiry&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=trigger_fomo_with_coupon_expiry&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 
@@ -264,13 +264,13 @@ See who have received your abandoned cart email series. The plugin includes a co
 </featurescolumns>
 <featurescolumns size="6" heading="Next Order Coupon Performance">
 
-Get the list of successful conversions for the next order coupon codes at the <link-text url="https://app.retainful.com/?utm_source=traffic&utm_medium=next_order_coupon&utm_campaign=retainful_dashboard&utm_term=internal_link&utm_content=woocommerce_feature_page" target="_blank" rel="noopener">Retainful Dashboard</link-text> Track customers who have opened and who haven’t opened the coupon/ cart recovery emails. Get a list of all the next order coupons sent to the customers and more.
+Get the list of successful conversions for the next order coupon codes at the <link-text url="https://app.retainful.com/?utm_source=actionable_analytics_insights&utm_medium=retainful_dashboard&utm_campaign=woocommerce_feature_page" target="_blank" rel="noopener">Retainful Dashboard</link-text> Track customers who have opened and who haven’t opened the coupon/ cart recovery emails. Get a list of all the next order coupons sent to the customers and more.
 </featurescolumns>
 
 </row>
 
 
-<a href="https://app.retainful.com/?utm_source=traffic&utm_medium=actionable_analytics_insights&utm_campaign=get_start_for_free&utm_term=cta&utm_content=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
+<a href="https://app.retainful.com/?utm_source=actionable_analytics_insights&utm_medium=get_started_for_free&utm_campaign=woocommerce_feature_page" target="_blank" class="btn btn-link">Get started for FREE</a>
 
 </featurescontext>
 

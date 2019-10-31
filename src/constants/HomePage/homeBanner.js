@@ -17,7 +17,7 @@ const HomeBanner = () =>(
                             </p>
                             <p className="m-t-5">
                                 <a className="btn-action btn-edge btn-lg m-r-20"
-                                   href="https://app.retainful.com/?utm_source=seo&utm_medium=cta&utm_campaign=get_start_free&utm_term=above_fold&utm_content=home_page"
+                                   href="https://app.retainful.com/?utm_source=above_the_fold&utm_medium=get_start_for_free&utm_campaign=home_page"
                                    target="_blank" rel="noopener noreferrer">Get started FREE</a> <small>*<strong>No credit card</strong> required</small>
                             </p>
                         </div>

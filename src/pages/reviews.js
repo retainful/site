@@ -32,7 +32,7 @@ const ReviewsPage = () => (
                             <p>Companies big and small trust Retainful to recover abandoned carts and drive repeat purchases.</p>
                             <p>Want to try it out? Start for free!</p>
                             <p><a className="btn-action btn-edge btn-lg"
-                                  href="https://app.retainful.com/?utm_source=traffic&utm_medium=above_fold&utm_campaign=get_start_free&utm_term=cta&utm_content=review_page"
+                                  href="https://app.retainful.com/?utm_source=above_cta&utm_medium=get_started_free&utm_campaign=review_page"
                                   target="_blank" rel="noopener noreferrer">Get started Free</a></p>
                         </div>
                     </div>
