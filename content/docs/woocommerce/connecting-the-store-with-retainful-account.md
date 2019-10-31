@@ -12,7 +12,7 @@ It is quite easy to connect your WooCommerce store with your Retainful account. 
 
 ### Step 1 : Collect API Keys from your Retainful account
 
-- Login to your [Retainful Dashboard](https://app.retainful.com)  (If you do not have an account, [Signup for Free](https://app.reteinful.com))
+- Login to your [Retainful Dashboard](https://app.retainful.com/?utm_source=connecting_your_woocommerce-store-with-retainful&utm_medium=retainful_dashboard&utm_campaign=docs)  (If you do not have an account, [Signup for Free](https://app.retainful.com/?utm_source=connecting_your_woocommerce-store-with-retainful&utm_medium=signup_for_free&utm_campaign=docs))
 - Go to the Settings page
 - Copy your App ID and Secret Key
 

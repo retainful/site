@@ -1,5 +1,5 @@
 ---
-title: "Adding Premium Add-ons"
+title: "Enabling Premium Add-ons"
 description: "Learn how to install and activate the premium add-ons of Retainful in your WooCommerce store"
 date: "2019-07-23"
 author: "Sowbagya lakshmi"
@@ -18,7 +18,7 @@ Retainful offers the following Premium Add-ons to convert your visitors into cus
 
 ### Adding Premium Features to your WooCommerce store
 
-If you do not have an account already, sign up for a [Retainful Account free](https://app.retainful.com) and get started with a 14-day free trial. 
+If you do not have an account already, sign up for a [Retainful Account free](https://app.retainful.com/?utm_source=enabling_premium_add_ons&utm_medium=retainful_account_free&utm_campaign=docs) and get started with a 14-day free trial. 
 
 You can try all the features of the Retainful Premium Add-ons during the free trial period.
 
