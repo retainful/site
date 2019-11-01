@@ -96,7 +96,7 @@ A discount is what every shopper is on the lookout for. The chances of backing o
 You need to provide a discount with the exit-intent popup that does not burn a hole in your pocket but at the same time satisfies the customer. It is also a better idea to apply the discount directly to the cart so that the customer need not type in the code.
 
 
-Pro Tip: Make the discount personalized with an automatically generated coupon code.
+_**Pro Tip:** Make the discount personalized with an automatically generated coupon code._
 
 #### Get the email
 
@@ -137,7 +137,7 @@ _**Pro Tip:** Do not use this method often. If done so, this might turn against 
 
 WooCommerce exit-intent popup feature is available only in the premium version of <link-text url="https://www.retainful.com/product/features/woocommerce" rel="noopener" target="_blank">Retainful plugin</link-text>. Install and upgrade to the premium version to get things started.
 
-<cta url="https://app.retainful.com" rel="noopener" target="_blank">Try Retainful</cta>
+<cta url="https://app.retainful.com/?utm_source=how_set_up_exit_intent_popup_with_retainful_for_woocommerce&utm_medium=try_retainful&utm_campaign=blog" rel="noopener" target="_blank">Try Retainful</cta>
 
 Next comes the configuration part which is quite easy and hardly takes minutes.
 
@@ -206,14 +206,15 @@ This is how the popup plugin for WooCommerce, Retainful will display the designe
 
 ![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/9-exit-intent-popup-output-in-storefront.png)
 
+<br>
 
-Besides exit-intent, <link-text url="https://www.retainful.com/docs/woocommerce/collect-email-address-before-adding-to-cart-in-woocommerce" rel="noopener" target="_blank">email collection popup</link-text>. feature of Retainful WooCommerce plugin needs special mention. It collects the email form the customer even before he/she adds an item to the cart. This step is to follow up later on in case the person abandons the cart.
+Besides exit-intent, <link-text url="https://www.retainful.com/docs/woocommerce/collect-email-address-before-adding-to-cart-in-woocommerce" rel="noopener" target="_blank">email collection popup.</link-text>Feature of Retainful WooCommerce plugin needs special mention. It collects the email form the customer even before he/she adds an item to the cart. This step is to follow up later on in case the person abandons the cart.
 
 ### A CTA tip to nurture
 
 </br>
 
-A photographer, <link-text url="https://optinmonster.com/how-scott-wyden-imagery-reduced-woocommerce-cart-abandonment/" rel="noopener" target="_blank">Scott Wyden, recovered 21% of abandoned carts</link-text> and grew his email list to 3x with WooCommerce exit-intent popup.
+A photographer, <link-text url="https://optinmonster.com/how-scott-wyden-imagery-reduced-woocommerce-cart-abandonment/" rel="noopener nofollow" target="_blank">Scott Wyden, recovered 21% of abandoned carts</link-text> and grew his email list to 3x with WooCommerce exit-intent popup.
 
 
 What did he do?
