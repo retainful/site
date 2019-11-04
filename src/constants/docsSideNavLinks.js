@@ -24,7 +24,6 @@ const SIDENAV_LINKS = [
               {URL: '/docs/woocommerce/mailchimp-integration', TEXTNODE: 'MailChimp Integration'},
               {URL: '/docs/woocommerce/exit-intent-popup', TEXTNODE: 'Exit Intent Popup'},
               {URL: '/docs/woocommerce/collect-email-address-before-adding-to-cart-in-woocommerce', TEXTNODE: 'Email Collection Popup'},
-              {URL: '/docs/woocommerce/coupon-for-email-popup', TEXTNODE: 'Coupon for Email Collection Popup'},
               {URL: '/docs/woocommerce/coupon-timer', TEXTNODE: 'Countdown Timer with Coupon Auto Apply'},
               {URL: '/docs/woocommerce/next-order-coupon', TEXTNODE: 'Next Order Coupon'},
               {URL: '/docs/woocommerce/how-to-display-coupon-code-on-thank-you-page', TEXTNODE: 'How to display a coupon code on thank you page'},
