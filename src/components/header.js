@@ -48,7 +48,17 @@ class Header extends React.Component {
                     <Link className="navbar-brand" to="/">
                         <img src={ Logo } alt="Retainful" />
                     </Link>
-                    <button id="showMenuBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
+                        <div className="Main_MenuBar">
+                            <ul id="showLogin" className="navbar-nav ml-auto navbar-right d-log">
+                                <li className="nav-item">
+                                    <a href="https://app.retainful.com/?utm_source=login&utm_medium=navigation_bar&utm_campaign=website" target="_blank" className="nav-link btn-link">Log in</a>
+                                </li>
+                                <li className="nav-item">
+                                    <a href="https://app.retainful.com/?utm_source=signup&utm_medium=navigation_bar&utm_campaign=website" target="_blank" className="btn-cta nav-link">Sign Up</a>
+                                </li>
+                            </ul>
+                            <button id="showMenuBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
+                        </div>
                     <Menu/>
                 </div>
             </nav>
