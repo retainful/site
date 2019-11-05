@@ -14,7 +14,7 @@ Straight to the point…
 
 The global average cart abandonment rate at present stands at 75.6%. This means 7 out of 10 shoppers abandon their carts. Moreover, 28% of people pointed out complicated and long checkout as the reason for a WooCommerce or Shopify abandoned cart.
 
-One way to tackle this problem is to better the checkout page design.With superior design, comes along better user experience, satisfied-returning customers, and a happy you.
+One way to tackle this problem is to better the checkout page design. With superior design, comes along better user experience, satisfied-returning customers, and a happy you.
 
 <toc></toc>
 
@@ -34,7 +34,7 @@ Dive in!
 
 ### Field optimization
 
-Checkout pages without fields are rare to find. So, fields must be optimized in the first place to reduce checkout time in a shopping cart. This eventually leads to a better Shopify checkout page design.
+Checkout pages without fields are rare to find. So, fields must be optimized in the first place to reduce checkout time in a shopping cart. This eventually leads to a better Shopify checkout page design. 
 
 Field optimization can be done in 5 ways.
 
@@ -42,13 +42,13 @@ Field optimization can be done in 5 ways.
 
 </br>
 
-Research by Baymard revealed that <link-text url="https://baymard.com/blog/checkout-flow-average-form-fields" rel="noopener nofollow" target="_blank">the number of fields for an average checkout is 14 whereas the actual requirement is only half of it,</link-text>around 6 to 8.
+Research by Baymard revealed that <link-text url="https://baymard.com/blog/checkout-flow-average-form-fields" rel="noopener nofollow" target="_blank">the number of fields for an average checkout is 14 whereas the actual requirement is only half of it,</link-text>around 6 to 8.  
 
-It is obvious that there are a number of unnecessary fields. Another survey by Baymard in 2017 brought to light the information that eCommerce customers would refrain from disclosing.
+It is obvious that there are a number of unnecessary fields. Another survey by Baymard in 2017 brought to light the information that eCommerce customers would refrain from disclosing.  
 
 ![Cut down the number of fields](../images/how-to-reduce-checkout-time-in-a-shopping-cart/1-information-customers-do-not-wish-to-disclose.png)
 
-Remove mailchimp region text box from settings<link-text url="https://www.retainful.com/docs/woocommerce/retainful-abandoned-cart-recovery" rel="noopener" target="_blank">reduce cart abandonment</link-text> and checkout time.
+Remove mailchimp region text box from settings<link-text url="https://www.retainful.com/docs/woocommerce/retainful-abandoned-cart-recovery" rel="noopener" target="_blank">reduce cart abandonment</link-text> and checkout time.  
 
 #### Mark both mandatory and optional fields
 
@@ -68,7 +68,7 @@ Baymard suggests refraining from
 
 Form autocomplete is one great trick for customers who have not registered with your Shopify eCommerce store. Repetitively filling out address forms when buying products online is so tiresome and boring indeed. Relieve them from this pain and let them breeze through the checkout process.
 
-The good news is that Google Autocomplete is automatically enabled for free for every Shopify page checkout design.Shopify themselves tested this feature and found to have saved time by <link-text url="https://www.shopify.com/blog/google-autocomplete" rel="noopener nofollow" target="_blank">20% in the checkout process.</link-text>
+The good news is that Google Autocomplete is automatically enabled for free for every Shopify page checkout design. Shopify themselves tested this feature and found to have saved time by <link-text url="https://www.shopify.com/blog/google-autocomplete" rel="noopener nofollow" target="_blank">20% in the checkout process.</link-text>
 
 #### Use Microcopy
 
