@@ -13,19 +13,19 @@ ogtype: "blog"
 
   
 
-Heated debates about the privacy, security, and legality associated with digital technology and data collection are gaining attention. This increased especially after the whistleblower Edward Snowden started becoming vocal about it.
+Heated debates about the privacy, security, and the legality associated with data collection are gaining attention. This increased especially after the whistleblower Edward Snowden started becoming vocal about it.
 
-  
+
 
 In this wave, the eCommerce GDPR policy also got a wide range of attention and appreciation. eCommerce business nowadays involves a lot of data collection, storage, processing, and interpretation.
 
   
 
-Though data is mainly collected with justified reasons like giving the customers a personalized experience and improving marketing tactics. Ultimately, this boils down to the data of individual persons and subsequently the question of cybersecurity arises. The EU countries have taken a serious step forward to address the same which encompasses strict regulations in the form of GDPR.
+Data is mainly collected with justifiable reasons like giving the customers a personalized experience and improving marketing tactics. Ultimately, this boils down to the data of individual persons and subsequently the question of cybersecurity arises. The EU countries have taken a serious step forward to address the same which encompasses strict regulations in the form of GDPR.
 
   
 
-In addition to this sending email notification like abandoned cart recovery emails are an inevitable component of eCommerce marketing and remarketing. So, here is what you need to know and do to make your abandoned cart recovery process GDPR compliant.
+In addition to this sending notification like abandoned cart recovery emails are an inevitable component of eCommerce marketing and remarketing solutions. So, here is what you need to know and do to make your abandoned cart recovery process GDPR compliant.
 
   
 
@@ -168,7 +168,7 @@ This is how cookies survived the post-GDPR wave.
 
 ### GDPR compliant data collection?
 
-Fetching data is unavoidable in today’s data-centric world. Well, you cannot improve, do research and rectify your mistakes without data. But what raises the concern is about the awareness and the consent. So it is recommended to do it in certain ethical ways as follows.
+Fetching data is unavoidable in today’s data-centric world. Well, you cannot improve, do research and rectify your mistakes without analyzing data. But what raises the concern is about the awareness, consent and predisposition towards misuse. So it is recommended to do it in certain ethical ways as follows.
 
 -   Explicit and informed consent
     
@@ -356,6 +356,10 @@ Below there are few other contents that you can add to your abandoned cart recov
 - Further, you can share the link of blogs, case studies social media posts, pages where you have discussed the importance of privacy and data safety. This will demonstrate your proactiveness ensuring GDPR compliance.
     
 - And most importantly include contact details of active customer helpdesk to help them reach out for any queries and concerns regarding security, data safety, privacy, and GDPR.
+
+Automate your abandoned cart recovery process, try experimenting with the best working strategy at the same time stay GDPR compliant. 
+
+<br>
 
 <cta url="https://app.retainful.com/register" target="_blank" rel="noopener">Try Retainful Free</cta>
 
