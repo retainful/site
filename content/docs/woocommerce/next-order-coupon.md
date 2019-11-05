@@ -1,13 +1,13 @@
 ---
 title: "Next Order Coupon"
 description: Overview on setting up Abandoned Cart Recovery emails and dashboard for reports on recovered carts
-date: "2019-04-30"
-author: "Kiruthiga"
-tags: ["installation", "woocommerce"]
+date: "2019-11-05"
+author: "Sowbagya lakshmi"
+tags: ["next order coupon", "woocommerce"]
 category: woocommerce
 ---
 
-Engage your customers by providing offer codes to their next purchase.
+Encourage your customers to buy more by providing offer codes to their next purchase.
 
 Give them with dynamically generated coupon codes while a customer places an order along with the order notification email.
 
@@ -15,29 +15,27 @@ Retainful - Next order coupons will let you to send offers included with the cou
 
 Let us see, how that works.
 
-Go into the plugin after installation:
+### Setting up next order coupons
 
-![AbondanedCarts](https://raw.githubusercontent.com/retainful/site-images/master/docs/NextorderCoupon/pluginInstallation.png)
+Navigate to **Woocommerce->Retainful- Abandoned carts->Next order coupon**.
 
-**Activate the license / the App ID:**
+![Next order coupon](../../images/docs/NextorderCoupon/settings-next-order-coupons.png)
 
-![Activation](https://raw.githubusercontent.com/retainful/site-images/master/docs/NextorderCoupon/LicenceActivation.png)
+### Basic settings
 
+ Enable next order coupon and set up the **coupon value** in the basic settings here. 
 
-Once the App Id is validated, you are now ready to create a Usage restricted dynamically generating Next Order coupons.
+![coupon value settings](../../images/docs/NextorderCoupon/coupon-value-settings.png)
 
-Jump on to the Next Order Coupon Tab:
+**Order status and user role**
 
-![NextOrderCoupon](https://raw.githubusercontent.com/retainful/site-images/master/docs/NextorderCoupon/NextOrderCoupons.png)
-
-
-Set up the coupon value in the basic settings here.
+Order status and user role based coupon generation is also possible. Choose the desired order status and user role. The default setting is **All**.
 
 **Coupon Type and Value:**  
 
 You can provide a Percentage off on their Next purchase or a Flat price discount in the cart with a coupon value as per your requirement 
 
-Example:  20% discount on the cart.
+Example:  15% discount on the cart.
 
 **Apply coupon to:**
 
@@ -46,6 +44,22 @@ This setting is to validate the coupon code to be applied only when a customer l
 - Allow anyone to apply coupon - Do not validate the coupon if used my a customer.
 - Allow the customer to apply but validate at checkout - Coupon will be applied but the user will be validated at the checkout as user might not login until checkout
 - Allow customer to apply coupon only after login
+
+
+![Other settings](../../images/docs/NextorderCoupon/other-settings.png)
+
+ **Allow next order coupons for orders created in the back end and also for old orders (when re-sending the email notification):**
+
+By enabling this option, now you could send next order coupons for existing orders and new orders created from your back end also.
+
+For more information on how to set up next order coupons for existing orders and
+new orders from back end, click <link-text url="https://www.retainful.com/docs/woocommerce/testing-next-order-coupons/#from-store-admins-backend" target="_blank" rel="noopener">here</link-text>.
+
+**Show next order coupon in order "Thank you" page?:**
+
+Setting this option to Yes would show up a dynamically generated next order coupon at the thank you page of your store front. 
+
+More information regarding this option can be found <link-text url="https://www.retainful.com/docs/woocommerce/how-to-display-coupon-code-on-thank-you-page" target="_blank" rel="noopener">here</link-text>.
 
 **Display coupon message after:**
 
@@ -65,12 +79,12 @@ Let us now create the custom coupon message to be displayed.
 
 Use the below short code to customize the coupon message with dynamic data:
 
-{{coupon_code}} - Coupon code
-{{coupon_amount}} - Coupon amount
-{{coupon_url}} - Url to apply coupon automatically
-{{coupon_expiry_date}} - Coupon expiry date(If coupon does not have any expiry days,then this will not attach to the message).
+**{{coupon_code}}** - Coupon code
+**{{coupon_amount}}** - Coupon amount
+**{{coupon_url}}** - Url to apply coupon automatically
+**{{coupon_expiry_date}}** - Coupon expiry date(If coupon does not have any expiry days,then this will not attach to the message).
 
-**Usage Restriction:**
+### Usage Restriction
 
 Restrict the usage of the coupon in various ways.
 
@@ -95,11 +109,28 @@ You can also restrict the coupon in much more options like only for applying to 
 
 You can also Exclude some products or categories from the discount coupon to be applied.
 
+### Coupon applied response message
+
+You can display a popup indicating the application of the coupon while users redeem their next order coupons. This popup would appear when users click the GO button below the coupon code on their order notifications.
+
+![Coupon response popup](../../images/docs/NextorderCoupon/coupon-response-popup.png)
+
+To display the popup while users redeem their next order coupons, set the option Enable response popup to Yes.
+
+You could even customize the text that appears on the popup in the message box available. As part of customization, you could include dynamic data by using shortcodes listed below the coupon popup message box.
+
 We have completed the setting now.
+
+### How users view the next order coupon
 
 Let us see, how it looks in the emails as per the settings provided.
 
 ![Coupon Preview](https://raw.githubusercontent.com/retainful/site-images/master/docs/NextorderCoupon/couponPreview.png)
 
 
-Cool, isn’t it !!
+Cool, isn’t it !! 
+Users can redeem their coupons by just clicking on the **Go** button below the coupon code.
+
+### What's next?
+
+<link-text url="https://www.retainful.com/docs/woocommerce/testing-next-order-coupons" target="_blank" rel="noopener">Know how to test your next order coupons</link-text>
