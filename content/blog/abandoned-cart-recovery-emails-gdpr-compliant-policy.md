@@ -264,6 +264,7 @@ GDPR compliance of <link-text url="https://wordpress.org/plugins/retainful-next-
 
 -   **Data processor -** The tool handles information related to its user’s customers. This involves storing customer email addresses and email sending. So being a service provider it can assist GDPR compliant business.
 
+<cta url="https://app.retainful.com/register" target="_blank" rel="noopener">Send GDPR Compliant Abandoned Cart Emails</cta>
 
 Now, let us look into the details of Being GDPR as a data controller as well as a processor.
 
@@ -355,6 +356,8 @@ Below there are few other contents that you can add to your abandoned cart recov
 - Further, you can share the link of blogs, case studies social media posts, pages where you have discussed the importance of privacy and data safety. This will demonstrate your proactiveness ensuring GDPR compliance.
     
 - And most importantly include contact details of active customer helpdesk to help them reach out for any queries and concerns regarding security, data safety, privacy, and GDPR.
+
+<cta url="https://app.retainful.com/register" target="_blank" rel="noopener">Try Retainful Free</cta>
 
 
 ## Conclusion
