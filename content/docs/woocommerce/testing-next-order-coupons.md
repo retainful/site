@@ -1,5 +1,6 @@
 ---
 title: "Test Next order coupons"
+path: "/docs/woocommerce/testing-next-order-coupons"
 description: "This is how the Next order coupons work."
 date: "2019-07-24"
 author: "Sowbagya lakshmi"
@@ -93,8 +94,4 @@ The emails would be sent to the email associated with the particular order.
 4. Once you visit the cart page, the coupon would be applied based on the restrictions and configuration set at the Retainful plugin.
 
 ![coupon applied](../../images/docs/testing-next-order-coupons/shop_page.png)
-Thus we could test if the next order coupons work.
-
-
-
-
+Tada! The coupon has been applied.
