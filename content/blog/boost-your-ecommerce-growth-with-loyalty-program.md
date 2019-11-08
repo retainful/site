@@ -147,7 +147,7 @@ The first thing you need to do after observing loyalty is to acknowledge and app
 Introduce a credit system to reward and retain your customers. Credits are digital bonus points given to individual customers. These can be converted into discounts and digital money that can be used for future purchases from you or your collaborator. You can include reward points through the eCommerce email marketing loyalty program. Below are a few examples of eCommerce loyalty rewards.
 
 
-In the below example there is an exclusive deal where <link-text url="https://milled.com/AMIClubwear/early-access-to-ami-prime-day-xumcyCFRTHuGyJaN" rel="noopener nofollow" target="_blank">Ami clubwear</link-text> gives a 60% offer to a product that can be availed earlier with a coupon code.
+In the below example there is an exclusive deal where <link-text url="https://www.amiclubwear.com/" rel="noopener nofollow" target="_blank">Ami clubwear</link-text> gives a 60% offer to a product that can be availed earlier with a coupon code.
 
 <br>
 
