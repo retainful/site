@@ -1,6 +1,6 @@
 ---
 title : "10 Proven Ways to Convert Your Abandoned Cart Website Visitors Into Loyal Customers"
-url : "/blog/10-Proven-ways-to-convert-your-abandoned-cart-website-visitors-into-loyal-customers"
+url : "/blog/10-proven-ways-to-convert-your-abandoned-cart-website-visitors-into-loyal-customers"
 date: "2019-09-12"
 keywords: "ecommerce loyalty program,ecommerce loyalty platforms
 ecommerce loyalty rewards,ecommerce consumer loyalty,ecommerce email marketing loyalty program,customer loyalty program ideas"

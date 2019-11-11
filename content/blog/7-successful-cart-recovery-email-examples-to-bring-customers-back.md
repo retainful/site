@@ -1,5 +1,5 @@
 ---
-path: "/blog/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/"
+path: "/blog/7-successful-cart-recovery-email-examples-to-bring-customers-back/"
 date: "2019-04-20"
 title: "7 Successful Cart Recovery Email Examples to Bring Customers Back"
 description: "Cart recovery email reminders can recover at least 30% - 40% of abandoned sales. Send Unlimited Cart recovery emails for FREE in your WooComerce and Shopify store with Retainful"
