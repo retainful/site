@@ -10,7 +10,7 @@ const ExclusiveBonus =  (props) =>{
                 {props.children}
             </div>
             <div>
-                <CustomNewsletterForm btntext={props.btntext} placeholdertext ={props.placeholdertext} btntext ={props.btntext} btnclass ={props.btnclass} btncolor ={props.btncolor} width ={props.width} />            
+                <CustomNewsletterForm btntext={props.btntext} placeholdertext ={props.placeholdertext} btnclass ={props.btnclass} btncolor={props.btncolor} width ={props.width} />            
                 { props.buttontext?<a href={props.url} target={props.target} rel={props.rel} className="btn-action btn-edge text-white btn-block"> { props.buttontext } </a> : null}
             </div>
         </div>
