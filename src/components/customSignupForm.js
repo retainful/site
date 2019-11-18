@@ -64,10 +64,14 @@ export default class CustomNewsletterForm extends React.Component{
         }
         return (
             <form onSubmit={handler} className="form-inline newsletter-form text-center" style={formWidth}>
-                <input type="email" name="email" className="form-control form-control-lg sign-up" ref={input => this.email = input} placeholder={placeholder} required/>
+                <div class="form-group">
+                    <input type="email" name="email" className="form-control form-control-lg sign-up" ref={input => this.email = input} placeholder={placeholder} required/>
+                </div>
+                <div class="form-group">
                 <button className={"btn btn-success btn-lg sign-up-button " + btnCls} style={buttonColor} type="submit">
                     {buttonText}
                 </button>
+                </div>
             </form>
         )
     }

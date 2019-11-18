@@ -280,8 +280,8 @@ body {
 }
 
 .navbar {
-  padding-top: 20px !important;
-  padding-bottom: 20px !important;
+  padding-top: 60px !important;
+  padding-bottom: 40px !important;
   background-color: transparent;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
@@ -1800,7 +1800,7 @@ body {
 
   .ptb-2 {
     background: #ffffff;
-    padding: 30px 0px 10px !important;
+    // padding: 30px 0px 10px !important;
     border-top: 1px solid #efe7e7;
   }
 
@@ -4669,7 +4669,7 @@ body {
 
 .pricing-banner-container {
   position: relative;
-  padding-top: 40px;
+  // padding-top: 40px;
   background: linear-gradient(-135deg, #ffffff 25%, #f4f7fb);
 
   .intro-text-container {

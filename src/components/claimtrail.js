@@ -4,7 +4,7 @@ import CustomNewsletterForm from "./customSignupForm"
 const ClaimTrail = (props) =>{
         {console.log(props)}
     return(
-        <div class="border bordered border-primary text-center">
+        <div class="text-center">
             <div>
                 {props.children}
             </div>    

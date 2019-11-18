@@ -23,6 +23,8 @@ import FeaturedReviews from './featuredreviews'
 import Metatags from "./Metatags"
 import GetStarted from './getstarted'
 import Footer from "./footer"
+import ExclusiveBonus from "./exclusivebonus"
+import ClaimTrail from './claimtrail';
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
@@ -46,6 +48,8 @@ const renderAst = new rehypeReact({
       reviews:FeaturedReviews,
       getstarted:GetStarted,
       footer:Footer,
+      bonus:ExclusiveBonus,
+      "claim-trail":ClaimTrail,
   },
 }).Compiler
 
