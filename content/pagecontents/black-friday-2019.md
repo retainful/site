@@ -13,7 +13,7 @@ keywords: "saas black friday deals, 2019 retainful black friday discounts, retai
 
 # Black Friday Sales Has Just Got Big!
 
-Grab Retainful @ 30% Off and Get a Free Onboarding Session!
+Grab Retainful @ **30% Off** and Get a Free Onboarding Session!
 
 
 </div>
