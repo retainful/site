@@ -57,8 +57,8 @@ export default class PricingPage extends React.Component {
             />
           </div>
           <div className="text-center p-3 pt-5">
-            <h4>Recover more Carts and Start Growing </h4>
-            <Cta url="#plans">Buy Now</Cta>
+            <h4>Recover More Carts and Start Growing Your Store's Revenue Now!</h4>
+            <Cta url="#plans">Buy Retainful</Cta>
           </div>
         </div>
       </Layout>
