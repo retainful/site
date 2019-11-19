@@ -11,9 +11,9 @@ class Header extends React.Component {
   componentDidMount() {
     $(window).scroll(function() {
       if ($(window).scrollTop() > 10) {
-        $('.navbar').addClass('past-main effect-main')
+        $('.navbar').addClass('past-main effect-main fixed-top')
       } else {
-        $('.navbar').removeClass('past-main')
+        $('.navbar').removeClass('past-main fixed-top')
       }
     })
     $('#showMenuBtn').on('click', function() {
@@ -46,7 +46,7 @@ class Header extends React.Component {
   }
   render() {
     return (
-      <nav className="navbar p-4 fixed-top navbar-expand-md navbar-light container-fluid">
+      <nav className="navbar navbar-expand-md navbar-light container-fluid">
         <div className="container">
           <Link className="navbar-brand" to="/">
             <img src={Logo} alt="Retainful" />

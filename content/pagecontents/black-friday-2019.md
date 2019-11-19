@@ -55,7 +55,7 @@ Grab Retainful @ **30% Off** and Get a Free Onboarding Session!
 
 <column size="6">
 
-<cta url="https://www.retainful.com/pricing" target="_blank" rel="noopener">Grab Deal</cta>
+<cta url="https://www.retainful.com/pricing?utm_source=discount_above_fold&utm_medium=grab_deal&utm_campaign=bfcm2019" target="_blank" rel="noopener">Grab Deal</cta>
 
 </column>
 
@@ -154,7 +154,7 @@ Not satisfied with Retainful? Get your money back within 14 days! No strings att
 
 A clean dashboard with actionable customer insights helps you recover more abandoned carts and grow sales!
 
-<cta url="https://www.retainful.com/pricing" target="_blank" rel="noopener">Grab This Deal</cta>
+<cta url="https://www.retainful.com/pricing?utm_source=discount_second_cta&utm_medium=grab_deal&utm_campaign=bfcm2019" target="_blank" rel="noopener">Grab This Deal</cta>
 
 
 </div>
@@ -194,7 +194,7 @@ Enjoy 30% Referral Commissions for Every Successful Sale You Make!
 
 <column size="4">
 
-<cta>Become an Affiliate</cta>
+<cta url="https://www.retainful.com/partner-program" rel="noopener" target="_blank">Become an Affiliate</cta>
 
 </column>
 
