@@ -6,12 +6,16 @@ import StandardPricingTable from '../components/pricing'
 import GetStarted from '../components/getstarted'
 import FeaturedReviews from '../components/featuredreviews'
 import $ from 'jquery'
+// import ToggleBtn from "../components/togglebutton"
+import Highlight from "../components/highlight"
+import Cta from "../components/cta"
 
-import HomeTrutedCompanies from '../constants/HomePage/homeTrustedCompanies';
-import PageContent from "../components/pageContent";
-import Container from "../components/container";
+import HomeTrutedCompanies from '../constants/HomePage/homeTrustedCompanies'
+import PageContent from '../components/pageContent'
+import Container from '../components/container'
 
-class PricingPage extends React.Component {
+export default class PricingPage extends React.Component {
+
     render() {
         return (
             <Layout>
@@ -20,47 +24,55 @@ class PricingPage extends React.Component {
                     description="Start recovering abandoned carts in your Shopify and WooCommerce stores. Get started for FREE!"
                     keywords="retainful pricing plans, abandoned cart recovery, cart abandonment, shopify abandoned checkouts, woocommerce abandoned cart recovery"
                 />
-                <div className="pricing-banner-container">                    
-                <Container>
-                       <StandardPricingTable/>
-                    </Container>
+        <div className="pricing-banner-container">
+          <div className="intro-text-container">
+            <div className="container container-s text-center">
+              <h2>Recover your lost sales and boost your revenue by 10x.</h2>
+              <span><h4>
+                Grab Retainful at <Highlight>30% off</Highlight> this Black Friday Sale!
+              </h4></span>
+            </div>
+          </div>
+          <Container>
+            <div id="pricing-toggle">
+            {/*<ToggleBtn/>*/}
+            </div>
+            <StandardPricingTable />
+          </Container>
 
-                    <HomeTrutedCompanies/>
+          <HomeTrutedCompanies />
 
-                    <FeaturedReviews/>
+          <FeaturedReviews />
 
-                    <div className="faq-block">
-                        <StaticQuery
-                            query={PricingFaqQuery}
-                            render={data => {
-                                return (
-                                    <Container>
-                                        <PageContent
-                                            excerptData={data.markdownRemark.htmlAst}
-                                        />
-                                    </Container>
-                                )
-                            }}
-                        />
-                    </div>
-
-                    <GetStarted/>
-
-                </div>
-            </Layout>
-        )
-    }
+          <div className="faq-block">
+            <StaticQuery
+              query={PricingFaqQuery}
+              render={data => {
+                return (
+                  <Container>
+                    <PageContent excerptData={data.markdownRemark.htmlAst} />
+                  </Container>
+                )
+              }}
+            />
+          </div>
+          <div className="text-center p-3 pt-5">
+            <h4>Recover more Carts and Start Growing </h4>
+            <Cta url="#plans">Buy Now</Cta>
+          </div>
+        </div>
+      </Layout>
+    )
+  }
 }
 
-export default PricingPage
-
 export const PricingFaqQuery = graphql`
- query PricingFaqQuery{
-      markdownRemark(frontmatter: {path: {eq: "/pricing-faq"}}){
-        htmlAst
-        frontmatter{
-          path
-        }
+  query PricingFaqQuery {
+    markdownRemark(frontmatter: { path: { eq: "/pricing-faq" } }) {
+      htmlAst
+      frontmatter {
+        path
       }
-  } 
+    }
+  }
 `

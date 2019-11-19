@@ -50,7 +50,8 @@ class HeadBanner extends React.Component {
                   <div class="text-center topbar-offer-batch">
                     <p>
                       <span>
-                        Black Friday Super Saver Sale Starts on 19th Nov 2019!
+                        Black Friday Super Saver Sale Starts on <strong>19th Nov 2019!</strong>
+                        <a href="https://www.retainful.com/black-friday-2019" className="ml-2 btn text-white" style={{backgroundColor:'#3abd82'}}>Buy Now</a>
                       </span>
                     </p>
                   </div>

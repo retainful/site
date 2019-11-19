@@ -49,7 +49,9 @@ Currently, Retainful is available for Shopify and WooCommerce. The integration f
 
 #### Do you have any setup cost?
 
-Absolutely not. There are no hidden costs. No annual contracts or commitments. Pay as you grow. Cancel anytime.
+Absolutely not. There are no hidden costs. <span style="display:none;">No annual contracts or commitments.</span> Pay as you grow.
+
+Cancel anytime.
 
 <br>
 
@@ -59,13 +61,17 @@ Shopify store owners are billed via the Shopify itself. They would see the month
 
 <br>
 
-#### Can I upgrade to a Paid plan easily?
-Yes. Just click the Upgrade button in your Retainful Dashboard -> Billing section. No additional set up or process is required. You can get the paid plan features automatically.
+#### Can I upgrade my plan easily?
+Yes. Just click the Upgrade button in your Retainful Dashboard -> Billing section. No additional set up or process is required.
 
 <br>
 
+<span style="display:none;">
+
 #### Can I continue to use the free version ?
 Yes. You can continue to use Retainful free version with the limited set of features.
+
+</span>
 
 <br>
 
