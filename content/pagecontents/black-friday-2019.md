@@ -5,13 +5,13 @@ description: "It’s Black Friday Season! Grab Retainful - a powerful abandoned 
 keywords: "saas black friday deals, 2019 retainful black friday discounts, retainful bfcm offers"
 ---
 
-<div class="p-5" style="background-color:rgba(251, 11, 11, 0.11)">
+<div class="p-5" style="background-color:#32325d">
 
 <container>
 
-<div class="text-center">
+<div class="text-center text-white">
 
-# Black Friday Sales Has Just Got Big!
+<h1 class="text-white">Black Friday Sales Has Just Got Big!</h1>
 
 Grab Retainful @ **30% Off** and Get a Free Onboarding Session!
 
@@ -31,21 +31,42 @@ Grab Retainful @ **30% Off** and Get a Free Onboarding Session!
 
 <column size="6">
 
-<div class="text-center customer-review py-5" style="box-shadow: 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);">
+<div class="text-center customer-review" style="box-shadow: 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);">
 
-## Retainful - WooCommerce Abandoned Cart Recovery
+<div class="text-center BFCM-bg-primary ">
+
+## Retainful - Abandoned Cart Recovery Tool
+
+</div>
+
+<br>
 
 **Capture & Recover Abandoned Shopping Carts!**
 
-**starts from: $9.00/ month**
+**starts from: $5.75/ month**
 
-<img src="https://www.flycart.org/images/products/logos/retainful-Abandoned-Cart-Recovery.png"  alt="merock" width="200" height="200"/>
+<row class="justify-content-center">
+
+<column size="6">
+
+<img src="https://www.flycart.org/images/products/logos/retainful-Abandoned-Cart-Recovery.png"  alt="merock" width="100"/>
+
+</column>
+
+<column size="6">
 
 <cta url="https://www.retainful.com/pricing" target="_blank" rel="noopener">Grab Deal</cta>
 
-</div>
-</div>
 </column>
+
+</row>
+
+</div>
+
+</div>
+
+</column>
+
 </row>
 
 </container>
@@ -67,9 +88,12 @@ Connect your store and get started in minutes! It's easy!
 
 <br>
 
-<container> 
 
-<div class="text-center bg-light-gray p-5">
+<div class="py-3" style="background-color:#f4f7fb;">
+
+<container>
+
+<div class="text-center py-2">
 
 ## What Comes along?
 
@@ -77,11 +101,10 @@ Connect your store and get started in minutes! It's easy!
 
 <row>
 
-
 <card size="4">
    <div slot="card-title">1 Year Priority Support</div>
     <div slot="card-image">
-        <img src="https://www.flycart.org/images/2019/11/12/1-year-priority-support.png" alt="image Here"  />
+        <img src="../images/landingpage/black-friday/1-year-priority-support.png" alt="image Here"  />
     </div>
     <div slot="card-body"> 
       One year priority support on making a purchase this Black Friday. Live Chat & Call Support.
@@ -91,7 +114,7 @@ Connect your store and get started in minutes! It's easy!
 <card size="4">
    <div slot="card-title">Free Onboarding Session</div>
     <div slot="card-image">
-        <img src="https://www.flycart.org/images/2019/11/12/free-onboarding-session.png" alt="image Here"  />
+        <img src="../images/landingpage/black-friday/free-onboarding-session.png" alt="image Here"  />
     </div>
     <div slot="card-body"> 
         Get a Free Onboarding Session (30 minutes) that’s worth $100 on making a purchase.
@@ -101,7 +124,7 @@ Connect your store and get started in minutes! It's easy!
 <card size="4">
    <div slot="card-title">Money Back Guarantee</div>
     <div slot="card-image">
-        <img src="https://www.flycart.org/images/2019/11/14/30-discount-on-license-renewal.png" alt="image Here"/>
+        <img src="../images/landingpage/black-friday/30-discount-on-license-renewal.png" alt="image Here"/>
     </div>
     <div slot="card-body">
 Not satisfied with Retainful? Get your money back within 14 days! No strings attached! 
@@ -111,6 +134,8 @@ Not satisfied with Retainful? Get your money back within 14 days! No strings att
 </row>
 
 </container>
+
+</div>
 
 
 <br>
@@ -155,7 +180,7 @@ A clean dashboard with actionable customer insights helps you recover more aband
 
 <container>
 
-<div class="card bg-light p-5">
+<div class="p-5">
 
 <row>
 
@@ -180,6 +205,3 @@ Enjoy 30% Referral Commissions for Every Successful Sale You Make!
 </container>
 
 </div>
-
-
-<getstarted></getstarted>
