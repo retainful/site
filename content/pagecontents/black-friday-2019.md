@@ -28,7 +28,7 @@ keywords: "saas black friday deals, 2019 retainful black friday discounts, retai
 
 <column size="6">
 
-<div class="text-center customer-review" style="box-shadow: 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);">
+<div class="text-center customer-review" style="padding-bottom: 20px;border-radius: 5px; box-shadow: 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);">
 
 <div class="text-center BFCM-bg-primary">
 
@@ -78,14 +78,14 @@ keywords: "saas black friday deals, 2019 retainful black friday discounts, retai
 </container>
 
 <br>
-<br>
-<br>
 
 <container>
 
-<div class="text-center">
+<div class="text-center p-5 py-4">
 
 ## Recover Your Lost Sales & Increase Revenue by 10x
+
+<br>
 
 Send cart recovery emails, display exit intent popups, generate next order coupons and do more with Retainful.
 
@@ -96,7 +96,7 @@ Connect your store and get started in minutes. It's easy!
 </container>
 
 
-<div class="py-3" style="background-color:#f4f7fb;">
+<div class="py-5 bfcm-head" style="background-color:#f4f7fb;">
 
 <container>
 
@@ -106,7 +106,7 @@ Connect your store and get started in minutes. It's easy!
 
 </div>
 
-<row>
+<row class="bfcm-head text-center">
 
 <card size="4">
    <div slot="card-title">1 Year Priority Support</div>
@@ -149,7 +149,7 @@ Not satisfied with Retainful? Get your money back within 14 days! No strings att
 <br>
 <br>
 
-<container>
+<container class="p-3">
 
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
@@ -161,7 +161,8 @@ Not satisfied with Retainful? Get your money back within 14 days! No strings att
 
 A clean dashboard with actionable customer insights helps you recover more abandoned carts and grow sales!
 
-<p>starts from : <span style="text-decoration:line-through red;">$99 /year </span> <span style="font-size: x-large;">$69.00 <sub style="bottom: 0;">/year</sub></span></p>
+<p>starts from : <span style="text-decoration:line-through red;">$99 /year </span> 
+<span style="font-size: x-large; font-weight: bold;color: #32325d;"><highlight>$69.00 <sub style="bottom: 0;">/year</sub></highlight></span></p>
 
 <cta url="https://www.retainful.com/pricing" target="_blank" rel="noopener">Grab This Deal</cta>
 
@@ -180,6 +181,9 @@ A clean dashboard with actionable customer insights helps you recover more aband
 
 </container>
 
+<br>
+<br>
+<br>
 
 
 

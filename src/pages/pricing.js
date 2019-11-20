@@ -27,10 +27,10 @@ export default class PricingPage extends React.Component {
         <div className="pricing-banner-container">
           <div className="intro-text-container">
             <div className="container container-s text-center">
-              <h2>Recover your lost sales and boost your revenue by 10x.</h2>
-              <span><h4>
-                Grab Retainful at <Highlight>30% off</Highlight> this Black Friday Sale!
-              </h4></span>
+              <h2>Grab Retainful at <Highlight>30% off</Highlight> this Black Friday!</h2>
+              <span>
+              <h4> Recover your lost sales and boost your revenue by 10x.</h4>
+              </span>
             </div>
           </div>
           <Container>
@@ -57,7 +57,7 @@ export default class PricingPage extends React.Component {
             />
           </div>
           <div className="text-center p-3 pt-5">
-            <h4>Recover More Carts and Start Growing Your Store's Revenue Now!</h4>
+            <h4>Get Retainful at 30% Off & Increase Your Store’s Revenue!</h4>
             <Cta url="#plans">Buy Retainful</Cta>
           </div>
         </div>

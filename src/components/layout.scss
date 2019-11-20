@@ -5842,10 +5842,20 @@ $i: 0;
 
 .BFCM-bg-primary
 {
-  background: #32325d;
+  background: #2e57bf;
   padding:20px 20px;
+  border-radius: 5px 5px 0px 0px;
 }
 .BFCM-bg-primary h3
 {
   color: #fff;
+}
+.bfcm-head{
+  h3{
+    font-size: 22px;
+  }
+}
+.BFCM-top
+{
+  margin-top:-85px;
 }

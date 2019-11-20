@@ -12,6 +12,7 @@ const LandingPage = () => {
                 return (
                   <>
                     <Layout>
+                    <div className="BFCM-top"></div>
                     <Post
                       title = {data.markdownRemark.frontmatter.title}
                       description = {data.markdownRemark.frontmatter.description}
