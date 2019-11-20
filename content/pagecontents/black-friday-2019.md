@@ -5,16 +5,13 @@ description: "It’s Black Friday Season! Grab Retainful - a powerful abandoned 
 keywords: "saas black friday deals, 2019 retainful black friday discounts, retainful bfcm offers"
 ---
 
-<div class="p-5" style="background-color:#32325d">
+<div class="p-5" style="background-color:#32325d;">
 
 <container>
 
 <div class="text-center text-white">
 
-<h1 class="text-white">Black Friday Sales Has Just Got Big!</h1>
-
-Grab Retainful @ **30% Off** and Get a Free Onboarding Session!
-
+<h1 class="text-white">The Biggest Black Friday Sale - 30% Off!!!</h1>
 
 </div>
 
@@ -33,31 +30,40 @@ Grab Retainful @ **30% Off** and Get a Free Onboarding Session!
 
 <div class="text-center customer-review" style="box-shadow: 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);">
 
-<div class="text-center BFCM-bg-primary ">
+<div class="text-center BFCM-bg-primary">
 
-## Retainful - Abandoned Cart Recovery Tool
+### Capture & Recover Abandoned Carts!
 
 </div>
 
 <br>
 
-**Capture & Recover Abandoned Shopping Carts!**
+<p>
 
-**starts from: $5.75/ month**
+<span style="text-decoration:line-through red; font-size: 25px;">Earlier $99 / year</span>
+
+<strong><span style="font-size: 45px; color:#32325d;"> $69 </span> <sub>/year</sub></strong>
+
+</p>
 
 <row class="justify-content-center">
 
-<column size="6">
+<div class="d-inline-flex align-items-baseline">
 
-<img src="https://www.flycart.org/images/products/logos/retainful-Abandoned-Cart-Recovery.png"  alt="merock" width="100"/>
 
-</column>
+<div class="ml-2 mr-2">
 
-<column size="6">
+<cta url="https://app.retainful.com/checkout/starter?utm_source=starter&utm_medium=buy_now&utm_campaign=bfcm_2019" target="_blank" rel="noopener">Grab Deal</cta>
 
-<cta url="https://www.retainful.com/pricing?utm_source=discount_above_fold&utm_medium=grab_deal&utm_campaign=bfcm2019" target="_blank" rel="noopener">Grab Deal</cta>
+</div>
 
-</column>
+<div class="ml-2 mr-2">
+
+<small><link-text url="https://retainful.com/pricing" rel="noopener" target="_blank">View All Plans</link-text></small>
+
+</div>
+
+</div>
 
 </row>
 
@@ -75,18 +81,19 @@ Grab Retainful @ **30% Off** and Get a Free Onboarding Session!
 <br>
 <br>
 
+<container>
 
 <div class="text-center">
 
-## A Powerful Next Order Coupon Generator for WooCommerce Stores
+## Recover Your Lost Sales & Increase Revenue by 10x
 
-Make customers stick with your business for long. Generate Next Order Coupons and drive more repeat purchases to your online store.
+Send cart recovery emails, display exit intent popups, generate next order coupons and do more with Retainful.
 
-Connect your store and get started in minutes! It's easy!
+Connect your store and get started in minutes. It's easy!
 
 </div>
 
-<br>
+</container>
 
 
 <div class="py-3" style="background-color:#f4f7fb;">
@@ -104,10 +111,10 @@ Connect your store and get started in minutes! It's easy!
 <card size="4">
    <div slot="card-title">1 Year Priority Support</div>
     <div slot="card-image">
-        <img src="../images/landingpage/black-friday/1-year-priority-support.png" alt="image Here"  />
+        <p><img src="../images/landingpage/black-friday/1-year-priority-support.png" alt="image Here"  /></p>
     </div>
     <div slot="card-body"> 
-      One year priority support on making a purchase this Black Friday. Live Chat & Call Support.
+      One year priority support on making a purchase this Black Friday. Live Chat Support.
     </div>
 </card>
 
@@ -154,7 +161,9 @@ Not satisfied with Retainful? Get your money back within 14 days! No strings att
 
 A clean dashboard with actionable customer insights helps you recover more abandoned carts and grow sales!
 
-<cta url="https://www.retainful.com/pricing?utm_source=discount_second_cta&utm_medium=grab_deal&utm_campaign=bfcm2019" target="_blank" rel="noopener">Grab This Deal</cta>
+<p>starts from : <span style="text-decoration:line-through red;">$99 /year </span> <span style="font-size: x-large;">$69.00 <sub style="bottom: 0;">/year</sub></span></p>
+
+<cta url="https://www.retainful.com/pricing" target="_blank" rel="noopener">Grab This Deal</cta>
 
 
 </div>
@@ -162,7 +171,7 @@ A clean dashboard with actionable customer insights helps you recover more aband
 
 <div slot="left">
 
-<img src="https://www.flycart.org/images/2019/11/12/retainful---abandoned-cart-recovery-tool-for-woocommerce1.png" width="500"/>
+<img src="../images/landingpage/black-friday/retainful---abandoned-cart-recovery-tool-for-woocommerce1.png" width="500"/>
 
 
 </div>

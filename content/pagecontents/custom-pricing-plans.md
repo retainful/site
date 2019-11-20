@@ -31,7 +31,7 @@ normally $9 /mo
 
 <div slot="plan-button">
 
-<a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=starter&utm_medium=buy_now&utm_campaign=bfcm_2019" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/checkout/starter?utm_source=starter&utm_medium=buy_now&utm_campaign=bfcm_2019" target="_blank" rel="noopener noreferrer">Buy Now</a>
 
 </div>
 
@@ -89,7 +89,7 @@ who want to do more.
 
 <div slot="plan-button">
  
-<a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=growth&utm_medium=buy_now&utm_campaign=bfcm_2019" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/checkout/growth?utm_source=growth&utm_medium=buy_now&utm_campaign=bfcm_2019" target="_blank" rel="noopener noreferrer">Buy Now</a>
 
 </div>
 
@@ -135,7 +135,7 @@ normally $99 /mo
 
 <div slot="plan-button">
 
-<a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=professional&utm_medium=buy_now&utm_campaign=bfcm_2019" target="_blank" rel="noopener noreferrer">Buy Now</a>
+<a class="btn-action btn-lg" href="https://app.retainful.com/checkout/professional?utm_source=professional&utm_medium=buy_now&utm_campaign=bfcm_2019" target="_blank" rel="noopener noreferrer">Buy Now</a>
 
 </div>
 
