@@ -7,7 +7,51 @@ path: "/custom-pricing-plans"
 
 <row>
 
-<plan size="4" class="plan-bdr-bg">
+<plan size="3" class="plan-bdr-right plan-bdr-bg">
+
+<div slot="plan-title">
+Free
+</div>
+
+<div slot="original-price-line">   
+<br>
+</div>
+
+<div slot="plan-price">
+<sup>$</sup>0
+</div>
+
+<div slot="plan-button">
+
+<a class="btn-outline btn-lg" href="https://app.retainful.com/?utm_source=free&utm_medium=try_it_for_free&utm_campaign=pricing" target="_blank" rel="noopener noreferrer"> Try  It Free </a>
+
+</div>
+
+<div slot="pricing-slogan">
+
+Free forever.
+
+No credit card required.
+
+</div>
+
+<div slot="plan-features">
+
+<ul>
+
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 300 contacts</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Premium Add-ons (WooCommerce)</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Standard Support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Live chat support</li>
+<li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Dedicated Onboard Specialist</li>
+
+</ul>
+
+</div>
+
+</plan>
+
+<plan size="3" class="plan-bdr-bg">
 
 <div slot="plan-title">
 Starter
@@ -58,7 +102,7 @@ drive more results.
 
 </plan>
 
-<plan size="4"  class="featured plan-bdr-bg">
+<plan size="3"  class="featured plan-bdr-bg">
 
 <div slot="plan-title">
 Growth
@@ -110,7 +154,7 @@ who want to do more.
 
 </plan>
 
-<plan size="4" class="plan-bdr-bg">
+<plan size="3" class="plan-bdr-bg">
 
 <div slot="plan-title">
 Professional
