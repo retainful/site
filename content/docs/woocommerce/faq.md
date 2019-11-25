@@ -19,6 +19,7 @@ You can find the detailed report of sent emails on your Retainful account under 
 An option to change the "From" address can be found in the Email templates tab of your Retainful account.
 If you have not mentioned any From address, the From address would be the email  address that you registered with Retainful.
 However if you wish to add/ edit the From address, you could do so here:
+
 ![From address change](../../images/docs/faq/from-address.png)
 
 
@@ -52,7 +53,7 @@ Retainful supports all these in WooCommerce Stores.
 Just <link-text url="https://app.retainful.com/" rel="noopener" target="_blank">sign up for a free account</link-text> and you can start a 14-day free trial.
 
 Exit Popup and Add to cart popup are premium add-ons. You can download the Retainful Premium Add-ons plugin from our billing section and try it for 14 days
-Here is a guide: [https://www.retainful.com/docs/woocommerce/retainful-upgrading-to-premium#installing-the-premium-plugin-on-your-store](<https://www.retainful.com/docs/woocommerce/retainful-upgrading-to-premium#installing-the-premium-plugin-on-your-store>)
+Click <link-text url="https://www.retainful.com/docs/woocommerce/retainful-upgrading-to-premium#installing-the-premium-plugin-on-your-store">here</link-text> to  download the premium plugin.
 
 
 ### 5. Unable to disable the plugins on Wordpress dashboard
@@ -69,9 +70,18 @@ If your answer to the above questions is Yes, then:
 De-activate the Retainful Premium plugin and this issue will be sorted out.
 
 
+### 6. Can I remove or exclude certain contacts from Retainful account?
 
+There are no options to remove or exclude certain contacts(probably your test contacts) from your Retainful account.
+Every unique email address you collect using Retainful account would be treated as a unique contact.
 
+### 7. What happens after I reach the contact limit allowed for my plan?
 
+For example, If you are using the FREE plan. With the Free plan you are allowed a contact limit of 300 contacts.
+Once you reach the 300 contact limit, cart recovery emails would be stopped.
 
+You will still be able to track the carts on your Retainful account. 
+However, to continue sending recovery emails, you will have to upgrade to other paid plans.
 
+Click <link-text url="https://www.retainful.com/pricing" target="_blank" rel="nofollow">here</link-text> to know the plans and features that Retainful offers.
 
