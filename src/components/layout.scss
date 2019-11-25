@@ -387,6 +387,7 @@ body {
   /* For Safari 3.1 to 6.0 */
   transition: 0.5s all ease;
   align-items: center;
+  z-index: 9;
 
   .dropdown {
     .dropdown-menu {
