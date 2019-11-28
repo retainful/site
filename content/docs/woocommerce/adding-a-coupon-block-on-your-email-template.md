@@ -19,23 +19,29 @@ This guide explains how you could add a coupon discount block on your cart recov
 
 For those who use Retainful plugin 2.x and have migrated to cloud, you could add a coupon discount to your recovery emails by following the process below.
 
-**Step-1: Create a coupon** 
+#### Step-1: Create a coupon
 
-1. You will have to create a coupon on your site under Woocommerce->Coupons.
-2. Copy the coupon code.
+1. You will have to create a coupon on your site. Navigate to **Woocommerce->Coupons**. Click **Add coupon**.
 
-**Step-2: Adding the coupon code to your mail template on Retainful account**
+![Add new coupon](../../images/docs/adding-a-coupon-block-to-abandoned-cart-templates/add-new-coupon.png)
+
+2. Set the value and other usage restrictions to your coupon.
+
+![Coupon configured](../../images/docs/adding-a-coupon-block-to-abandoned-cart-templates/configuring-coupon.png)
+
+
+3. Copy the coupon code.
+
+#### Step-2: Adding the coupon code to your mail template on Retainful account
 
 1. Login to the Retainful account that you have connected with your store.
-2. Navigate to Emails->Your email template->Edit. Or you could create a new template as well. Let us suppose that I am creating a new email template.
+2. Navigate to Emails->Your email template->Edit. Or you could create a new template as well. 
 3. The coupon block can be found on the right hand side under the **Store elements** block.
 
 ![Coupon block](../../images/docs/adding-a-coupon-block-to-abandoned-cart-templates/coupon-block.png)
-4. Drag and drop the indicated block on your mail template's body. The coupon block would appear like this when you drag and drop the coupon block.
+4. Drag and drop the indicated block on your mail template's body.
 
-![Coupon block on template](../../images/docs/adding-a-coupon-block-to-abandoned-cart-templates/coupon-block-on-template.png)
-
-5. You will have to click on the indicated block to add the coupon code that we created on our Woocommerce store earlier at Step-1. Once the block is clicked, the settings would show up as follows:
+5. Choose the coupon block to add the coupon code that we created on our Woocommerce store earlier at Step-1. Once the block is clicked, the settings would show up as follows:
 
 ![Adding the coupon code](../../images/docs/adding-a-coupon-block-to-abandoned-cart-templates/adding-coupon-code.png)
 
@@ -43,22 +49,9 @@ For those who use Retainful plugin 2.x and have migrated to cloud, you could add
 
 6. Make sure that you **Activate the template** and **Save**.
 
-Tada! We have now set up the coupon discount for the abandoned cart email template.
+Tada! We have now set up the coupon discount for the abandoned cart email template. Users can claim these coupon discounts by clicking on the **Shop Now** button found below the coupon code.
 
-**Step-3: How users view and claim the coupon discount**
-
-1. Once the cart is marked as abandoned, the email would be triggered to the user's email address. The email would look like this:
-
-![Coupon in mail](../../images/docs/adding-a-coupon-block-to-abandoned-cart-templates/coupon-in-mail-cloud.png)
-
-2. Users will have to click on the **Coupon code** or on the **Shop Now**button below the coupon code to avail the discount.
-
-3. Once they click on the Shop now button, they would be redirected to the shop page where they would be able to initiate a purchase and the coupon would be applied.
-
-![Coupon applied](../../images/docs/adding-a-coupon-block-to-abandoned-cart-templates/2.x-coupon-applied.png)
-The coupon code has been claimed by the user.
-
-**Video tutorial**
+#### Video tutorial
 
 Here is a video on how to add a coupon block to your abandoned cart recovery emails.
 
