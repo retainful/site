@@ -26,7 +26,7 @@ export default StandardPricingTable;
 
 const StandardPricingPlanQuery = graphql`
    query StandardPricingPlanQuery{
-      markdownRemark(frontmatter: {path: {eq: "/standard-pricing-plans"}}){
+      markdownRemark(frontmatter: {path: {eq: "/custom-pricing-plans"}}){
         htmlAst
         frontmatter{
           path
