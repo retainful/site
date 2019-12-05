@@ -50,7 +50,7 @@ class HeadBanner extends React.Component {
                     30% OFF BFCM Mega Sale!!! Offer Extended Till <strong>15th December</strong>
                     <span className="ml-2 mr-2" style={{fontSize: '15px',border: '1px dashed #fff',padding: '6px 10px',borderRadius: '4px'}}>No Coupon Code Required</span>
                     <span>
-                    <a className="text-white ml-2 btn" style={{backgroundColor:'#3abd82'}} href="https://www.retainful.com/black-friday-2019">Buy Now</a>
+                    <Link className="text-white ml-2 btn" style={{backgroundColor:'#3abd82'}} to="/black-friday-2019">Buy Now</Link>
                   </span>
                   </span>
                     </p>
