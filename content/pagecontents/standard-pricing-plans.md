@@ -1,6 +1,5 @@
 ---
 path: "/standard-pricing-plans"
-
 ---
 
 <row>
@@ -11,12 +10,25 @@ path: "/standard-pricing-plans"
 Free
 </div>
 
- <div slot="original-price-line">   
+<div slot="original-price-line">   
 <br>
 </div>
 
 <div slot="plan-price">
 <sup>$</sup>0
+</div>
+
+<div slot="original-price-line-anually">   
+<br>
+</div>
+
+<div slot="plan-price-anually">
+
+<sup>$</sup>0
+
+
+<p class="pt-3" style="display:hidden;">(Billed Anually)</p>
+
 </div>
 
 <div slot="plan-button">
@@ -67,6 +79,20 @@ normally $29/month
 
 </div>
 
+<div slot="original-price-line-anually">
+
+normally $29/month
+
+</div>
+
+<div slot="plan-price-anually">
+
+<sup>$</sup>7<sub>/month</sub>
+
+<p class="pt-3">(Billed Anually)</p>
+
+</div>
+
 <div slot="plan-button">
 
 <a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=starter&utm_medium=start_free_trail&utm_campaign=pricing" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
@@ -111,6 +137,20 @@ normally $59/month
 <div slot="plan-price" >
 
 <sup>$</sup>29<sub>/month</sub>
+
+</div>
+
+<div slot="original-price-line-anually">
+
+normally $59/month
+
+</div>
+
+<div slot="plan-price-anually">
+
+<sup>$</sup>23<sub>/month</sub>
+
+<p class="pt-3">(Billed Anually)</p>
 
 </div>
 
@@ -160,6 +200,20 @@ normally $199/month
 <sup>$</sup>99<sub>/month</sub>
 </div>
 
+<div slot="original-price-line-anually">
+
+normally $199/month
+
+</div>
+
+<div slot="plan-price-anually">
+
+<sup>$</sup>79<sub>/month</sub>
+
+<p class="pt-3">(Billed Anually)</p>
+
+</div>
+
 <div slot="plan-button">
 
 <a class="btn-action btn-lg" href="https://app.retainful.com/?utm_source=professional&utm_medium=start_free_trail&utm_campaign=pricing" target="_blank" rel="noopener noreferrer">Start Free Trial </a>
@@ -193,8 +247,10 @@ increase your conversions.
 
 </row>
 
-
 <div class="plan-features p-2 ptb-2 plan-price-title">
+
+<span style="opacity:0.5;"><small>*Dedicated Onboarding Session - $100.</small></span>
+
 
 ### **All Plans Include**
 
