@@ -4,18 +4,13 @@ import Newsletter from "../images/newsletter.jpg"
 
 const GetTemplates = (props) =>{
     return(
-        <div className="p-3 border border-primary">
-            <div class="row">
-                <div class="col-md-8">
-                    <div>
-                        {props.children}
-                    </div>
-                    <div>
-                        <CustomNewsletterForm class="form-inline"/>
-                    </div>
+        <div className="row justify-content-center">
+            <div className="p-3">
+                <div>
+                    {props.children}
                 </div>
-                <div className="col-md-4">
-                    <img src={Newsletter}/>
+                <div>
+                    <CustomNewsletterForm class="form-inline" btntext={props.btntext} btncolor={props.btncolor}/>
                 </div>
             </div>
         </div>
