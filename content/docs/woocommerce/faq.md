@@ -1,6 +1,6 @@
 ---
 title: "Frequently asked Questions"
-path: "/docs/woocommerce/faq"
+path: "/docs/woocommerce/FAQ"
 description: "Following are some of the Frequently asked Questions"
 date: "2019-10-30"
 author: "Sowbagya lakshmi"
@@ -19,15 +19,14 @@ You can find the detailed report of sent emails on your Retainful account under 
 An option to change the "From" address can be found in the Email templates tab of your Retainful account.
 If you have not mentioned any From address, the From address would be the email  address that you registered with Retainful.
 However if you wish to add/ edit the From address, you could do so here:
-
-![From address change](../../images/docs/faq/from-address.png)
+![From address change](../../images/docs/FAQ/from-address.png)
 
 
 ### 3. How to test abandoned cart emails with Retainful?
 
 Once you set up an abandoned cart email sequence on your Retainful account, you can check the layout of the email by clicking on the **Send test email** button on the appropriate email template:
 
-![Send test email](../../images/docs/faq/send-test-email.png)
+![Send test email](../../images/docs/FAQ/send-test-email.png)
 
 A popup would show up where you could enter the email address to which the email is to be sent.
 
@@ -85,3 +84,9 @@ However, to continue sending recovery emails, you will have to upgrade to other 
 
 Click <link-text url="https://www.retainful.com/pricing" target="_blank" rel="nofollow">here</link-text> to know the plans and features that Retainful offers.
 
+### The add to cart button functions very slow
+
+This may be because of the Cart tracking engine that you are using. Navigate to**Woocommerce->Retainful- Abandoned carts->Settings**.
+Set the cart tracking engine to **Javascript engine**.
+
+The PHP tracking engine gets processed at the server end, while javascript uses the browser for interacting with the API. So, the Javascript engine tracks carts and also processes all the requests at a better speed.
