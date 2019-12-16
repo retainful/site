@@ -31,9 +31,9 @@ class FeaturesPage extends React.Component {
                                     <a className="btn-action btn-edge btn-lg"
                                        href={`${process.env.GATSBY_WOOCOMMERCE_PLUGIN_URL}/?utm_source=above_fold&utm_medium=download_free_plugin&utm_campaign=woocommerce_features_page`}
                                        target="_blank" rel="noopener noreferrer">Download Free Plugin</a>
-                                    <a className="btn-action m-l-10 btn-outlined btn-lg"
+                                    {/* <a className="btn-action m-l-10 btn-outlined btn-lg"
                                        href="https://demo.retainful.com/?utm_source=above_fold&utm_medium=live_demo&utm_campaign=woocommerce_features_page"
-        target="_blank" rel="noopener noreferrer">Live Demo</a>
+        target="_blank" rel="noopener noreferrer">Live Demo</a>*/}
                                 </p>
                             </div>
                             <div className="col-md-6">
