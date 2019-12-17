@@ -29,7 +29,7 @@ Following is a list of most commonly used shortcodes and what data they return o
 
 **{{billing_address.first_name}}** - Returns the First name of the user that was entered in their billing address section.
 
-**{{ abandoned_checkout_url }}** - Redirects the users to their cart with the items that they added before abandonment.
+**{{abandoned_checkout_url}}** - Redirects the users to their cart with the items that they added before abandonment.
 
 **{{retainful_coupon}}** - Displays the coupon code of the Woocommerce coupon. 
 
@@ -72,7 +72,7 @@ The billing address data that the user enters can be fetched using the following
 
 **{{billing_address.country}}** - Country selected in billing address.
 
-**{{billing_address_zip}}**- Zip code mentioned at the billing address.
+**{{billing\_address\_zip}}**- Zip code mentioned at the billing address.
 
 **{{billing_address.address1}}** - The street address mentioned at the billing address is called address1. That information would be returned.
 
@@ -80,9 +80,9 @@ The billing address data that the user enters can be fetched using the following
 
 **{{billing_address.province}}** - The state/province chosen at the billing address.
 
-**{{billing_address.province_code}}** - The two letter code of the selected province.
+**{{billing\_address.province\_code}}** - The two letter code of the selected province.
 
-**{{billing_address.country_code}}** - The two letter code of the selected country.
+**{{billing\_address.country\_code}}** - The two letter code of the selected country.
  
  
 #### Shop data
@@ -105,7 +105,7 @@ Following are the shortcodes that return the data of the Woocommerce shop that i
 
 **{{shop.country_code}}** - The two letter code of the country chosen in the store address.
 
-**{{shop.enabled_presentment_currencies}}** - In case of a store that uses multiple currencies, all the enabled currencies would be listed.
+**{{shop.enabled\_presentment\_currencies}}** - In case of a store that uses multiple currencies, all the enabled currencies would be listed.
 
 **{{shop.primary_locale}}** - The default language of the store would be listed.
 
@@ -121,7 +121,7 @@ Following shortcodes return the data mentioned by users on the shipping address 
 
 **{{shipping_address.country}}** - Country selected in shipping address.
 
-**{{shipping_address_zip}}**- Zip code mentioned at the shipping address.
+**{{shipping\_address\_zip}}**- Zip code mentioned at the shipping address.
 
 **{{shipping_address.address1}}** - The street address mentioned at the shipping address is called address1. That information would be returned.
 
@@ -129,9 +129,9 @@ Following shortcodes return the data mentioned by users on the shipping address 
 
 **{{shipping_address.province}}** - The state/province chosen at the shipping address.
 
-**{{shipping_address.province_code}}** - The two letter code of the selected province.
+**{{shipping\_address.province\_code}}** - The two letter code of the selected province.
 
-**{{shipping_address.country_code}}** - The two letter code of the selected country.
+**{{shipping\_address.country\_code}}** - The two letter code of the selected country.
  
  
 ### What's next?
