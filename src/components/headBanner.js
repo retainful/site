@@ -47,7 +47,7 @@ class HeadBanner extends React.Component {
                   <div class="text-center topbar-offer-batch">
                     <p>
                     <span>
-                    30% OFF BFCM Mega Sale!!! Offer Extended Till <strong>15th December</strong>
+                    30% OFF BFCM Mega Sale!!! Offer Extended Till <strong>18th December</strong>
                     <span className="ml-2 mr-2" style={{fontSize: '15px',border: '1px dashed #fff',padding: '6px 10px',borderRadius: '4px'}}>No Coupon Code Required</span>
                     <span>
                     <Link className="text-white ml-2 btn" style={{backgroundColor:'#3abd82'}} to="/black-friday-2019">Buy Now</Link>
