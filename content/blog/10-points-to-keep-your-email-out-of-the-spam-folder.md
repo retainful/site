@@ -1,11 +1,11 @@
 ---
-title: "10 Points to Keep Your Email Out of The Spam Folder"
-path: "/blog/10-points-to-keep-your-email-out-of-the-spam-folder"
+title: "Best Practices to Keep Your Emails Out of The Spam Folder"
+path: "/blog/best-practices-to-keep-your-emails-out-of-the-spam-folder"
 description: "Here are the best ways to avoid your emails from getting into the spam folder. The do’s and don’ts suggested by experts. The reason behind the same and how to lawfully combat this."
 date: "2019-11-20"
 author: "Vidya"
-image: "../images/10-points-to-keep-your-email-out-of-the-spam-folder/10-Points-to-Keep-Your-Email-Out-of-the-Spam-Folder.jpg"
-thumbnail: "../images/10-points-to-keep-your-email-out-of-the-spam-folder/10-Points-to-Keep-Your-Email-Out-of-the-Spam-Folder.jpg"
+image: "../images/best-practices-to-keep-your-emails-out-of-the-spam-folder/best-practices-to-keep-your-emails-out-of-the-spam-folder.jpg"
+thumbnail: "../images/best-practices-to-keep-your-emails-out-of-the-spam-folder/best-practices-to-keep-your-emails-out-of-the-spam-folder.jpg"
 keywords: "why emails go to spam, how to avoid mail going to spam, how to avoid emails going to spam, prevent email from going to spam ,why are my emails going to spam"
 ---
 
@@ -127,7 +127,7 @@ Provide a physical address to contact you is a mandate according to GDPR guideli
 
 In the below example, there is a legit ‘from address’ and a clearcut message stating that it is an abandoned cart recovery email. Plus there are no too many or unnecessary links. Further, there is a link to their privacy statement with an option to unsubscribe. And most importantly there is a physical contact address.
 
-![Spam-free email example](../images/10-points-to-keep-your-email-out-of-the-spam-folder/2-spam-free-email-template.png)
+![Spam-free email example](../images/best-practices-to-keep-your-emails-out-of-the-spam-folder/2-spam-free-email-template.png)
 
 Clarity regarding the purpose of your email is the basis for establishing a flag against the spam mark you are trying to avoid.
 
@@ -141,7 +141,7 @@ In the below example  the “from address” appears like it is from the UK Pres
 
 Also, there are too many links with no option to opt-out from receiving such emails in the future. Moreover, there is no physical contact address or even a Postal Office box number.
 
-![Spam email example](../images/10-points-to-keep-your-email-out-of-the-spam-folder/1-spam-email-template.png)
+![Spam email example](../images/best-practices-to-keep-your-emails-out-of-the-spam-folder/1-spam-email-template.png)
 
 ___
 
