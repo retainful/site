@@ -13,7 +13,6 @@ After migrating to cloud, the next step is to set up your very first abandoned c
 This guide applies to users who use Retainful 2.x.
 Lets get started!
 
-
 ### Recommended Sequence
 
 An ideal abandoned cart email sequence consists of 3 emails. Here is an example sequence:
@@ -25,7 +24,7 @@ An ideal abandoned cart email sequence consists of 3 emails. Here is an example 
 
 ### Creating the first email
 
-1) <link-text url="https://app.retainful.com/?utm_source=abandoned_cart_recovery_mails&utm_medium=retainful_dashboard&utm_campaign=docs" target="_blank" rel="noopener">Login to or Sign up with Retainful.</link-text>
+1) <link-text url="https://app.retainful.com/" target="_blank" rel="noopener">Login to or Sign up with Retainful.</link-text>
 2) When you first login to your account, you would see the **Create** button. Click on the Create button to get started. 
 
 ![Create button](../../images/docs/creating-abandoned-cart-mail-series/create-button.png)
@@ -58,6 +57,22 @@ We have now created our very first abandoned cart mail series.
 Once this sequence is created, Retainful will automatically execute this sequence when a customer abandons the cart. Whenever the cart is recovered, the sequence will automatically stop for that particular customer. 
 
 You can also pause, edit or delete any email template whenever you wish.
+
+### Shortcodes that can be used 
+
+You could use shortcodes on your email templates to display dynamic data like user's name and so on. Here is a list of the most prominent shortcodes that can be used.
+
+**{{customer_name}}** - To display user's name.
+**{{billing_address.first_name}}** - To display the first name user enters on the billing address section of the checkout.
+**{{abandoned\_checkout\_url}}** - To redirect user to the cart page along with the products they had in their cart.
+**{{retainful_coupon}}** - Displays the coupon code of the Woocommerce coupon. Note that a coupon block has to be added to the email template for this shortcode to display the Woocommerce coupon code.
+**{{abandoned\_checkout\_url\_with\_coupon\_code}}** - Redirects users to the shop page with the coupon auto-applied. A coupon code has to be added to the email template to use this shortcode.
+**{{shop.address}}** - Displays the shop’s address mentioned in your Woocommerce store settings.
+
+**{{shop.email}}** - Shows the shop’s email address specified in your Woocommerce store settings.
+
+More such shortcodes can be found <link-text url="https://www.retainful.com/docs/woocommerce/shortcodes-for-reference#other-allowed-shortcodes" target="_blank" rel="noopener">here</link-text>
+
 
 ### What's next
 

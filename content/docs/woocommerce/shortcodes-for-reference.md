@@ -27,15 +27,15 @@ This article guides you through the list of allowed shortcodes and how to use th
 
 Following is a list of most commonly used shortcodes and what data they return on your emails.
 
-**{{billing_address.first_name}}** - Returns the First name of the user that was entered in their billing address section.
+**{{billing\_address.first\_name}}** - Returns the First name of the user that was entered in their billing address section.
 
-**{{abandoned_checkout_url}}** - Redirects the users to their cart with the items that they added before abandonment.
+**{{abandoned\_checkout\_url}}** - Redirects the users to their cart with the items that they added before abandonment.
 
 **{{retainful_coupon}}** - Displays the coupon code of the Woocommerce coupon. 
 
 > Note: A coupon block should be added to the email template. Click <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-coupon-block-on-your-email-template" target="_blank" rel="noopener">here</link-text> to know how to add a coupon block. 
 
-**{{abandoned_checkout_url_with_coupon_code}}** - Redirects users to the shop page with the coupon auto-applied. 
+**{{abandoned\_checkout\_url\_with\_coupon\_code}}** - Redirects users to the shop page with the coupon auto-applied. 
 
 > NOTE: A coupon block should be attached in the mail template already. This shortcode can be mentioned in a Shop now button below the coupon code.
 

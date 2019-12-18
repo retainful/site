@@ -7,7 +7,7 @@ import Menu from './menu'
 import Footer from './footer'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './layout.scss'
-import HeadBanner from "./headBanner"
+// import HeadBanner from "./headBanner"
 
 if (typeof window !== 'undefined') {
     window.jQuery = window.$ = require('jquery');
@@ -28,7 +28,7 @@ const Layout = ({children, className, location, crumbLabel}) => (
         render={data => (
             <>
                 <div className={"wrapper " + (className ? className : '')}>
-                <HeadBanner/>
+                {/*<HeadBanner/>*/}
                     <Header siteTitle={data.site.siteMetadata.title}/>
                     <Menu />
                     <div id="main" className="main">
