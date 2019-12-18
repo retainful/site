@@ -34,7 +34,8 @@ The **Add to cart popup** premium add-on offers 2 awesome features
 
 Please go to your WordPress Dashboard -> WooCommerce -> Retainful -> Premium -> Add to cart popup.
 
-![Email Collection Add to Cart popup](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/add-to-cart-popup.png)
+![Add to cart email collection](../../images/docs/collect-email-address-before-adding-to-cart-in-woocommerce/add-to-cart-popup-email-collection.png)
+
 
 **Enable Add to Cart Popup modal:** Set this field to YES to activate the popup for Email Collection
 
@@ -42,13 +43,22 @@ Please go to your WordPress Dashboard -> WooCommerce -> Retainful -> Premium -> 
 
 **No Thanks action:** By default, Retainful will show a No Thanks link to close the popup and proceed to cart. This to ensure that the customer get a choice. Recommended setting is _Allow adding to cart_
 
+**Show E-mail collection popup** You can determine until when the add to cart pop up should show up on the site. Recommended setting is _Until user clicks "No thanks link(It will stop showing once user clicked no thanks)"._
+While choosing the recommended setting, the popup would not appear for that particular user session once he clicks on the No thanks link. If you wish to force users to enter their email address, you can set it to _Until user provides email address_
+
+**Custom pages to display the pop-up modal on (optional)** You can choose the pages where the add to cart popup should appear on the site. If left empty, the add to cart popup would appear on all pages where there are products.
+
+**Custom classes** This option helps when you have a custom add to cart button for your products and wish to display email collection popup while users click on those buttons as well. This being the case, you will have to mention the class used for that custom created button. For example:  _.custom_add_to_cart_
+
 ### 2. Customizing the Email Collection Popup
 
 Retainful allows you to customize the popup design. You can change the default text, button text, no thanks action link text and more.
+Scroll down to the heading _popup design_ to customize the email collection popup.
 
-![Popup Design](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/email-collection-form.png)
+![Popup design](../../images/docs/collect-email-address-before-adding-to-cart-in-woocommerce/popup-design.png)
 
-It also lets you provide a GDPR compliance message since you were collecting the email address. 
+
+It also lets you provide a <link-text url="https://www.retainful.com/docs/woocommerce/gdpr-compliance/#enabling-gdpr-for-add-to-cart-popup" target="_blank" rel="noopener"> GDPR compliance message</link-text> since you were collecting the email address. 
 
 ### 3. Save and Go Live!
 Save and start recovering more abandoned carts effectively!
@@ -57,7 +67,8 @@ Save and start recovering more abandoned carts effectively!
 
 Here is a screenshot of how it gets triggered while adding a product to cart.
 
-![Add to Cart Popup for WooCommerce](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/add-to-cart-popup-storefront.png)
+![Popup on store front](../../images/docs/collect-email-address-before-adding-to-cart-in-woocommerce/email-collection-popup-store-front.png)
+
 
 > The following steps are optional. 
 
@@ -73,8 +84,8 @@ Now, anyone would be willing to give their email address to you. So how are we g
 
 ### Step 1: Create a coupon code
 
-We need a coupon code to send it to the customer. So navigate to WooCommerce -> Coupons.
-Click "Add Coupon" button to create a coupon.
+We need a coupon code to send it to the customer. So navigate to **WooCommerce -> Coupons.**
+Click "**Add Coupon**" button to create a coupon.
 ![Create a coupon in WooCommerce](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/coupon-add-new.png)
 
 You can create a simple percentage based coupon. That should be sufficient or you can also go for a fixed amount discount as well. Choice is yours :-)
@@ -89,24 +100,34 @@ In the Usage limits tab, make sure you set the "Usage limit per user" to 1 (as y
 Navigate to WooCommerce -> Retainful -> Premium -> Add to cart popup configuration
 Scroll down to find the **Coupon settings - Incentivize the customer for entering his email**
 
-![Incentivize settings](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/coupon-email-collection.png)
+![Coupon email collection](../../images/docs/collect-email-address-before-adding-to-cart-in-woocommerce/coupon-email-collection.png)
 
 As shown in the above screenshot,
 - Set the **Enable coupon** to Yes
 - Choose the coupon code you created in the previous section
-- Configure the Email template (this will be used for sending the coupon code to the customer). 
 
-The email template has two short codes:
-**{{coupon_code}}** : The code you have selected
-**{{coupon_url}}** : A url that will take the customer to the cart and automatically apply the code as well.
+#### Instantly display the coupon code
+
+Instead of making your users wait for the email with the coupon code, now you could just display the coupon code on a pop up once they enter their email addresses.
+
+![Instant coupon display](../../images/docs/collect-email-address-before-adding-to-cart-in-woocommerce/instant-coupon-display.png)
+You could use the following shortcodes on the popup template to display the coupon code:
+**{{coupon_code}}** - To display the coupon code
+**{{coupon_url}}** - Using the shortcode will automatically apply the coupon when clicked. 
+
+Similarly the email that is sent can also be customized.
+
+![Customize the email](../../images/docs/collect-email-address-before-adding-to-cart-in-woocommerce/email-customizer.png)
+
 
 ### Step 6: Save your configuration
 
 Now you have successfully set up Retainful to incentivize your customers to provide their email.
 
-Here is a screenshot of how the popup would look at the store front:
+Here is a screenshot of how the email collection popup would look at the store front:
 
-![Incentivize popup](https://raw.githubusercontent.com/retainful/site-images/master/docs/abandoned-cart-recovery/coupon-popup-store-front.png)
+![Coupon store front](../../images/docs/collect-email-address-before-adding-to-cart-in-woocommerce/coupon-popup-frontend.png)
+
 
 That's a great motivation for the customer to complete his purchase. Even if he abandons the cart after getting the coupon, you can still have the chance to [recover it by following up with email reminders](https://www.retainful.com/docs/woocommerce/retainful-abandoned-cart-recovery)
 
@@ -121,5 +142,3 @@ So word the popup header differently!. Here are some creative headings for you!
 ### What's Next?
 
 - [Create your first abandoned cart recovery email](https://www.retainful.com/docs/woocommerce/creating-an-abandoned-cart-email-sequence)
-
-

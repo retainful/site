@@ -1,6 +1,6 @@
 ---
 title: "Using drag and drop editor"
-path: "/docs/woocommerce/using-drag-and-drop-editor"
+path: "/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor"
 description: "You could customize the cart recovery templates easily using a drag and drop editor."
 date: "2019-10-12"
 author: "Sowbagya lakshmi"
@@ -20,16 +20,16 @@ Login to your Retainful account. Click on **Emails->Email templates->Choose a te
 
 At the email template layout, you could see a pre-defined template. The tools for customisation are available at the far right corner of the Retainful dashboard as follows:
 
-![Available options](../../images/docs/customizing-templates-using-editor/blocks-available.png)
+![Available options](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/blocks-available.png)
 
 1. **Section tab** - Divide and Conquer!
 Divide the email into neat columns.
 In this part, you can find tools that allow you to add segments to your email template, for example, if you wish to divide the template layout into 2 or 3 columns, you could drag and drop blocks from this section.
 
-![Section tab](../../images/docs/customizing-templates-using-editor/section-columns.png)
+![Section tab](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/section-columns.png)
 This is how the template layout can be segmented with the use of tools in the section tab:
 
-![Columns in template](../../images/docs/customizing-templates-using-editor/columns-in-template.png)
+![Columns in template](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/columns-in-template.png)
 
 2. **Element tab**- This section helps you add new text blocks, buttons, images, divider and so on.
 
@@ -43,7 +43,7 @@ This is how the template layout can be segmented with the use of tools in the se
 
 </call-out>
 
-![Element tools](../../images/docs/customizing-templates-using-editor/element-tools.png)
+![Element tools](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/element-tools.png)
 
 3. **Store block**- Every abandoned cart email should have certain elements like:
 - The brand's logo
@@ -52,7 +52,7 @@ This is how the template layout can be segmented with the use of tools in the se
 - A discount coupon(at the right time)
 Here is how you could add these elements on your recovery emails.
 
-![Store elements](../../images/docs/customizing-templates-using-editor/store-tools.png)
+![Store elements](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/store-tools.png)
 The store element section offers options to enter dynamic data from the store. So, the parameters require bit more explanation. Following are the options available at the store element area:
 
 - **Logo block** -  To know how to add a store logo to your emails and customize the logo, click <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-store-logo-on-your-email-template" target="_blank" rel="noopener">here</link-text>
@@ -61,14 +61,14 @@ The store element section offers options to enter dynamic data from the store. S
 
 - **Address block** - With this block, the billing and shipping address, billing method and shipping method of the order would be fetched and displayed:
 
-![Address block](../../images/docs/customizing-templates-using-editor/address-block.png)
+![Address block](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/address-block.png)
 - **Totals block**- If you wish to display the order amount breakup, then you could do so by using this block. The order totals, shipping cost and so on would be displayed.
 
-![Totals](../../images/docs/customizing-templates-using-editor/store-totals.png)
+![Totals](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/store-totals.png)
 
 - **Line item block** -The items of the users cart can be displayed on your abandoned cart emails using this block.
 
-![Line item](../../images/docs/customizing-templates-using-editor/store-line-item.png)
+![Line item](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/store-line-item.png)
 
 You could also customise and add styles to the individual sections of the email template. Let us learn more about this on the next section.
 
@@ -80,22 +80,22 @@ And the options to customise the layout appear on the right corner.
 
 1. Choose the block of the element you wish to customize further. A blue rectangle would appear.
 
-![Chosen block](../../images/docs/customizing-templates-using-editor/chosen-block.png)
+![Chosen block](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/chosen-block.png)
 
 2. **Settings block** -This part offers options corresponding to the block that has been chosen. For example, if you click on a button block, then in the settings tab, you can specify the URL to which the user should be redirected to while clicking on the button. 
 
-![Settings block](../../images/docs/customizing-templates-using-editor/settings-block.png)
+![Settings block](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/settings-block.png)
 
 4. **Dimension block** -In this section, you can modify the width, height and padding of the selected block.
 
 5. **Typography block** -  Make your emails look attractive and captivating by using the right font, size and alignment. This segment has options that let you control the font style and alignment of the selected block.
 
-![Typography](../../images/docs/customizing-templates-using-editor/typography-block.png)
+![Typography](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/typography-block.png)
 
 6. **Decorations block**- Keep your product in mind while designing your emails. Highlight when necessary using the ideal background color.
 This section would allow you to add other CSS styles to the selected element.
 
-![Decorations](../../images/docs/customizing-templates-using-editor/decorations-block.png)
+![Decorations](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/decorations-block.png)
 
 You could style each and every element as per your requirements. 
 
@@ -112,13 +112,37 @@ Around 61% percent of your stores users are checking your emails on mobile devic
 
 You could check if the email templates are responsive by making use of the icons at the left corner of the email template layout:
 
-![Responsiveness](../../images/docs/customizing-templates-using-editor/responsive-tab.png)
+![Responsiveness](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/responsive-tab.png)
+
+#### Duplicating an email template
+
+While creating mail templates to recover abandoned carts, you can save time by duplicating email templates that have been created already.
+Follow the below steps to duplicate the emails.
+
+1. Edit the email template you wish to duplicate. Click on the view code icon on the top right corner of the template body as indicated below:
+
+![View code icon](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/view-code-button.png)
+
+2. A popup would appear with the MJML code of the template. Copy the entire **MJML code alone**.
+
+![MJML code](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/MJML-code.png)
+
+3. Click on Add email button to create a new template. Click the **Import MJML icon** on the right corner of the template body.
+
+![Import MJML](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/import-MJML.png)
+
+4. Enter the copied code and click on the **Import button** in the resulting popup.
+
+![Import code](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/Import-button.png)
+
+The source email template would be successfully duplicated now. 
+Set the subject line, time limit and activate the template.
 
 #### Other formatting tools 
 
-Viewing the template in full screen, downloading the template, adding styles via html code, undo, redo, preview options can be found at the top right corner of the template layout.
+Viewing the template in full screen, undo, redo, preview options can be found at the top right corner of the template layout.
 
-![Other formatting tools](../../images/docs/customizing-templates-using-editor/responsive-formatting.png)
+![Other formatting tools](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/responsive-formatting.png)
 
 
 You could add styles and make the layout of the abandoned cart email templates even more beautiful.
@@ -139,4 +163,4 @@ In this article we saw how to:
 1. Divide your mail templates into columns or add new sections
 2. Add new elements and text blocks
 3. Customize the individual elements
-4. Ensure responsiveness
+4. Ensure responsivenesss
