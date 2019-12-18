@@ -240,7 +240,7 @@ Sending out emails start with <link-text url="https://www.retainful.com/docs/woo
 
 This is a sample flowchart for an email series.
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/6-amazon-website-speed-test-dallas.png)
+![](../images/9-ways-to-drive-traffic-to-your-online-store/EmailFlow.png)
 
 Of course, there are many other email types like promotional, seasonal, upsell/cross-sell, discount, feedback, reminder emails that can be included in this structure and customized as per your needs.
 
@@ -268,7 +268,7 @@ Did you know that <link-text url="https://www.bitcatcha.com/blog/6-reasons-why-w
 
 **Result 1**
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/7-amazon-website-speed-test-india.png)
+![](../images/9-ways-to-drive-traffic-to-your-online-store/6-amazon-website-speed-test-dallas.png)
 
 Amazon.com increases eCommerce website traffic with a Speed Index of 1.002s when viewed from Dallas using Chrome.
 
