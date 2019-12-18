@@ -6,7 +6,7 @@ import StandardPricingTable from '../components/pricing'
 import GetStarted from '../components/getstarted'
 import FeaturedReviews from '../components/featuredreviews'
 import $ from 'jquery'
-// import ToggleBtn from "../components/togglebutton"
+import ToggleBtn from "../components/togglebutton"
 import Highlight from "../components/highlight"
 import Cta from "../components/cta"
 
@@ -35,7 +35,7 @@ export default class PricingPage extends React.Component {
           </div>
           <Container>
             <div id="pricing-toggle">
-            {/*<ToggleBtn/>*/}
+            <ToggleBtn/>
             </div>
             <StandardPricingTable />
           </Container>
