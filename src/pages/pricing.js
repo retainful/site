@@ -30,7 +30,7 @@ export default class PricingPage extends React.Component {
               <h2>Recover your lost sales and boost your revenue by 10x.</h2>
               <h4> Join 1000+ store owners who get more revenue with Retainful.</h4>
               <Cta url="https://app.retainful.com/?utm_source=above_fold&utm_medium=get_start_for_free&utm_campaign=pricing" rel="noopener" target="_blank">Get started for FREE</Cta>
-              <p>Simple, honest prices. No surprises! No annual contracts</p>
+              <p>Simple, honest prices. No surprises!</p>
             </div>
           </div>
           <Container>
