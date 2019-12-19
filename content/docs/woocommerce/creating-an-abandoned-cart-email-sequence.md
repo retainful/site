@@ -63,10 +63,15 @@ You can also pause, edit or delete any email template whenever you wish.
 You could use shortcodes on your email templates to display dynamic data like user's name and so on. Here is a list of the most prominent shortcodes that can be used.
 
 **{{customer_name}}** - To display user's name.
+
 **{{billing\_address.first\_name}}** - To display the first name user enters on the billing address section of the checkout.
+
 **{{abandoned\_checkout\_url}}** - To redirect user to the cart page along with the products they had in their cart.
+
 **{{retainful_coupon}}** - Displays the coupon code of the Woocommerce coupon. Note that a coupon block has to be added to the email template for this shortcode to display the Woocommerce coupon code.
+
 **{{abandoned\_checkout\_url\_with\_coupon\_code}}** - Redirects users to the shop page with the coupon auto-applied. A coupon code has to be added to the email template to use this shortcode.
+
 **{{shop.address}}** - Displays the shop’s address mentioned in your Woocommerce store settings.
 
 **{{shop.email}}** - Shows the shop’s email address specified in your Woocommerce store settings.
