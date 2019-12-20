@@ -19,14 +19,15 @@ You can find the detailed report of sent emails on your Retainful account under 
 An option to change the "From" address can be found in the Email templates tab of your Retainful account.
 If you have not mentioned any From address, the From address would be the email  address that you registered with Retainful.
 However if you wish to add/ edit the From address, you could do so here:
-![From address change](../../images/docs/FAQ/from-address.png)
+
+![From address change](../../images/docs/faq/from-address.png)
 
 
 ### 3. How to test abandoned cart emails with Retainful?
 
 Once you set up an abandoned cart email sequence on your Retainful account, you can check the layout of the email by clicking on the **Send test email** button on the appropriate email template:
 
-![Send test email](../../images/docs/FAQ/send-test-email.png)
+![Send test email](../../images/docs/faq/send-test-email.png)
 
 A popup would show up where you could enter the email address to which the email is to be sent.
 
