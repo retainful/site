@@ -14,7 +14,6 @@ const SIDENAV_LINKS = [
               {URL: '/docs/woocommerce/migrating-from-plugin-to-cloud', TEXTNODE: 'Migrating from plugin to cloud'},
               {URL: '/docs/woocommerce/retainful-upgrading-to-premium', TEXTNODE: 'Enabling Premium Add-ons'},
               {URL: '/docs/woocommerce/creating-an-abandoned-cart-email-sequence', TEXTNODE: 'Creating your first abandoned cart email'},
-              {URL: '/docs/woocommerce/retainful-abandoned-cart-recovery', TEXTNODE: 'Abandoned Cart Recovery Emails (1.x)'},
               {URL: '/docs/woocommerce/using-drag-and-drop-editor', TEXTNODE: 'Using the Drag and Drop Editor'},
               {URL: '/docs/woocommerce/adding-a-store-logo-on-your-email-template', TEXTNODE: 'Adding a store logo to your email template'},
               {URL: '/docs/woocommerce/adding-a-coupon-block-on-your-email-template', TEXTNODE: 'Adding a coupon block to your email template'},
