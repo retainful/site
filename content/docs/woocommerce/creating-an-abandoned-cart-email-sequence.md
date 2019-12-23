@@ -1,25 +1,23 @@
 ---
-title: "Creating your first abandoned cart email series"
+title: "Creating your first abandoned cart recovery email"
 path: "/docs/woocommerce/creating-an-abandoned-cart-email-sequence"
-description: "Here is how you could create your first abandoned cart email sequence using Retainful."
+description: "Learn how to create an abandoned cart recovery email in Retainful"
 date: "2019-10-18"
 author: "Sowbagya lakshmi"
 tags: ["creating-abandoned-cart-email-sequence", "woocommerce", "abandoned cart emails"]
 category: woocommerce
 ---
 
-After migrating to cloud, the next step is to set up your very first abandoned cart mail series using Retainful.  Retainful lets you set up a cart recovery mail series in minimal steps.
+Retainful lets you create abandoned cart emails easy and quick. You can get started quickly by using our existing templates and edit the emails with our visual drag and drop editor.
 
-This guide applies to users who use Retainful 2.x.
-Lets get started!
 
 ### Recommended Sequence
 
-An ideal abandoned cart email sequence consists of 3 emails. Here is an example sequence:
+An ideal abandoned cart recovery email sequence consists of 3 emails. Here is an example sequence:
 
-- **First email**-Send after email 30 minutes
-- **Second email**-Send after 6 hours
-- **Third email** -Send after 1 day
+- **First email**-Send 30 minutes after the cart abandonment
+- **Second email**-Send 6 hours after the first reminder
+- **Third email** -Send 1 day after the second reminder
 
 
 ### Creating the first email
@@ -44,15 +42,14 @@ Set the time limit for the mail template to be triggered.
 
 ![Mail body](../../images/docs/creating-abandoned-cart-mail-series/mail-body.jpg)
 
-6) Save and set the status to **Active**. 
+6) Save and set the email live. 
 7) This is the very first mail template of the series which would be triggered after 30 minutes of abandonment. You could check the look and layout by sending a test mail.
 8) Similarly set up the other two mail templates as mentioned in our scenario. The resultant sequence would look like this:
 
 ![Mail sequence](../../images/docs/creating-abandoned-cart-mail-series/mail-sequence.png)
 
->NOTE: On the emails page, the activation toggle would appear only if you have edited that particular email template atleast once.
+>NOTE: On the emails page, make sure the status of the emails are "Live".
 
-We have now created our very first abandoned cart mail series. 
 
 Once this sequence is created, Retainful will automatically execute this sequence when a customer abandons the cart. Whenever the cart is recovered, the sequence will automatically stop for that particular customer. 
 
@@ -81,6 +78,6 @@ More such shortcodes can be found <link-text url="https://www.retainful.com/docs
 
 ### What's next
 
-1. <link-text url="https://www.retainful.com/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor" target="_blank" rel="noopener">Customize the email template using Drag and drop editor</link-text>
-2. <link-text url="https://www.retainful.com/docs/woocommerce/shortcodes-for-reference">Use shortcodes to personalize the mail templates</link-text>
-3. <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-store-logo-on-your-email-template" target="_blank" rel="noopener">Add a store logo to your mail template</link-text>
+1. <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-store-logo-on-your-email-template" target="_blank" rel="noopener">Add a store logo to your mail template</link-text>
+2. <link-text url="https://www.retainful.com/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor" target="_blank" rel="noopener">Customize the email template using Drag and drop editor</link-text>
+3. <link-text url="https://www.retainful.com/docs/woocommerce/shortcodes-for-reference">Use shortcodes to personalize the mail templates</link-text>
