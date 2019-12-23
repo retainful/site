@@ -21,7 +21,7 @@ import Logo from "../images/retainful-logo.png";
 const IndexPage = () => (
     <Layout className="home-page">
         <SEO title="Abandoned Cart Recovery Emails for WooCommerce and Shopify | Retainful" description="Recover abandoned carts and drive 10x more repeat purchases in your WooCommerce and Shopify stores. Automatically send a sequence of emails when customers abandon their carts. Drive repeat purchases by sending unique coupon codes for next orders"
-             keywords={[`abandoned cart recovery`, `WooCommerce Abandoned Cart recovery emails`, `ecommerce customer retention`,`woocommerce followup emails`, `next order coupons`, `shopify abandoned cart recovery`, `shopify abandoned cart analytics`]}/>
+            keywords={[`abandoned cart recovery`, `WooCommerce Abandoned Cart recovery emails`, `ecommerce customer retention`,`woocommerce followup emails`, `next order coupons`, `shopify abandoned cart recovery`, `shopify abandoned cart analytics`]}/>
 
         <HomeBanner/>
 
@@ -37,7 +37,7 @@ const IndexPage = () => (
                 buttonStyle={{color:"Black", fontWeight: "bolder",borderRadius:'5px'}}>
                     <p>We use cookies to improve your experience on our website.</p>
                 </CookieConsent>
-            </div>
+        </div>
     </Layout>
 );
 
