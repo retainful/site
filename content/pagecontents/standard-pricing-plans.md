@@ -249,8 +249,6 @@ increase your conversions.
 
 <div class="plan-features p-2 ptb-2 plan-price-title">
 
-<span style="opacity:0.5;"><small>*Dedicated Onboarding Session - $100.</small></span>
-
 
 ### **All Plans Include**
 
