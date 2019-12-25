@@ -8,7 +8,7 @@ image: "../images/proven-ways-to-recover-your-abandoned-cart-and-convert-into-re
 thumbnail: "../images/proven-ways-to-recover-your-abandoned-cart-and-convert-into-revenue/Proven-ways-to-recover-your-abandoned-cart-and-convert-into-revenue.png"
 ---
 
-Being an eCommerce store owner I know something is bothering your sales. Opportunities knock at your door but disappear be80-20 rulefore you could grab them.
+Being an eCommerce store owner I know something is bothering your sales. Opportunities knock at your door but disappear before you could grab them.
 
 Yes, customers show interest in certain products by adding them to their shopping carts but many of them end up not checking them out. Here store owners have to do something in order to convince and motivate them so that they go ahead and purchase. Along with it, every store owner would dream about achieving a sustainable business with ever-growing sales.
 
