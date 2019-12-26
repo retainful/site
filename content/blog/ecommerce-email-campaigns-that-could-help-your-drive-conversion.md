@@ -29,7 +29,9 @@ Now, let us discuss and address certain general concerns and questions like:
 <toc></toc>
 
 ## Why email marketing?
-<br>
+
+<br/>
+
 Today’s digital world demands a personalized and <link-text url="https://www.retainful.com/blog/abandoned-cart-recovery-emails-gdpr-compliant-policy" rel="noopener" target="_blank">legit way of communication</link-text>. In the advent and decline of various modes of communication, email communication has stood out for the past several decades. It has always remained in the trend. It is highly reliable, and the success rate and reasons for the same are easily measurable.
 
 ## Why targeted email campaigns?
@@ -39,22 +41,17 @@ Email marketing enables targeted marketing. So, rather than bombarding random pe
 ## We are just five steps away from success using email campaigns.
 
 -   Regular emails
-    
 -   Dynamic email content depending upon customer behavior
-    
 -   Add bonus points/benefits to your email marketing
-    
 -   Different email series for different purposes
-    
 Importantly do send Welcome emails and abandoned cart recovery emails
-
 -   Identify the best working email campaigns
-   
+
 ### Regular emails
 
 You might either go unnoticed or might sound annoying if you send too little or too many emails respectively. So, sending an optimal number of emails at regular intervals is the key that can unlock your $Million ROI!
 
- **The number and types of abandoned cart recovery emails to be sent**
+**The number and types of abandoned cart recovery emails to be sent**
 
 At least three types and three emails in a week.
 
@@ -63,7 +60,7 @@ At least three types and three emails in a week.
 Each customer is unique there are different responses and behavior observed among different types of customers which can be grouped. The act of grouping customers based upon various criteria is called customer segmentation. And we can have different marketing strategies for each one of those groups.
 
 ### Add bonus points/benefits to your email marketing
-<br>
+<br/>
 <link-text url="https://www.flycart.org/blog/woocommerce/beginners-guide-to-woocommerce-discounts" rel="noopener" target="_blank">Give discounts</link-text>  along with your marketing email notifications and mention attractive deals in the subject line.
 
 Offer Membership plans with attractive benefits so that your customers will be willing to make an upfront payment.
@@ -77,21 +74,13 @@ Make everything legit like collecting email addresses with the receivers’ cons
 ### Different emails series for different purposes
 
 -   Welcome emails
-    
 -   Browse abandonment emails
-    
--   <link-text url="https://www.retainful.com/blog/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store" rel="noopener" target="_blank">Abandoned cart recovery emails</link-text>
-    
--   Reorder campaigns
-    
--   Cross-sell campaigns
-    
--   Win back customers
-    
--   Loyalty program emails
-    
+-   <link-text url="https://www.retainful.com/blog/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store" rel="noopener" target="_blank">Abandoned cart recovery emails</link-text>    
+-   Reorder campaigns    
+-   Cross-sell campaigns    
+-   Win back customers    
+-   Loyalty program emails    
 -   Transactional emails
-  
 
 #### Welcome emails
 
@@ -101,7 +90,6 @@ Plus give an appreciation for the visitor’s interest and asking them "How can 
 
 
 **Successful welcome email campaign example**
-
 
 ![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/1-best-welcome-campaign-eCommerce.png)
 
@@ -117,7 +105,6 @@ A case study detailed by Klaviyo suggests that welcome emails receive higher eng
 
 ![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/2-highest-response-for-welcome-campaign-Klaviyo.png)
 
-  
 #### Browse abandonment emails
 
 Browse abandonment is similar to cart abandonment. But in browse abandonment, the customer has not yet added a product to the cart. And a person has just viewed a product or visited a product page.
@@ -129,9 +116,12 @@ A study suggests that 70% of customers browse and leave a website and never retu
 **Browse abandonment email campaign case study**
 
 The below example is one of the most successful browse abandonment emails. This was sent by Klavio just before 2 hours post browse abandonment. The email design is simple, to the point and contains the image of the browse abandoned product. Also, there are CTAs in the right places with options to communicate via phone and social media in case of queries.
-<br>
+
+<br/>
+
 ![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/3-best-browse-abandonment-campaign-Klaviyo.png)
-<br>
+
+<br/>
 
 #### Abandoned cart recovery emails
 
@@ -139,11 +129,11 @@ Abandoned cart emails have got a high score in sales conversion when it is done 
 
 Successful abandoned cart recovery email campaign example
 
-<br>
+<br/>
 
 ![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/4-best-abandoned-cart-recovery-email.png)
 
-<br>
+<br/>
 
 #### Reorder campaigns
 
@@ -242,21 +232,14 @@ How did EasyDNS increase its sales by 10% annually?
 They set up email campaigns for different purposes as follows.
 
 -   Welcome email
-    
 -   Lead nurture series
-    
 -   Cart abandonment series
-    
 -   Browse abandonment email
-    
 -   First-time customer series
-    
 -   Repeat-customer series
-    
 -   Reengagement series
-    
 -   Transactional emails
-    
+
 As order transactional emails were observed to have more open rates, they added product recommendations to it. By this, they could easily upsell their products. As it is a $10M company an additional 10% earned $1M annually!
 
 ## Identify the best working email campaigns
@@ -267,7 +250,6 @@ Every business is unique, every brand is unique; so should be your eCommerce ema
 When it comes to email marketing, automation and <link-text url="https://www.flycart.org/products/wordpress/woocommerce-email-customizer" rel="noopener" target="_blank">readymade email templates</link-text> give you immense scopes for trial and error. Now, once you have set up your email marketing campaign you still have a long way to go. As you need to keep on refreshing and updating your strategies as per current trends.
 
 And most importantly keep a track of your success and failure stories concerning email marketing.
-
 
 ## Conclusion
 
