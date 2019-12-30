@@ -130,8 +130,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-sitemap`,
             options: {
-                sitemapSize: 5000,
-                output: `/sitemap.xml`,
+                sitemapSize: 5000
             }
         },
         {
