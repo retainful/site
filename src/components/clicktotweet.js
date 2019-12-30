@@ -10,7 +10,7 @@ const ClicktoTweet = (props) =>{
             {props.children}
         </div>
             <div className="p-3 float-left">
-                 <a className="font-weight-bold rounded text-primary" target="_blank"  rel="noopener nofollow" href={twitter}>{props.handle}</a>
+                <a className="font-weight-bold rounded text-primary" target="_blank"  rel="noopener nofollow" href={twitter}>{props.handle}</a>
             </div>
             <div className="p-3 float-right">
                 <a className="bg-primary p-1 text-white rounded" target="_blank"  rel="noopener nofollow" href={twitter}>Click here to Tweet<FaTwitter/></a>
