@@ -259,7 +259,7 @@ Email marketing is one of the most easily available tools with which you can eas
 
 Integrate several other bonus add-ons like discounts, membership plans and much more to make the emails attractive. Do not send random emails to anyone out there. Aim at targeting promising customers at the right time to unlock the potential of email marketing.
 
-<clicktotweet handle="@retainful">
+<clicktotweet handle="@retainful" url="https://www.retainful.com//blog/ecommerce-email-campaigns-that-could-help-your-drive-conversion" title="Ecommerce Email Campaigns that Could Help You Drive Conversion">
 
 **"How successful your email campaign is depends upon how timely and relevant they are"**
 

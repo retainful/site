@@ -2,7 +2,7 @@ import React from 'react'
 import {FaTwitter} from "react-icons/fa"
 
 const ClicktoTweet = (props) =>{
-    const twitter = `https://twitter.com/intent/tweet?url=${document.URL}&text=${document.title}&via=retainful`
+    const twitter = `https://twitter.com/intent/tweet?url=${props.url}&text=${props.title}&via=retainful`
     return(
     <div className="row">
     <div className="px-5 p-1 tweet">

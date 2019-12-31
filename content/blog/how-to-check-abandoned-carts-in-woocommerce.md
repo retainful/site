@@ -5,8 +5,8 @@ datemodified: "2019-10-18"
 title: "How to check abandoned carts in WooCommerce"
 description: "Learn how to check abandoned carts in your WooCommerce store. Capture abandoned carts and recover them by sending automatic reminder emails"
 author: "Siddharth"
-image: "../images/How-to-check-abandoned-carts-in-woocommerce/How-to-check-abandoned-carts-in-woocommerce.png"
-thumbnail: "../images/How-to-check-abandoned-carts-in-woocommerce/How-to-check-abandoned-carts-in-woocommerce.png"
+image: "../images/how-to-check-abandoned-carts-in-woocommerce/how-to-check-abandoned-carts-in-woocommerce.png"
+thumbnail: "../images/how-to-check-abandoned-carts-in-woocommerce/how-to-check-abandoned-carts-in-woocommerce.png"
 category: 'woocommerce'
 ogtype: blog
 ---
@@ -41,7 +41,7 @@ ___
 
 To check the carts that are being abandoned, you’ll be needing a tool that’s robust, reliable and completely yours. An App like Retainful could be doing the job.
 
-![](../images/How-to-check-abandoned-carts-in-woocommerce/retainful.png)
+![](../images/how-to-check-abandoned-carts-in-woocommerce/retainful.png)
 
 <br>
 
@@ -56,7 +56,7 @@ Retainful comes with power-packed features and allows you to check abandoned car
 2.  Install and Active the Retainful Plugin.
     
 
-![](../images/How-to-check-abandoned-carts-in-woocommerce/retainfulDashboard.jpeg)
+![](../images/how-to-check-abandoned-carts-in-woocommerce/retainfulDashboard.jpeg)
 
 <br>
 
@@ -80,7 +80,7 @@ Once installed, you should be deciding as to when a cart should be considered as
 
   
 
-![](../images/How-to-check-abandoned-carts-in-woocommerce/abandonedCarts.png)
+![](../images/how-to-check-abandoned-carts-in-woocommerce/abandonedCarts.png)
 
 <br>
 
@@ -99,7 +99,7 @@ All you have to do is,
 -   Toggle to “Abandoned Carts” in the “Filter By” section.
     
 
-![](../images/How-to-check-abandoned-carts-in-woocommerce/dashboard.png)
+![](../images/how-to-check-abandoned-carts-in-woocommerce/dashboard.png)
 
 <br>
 
@@ -108,7 +108,7 @@ All you have to do is,
 
 You can even check the number of recovered carts and the number of live carts by selecting from the different filter options that are available.
 
-## Recover Abandoned Carts   
+## Recover Abandoned Carts  
 
 <br>
 
