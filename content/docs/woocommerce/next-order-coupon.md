@@ -53,13 +53,13 @@ This setting is to validate the coupon code to be applied only when a customer l
 By enabling this option, now you could send next order coupons for existing orders and new orders created from your back end also.
 
 For more information on how to set up next order coupons for existing orders and
-new orders from back end, click <link-text url="https://www.retainful.com/docs/woocommerce/testing-next-order-coupons/#from-store-admins-backend" target="_blank" rel="noopener">here</link-text>.
+new orders from back end, click <link-text url="https://www.retainful.com/docs/woocommerce/testing-next-order-coupons/#from-store-admins-backend" rel="noopener">here</link-text>.
 
 **Show next order coupon in order "Thank you" page?:**
 
 Setting this option to Yes would show up a dynamically generated next order coupon at the thank you page of your store front. 
 
-### How users view it on the thank you page
+**How users view it on the thank you page**
 
 Post enabling the above setting, Just place a test order on the storefront to see the coupon being displayed at the end of order completion.
 
@@ -173,30 +173,23 @@ Next order coupons can be received in two methods:
 #### Placing a test order from the storefront
 
 1) You could set up a next order coupon on your store by following the guide <link-text url="https://www.retainful.com/docs/woocommerce/next-order-coupon" target="_blank" rel="noopener">here</link-text>
-
 2) Once you have set up a next order coupon, navigate to the shop page of your site, add an item to the cart.
 
 ![Adding product  to cart](../../images/docs/testing-next-order-coupons/add-to-cart.png)
 
 3) Navigate to the cart page by clicking on the **view cart** button.
-
-![View cart](../../images/docs/testing-next-order-coupons/view-cart.png)
-
 4) In the cart page, click on the proceed to checkout button to move to the checkout page.
-
-![Proceed to checkout](../../images/docs/testing-next-order-coupons/proceed-to-checkout.png)
-
 5) Fill in the details at the checkout page, choose the desired payment method and click on the **Place order** button.
 
 ![Placing order](../../images/docs/testing-next-order-coupons/place-order.png)
 
-6) You would be redirected to the order confirmation page where a success message would appear as follows:
+1) You would be redirected to the order confirmation page where a success message would appear as follows:
 
-![Order confirmation](../../images/docs/testing-next-order-coupons/orderconfirmation.png)
+![Next order coupon on thank you page](../../images/docs/next-order-coupon/order-confirmation.png)
 
-7) An order confirmation email is sent to the email address associated with the order.
+1) An order confirmation email is sent to the email address associated with the order.
 
-![Existing order email](../../images/docs/testing-next-order-coupons/existing-order-email.png)
+![Order email with coupon](../../images/docs/next-order-coupon/email-next-order-coupon.png)
 
 
 #### From store admin's backend
@@ -233,7 +226,6 @@ The emails would be sent to the email associated with the particular order.
 ![Email](../../images/docs/testing-next-order-coupons/email-next-order-backend-order.png)
 
 ### Sending next order coupons for existing orders
-
 1) Login to your store's admin panel. Click on Woocommerce->Orders->Choose an existing order.
 
 ![Existing orders](../../images/docs/testing-next-order-coupons/existing-orders.png)
@@ -243,7 +235,6 @@ The emails would be sent to the email associated with the particular order.
 ![Order view](../../images/docs/testing-next-order-coupons/existing-order-view.png)
 
 3) Once the option is chosen, click on the arrow button next to the choose action dropdown box as shown in the above screenshot.
-
 4) An email would be sent to the email associated with this order with the next order coupon details.
 
 ![Existing order email](../../images/docs/testing-next-order-coupons/existing-order-email.png)
@@ -260,4 +251,5 @@ The emails would be sent to the email associated with the particular order.
 4. Once you visit the cart page, the coupon would be applied based on the restrictions and configuration set at the Retainful plugin.
 
 ![coupon applied](../../images/docs/testing-next-order-coupons/shop_page.png)
+
 Tada! The coupon has been applied.

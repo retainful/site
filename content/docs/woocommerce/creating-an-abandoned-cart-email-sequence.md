@@ -73,7 +73,6 @@ You could use shortcodes on your email templates to display dynamic data like us
 
 **{{shop.address}}** - Displays the shop’s address mentioned in your Woocommerce store settings.
 
-
 **{{shop.email}}** - Shows the shop’s email address specified in your Woocommerce store settings.
 
 More such shortcodes can be found <link-text url="https://www.retainful.com/docs/woocommerce/shortcodes-for-reference#other-allowed-shortcodes" target="_blank" rel="noopener">here</link-text>
@@ -81,8 +80,8 @@ More such shortcodes can be found <link-text url="https://www.retainful.com/docs
 
 ### What's next
 
-1. <link-text url="https://www.retainful.com/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor" target="_blank" rel="noopener">Customize the email template using Drag and drop editor</link-text>                            
+1. <link-text url="https://www.retainful.com/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor" target="_blank" rel="noopener">Customize the email template using Drag and drop editor</link-text>
 
-2. <link-text url="https://www.retainful.com/docs/woocommerce/shortcodes-for-reference">Use shortcodes to personalize the mail templates</link-text>                                
+2. <link-text url="https://www.retainful.com/docs/woocommerce/shortcodes-for-reference">Use shortcodes to personalize the mail templates</link-text>
 
 3. <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-store-logo-on-your-email-template" target="_blank" rel="noopener">Add a store logo to your mail template</link-text>
