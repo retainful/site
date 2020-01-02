@@ -26,6 +26,7 @@ import Footer from "./footer"
 import ExclusiveBonus from "./exclusivebonus"
 import ClaimTrail from './claimtrail';
 import GetTemplates from "./gettemplates"
+import TabContent from "./tabcontent"
 
 const renderAst = new rehypeReact({
   createElement: React.createElement,
@@ -52,6 +53,7 @@ const renderAst = new rehypeReact({
       bonus:ExclusiveBonus,
       "get-templates":GetTemplates,
       "claim-trail":ClaimTrail,
+      "tab-content":TabContent
   },
 }).Compiler
 

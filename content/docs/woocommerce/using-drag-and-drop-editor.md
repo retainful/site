@@ -27,11 +27,12 @@ Divide the email into neat columns.
 In this part, you can find tools that allow you to add segments to your email template, for example, if you wish to divide the template layout into 2 or 3 columns, you could drag and drop blocks from this section.
 
 ![Section tab](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/section-columns.png)
+
 This is how the template layout can be segmented with the use of tools in the section tab:
 
 ![Columns in template](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/columns-in-template.png)
 
-2. **Element tab**- This section helps you add new text blocks, buttons, images, divider and so on.
+1. **Element tab**- This section helps you add new text blocks, buttons, images, divider and so on.
 
 <call-out>
 
