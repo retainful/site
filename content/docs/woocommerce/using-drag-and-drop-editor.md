@@ -1,6 +1,6 @@
 ---
 title: "Using drag and drop editor"
-path: "/docs/woocommerce/customizing-the-email-templates-using-drag-and-drop-editor"
+path: "/docs/woocommerce/using-drag-and-drop-editor"
 description: "You could customize the cart recovery templates easily using a drag and drop editor."
 date: "2019-10-12"
 author: "Sowbagya lakshmi"
@@ -27,12 +27,11 @@ Divide the email into neat columns.
 In this part, you can find tools that allow you to add segments to your email template, for example, if you wish to divide the template layout into 2 or 3 columns, you could drag and drop blocks from this section.
 
 ![Section tab](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/section-columns.png)
-
 This is how the template layout can be segmented with the use of tools in the section tab:
 
 ![Columns in template](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/columns-in-template.png)
 
-1. **Element tab**- This section helps you add new text blocks, buttons, images, divider and so on.
+2. **Element tab**- This section helps you add new text blocks, buttons, images, divider and so on.
 
 <call-out>
 
@@ -117,31 +116,20 @@ You could check if the email templates are responsive by making use of the icons
 
 #### Duplicating an email template
 
-While creating mail templates to recover abandoned carts, you can save time by duplicating email templates that have been created already.
-Follow the below steps to duplicate the emails.
+While creating mail templates to recover abandoned carts, you can save time by duplicating email templates that have been created already. Creating copies of email templates is so painless.
 
-1. Edit the email template you wish to duplicate. Click on the view code icon on the top right corner of the template body as indicated below:
+1. Go to **Emails->Email templates** tab on your Retainful account.
+2. Click on the **Duplicate button** on the right corner of your desired email template.
 
-![View code icon](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/view-code-button.png)
+![Duplicating email template](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/duplicating-email-template.png)
 
-2. A popup would appear with the MJML code of the template. Copy the entire **MJML code alone**.
+3. A copy of the above template would be created. 
 
-![MJML code](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/MJML-code.png)
-
-3. Click on Add email button to create a new template. Click the **Import MJML icon** on the right corner of the template body.
-
-![Import MJML](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/import-MJML.png)
-
-4. Enter the copied code and click on the **Import button** in the resulting popup.
-
-![Import code](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/Import-button.png)
-
-The source email template would be successfully duplicated now. 
-Set the subject line, time limit and activate the template.
+>Note: The duplicated template would be in Paused state. Click the Go live button to enable the template.
 
 #### Other formatting tools 
 
-Viewing the template in full screen, undo, redo, preview options can be found at the top right corner of the template layout.
+Viewing the template in full screen, downloading the template, adding styles via html code, undo, redo, preview options can be found at the top right corner of the template layout.
 
 ![Other formatting tools](../../images/docs/customizing-the-email-templates-using-drag-and-drop-editor/responsive-formatting.png)
 
@@ -164,4 +152,4 @@ In this article we saw how to:
 1. Divide your mail templates into columns or add new sections
 2. Add new elements and text blocks
 3. Customize the individual elements
-4. Ensure responsivenesss
+4. Ensure responsiveness
