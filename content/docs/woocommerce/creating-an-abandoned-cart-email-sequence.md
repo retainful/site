@@ -5,7 +5,7 @@ description: "Here is how you could create your first abandoned cart email seque
 date: "2019-10-18"
 author: "Sowbagya lakshmi"
 tags: ["creating-abandoned-cart-email-sequence", "woocommerce", "abandoned cart emails"]
-category: woocommerce
+category: **woocommerce**
 ---
 
 After migrating to cloud, the next step is to set up your very first abandoned cart mail series using Retainful.  Retainful lets you set up a cart recovery mail series in minimal steps.
