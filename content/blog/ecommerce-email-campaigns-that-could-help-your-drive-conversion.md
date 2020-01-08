@@ -1,7 +1,8 @@
 ---
 title: "Ecommerce Email Campaigns that Could Help You Drive Conversion"
 path: "/blog/ecommerce-email-campaigns-that-could-help-your-drive-conversion"
-description: "Email marketing is one of the best ways to promote your eCommerce business online. This has the potential to bring in turnover of a million dollars and with very little investment. Read more to walk through the realtime email marketing success stories."
+description: "eCommerce email campaigns can help you drive conversions and repeat purchases on your store. Know what is eCommerce email marketing and the best eCommerce email marketing strategies that would help your store grow!"
+keywords: "ecommerce email marketing, best email templates for ecommerce, ecommerce email templates, best ecommerce email templates"
 date: "2019-12-04"
 author: "Vidya"
 image: "../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/ecommerce-email-campaigns-that-could-help-your-drive-conversion.png"

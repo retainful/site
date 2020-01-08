@@ -2,12 +2,14 @@
 path: "/blog/how-to-send-free-cart-recovery-emails-in-woocommerce/"
 date: "2019-04-02"
 title: "How to send FREE Cart Recovery emails in WooCommerce"
-description: "How to automate Cart Recovery email reminders with Retainful and recover your cart abandoned sales. Try Retainful- The FREE cart recovery email plugin loved by thousands of Happy WooCommerce store owners."
+description: "Send free cart recovery emails on your WooCommerce store with Retainful. Follow up abandoned cart emails can help recover lost sales and increase your store's revenue. Learn how you can send free WooCommerce cart recovery emails in this read."
+keywords: "best abandoned cart emails, woocommerce follow up emails, woocommerce abandoned cart emails, follow up email for woocommerce"
 author: "Siddharth"
 image: "../images/how-to-send-free-cart-recovery-emails-in-woocommerce/how-to-send-free-cart-recovery-emails-in-woocommerce.png"
 thumbnail: "../images/how-to-send-free-cart-recovery-emails-in-woocommerce/how-to-send-free-cart-recovery-emails-in-woocommerce.png"
 category: "ecommerce"
 ---
+
 Howdy WooCommerce user,   
 If you are reading this you’d already be knowing the importance of recovering your abandoned carts to increase online revenue.
 Well, cart abandonment has been the biggest nightmare for eCommerce store owners. 

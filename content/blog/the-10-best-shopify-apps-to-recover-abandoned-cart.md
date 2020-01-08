@@ -2,11 +2,11 @@
 path: "/blog/the-10-best-shopify-apps-to-recover-abandoned-cart"
 date: "2019-06-12"
 title: "The 10 best shopify apps to recover abandoned carts"
-description: "Out of 100s of Shopify apps to recover abandoned carts, only a few can save your eCommerce store from falling apart. This post is all about those 10 best apps."
+description: "You need the best Shopify apps to recover abandoned carts and grow your store's revenue effectively. We've come up with 10 best Shopify apps for abandoned carts in this blog. Check out and see which one would suit best for your store."
+keywords: "shopify abandoned cart app, abandoned checkout shopify app, how to see abandoned carts shopify, shopify abandoned cart discount"
 author: "Sharon Thomas"
 image:  "../images/the-10-best-shopify-apps-to-recover-abandoned-cart/the-10-best-shopify-apps-to-recover-abandoned-cart.png"
 thumbnail: "../images/the-10-best-shopify-apps-to-recover-abandoned-cart/the-10-best-shopify-apps-to-recover-abandoned-cart.png"
-keywords: "best shopify abandoned cart app, shopify abandoned cart , abandoned cart recovery , best free shopping cart , cart abandonment shopify app"
 category: "Shopify"
 ---
 

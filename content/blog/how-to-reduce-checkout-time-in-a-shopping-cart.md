@@ -1,9 +1,9 @@
 ---
 title: "How to Reduce Checkout Time in a Shopping Cart?"
-path: "how-to-reduce-checkout-time-in-a-shopping-cart"
+path: "/blog/how-to-reduce-checkout-time-in-a-shopping-cart"
 date: "2019-10-10"
-Keywords: "abandoned cart, shopify abandoned cart, cart abandonment rate, average cart abandonment rate,shopify checkout page design, abandonment cart recovery"
-description: "Your faulty eCommerce checkout page design leads to cart abandonment. Surprised? Get an insight into how to reduce checkout time by optimizing the design."
+description: "Looking for ways to reduce shopping cart abandonment on your store? Reducing your eCommerce cart checkout time can help decrease your shopping cart abandonment rate. Learn how to reduce eCommerce cart checkout time in this blog."
+keywords: "how to reduce checkout abandonment, checkout abandonment rate, abandoned checkout, decrease shopping cart abandonment"
 author: "Sharon Thomas"
 image: "../images/how-to-reduce-checkout-time-in-a-shopping-cart/how-to-reduce-checkout-time-in-a-shopping-cart.png"
 thumbnail: "../images/how-to-reduce-checkout-time-in-a-shopping-cart/how-to-reduce-checkout-time-in-a-shopping-cart.png"
