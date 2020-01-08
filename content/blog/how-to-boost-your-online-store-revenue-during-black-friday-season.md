@@ -1,7 +1,8 @@
 ---
 title: "How to boost your online store revenue during Black Friday season"
 path: "/blog/how-to-boost-your-online-store-revenue-during-black-friday-season"
-description: "On this holiday season, announce the best of Black Friday online deals and capture the holiday market. Witness the highest revenue of this year on these BFCM online shopping days."
+description: "Boost your online store's revenue during the Black Friday Season. Learn how to prepare your store for the Black Friday sales and the different ways to promote your Black Friday deals. A strong marketing plan for Black Friday can triple your store's revenue in a week."
+keywords: "how to prepare for black friday, black friday strategies for retailers, black friday ecommerce, black friday ecommerce sales"
 date: "2019-11-21"
 author: "Vidya"
 image: "../images/How-to-boost-your-online-stores-revenue-during-Black-Friday-season/How-to-boost-your-online-stores-revenue-during-Black-Friday-season.png"

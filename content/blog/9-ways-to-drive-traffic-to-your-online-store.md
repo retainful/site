@@ -1,7 +1,8 @@
 ---
 title: "9 Ways to drive traffic to your online store"
 path: "/blog/9-ways-to-drive-traffic-to-your-online-store"
-description: "Your eCommerce business will hit a roadblock without sufficient traffic. Make a difference with these 9 strategies to drive traffic to your online store."
+description: "While there are several ways to drive traffic to your online store, we've come up with the 9 best ways that can help increase your eCommerce traffic. The more the traffic on your online shop is, the better will your sales numbers be!"
+keywords: "visitors to website in e commerce, how to drive more traffic to your store, driving traffic to your online store, how to get more customers in your store"
 date: "2019-12-01"
 image: "../images/9-ways-to-drive-traffic-to-your-online-store/9-ways-to-drive-traffic-to-your-online-store.png"
 thumbnail: "../images/9-ways-to-drive-traffic-to-your-online-store/9-ways-to-drive-traffic-to-your-online-store.png"

@@ -1,7 +1,8 @@
 ---
 title: "Proven ways to recover your abandoned cart and convert into revenue"
 path: "/blog/proven-ways-to-recover-your-abandoned-cart-and-convert-into-revenue"
-description: "Use the proven tricks and techniques in the cart recovery process. At the same time take the help of abandoned cart recovery plugins and the expert’s guidance to boost your online sales."
+description: "If you are an eCommerce store owner, you should already be knowing the ways to recover your abandoned carts and convert it into revenue. If not, this blog can help you understand everything right from what is abandoned cart recovery to how to recover abandoned carts."
+keywords: "how many abandoned cart emails should i send, what is abandoned cart recovery, when to send abandoned cart email, how to recover abandoned carts"
 date: "2019-12-13"
 author: "Vidya"
 image: "../images/proven-ways-to-recover-your-abandoned-cart-and-convert-into-revenue/Proven-ways-to-recover-your-abandoned-cart-and-convert-into-revenue.png"

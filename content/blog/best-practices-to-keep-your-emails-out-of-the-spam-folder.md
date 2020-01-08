@@ -1,12 +1,12 @@
 ---
 title: "Best Practices to Keep Your Emails Out of The Spam Folder"
 path: "/blog/best-practices-to-keep-your-emails-out-of-the-spam-folder"
-description: "Here are the best ways to avoid your emails from getting into the spam folder. The do’s and don’ts suggested by experts. The reason behind the same and how to lawfully combat this."
+description: "Still wondering why your emails are going into your recipients’ spam folders? Learn how to avoid emails going to the spam folder. Here are a few best practices to keep your emails out of the spam folder."
+keywords: "why are my emails going to spam gmail, how to avoid emails going to spam, why are my emails going into recipients spam folders, how to stop business emails going to junk"
 date: "2019-11-20"
 author: "Vidya"
 image: "../images/best-practices-to-keep-your-emails-out-of-the-spam-folder/best-practices-to-keep-your-emails-out-of-the-spam-folder.jpg"
 thumbnail: "../images/best-practices-to-keep-your-emails-out-of-the-spam-folder/best-practices-to-keep-your-emails-out-of-the-spam-folder.jpg"
-keywords: "why emails go to spam, how to avoid mail going to spam, how to avoid emails going to spam, prevent email from going to spam ,why are my emails going to spam"
 ---
 
 “Look before you leap” is a very famous idiom that goes well here. Yes, before you send bulk commercial emails you need to carefully look through the email content and try to assess how likely will it go to the spam folder.

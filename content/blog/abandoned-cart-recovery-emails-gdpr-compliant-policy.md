@@ -2,13 +2,15 @@
 path: "/blog/abandoned-cart-recovery-emails-gdpr-compliant-policy"
 date: "2019-10-25"
 title: "Does Sending Abandoned Cart Recovery Emails to the Customer Comply with GDPR Policy?"
-description: "With abandoned cart recovery plugins, we can ensure email remarketing to be effective and GDPR compliant. Data and digital technology have simplified and empowered eCommerce marketing. At the same time, regulations are essential to prevent misuse of the same and GDPR acts as the EU regulatory body."
+description: "There's been this question, does sending abandoned cart recovery emails to the customer comply with GDPR policy? Well, here's everything you need to know about sending abandoned cart recovery emails with GDPR compliance."
+keywords: "abandoned cart gdpr, abandoned cart emails gdpr, how many abandoned cart emails should i send, mailchimp shopping cart abandonment"
 author: "Vidya"
 image: "../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy.png"
 thumbnail: "../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy.png"
 category: "eCommerce"
 ogtype: "blog"
 ---
+
 "Data is wealth, so is it okay to plunder it or play with it?"
 
   

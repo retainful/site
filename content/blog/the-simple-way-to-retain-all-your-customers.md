@@ -1,6 +1,7 @@
 ---
 title: "Retainful- The FREE Conversion Marketing tool for Shopify & WooCommerce"
-description: "The Simple way to Retain all your customers using Retainful"
+description: "Capture abandoned carts and recover lost sales using Retainful - the free conversion marketing tool for Shopify and WooCommerce. Create WooCommerce next order coupons, send cart recovery emails and do more on your eCommerce store with Retainful."
+keywords: "ecommerce conversion optimization, how to increase conversion rate on shopify, how to increase conversion rate ecommerce, how to increase shopify store conversion rate"
 path: "/blog/the-simple-way-to-retain-all-your-customers/"
 date: "2019-01-18"
 author: "Siddharth"

@@ -2,9 +2,8 @@
 title : "10 Proven Ways to Convert Your Abandoned Cart Website Visitors Into Loyal Customers"
 url : "/blog/10-proven-ways-to-convert-your-abandoned-cart-website-visitors-into-loyal-customers"
 date: "2019-09-12"
-keywords: "ecommerce loyalty program,ecommerce loyalty platforms
-ecommerce loyalty rewards,ecommerce consumer loyalty,ecommerce email marketing loyalty program,customer loyalty program ideas"
-description : "Struggling to retain customers? Forget retaining. This post is about something superior - a loyal customer. With these methods, loyalty breeds advocacy."
+description : "Converting your abandoned cart website visitors into loyal customers can prove to be immensely helpful for the growth of your eCommerce store. We've come up with a few best cart abandonment tactics that can help convert your abandoned cart visitors into your loyal customers."
+keywords: "abandoned cart workflow, abandoned cart emails gdpr, abandoned shopping cart email best practices, how many abandoned cart emails should i send"
 author: "Sharon Thomas"
 image: "../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers.png"
 thumbnail: "../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers.png"

@@ -1,7 +1,8 @@
 ---
 title: "How to Setup Exit Intent Popups for Abandoned Cart Recovery in WooCommerce?"
 path: "/blog/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce"
-description: "Exit intent popup is a game-changer for abandoned cart recovery. See your WooCommerce store conversions skyrocket with popup feature from Retainful."
+description: "Setting up exit-intent popups for abandoned carts in WooCommerce is a great way to recover lost sales and increase revenue. Learn how to setup popups for abandoning visitors and how to convert more abandoned carts in this blog."
+keywords: "pop up cart, cart abandonment technology, pop up shop cart, cart abandonment solutions"
 date: "2019-10-16"
 author: "Sharon Thomas"
 image: "../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/How-to-Setup-Exit-Intent-Popups-for-Abandoned-Cart-Recovery-in-WooCommerce.png"
