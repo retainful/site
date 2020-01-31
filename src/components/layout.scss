@@ -78,11 +78,20 @@ q:before, q:after {
 
 .accordion{
   .card-header {
-    padding: .75rem 1.25rem;
+    padding: 0 !important;
     margin-bottom: 0;
-    background-color: #fff2eb;
+    background-color: #fef4f1;
     border-bottom: 1px solid rgba(0,0,0,.125);
-}
+  }
+  h2{
+    margin:0 !important;
+  }
+  p {
+    padding:20px;
+    margin-top: 0em !important;
+    margin-bottom: 0em !important;
+    font-weight: 400;
+  }
 }
 
 .feature-card {

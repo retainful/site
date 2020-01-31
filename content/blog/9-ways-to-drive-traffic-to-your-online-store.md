@@ -729,7 +729,7 @@ Times are changing. â€˜Cater to your customers and then for the search enginesâ€
 
 <div class="card-header" id="headingOne">
 
-<h2 class="mb-0">
+<a class="mb-0">
 
 <button class="btn text-dark text-left font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-size:19px">
 
@@ -737,7 +737,7 @@ What are the types of eCommerce store traffic?
 
 </button>
 
-</h2>
+</a>
 
 </div>
 
