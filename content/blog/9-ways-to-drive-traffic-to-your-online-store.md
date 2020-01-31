@@ -712,3 +712,233 @@ Now for the real truth. The tactics that you have gone through here will not wor
 To increase eCommerce traffic, analyze your website for flaws and get data from your customers to know their interests. Use that data to improve your online store performance.
 
 Times are changing. ‘Cater to your customers and then for the search engines’, says Neil Patel. He can’t be wrong because he leads by example.  
+
+<div class="text-center p-2">
+
+## FAQs
+
+</div>
+
+<container>
+
+<row class="align-items-center justify-content-center">
+
+<column size="10">
+
+<div class="accordion" id="accordionExample">
+
+<div class="card">
+
+<div class="card-header" id="headingOne">
+
+<h2 class="mb-0">
+
+<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+
+What are the types of eCommerce store traffic?
+
+</button>
+
+</h2>
+
+</div>
+
+<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+
+<div class="card-body">
+
+Organic, email, direct, affiliate, referral, paid, and social are the types of eCommerce store traffic. Organic traffic that comes from search engines determine the authority of a website whereas sales and conversions are more likely to happen with other traffic sources because of marketing.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-header" id="headingTwo">
+
+<h2 class="mb-0">
+
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+
+What are the essential things to be checked to drive traffic to your eCommerce store?
+
+</button>
+
+</h2>
+
+</div>
+
+<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+
+<div class="card-body">
+
+Here are some points to be checked for eCommerce traffic generation.
+
+-   Site speed
+
+-   On-site and Off-page SEO
+
+-   Optimization for mobile
+
+-   Quality website and blog content with regular postings
+
+-   Social media presence
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-header" id="headingThree">
+
+<h2 class="mb-0">
+
+<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+
+How to do SEO optimization for an eCommerce site?
+
+</button>
+
+</h2>
+
+</div>
+
+<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+
+<div class="card-body">
+
+-   Do keywords research and add them to the website content, including meta descriptions.
+
+-   Decrease page load time by removing unnecessary images and content.
+
+-   Use a tool to crawl the site and check for duplicate content and broken links.
+
+-   Build backlinks with websites that have high domain authority.
+
+-   Optimize the blog content for SEO.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-header" id="headingFour">
+
+<h2 class="mb-0">
+
+<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-controls="collapseFour">
+
+How to drive traffic through email marketing?
+
+</button>
+
+</h2>
+
+</div>
+
+<div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordionExample">
+
+<div class="card-body">
+
+-   Get more people to sign up by providing a one-time discount.
+
+-   Encourage inactive members to come back with an exclusive offer.
+
+-   Promote flash sales and seasonal sales.
+
+-   Provide exclusive content like product guides and videos.
+
+-   Recover lost sales with a reminder.
+
+-   Market emails in social media.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-header" id="headingFive">
+
+<h2 class="mb-0">
+
+<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFive"  aria-controls="collapseFive">
+
+Is paid traffic good for a long run?
+
+</button>
+
+</h2>
+
+</div>
+
+<div id="collapseFive" class="collapse show" aria-labelledby="headingFive" data-parent="#accordionExample">
+
+<div class="card-body">
+
+Definitely not. Paid traffic is good for running a campaign for a short while but not otherwise. The reasons for it are two - you will have to pay for each click made by a visitor and there is no guarantee that your ad will be clicked even if it appears on the first page of the search engine.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-header" id="headingSix">
+
+<h2 class="mb-0">
+
+<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSix" aria-controls="collapseSix">
+
+Tools which help to drive traffic and increase sales.
+
+</button>
+
+</h2>
+
+</div>
+
+<div id="collapseSix" class="collapse show" aria-labelledby="headingSix" data-parent="#accordionExample">
+
+<div class="card-body">
+
+-   For SEO - SEMRUSH
+
+-   For analysis - Google Analytics
+
+-   For abandoned cart recovery - Retainful
+
+-   For exit intent popups - Optinly
+
+-   For email marketing - Mailchimp
+
+-   For setting discounts - WooCommerce Discount Rules
+
+-   For A/B testing - AB Tasty
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</row>
+
+</column>
+
+<container>
