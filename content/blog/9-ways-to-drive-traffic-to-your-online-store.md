@@ -299,7 +299,6 @@ The search engine giant now understands the relation between words, i.e, the mea
 ### eCommerce email marketing
 
 <br>
-<br>
 
 <link-text url="https://www.campaignrabbit.com/blog/17-ways-to-increase-your-ecommerce-revenue-through-email-marketing" rel="noopener" target="_blank">Email marketing</link-text> is similar to advertisements. A person comes across hundreds of emails every day only to open up a few of them. Want to get noticed? Get set to create exceptional emails that leave a mark. A positive mark.
 
@@ -309,7 +308,6 @@ Sending out emails start with <link-text url="https://www.retainful.com/docs/woo
 
 #### Subject lines hack
 
-<br>
 <br>
 
 <link-text url="https://www.retainful.com/blog/13-best-subject-lines-for-abandoned-cart-email-campaigns" rel="noopener" target="_blank">Subject lines</link-text> must intrigue the reader to open up the email. How do you do that?
@@ -733,7 +731,7 @@ Times are changing. â€˜Cater to your customers and then for the search enginesâ€
 
 <h2 class="mb-0">
 
-<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+<button class="btn text-dark text-left font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-size:19px">
 
 What are the types of eCommerce store traffic?
 
@@ -761,7 +759,7 @@ Organic, email, direct, affiliate, referral, paid, and social are the types of e
 
 <h2 class="mb-0">
 
-<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+<button class="btn text-dark text-left font-weight-bold collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-size:19px">
 
 What are the essential things to be checked to drive traffic to your eCommerce store?
 
@@ -799,7 +797,7 @@ Here are some points to be checked for eCommerce traffic generation.
 
 <h2 class="mb-0">
 
-<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+<button class="btn text-dark text-left font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-size:19px">
 
 How to do SEO optimization for an eCommerce site?
 
@@ -835,7 +833,7 @@ How to do SEO optimization for an eCommerce site?
 
 <h2 class="mb-0">
 
-<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFour" aria-controls="collapseFour">
+<button class="btn text-dark text-left font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseFour" aria-controls="collapseFour" style="font-size:19px">
 
 How to drive traffic through email marketing?
 
@@ -873,7 +871,7 @@ How to drive traffic through email marketing?
 
 <h2 class="mb-0">
 
-<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFive"  aria-controls="collapseFive">
+<button class="btn text-dark text-left font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseFive"  aria-controls="collapseFive" style="font-size:19px">
 
 Is paid traffic good for a long run?
 
@@ -901,7 +899,7 @@ Definitely not. Paid traffic is good for running a campaign for a short while bu
 
 <h2 class="mb-0">
 
-<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSix" aria-controls="collapseSix">
+<button class="btn text-dark text-left font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseSix" aria-controls="collapseSix" style="font-size:19px">
 
 Tools which help to drive traffic and increase sales.
 
