@@ -3615,7 +3615,7 @@ body {
           a {
             padding: 5px 5px 5px 8px;
             color: #818181;
-            display: block;
+            display: inline;
             border-left: 2px solid transparent;
 
             &:hover {
@@ -3938,7 +3938,7 @@ body {
       }
 
       a {
-        display: inline-block;
+        display: inline;
         color: #333;
 
         &:hover,
