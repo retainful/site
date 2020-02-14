@@ -20,33 +20,23 @@ Here is how you could add a store logo to your mail templates while using versio
 **Method-1: Editing the existing logo**
 
 1. <link-text url="https://app.retainful.com/" target="_blank" rel="noopener">Login</link-text> to your Retainful account ->Emails ->Choose a template or add a new template.
-2. A default logo would be available on the chosen template. Double click on the Default logo to replace it with your brand logo.
-3. Once you double click, a popup would show up with an option to upload an image or drag and drop an image file.
-4. You could either drag and drop your desired image file or browse and upload the file. The file would be listed on the right pane.
+2. A default logo would be available on the chosen template. Click on the Default logo to upload your brand logo.
+3. Once you click, a panel with the change option would show up on the right corner.
+
+![Change option](../../images/docs/adding-a-logo-to-abandoned-cart-templates/change-option.png)
+
+5. A popup would appear where you could either upload your brand's logo or choose an already available logo.
 
 
 ![Logo added](../../images/docs/adding-a-logo-to-abandoned-cart-templates/logo-added.png)
 
 
-6. Click on the uploaded image to add it to the template as shown below:
-
+6. The chosen logo would replace the default logo. Save the mail template once.
 
 ![Logo view](../../images/docs/adding-a-logo-to-abandoned-cart-templates/logo-frontend.png)
 
 
-
-**Method-2: Adding a new image block**
-
-You could add a new image block and then add a logo at your desired positions. 
-
-1. Drag and drop the image block from the list of block elements on the desired position:
-
-![Image-block](../../images/docs/adding-a-logo-to-abandoned-cart-templates/image-block.png)
-
-
-1. Once the image block is dragged and dropped, follow steps 2 to 5 from Method-1.
-
-Now, we have uploaded the store logo in the image block position.
+Alternatively, you can also drag and drop the image block from the list of block elements on the desired position and upload a brand logo.
 
 ### Customizing the store logo
 
@@ -63,12 +53,5 @@ You could style the logo as per your requirements.
 **Video tutorial**
 
 Here is a video on how to add a store logo to your abandoned cart email templates:
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/af2567f5e8f04f3cbd9082e90f0d16eb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/8cdf2c94a3134721b91905811a852304" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
-### Summary
-
-In this article, we saw how to:
-
-1. Add a store logo to your abandoned cart emails.
-2. Customize the logo.
