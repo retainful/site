@@ -1,5 +1,5 @@
 ---
-title: "Sending emails from a custom domain"
+title: "Sending emails from your store's domain"
 path: "/docs/woocommerce/custom-email-domain"
 description: "Learn how to send emails from your custom domain"
 date: "2019-10-12"
