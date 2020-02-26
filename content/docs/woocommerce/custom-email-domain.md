@@ -8,13 +8,25 @@ tags: ["sending emails from custom domain", "woocommerce"]
 category: woocommerce
 ---
 
-Sending emails from your shop's domain not only looks more professional but it also helps build trust and improve your email deliverability. 
-
-Setting up a custom email domain in Retainful ensures that all email is delivered from your domain, which removes the "via retainful.net" from the emails and uses "yourdomain.com" on the recovery email notifications.
+You can now send your cart recovery emails from your store's own domain.
 
 In order to send emails from your shop's domain, you will need to add few DNS records wherever your domain is hosted(GoDaddy, HostGator, SiteGround and so on). This topic is a bit technical but the process is rather simple.
 
 In this article, let us see how to add a custom domain from which the abandoned cart emails are to be sent.
+
+### Why should you use your domain to send emails
+
+Customers expect your business to have a domain name and a website.
+
+Free email services, such as Gmail and Yahoo, are great for personal use, but when you use a free email account for business purposes, people will start to doubt your professionalism and credibility.
+
+Setting up a custom email domain in Retainful ensures that all email is delivered from your domain, which removes the "via retainful.net" from the emails and uses "yourdomain.com" on the recovery email notifications.
+
+This has the added benefit of preventing your store's emails being marked as spam by an email authentication measure called *DMARC *(Domain-based Message Authentication, Reporting & Conformance). DMARC is an email-validation system that determines whether or not an email comes from an authentic source.
+
+Sending emails from your shop's domain not only looks more professional but it also helps build trust and improve your email deliverability.
+
+Creating consistent branding across each of your customer touch points helps promote trust among your shoppers. When your in-store displays, online store, invoices and emails carry your branding and have a consistent look and feel, you can turn your one-time shoppers into repeat customers.
 
 > NOTE: Setting up a custom domain is not mandatory. If you are fine with default mail settings, you can still use that itself.
 
@@ -47,6 +59,7 @@ Below are general instructions for adding/editing DNS records with that will wor
 3. Select the option to **add a new record**.
 4. **Adding the TXT records** -Select **TXT** for record type.
 5. In the **Host**/**Alias**/**Name** field, paste the **Host/Name** entry copied from the Retainful settings page. The name entry to be copied is indicated in the below screenshot:
+
 ![Name entry](../../images/docs/sending-emails-from-custom-domain/TXT-name.png)
 
 
@@ -63,6 +76,7 @@ Below are general instructions for adding/editing DNS records with that will wor
 11. In the **Value**/**Answer**/**Destination** field, paste the **Value/Alias To** copied from Retainful settings page and save the record. The value to be copied is indicated in red in the below screenshot:
 
 ![Cname value](../../images/docs/sending-emails-from-custom-domain/cname-value.png)
+
 ### Verifying the records
 
 Post adding the DNS records, you will have to verify to ensure that the records are added properly. Verification has to be done at the Retainful **Custom Email Domain** settings section.
