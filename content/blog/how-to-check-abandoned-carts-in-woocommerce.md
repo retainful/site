@@ -63,7 +63,7 @@ Retainful comes with power-packed features and allows you to check abandoned car
 
 The installation process takes no more than two minutes.
 
-<cta url="https://app.retainful.com" rel="noopener" target="_blank">Try Retainful For Free!</cta>
+<cta url="https://app.retainful.com/?utm_source=blog&utm_medium=try_retainful_free&utm_campaign=check_abandoned_carts_in_woocommerce" rel="noopener" target="_blank">Try Retainful For Free!</cta>
 
 
 ### Setting up Retainful
