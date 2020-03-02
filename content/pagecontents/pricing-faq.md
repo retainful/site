@@ -9,7 +9,9 @@ path: '/pricing-faq'
 ### FAQs:
     
 <row className="justify-content-center">
+
 <column size="6">
+
 <div className="faq-wrapper">
 
 <br>

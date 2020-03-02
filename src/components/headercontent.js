@@ -7,7 +7,7 @@ import LandingPageMenu from "./landingpagemenu"
 const HeaderContent = (props) => {
     const childrenArray = React.Children.toArray(props.children);
     const slottedChildren = groupBy(childrenArray, 'props.slot');
-    const cardClass = `hero-content wow fadeIn text-center col-md-${props.size}`;
+    const cardClass = `hero-content wow fadeIn col-md-${props.size}`;
     // const cardSize = `col-md-${props.size}`
     
 

@@ -53,7 +53,7 @@ const renderAst = new rehypeReact({
       bonus:ExclusiveBonus,
       "get-templates":GetTemplates,
       "claim-trail":ClaimTrail,
-      "tab-content":TabContent
+      "tab-content-v":TabContent
   },
 }).Compiler
 
