@@ -13,15 +13,11 @@ const HowItWorks = () => {
     query={HowItWorksQuery}
     render={data => {
       return (
-        <Container type="s">
-        <div className="legal-info">
-          <Post
-            title={data.markdownRemark.frontmatter.title}
-            description={data.markdownRemark.frontmatter.description}
-            excerptData={data.markdownRemark.htmlAst}
-            />
-          </div>
-          </Container>
+      <Post
+        title={data.markdownRemark.frontmatter.title}
+        description={data.markdownRemark.frontmatter.description}
+        excerptData={data.markdownRemark.htmlAst}
+      />
     )
   }}
   />         

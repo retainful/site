@@ -1,7 +1,7 @@
 import React from 'react'
 import { Tab, TabPanel, Tabs, TabList } from 'react-web-tabs'
 // import ReactDOM from "react-dom";
-import 'react-web-tabs/dist/react-web-tabs.css'
+import './react-web-tabs.css'
 import {groupBy,map} from "lodash";
 
 export default class TabContent extends React.Component {
