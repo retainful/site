@@ -15,8 +15,6 @@ keywords: "Smart coupons, Next order coupons"
 
 # WooCommerce abandoned cart recovery made simpler
 
-<br>
-
 Count on us and bring about a change. Recover more WooCommerce abandoned carts right away.
 
 
@@ -26,7 +24,7 @@ Count on us and bring about a change. Recover more WooCommerce abandoned carts r
 
 <div slot="right">
 
-![Placeholder](../../src/images/final-banner-laptop.png)
+![Placeholder](../images/landingpage/WooCommerce-abandoned-cart-recovery-made-simpler/WooCommerce-abandoned-cart-recovery-made-simpler.png)
 
 </div>
 
@@ -80,8 +78,6 @@ Count on us and bring about a change. Recover more WooCommerce abandoned carts r
 
 ## Recover abandoned carts and boost sales 
 
-<br>
-
 Increasing abandoned carts stall revenue growth. Curb it by bringing down the WooCommerce abandoned cart numbers to 0 for free with Retainful.
 
 </div>
@@ -100,8 +96,6 @@ Increasing abandoned carts stall revenue growth. Curb it by bringing down the Wo
 
 ### Track and capture abandoned carts 
 
-<br>
-
 Keep an eye on all cart activity including live, guest, recovered, and abandoned carts. On detecting a WooCommerce abandoned cart, the email and cart details get logged in the dashboard for further introspection. 
 
 Retainful dashboard allows to 
@@ -115,7 +109,7 @@ Retainful dashboard allows to
 
 <div slot="left">
 
-<img src="https://raw.githubusercontent.com/retainful/site-images/master/abandoned_cart_recovery_emails.png" width="500" height="350"/>
+<img src="../images/landingpage/WooCommerce-abandoned-cart-recovery-made-simpler/Track-and-capture-abandoned-carts.png"/>
 
 
 </div>
@@ -135,8 +129,6 @@ Retainful dashboard allows to
 
 ### Customize the abandoned cart email templates
 
-<br>
-
 Creating abandoned cart emails with pre-built templates gets easier than ever. Modify the WooCommerce abandoned cart email templates as per your needs.
 
 Use drag and drop email editor to
@@ -152,7 +144,7 @@ Preview email responsiveness for desktop, tablet, and mobiles. Save time by dupl
 <div slot="right">
 
 
-<img src="../../src/images/Ready-to-Use-Email-Templates.png" width="500" height="350"/>
+<img src="../images/landingpage/WooCommerce-abandoned-cart-recovery-made-simpler/Customize-the-abandoned-cart-email-templates.png"/>
 
 
 </div>
@@ -172,8 +164,6 @@ Preview email responsiveness for desktop, tablet, and mobiles. Save time by dupl
 
 ### Monetize with personalization
 
-<br>
-
 Personalization of emails increase WooCommerce abandoned cart recovery by 10% - 30%. Use of shortcodes for personalization means higher open rates for abandoned cart emails. 
 
 Personalize 
@@ -188,7 +178,7 @@ Personalize
 
 <div slot="left">
 
-<img src="../../src/images/Clean-Report.png" width="500" height="350"/>
+<img src="../images/landingpage/WooCommerce-abandoned-cart-recovery-made-simpler/Monetize-with-personalization.png" />
 
 </div>
 
@@ -205,15 +195,13 @@ Personalize
 
 <div slot="right">
 
-<img src="../../src/images/Priority-support.png" width="500" height="350"/>
+<img src="../images/landingpage/WooCommerce-abandoned-cart-recovery-made-simpler/Collect-emails-using-popup-and-coupons.png"/>
 
 </div>
 
 <div slot="left">
 
 ### Collect emails using popup and coupons
-
-<br>
 
 Premium features of Retainful include Email Collection Popup. Emails are collected from customers to follow up in case of any WooCommerce abandoned cart activity.
 
@@ -244,9 +232,7 @@ Premium features of Retainful include Email Collection Popup. Emails are collect
 
 ### Avoid cart abandonment with countdown timer 
 
-<br>
-
-Another Premium feature. The final prompt to prevent a probable WooCommerce abandoned cart. Create urgency by adding countdown timers to customers’ cart pages.
+Another Premium feature. The final prompt to prevent a probable WooCommerce abandoned cart. Create urgency by adding countdown timers to customers' cart pages.
 
 With Sales Countdown Timer
 - Display a message and coupon code 
@@ -258,7 +244,7 @@ With Sales Countdown Timer
 
 <div slot="left">
 
-<img src="../../src/images/Clean-Report.png" width="500" height="350"/>
+<img src="../images/landingpage/WooCommerce-abandoned-cart-recovery-made-simpler/Avoid-cart-abandonment-with-countdown-timer.png"/>
 
 </div>
 
@@ -275,15 +261,21 @@ With Sales Countdown Timer
 
 <div slot="right">
 
-<img src="../../src/images/Priority-support.png" width="500" height="350"/>
+<img src="../images/landingpage/WooCommerce-abandoned-cart-recovery-made-simpler/Integrate-seamlessly-with-Mail-Chimp.png"/>
 
 </div>
 
 <div slot="left">
 
+<div style="padding-left: 2px !important;">
+
+<column size="10">
+
 ### Integrate seamlessly with Mail Chimp
 
-<br>
+</column>
+
+</div>
 
 Retainful goes beyond WooCommerce abandoned cart recovery. Carry over the customer mailing list to your existing Mail Chimp account. Increase sales by sending marketing and promotional emails without any interference.
 
@@ -304,7 +296,6 @@ Retainful goes beyond WooCommerce abandoned cart recovery. Carry over the custom
 
 ### Connect multiple online stores
 
-<br>
 
 One Retainful account. Multiple stores. Manage as many stores as you want with the same Retainful account. Set up different email IDs for each store. Handle the carts, contacts, and campaigns of stores separately without any fuss. 
 
@@ -312,17 +303,13 @@ One Retainful account. Multiple stores. Manage as many stores as you want with t
 
 <div slot="left">
 
-<img src="../../src/images/Clean-Report.png" width="500" height="350"/>
+<img src="../images/landingpage/WooCommerce-abandoned-cart-recovery-made-simpler/Connect-multiple-online-stores.png"/>
 
 </div>
 
 </featurecontent>
 
 </div>
-
-<br>
-<br>
-
 
 </div>
 
