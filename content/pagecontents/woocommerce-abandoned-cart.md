@@ -210,12 +210,16 @@ Personalize
 
 Premium features of Retainful include Email Collection Popup. Emails are collected from customers to follow up in case of any WooCommerce abandoned cart activity.
 
+<br>
+
 **Email collection popup**
+
 - Popup triggers when customer clicks on add to cart button
 - Choose from a range of customizable popup templates
 - Include GDPR compliance message
 
 **Coupons for email collection** 
+
 - Variation of email collection popup with added discount
 - Opt to display the coupon code instantly or email it
 - Automated emailing of built-in WooCommerce coupons  
