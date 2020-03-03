@@ -23,7 +23,7 @@ export default function Footer() {
                             <li><Link to="/follow-up-emails">Follow-up Emails</Link></li>
                             <li><Link to="/customer-retention">Customer Retention</Link></li>
                             <li><Link to="/shopify-abandoned-cart">Shopify Abandoned cart</Link></li>
-                            <li><Link to="/woocommerce-abandoned-cart">WooCommerce Abandoned cart</Link></li>
+                            <li><Link to="/woocommerce-abandoned-carts">WooCommerce Abandoned cart</Link></li>
                         </ul>
                     </Col>
                     <Col size="3">
