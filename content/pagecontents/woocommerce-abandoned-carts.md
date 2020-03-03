@@ -1,8 +1,8 @@
 ---
-path: "/woocommerce-abandoned-cart"
-title: "WooCommerce Abandoned Cart"
-description: "Drive more customers and increase your online sales 10x times with next order coupons. Retainful helps you generate unlimited smart coupons, track real-time sale conversions and more."
-keywords: "Smart coupons, Next order coupons"
+path: "/woocommerce-abandoned-carts"
+title: "WooCommerce Abandoned Carts"
+description: "Convert WooCommerce Abandoned Carts into sales. Check and recover abandoned carts in your WooCommerce store and get more sales"
+keywords: "Woocommerce abandoned cart, abandoned cart recovery,abandoned shopping cart recovery"
 ---
 
 <div class="p-4" >
