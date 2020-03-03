@@ -15,8 +15,11 @@ keywords: "Smart coupons, Next order coupons"
 
 # WooCommerce abandoned cart recovery made simpler
 
+<div class="py-3" style="font-size:20px;">
+
 Count on us and bring about a change. Recover more WooCommerce abandoned carts right away.
 
+</div>
 
 <cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=grow_10x&utm_campaign=woocommerce-abandoned-cart&utm_term=cta" target="_blank" rel="noopener">Grow 10x Sales</cta>
 
@@ -78,11 +81,13 @@ Count on us and bring about a change. Recover more WooCommerce abandoned carts r
 
 ## Recover abandoned carts and boost sales 
 
+<div class="py-3" style="font-size:20px;">
+
 Increasing abandoned carts stall revenue growth. Curb it by bringing down the WooCommerce abandoned cart numbers to 0 for free with Retainful.
 
 </div>
 
-<br>
+</div>
 
 <container>
 
@@ -267,15 +272,11 @@ With Sales Countdown Timer
 
 <div slot="left">
 
-<div style="padding-left: 2px !important;">
-
-<column size="10">
+<column class="p-0" size="10">
 
 ### Integrate seamlessly with Mail Chimp
 
 </column>
-
-</div>
 
 Retainful goes beyond WooCommerce abandoned cart recovery. Carry over the customer mailing list to your existing Mail Chimp account. Increase sales by sending marketing and promotional emails without any interference.
 
