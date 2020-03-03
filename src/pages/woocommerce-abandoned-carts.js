@@ -28,7 +28,7 @@ const WoocommerceAbandonedCartLandingPage = () => {
 
 const WoocommerceAbandonedCartQuery = graphql `
 query WoocommerceAbandonedCartQuery{
-  markdownRemark(frontmatter:{path:{eq:"/woocommerce-abandoned-cart"}}){
+  markdownRemark(frontmatter:{path:{eq:"/woocommerce-abandoned-carts"}}){
     htmlAst
     frontmatter{
       description
