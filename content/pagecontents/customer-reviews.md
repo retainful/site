@@ -169,18 +169,3 @@ The Retainful support gave me very nice fast support for some custom work i want
 </column>
 </row>
 
-<row className="justify-content-right">
-<column size="7">
-<div className="customer-review">
-
-#### Amazing support !
-This plugin works as intended, Great.
-Got the paid version.
-I had a conflict with my theme, and the support was super helpful with me fixing it and very kind.
-I recommend it highly.
-<div className="customer-meta">
-<span>romainwordpress</span>
-</div>
-</div>
-</column>
-</row>
