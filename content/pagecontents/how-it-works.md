@@ -1,28 +1,29 @@
 ---
 path: "/how-it-works"
 title: "How It Works"
-description: "Sending cart recovery emails can help you recover almost 70% of your lost sales. With Retainful, you get to retarget customers with abandoned cart recovery emails, automate cart recovery campaigns, get detailed insights on email performance and more."
-keywords: "Cart recovery email, Abandoned cart email"
+description: "See how Retainful helps recover abandoned carts and grow revenue 10x times on your store. Also, check out all other features of Retainful that makes it the best abandoned cart recovery tool."
+keywords: "abandoned cart recovery, abandoned shopping cart recovery,Next order coupon, Coupon generator, Smart coupon"
 ---
 
 <container>
 
-<headercontent>
+<headercontent className="container">
 
 <div slot="left">
 
-# Start Recovering Abandoned Carts in Less than 10 Minutes
+<div class="h1">
+Start Recovering Abandoned Carts. <br/>  Grow Your Revenue 10x Times.
+</div>
 
-Retainful is easy to set up & work with. And, you can start recovering abandoned carts in your eCommerce store within a few minutes. No kidding! You can try it out for yourself!
+Retainful helps stores recover lost sales and drive revenue 10x times. Install Retainful to recover abandoned carts on your eCommerce store. Try it yourself now!
  
-<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=follow_up_emails&utm_campaign=get_start_free&utm_term=cta" target="_blank" rel="noopener">Try Retainful for Free</cta>
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=how_it_works&utm_campaign=recover_carts_for_free" target="_blank" rel="noopener">Recover Carts For FREE<feather-icon icon="arrow-right" /> </cta>
 
 </div>
 
 <div slot="right">
 
-
-![Placeholder](../../src/images/final-banner-laptop.png)
+<img src="../images/landingpage/how-it-works/Abandoned-Cart-Recovery.png" alt="Banner" class="img-responsive" />
 
 </div>
 
@@ -30,285 +31,36 @@ Retainful is easy to set up & work with. And, you can start recovering abandoned
 
 </container>
 
+<div class="customer-testimonial-section">
+<div class="testimonial-background-primary"></div>
+<div class="testimonial-content container">
+    <row class="align-items-center">
+        <column size="4">
+            <div class="customer-quote">
+                <div class="customer-info text-right">
+                    <div class="user-img">
+                        <img src="https://raw.githubusercontent.com/retainful/site-images/master/reviews/puneetsahalot.jpg" class="img-responsive" />
+                    </div>
+                    <div>
+                        <p><strong>Puneet Sahalot</strong></p>
+                        <p>Founder, IdeaBox Creations</p>
+                    </div>
+                </div>
+            </div>
+        </column>
+        <column size="8">
+            <div class="customer-quote">
+                <h4>Works like a charm. Perfect for WooCommerce stores.
+Retainful is easy to use with a useful UI. Provides a lot of functionality even with the free tier. "Next Order coupon" is a simple and good way to increase the conversions and bring back your customers</h4>
+            </div>
+        </column>
+    </row>
 </div>
-
-<div class="text-center rf-get-started mt-5">
-
-## Get Started With Retainful
-
-</div>
-
-<container> 
-
-
-
-<row class="mt-5">
-
-<card size="3">
-   <div slot="card-title">Sign Up to Create an Account</div>
-    <div slot="card-image">
-        <img src="../../content/images/how-it-works/1.png" alt="image Here"  />
-    </div>
-   
-</card>
-
-<card size="3">
-   <div slot="card-title">Connect Your Store</div>
-    <div slot="card-image">
-        <img src="../../content/images/how-it-works/1.png" alt="image Here"  />
-    </div>   
-</card>
-
-<card size="3">
-   <div slot="card-title">Configure Cart Recovery Email Campaigns</div>
-    <div slot="card-image">
-        <img src="../../content/images/how-it-works/1.png" alt="image Here"  />
-    </div>    
-</card>
-
-<card size="3">
-   <div slot="card-title">Recover Abandoned Carts</div>
-    <div slot="card-image">
-        <img src="../../content/images/how-it-works/1.png" alt="image Here"  />
-    </div>   
-</card>
-
-</row>
-
-</container>
-
-<br>
-
-<div class="my-5">
-
-<container>
-
-<div class="p-5 text-center">
-
-## Benefits of Trying Retainful
-
-</div>
-
-<tab-content-v>
-
-<div slot="tab-list-heading" id="one">Exit Intent Popups</div>
-
-<div slot="tab-panel-content" id="one">
-
-<img src="../../content/images/More-than-Just-One-Popup-Type.png" class="tab-icons">
-
-</div>
-
-<div slot="tab-list-heading" id="two">Floating Sidebars</div> 
-
-<div slot="tab-panel-content" id="two">
-
-<img src="../../content/images/More-than-Just-One-Popup-Type.png" class="tab-icons">
-
-</div>
-
-<div slot="tab-list-heading" id="three">Notification Popups</div> 
-
-<div slot="tab-panel-content" id="three">
-
-![Image](../../content/images/use-case/Sign-up-for-Free-Shipping.png)
-
-</div>
-
-<div slot="tab-list-heading" id="four">Countdown Timers</div> 
-
-<div slot="tab-panel-content" id="four">
-
-<img src="../../content/images/More-than-Just-One-Popup-Type.png" class="tab-icons">
-
-</div>
-
-<div slot="tab-list-heading" id="five">Coupon Popups</div>
-
-<div slot="tab-panel-content" id="five">
-
-<img src="../../content/images/More-than-Just-One-Popup-Type.png" class="tab-icons">
-
-</div>
-
-
-<div slot="tab-list-heading" id="six">Fullscreen Overlays</div>
-
-<div slot="tab-panel-content" id="six">
-
-![](../../content/images/Advanced-Triggering-Options.png)
-
-</div>
-
-</tab-content-v>
-
-<div class="p-5 features-container">
-
-<a href="https://app.retainful.com/register" target="_blank" class="btn btn-link">Get started for FREE</a>
-
-</div>
-
-</container>
-
-</div>
-
-<div>
-
-<container>
-
-<row>
-
-<column size="6">
-
-### Connect Your Store
-
-Tempor et pariatur laboris sit ut incididunt commodo sint aute esse amet commodo pariatur eiusmod. Eu do ullamco commodo irure minim consectetur pariatur eiusmod cupidatat ea voluptate do et. Ut duis mollit dolore elit ullamco magna tempor magna Lorem deserunt do.
-
-<cta url="https://app.retainful.com/register" target="_blank" rel="noopener">Connect Now</cta>
-
-</column>
-
-<column size="6">
-
-<column size="12">
-
-<form class="form-inline">
-
-<div class="form-group mb-2">
-
-<input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="WooCommerce">
-
-</div>
-
-<cta type="submit">Connect Now</cta>
-
-</form>
-
-</column>
-
-<column size="12">
-
-<form class="form-inline">
-
-<div class="form-group mb-2">
-
-<input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="Shopify">
-
-</div>
-
-<cta type="submit">Connect Now</cta>
-
-</form>
-
-</column>
-
-</column>
-
-</row>
-
-</container>
-
-</div>
-
-<div class="my-5">
-
-<container>
-
-<featurecontent featurebodysizeleft="4" featurebodysizerigth="8">
-
-<div slot="left">
-
-![](https://media.giphy.com/media/ZBK7b4vHYyb0n70zJq/giphy.gif)
-
-Duis pariatur esse nulla nulla mollit ad. Quis ad veniam ut et excepteur quis labore aute non. Laborum adipisicing irure ea sit culpa et excepteur est Lorem laborum excepteur Lorem nisi. Aliquip esse ad anim excepteur voluptate ut excepteur ad culpa nostrud ea. Cupidatat voluptate id eu enim. Fugiat deserunt nisi occaecat fugiat in minim aliquip cillum laboris ex reprehenderit.
-
-</div>
-
-<div slot="right">
-
-#### eCommerce Retention Tools
-
-Officia qui cillum incididunt ut adipisicing aute quis deserunt commodo mollit do. Nisi duis velit consectetur velit anim aliqua ad eu labore consequat anim dolor. Sunt sint quis duis do pariatur pariatur et.
-
-<row>
-
-<card size="2">
-
-<div slot="card-body">
-
-![](https://media.giphy.com/media/D5neRsKUL9m24/giphy.gif)
-
-</div>
-
-</card>
-
-<card size="2">
-
-<div slot="card-body">
-
-![](https://media.giphy.com/media/D5neRsKUL9m24/giphy.gif)
-
-</div>
-
-</card>
-
-</row>
-
-
-<row>
-
-<card size="2">
-
-<div slot="card-body">
-
-![](https://media.giphy.com/media/D5neRsKUL9m24/giphy.gif)
-
-</div>
-
-</card>
-
-<card size="2">
-
-<div slot="card-body">
-
-![](https://media.giphy.com/media/D5neRsKUL9m24/giphy.gif)
-
-</div>
-
-</card>
-
-</row>
-
-</div>
-
-</featurecontent>
-
-</container>
-
 </div>
 
 <container>
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
-
-<div slot="right">
-
-## Create a Retainful Account
-
-It’s easy to create a Retainful account (also, it’s free). You have to just visit this link, enter the login credentials and your account gets created. Then, download Retainful and install it on your website.
-
-
-</div>
-
-
-<div slot="left">
-
-<img src="../../content/images/how-it-works/4.png" width="500" height="350"/>
-
-
-</div>
-
-</featurecontent>
+<row class="justify-content-center align-items-center">
 
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
@@ -316,13 +68,54 @@ It’s easy to create a Retainful account (also, it’s free). You have to just 
 
 ## Connect Your Store
 
-Now that you’ve already installed Retainful, you just have to connect your store. Login to your Retainful account, copy your API keys and enter them in your tool. And finally, press the "Connect" button to connect your store.
+Just install and connect your store with Retainful
+
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=how_it_works&utm_campaign=get_started_free" target="_blank" class="btn-action">Get started FREE</cta>
 
 </div>
 
 <div slot="right">
 
-<img src="../../content/images/how-it-works/4.png" width="500" height="350"/>
+<div class="integrated-store-list">
+<div class="store-module">
+<div class="store-logo">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/shopify-icon.png" class="img-responsive" />
+</div>
+<div class="store-name">
+<h4>Shopify</h4>
+</div>
+</div>
+<div class="store-module">
+<div class="store-logo">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/woo-icon-logo.png" class="img-responsive" />
+</div>
+<div class="store-name">
+<h4>WooCommerce</h4>
+</div>
+</div>
+</div>
+
+</div>
+
+</featurecontent>
+
+</row>
+
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="right">
+
+## Customer abandons a cart
+
+Retainful tracks abandoned carts automatically and captures the customer's email as soon as he enters.
+
+</div>
+
+
+<div slot="left">
+
+<img src="../images/landingpage/how-it-works/customer-abandons-a-cart.svg" class="img-responsive" width="500" height="350"/>
+
 
 </div>
 
@@ -332,15 +125,15 @@ Now that you’ve already installed Retainful, you just have to connect your sto
 
 <div slot="right">
 
-## Configure Cart Recovery Emails
-
-Your store is now connected and all set to configure cart recovery email campaigns. You can create an email sequence (a series of emails) with timed intervals including the first email’s trigger time. Also, you can customize your emails, right from the subject line to the body text. 
+<img src="../images/landingpage/how-it-works/cart-recovery-email.svg" class="img-responsive" width="500" height="350"/>
 
 </div>
 
 <div slot="left">
 
-<img src="../../content/images/how-it-works/4.png" width="500" height="350"/>
+## Cart Recovery email is sent automatically
+
+Retainful sends a well-timed, series of emails with a unique link to recover the cart with a single click. Optionally include a coupon.
 
 </div>
 
@@ -350,81 +143,101 @@ Your store is now connected and all set to configure cart recovery email campaig
 
 <div slot="right">
 
-<img src="../../content/images/how-it-works/4.png" width="500" height="350"/>
+## Customer recovers the cart & completes purchase
 
+Customer is taken straight to the checkout with a single click and completes the purchase. Your lost sale is recovered!
+
+ 
 </div>
+
 
 <div slot="left">
 
-## Start Recovering Abandoned Carts
+<img src="../images/landingpage/how-it-works/customer-recovers-the-cart.svg" class="img-responsive" width="500" height="350"/>
 
-As soon as a cart gets abandoned on your store, Retainful sends its first email (based on the trigger time you’ve set). And then followed by a series of emails which lures the visitors to buy what they’ve left behind. Carts get recovered and your revenue increases. It’s easier than said.
 
 </div>
 
 </featurecontent>
-
 
 </container>
 
-<div class="my-5 features-container">
+
+<div class="text-center title-block mt-5">
+
+## Next Order Coupon
+
+</div>
 
 <container>
 
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
-<div slot="left">
+<div slot="right">
 
-### Automatic Abandoned Cart Recovery Emails
+## Customer makes a purchase
 
-- Something 1
-- Something 2
-- Something 3
-- Something 4
-- Something 5
-
-<a href="https://app.retainful.com/register" target="_blank" class="btn btn-link">Get started for FREE</a>
-
+Customers buys a product from your store successfully.
 
 </div>
 
-<div slot="right">
 
-#### Track Abandoned Carts
+<div slot="left">
 
-![](https://media.giphy.com/media/htSXYF4PsiQ4YExKYX/giphy.gif)
+<img src="../images/landingpage/how-it-works/customer-makes-a-purchase.svg" class="img-responsive" width="500" height="350"/>
 
-Sint consequat nostrud ut sunt mollit veniam tempor eiusmod sint aliquip consectetur. Do veniam ut laborum id laborum nostrud qui exercitation. Fugiat est non commodo consequat elit fugiat pariatur aute exercitation velit laborum. Id eu veniam sint anim irure labore elit exercitation id ex mollit veniam aliqua. Dolor velit nulla veniam non do amet sint amet.
 
 </div>
 
 </featurecontent>
 
-</container>
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="right">
+
+<img src="../images/landingpage/how-it-works/next-order-coupon-is-generated-automatically.svg" class="img-responsive" width="500" height="350"/>
+
+</div>
+
+<div slot="left">
+
+## Next Order Coupon is generated Automatically
+
+Retainful generates a unique, single-use coupon for the next purchase of the customer. The coupon is included in the "Order notification email" itself.
+
+
+</div>
+
+</featurecontent>
+
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="right">
+
+## Customer comes back & makes a repeat buy
+
+Customer uses the coupon to make his next purchase successfully. And he can get a coupon for his successive purchase.
+
 
 </div>
 
 
-<reviews></reviews>
+<div slot="left">
 
-<container>
+<img src="../images/landingpage/how-it-works/customer-comes-back-makes-a-repeat-buy.svg" class="img-responsive" width="500" height="350"/>
 
-<div>
 
-![Placeholder](../../src/images/final-banner-laptop.png)
+</div>
+
+</featurecontent>
+
+
+<div class="text-center text-block mb-5">
+
+….. And the loop goes on to drive repeat sales on your store!
 
 </div>
 
 </container>
 
 <getstarted></getstarted>
-
-
-<div class="mt-5">
-
-<claim-trail btntext="Some Creative Button Text" btncolor="#f27052">
- 
-
-</claim-trail>
-
-</div>

@@ -8,7 +8,7 @@ import Post from '../components/post'
 
 const HowItWorks = () => {
   return (
-    <Layout>
+    <Layout className="page-how-it-works">
     <StaticQuery
     query={HowItWorksQuery}
     render={data => {

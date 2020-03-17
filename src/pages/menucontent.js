@@ -38,7 +38,8 @@ class MenuCard extends React.Component {
                                 { card.ISMEGAMENU &&
                                     <ul className="productsGroupPrimary">
                                         {
-                                            card.DROPDOWN_LINKS.map((link) => {
+                                    card.DROPDOWN_LINKS.map((link) => {
+                                                if(!link.SUB_DROPDOWN_MENU){
                                                 return (
                                                     <li>
                                                         <a className="linkContainer item-payments" href={link.LINK}
@@ -50,7 +51,22 @@ class MenuCard extends React.Component {
                                                             </div>
                                                         </a>
                                                     </li>
-                                                )
+                                                    )
+                                                }
+                                                else {
+                                                    return (
+                                                        <li className="submenu">
+                                                            <a className="linkContainer item-payments" href={link.LINK}
+                                                                data-analytics-action="payments" data-analytics-source="nav_dropdown" tabIndex="-1">
+                                                                <img src={link.ICON} alt=""/>
+                                                            <div className="productLinkContent">
+                                                                    <h3 className="linkTitle">{link.TITLE}</h3>
+                                                                <p className="linkSub">{link.DESC}</p>
+                                                                </div>
+                                                            </a>
+                                                        </li>
+                                                    )
+                                                }
                                             })
                                         }
                                     </ul>
