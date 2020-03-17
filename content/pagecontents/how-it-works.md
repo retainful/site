@@ -1,8 +1,8 @@
 ---
 path: "/how-it-works"
 title: "How It Works"
-description: "Sending cart recovery emails can help you recover almost 70% of your lost sales. With Retainful, you get to retarget customers with abandoned cart recovery emails, automate cart recovery campaigns, get detailed insights on email performance and more."
-keywords: "Cart recovery email, Abandoned cart email"
+description: "See how Retainful helps recover abandoned carts and grow revenue 10x times on your store. Also, check out all other features of Retainful that makes it the best abandoned cart recovery tool."
+keywords: "abandoned cart recovery, abandoned shopping cart recovery,Next order coupon, Coupon generator, Smart coupon"
 ---
 
 <container>
@@ -17,13 +17,13 @@ Start Recovering Abandoned Carts. <br/>  Grow Your Revenue 10x Times.
 
 Retainful helps stores recover lost sales and drive revenue 10x times. Install Retainful to recover abandoned carts on your eCommerce store. Try it yourself now!
  
-<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=follow_up_emails&utm_campaign=get_start_free&utm_term=cta" target="_blank" rel="noopener">Download Retainful <feather-icon icon="arrow-right" /> </cta>
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=how_it_works&utm_campaign=recover_carts_for_free" target="_blank" rel="noopener">Recover Carts For FREE<feather-icon icon="arrow-right" /> </cta>
 
 </div>
 
 <div slot="right">
 
-<img src="../../src/images/final-banner-laptop.png" alt="Banner" class="img-responsive" />
+<img src="../images/landingpage/how-it-works/Abandoned-Cart-Recovery.png" alt="Banner" class="img-responsive" />
 
 </div>
 
@@ -51,7 +51,7 @@ Retainful helps stores recover lost sales and drive revenue 10x times. Install R
         <column size="8">
             <div class="customer-quote">
                 <h4>Works like a charm. Perfect for WooCommerce stores.
-Retainful is easy to use with a useful UI. Provides a lot of functionality even with the free tier. “Next Order coupon” is a simple and good way to increase the conversions and bring back your customers</h4>
+Retainful is easy to use with a useful UI. Provides a lot of functionality even with the free tier. "Next Order coupon" is a simple and good way to increase the conversions and bring back your customers</h4>
             </div>
         </column>
     </row>
@@ -59,6 +59,8 @@ Retainful is easy to use with a useful UI. Provides a lot of functionality even 
 </div>
 
 <container>
+
+<row class="justify-content-center align-items-center">
 
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
@@ -68,7 +70,7 @@ Retainful is easy to use with a useful UI. Provides a lot of functionality even 
 
 Just install and connect your store with Retainful
 
-<a href="https://app.retainful.com/?utm_source=signup&amp;utm_medium=navigation_bar&amp;utm_campaign=website" target="_blank" class="btn-action">Get Start Free</a>
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=how_it_works&utm_campaign=get_started_free" target="_blank" class="btn-action">Get started FREE</cta>
 
 </div>
 
@@ -97,22 +99,22 @@ Just install and connect your store with Retainful
 
 </featurecontent>
 
+</row>
+
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
 <div slot="right">
 
 ## Customer abandons a cart
 
-Retainful tracks abandoned carts automatically and captures the customer’s email as soon as he enters.
-
-<a href="https://app.retainful.com/?utm_source=signup&amp;utm_medium=navigation_bar&amp;utm_campaign=website" target="_blank" class="btn-action">Get Start Free</a>
+Retainful tracks abandoned carts automatically and captures the customer's email as soon as he enters.
 
 </div>
 
 
 <div slot="left">
 
-<img src="https://raw.githubusercontent.com/retainful/site-images/master/DriveRepeatPurchase.png" class="img-responsive" width="500" height="350"/>
+<img src="../images/landingpage/how-it-works/customer-abandons-a-cart.svg" class="img-responsive" width="500" height="350"/>
 
 
 </div>
@@ -123,7 +125,7 @@ Retainful tracks abandoned carts automatically and captures the customer’s ema
 
 <div slot="right">
 
-<img src="https://raw.githubusercontent.com/retainful/site-images/master/Actionable-Analytics-%26-Insights-big.png" class="img-responsive" width="500" height="350"/>
+<img src="../images/landingpage/how-it-works/cart-recovery-email.svg" class="img-responsive" width="500" height="350"/>
 
 </div>
 
@@ -132,8 +134,6 @@ Retainful tracks abandoned carts automatically and captures the customer’s ema
 ## Cart Recovery email is sent automatically
 
 Retainful sends a well-timed, series of emails with a unique link to recover the cart with a single click. Optionally include a coupon.
-
-<a href="https://app.retainful.com/?utm_source=signup&amp;utm_medium=navigation_bar&amp;utm_campaign=website" target="_blank" class="btn-action">Get Start Free</a>
 
 </div>
 
@@ -147,14 +147,13 @@ Retainful sends a well-timed, series of emails with a unique link to recover the
 
 Customer is taken straight to the checkout with a single click and completes the purchase. Your lost sale is recovered!
 
-<a href="https://app.retainful.com/?utm_source=signup&amp;utm_medium=navigation_bar&amp;utm_campaign=website" target="_blank" class="btn-action">Get Start Free</a>
-
+ 
 </div>
 
 
 <div slot="left">
 
-<img src="https://raw.githubusercontent.com/retainful/site-images/master/DriveRepeatPurchase.png" class="img-responsive" width="500" height="350"/>
+<img src="../images/landingpage/how-it-works/customer-recovers-the-cart.svg" class="img-responsive" width="500" height="350"/>
 
 
 </div>
@@ -180,14 +179,12 @@ Customer is taken straight to the checkout with a single click and completes the
 
 Customers buys a product from your store successfully.
 
-<a href="https://app.retainful.com/?utm_source=signup&amp;utm_medium=navigation_bar&amp;utm_campaign=website" target="_blank" class="btn-action">Get Start Free</a>
-
 </div>
 
 
 <div slot="left">
 
-<img src="https://raw.githubusercontent.com/retainful/site-images/master/DriveRepeatPurchase.png" class="img-responsive" width="500" height="350"/>
+<img src="../images/landingpage/how-it-works/customer-makes-a-purchase.svg" class="img-responsive" width="500" height="350"/>
 
 
 </div>
@@ -198,7 +195,7 @@ Customers buys a product from your store successfully.
 
 <div slot="right">
 
-<img src="https://raw.githubusercontent.com/retainful/site-images/master/Actionable-Analytics-%26-Insights-big.png" class="img-responsive" width="500" height="350"/>
+<img src="../images/landingpage/how-it-works/next-order-coupon-is-generated-automatically.svg" class="img-responsive" width="500" height="350"/>
 
 </div>
 
@@ -206,9 +203,8 @@ Customers buys a product from your store successfully.
 
 ## Next Order Coupon is generated Automatically
 
-Retainful generates a unique, single-use coupon for the next purchase of the customer. The coupon is included in the “Order notification email” itself.
+Retainful generates a unique, single-use coupon for the next purchase of the customer. The coupon is included in the "Order notification email" itself.
 
-<a href="https://app.retainful.com/?utm_source=signup&amp;utm_medium=navigation_bar&amp;utm_campaign=website" target="_blank" class="btn-action">Get Start Free</a>
 
 </div>
 
@@ -222,14 +218,13 @@ Retainful generates a unique, single-use coupon for the next purchase of the cus
 
 Customer uses the coupon to make his next purchase successfully. And he can get a coupon for his successive purchase.
 
-<a href="https://app.retainful.com/?utm_source=signup&amp;utm_medium=navigation_bar&amp;utm_campaign=website" target="_blank" class="btn-action">Get Start Free</a>
 
 </div>
 
 
 <div slot="left">
 
-<img src="https://raw.githubusercontent.com/retainful/site-images/master/DriveRepeatPurchase.png" class="img-responsive" width="500" height="350"/>
+<img src="../images/landingpage/how-it-works/customer-comes-back-makes-a-repeat-buy.svg" class="img-responsive" width="500" height="350"/>
 
 
 </div>
@@ -244,8 +239,5 @@ Customer uses the coupon to make his next purchase successfully. And he can get 
 </div>
 
 </container>
-
-
-
 
 <getstarted></getstarted>
