@@ -55,7 +55,7 @@ class MenuCard extends React.Component {
                                                 }
                                                 else {
                                                     return (
-                                                        <li className="submenu">
+                                                        <li className="submenu" style={{backgroundColor:'#f6f9fc'}}>
                                                             <a className="linkContainer item-payments" href={link.LINK}
                                                                 data-analytics-action="payments" data-analytics-source="nav_dropdown" tabIndex="-1">
                                                                 <img src={link.ICON} alt=""/>
