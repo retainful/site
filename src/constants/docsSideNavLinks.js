@@ -27,6 +27,7 @@ const SIDENAV_LINKS = [
             {URL: '/docs/woocommerce/collect-email-address-before-adding-to-cart-in-woocommerce', TEXTNODE: 'Email Collection Popup'},
             {URL: '/docs/woocommerce/coupon-timer', TEXTNODE: 'Countdown Timer with Coupon Auto Apply'},
             {URL: '/docs/woocommerce/next-order-coupon', TEXTNODE: 'Next Order Coupon'},
+            {URL: '/docs/woocommerce/sending-reminders-for-next-order-coupons', TEXTNODE: 'Boost repeat purchases with Next order coupon reminders'},
             {URL: '/docs/woocommerce/managing-multiple-stores', TEXTNODE: 'Managing multiple stores with Retainful'},
             {URL: '/docs/woocommerce/gdpr-compliance', TEXTNODE: 'How to ensure GDPR compliance'},
         ],
