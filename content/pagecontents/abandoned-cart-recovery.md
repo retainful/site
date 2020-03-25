@@ -1,11 +1,11 @@
 ---
 path: "/abandoned-cart-recovery"
 title: "Abandoned cart recovery"
-description: "Recover your lost sales with Retainful, the most powerful abandoned cart recovery app. Grow your revenue, create abandoned cart recovery emails, automate cart recovery email campaigns and do more now!"
+description: "Recover your lost sales with Retainful, the most powerful abandoned cart recovery app. Grow your revenue,
+create abandoned cart recovery emails, automate cart recovery email campaigns and do more now!"
 keywords: "abandoned cart recovery, abandoned shopping cart recovery"
 ---
-
-<div class="p-4" >
+<div class="vip-page">
 
 <container>
 
@@ -13,245 +13,366 @@ keywords: "abandoned cart recovery, abandoned shopping cart recovery"
 
 <div  slot="left">
 
-# Power your Abandoned cart recovery emails!
+# Recover Abandoned Carts. Stop losing sales
 
-Recover lost sales with the most powerful abandoned cart recovery app. Trigger cart recovery emails and motivate customers to buy cart instantly. 
- 
-<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=abandoned_cart_recovery&utm_campaign=recover_your_cart&utm_term=cta" target="_blank" rel="noopener">Recover Cart for FREE</cta>
+Reduce cart abandonment and grow your revenue effortlessly. Automatically send cart recovery emails, capture emails with popups and never let visitors abandon their carts again.
+
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=abandoned_cart_recovery&utm_campaign=recover_your_cart&utm_term=cta" target="_blank" rel="noopener">GET STARTED</cta>
 
 </div>
 
 <div slot="right">
 
-![Placeholder](../../src/images/final-banner-laptop.png)
+![Placeholder](../images/landingpage/abandoned-carts-recovery/Cart.jpg)
 
 </div>
-
 
 </headercontent>
 
 </container>
 
-</div>
-
 <container>
 
-<div class="text-center p-5">
+<div class="p-5">
 
-## 1000+ Companies Trust us..
+<div class="p-3 text-center">
+
+## Start Recovering Abandoned Carts in 3 Simple Steps
 
 </div>
-
-<row class="justify-content-center">
 
 <br>
 
-<column size="2">
+<div class="p-3">
 
-![Trusted Companies](../../src/images/trusted-logo-1.png)
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="left">
+
+![](../images/landingpage/abandoned-carts-recovery/a-06.svg)
+
+</div>
+
+<div slot="right">
+
+<div class="d-flex flex-row">
+
+<column size="2" className="p-0">
+
+<img class="img img-responsive"
+src="../images/landingpage/abandoned-carts-recovery/a-02.svg"/>
 
 </column>
 
-<column size="2">
+<column size="10" className="p-0">
 
-![Trusted Companies](../../src/images/trusted-logo-2.png)
+### Track Abandoned Carts 
 
-</column>
-
-<column size="2">
-
-![Trusted Companies](../../src/images/trusted-logo-3.png)
+Retainful tracks every single cart in your store without adding any additional overheads to your resources. Its powerful Javascript tracker can track carts and capture the email in real-time and report in your dashboard. 
 
 </column>
 
+</div>
+
+<br>
+
+<div class="d-flex flex-row">
+
+<column size="2" className="p-0">
+
+<img class="img img-responsive"
+src="../images/landingpage/abandoned-carts-recovery/a-01.svg" />
+
+</column>
+
+<column size="10" className="p-0">
+
+### Automatically Trigger Cart Recovery Emails
+
+Remind your customers automatically on what they left in the cart with perfectly-timed abandoned cart emails.  Use the automated workflow to win back your lost sales and make it more appealing with a coupon.
+
+</column>
+
+</div>
+
+<br>
+
+<div class="d-flex flex-row">
+
+<column size="2" className="p-0">
+
+<img class="img img-responsive"
+src="../images/landingpage/abandoned-carts-recovery/a-03.svg" />
+
+</column>
+
+<column size="10" className="p-0">
+
+### Let customers recover the cart with a single click
+
+Retainful generates and sends a unique link to each customer to recover their cart with a single click. And it can even automatically apply a coupon. The link directly takes the customer to the checkout and lets him complete the purchase.
+
+</column>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</container>
+
+<container>
+
+<div class="text-center">
+
+## Features to Prevent Cart Abandonment and Recover Abandoned Carts  
+
+</div>
+
+<div class="p-5">
+
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="left">
+
+![](../images/landingpage/abandoned-carts-recovery/a-07.svg)
+
+</div>
+
+<div slot="right">
+
+### Stop Visitors from Abandoning Their Carts
+
+<br>
+
+Prevent visitors from abandoning their shopping carts in the first place. Retainful comes with power-packed features that help prevent cart abandonments from happening and also to capture them later.
+
+<br>
+
+-   Capture the email before checkout using a popup
+    
+-   Use countdown timers to create FOMO and motivate customers to complete their purchase.
+    
+-   Catch the visitor when he tries to exit with the Exit Intent Popup and stop them from abandoning their shopping carts.
+    
+-   When cart abandonment happens, track them and send personalized cart recovery emails.
+
+
+</div>
+
+</featurecontent>
+
+</div>
+
+<div class="p-5">
+
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="right">
+
+![](../images/landingpage/abandoned-carts-recovery/a-08.svg)
+
+</div>
+
+<div slot="left">
+
+### Track Abandoned Carts
+
+<br>
+
+To capture abandoned carts, you need to be able to track them first. And Retainful helps you do just that. Know what's happening with the shopping carts on your store in one single dashboard.
+
+<br>
+
+-   Check abandoned carts in your store in real-time
+    
+-   Find out items left out by the customers in those abandoned carts.
+    
+-   See how much revenue you have recovered from your otherwise lost sales. Also see your cart abandonment rate and value.
+    
+-   Track carts that only matter by using Retainful IP Filtering option. Exclude a single IP, multiple IP's or even a range of IPs
+    
+-   Know when exactly the carts have been abandoned along with the respective visitor's email address.
+
+</div>
+
+</featurecontent>
+
+</div>
+
+<div class="p-5">
+
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="left">
+
+![](../images/landingpage/abandoned-carts-recovery/a-09.svg)
+
+</div>
+
+<div slot="right">
+
+
+### Automated Cart Recovery Email Campaigns
+
+<br>
+
+Automatically send well-timed series of emails to customers to remind them what they left in their carts. Let the customers recover their abandoned carts with a single click and complete the purchase.
+
+<br>
+
+-   Create a series of emails at perfect intervals. You can send unlimited emails
+    
+-   Powerful drag and drop email editor to create beautiful emails in minutes.
+    
+-   Use our existing collection of emails or create your own emails using the drag and drop email builder.
+    
+-   Personalize cart recovery emails by using shortcodes to add customer names along with items they've abandoned.
+    
+-   Send cart recovery emails at regular intervals. The first email can be sent after an hour, the second after 6 hours. It's totally up to you.
+    
+-   Include a unique recovery link for single-click recovery of carts automatically
+    
+-   Send a coupon code to motivate customers to come back and complete their purchase.
+    
+-   Retainful automatically stops sending cart recovery emails when a cart is recovered.
+
+</div>
+
+</featurecontent>
+
+</div>
+
+</container>
+
+<div class="customer-testimonial-section">
+<div class="testimonial-background-primary"></div>
+<div class="testimonial-content container">
+<row class="align-items-center">
+<column size="4">
+<div class="customer-quote">
+<div class="customer-info text-right">
+<div class="user-img">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/reviews/puneetsahalot.jpg"
+class="img-responsive" />
+</div>
+<div>
+<p><strong>Puneet Sahalot</strong></p>
+<p>Founder, IdeaBox Creations</p>
+</div>
+</div>
+</div>
+</column>
+<column size="8">
+<div class="customer-quote">
+<h4>Works like a charm. Perfect for WooCommerce stores.
+Retainful is easy to use with a useful UI. Provides a lot of functionality even with the free
+tier. "Next Order coupon" is a simple and good way to increase the conversions and bring back
+your customers</h4>
+</div>
+</column>
 </row>
-
-</container>
-
-<br>
-<br>
-<br>
-
+</div>
+</div>
+</div>
 
 <container>
 
-<div class="p-5">
+<div class="vip-page">
+<div class="section-container">
+<div class="programs-container-background d-none d-xl-block"></div>
+<div class="row justify-content-center">
+<div class="col-md-10">
+<div class="row text-center justify-content-center">
+<div class="col-lg-8 mb-2">
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+## Store owners also love the following features of Retainful
 
-<div slot="right">
+Retainful helps store owners retain their customers and grow their revenue
 
-## Automatic email reminders
+</div>
+</div>
 
-**Get started IMMEDIATELY with Retainful**
-
-- No need to wait till you draft an email from the scratch! 
-- Use drag and drop feature, no need to code. 
-- Pre-built, responsive email templates gives insights about successful cart recovery emails with ample scope for customization.
-- Starts sending emails after cart gets abandoned
-- Stops sending emails after the cart gets recovered
-- Plus a series of periodically timed automated emails can be automated
-- Enable single-click cart recovery
-
-Automation not just saves your time but gives room for a lot more marketing strategies to be explored.
-
+<div class="row justify-content-center">
+<div class="col-auto mx-1">
+<a class="program-card " href="/programs/points">
+<img style="margin: 0 auto;" class="img img-responsive w-50" alt="" src="../images/landingpage/abandoned-carts-recovery/a-04.svg">
+<div class="title text-default mb-0_5">
+Next Order Coupons
+</div>
+<div class="body text-subdued">
+Drive repeat purchases by sending a unique, single-use coupon code for the next purchase when a customer buys something in your store. Remind them about the coupons later automatically and drive repeat sales.
+</div>
+</a>
+</div>
+<div class="col-auto mx-1">
+<a class="program-card " href="/programs/points">
+<img style="margin: 0 auto;" class="img img-responsive w-50" alt="" src="../images/landingpage/abandoned-carts-recovery/a-05.svg">
+<div class="title text-default mb-0_5">
+Referral Program (coming soon)
+</div>
+<div class="body text-subdued">
+Turn your customers into brand advocates with a Referral program. Let your existing customers bring new sales for your store.
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</container>
 
 </div>
 
-
-<div slot="left">
-
-<img src="../../content/images/landingpage/Abandoned-Cart-Recovery.png"/>
-
-
 </div>
 
-</featurecontent>
-
 </div>
-
-<div class="p-5">
-
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
-
-<div slot="left">
-
-## Unlimited emails
-
-Retainful offers you unlimited emails for abandoned cart recovery.
-Here unlimited refers to both number of mails and designs.
-
--   You can send as many numbers of emails that you prefer to send for abandoned cart recovery.
-    
--   You can design as many designs of emails to be sent.
-
- There is no cost per email.
-Achieve a better outcome with abandoned cart recovery with unlimited number of emails that gives you the uninterrupted freedom to try out which works the best.
-
-
 </div>
+</container>
 
-<div slot="right">
+<container>
 
-
-<img src="../../src/images/Ready-to-Use-Email-Templates.png"/>
-
-
-</div>
-
-</featurecontent>
-
-</div>
-
-<div class="p-5">
-
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
-
-<div slot="right">
-
-
-## Well timed emails
-
-Mails can be well-timed with this abandoned cart recovery app.
-Boost sales using the benefits of well-timed emails because timely actions can reap you immense benefits like following.
-
--   Chances of your email getting noticed increases.
-    
--   Increased chances of getting good responses.
-    
--   A set number of emails has got the potential to result in increased conversions.
-
-Figure out the optimal response yielding factors.
-
-Experiment with numbers and time intervals that should be set for abandoned cart recovery. Thereby increase conversion rates for abandoned cart recovery by setting up well-timed emails.
-
-
-</div>
-
-
-<div slot="left">
-
-<img src="../../content/images/landingpage/Well-timed-emails.png"/>
-
-</div>
-
-
-</featurecontent>
-
-</div>
-
-<div class="p-5">
-
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
-
-<div slot="right">
-
-<img src="../../content/images/landingpage/Personalized-reminders.png"/>
-
-</div>
-
-
-
-
-<div slot="left">
-
-## Personalized reminders
-
-Give the required attention to get back the same.
-
-Create impressive designs along with a tinge of emotional connectivity to get responses for your reminders.
-
--   Identify your niche customers
-    
--   Design unique mails for those particular customers
-    
--   Send mails Personally
-
--   Witness increase in cart abandonment recovery conversion rates
-    
--   Make customers respond quickly
-    
--   Instill trust and emotional connectivity with customers
-
-Humans like responding to human-like advances rather than a machine-generated pre-typed message. Moreover, it impacts psychologically and more people tend to respond.
-
-</div>
-
-
-</featurecontent>
-
-</div>
-
-<div class="p-5">
+<div class="page-how-it-works">
 
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
 <div slot="left">
 
-<img src="../../content/images/landingpage/Capture-abandoned-carts.png"/>
+### Retainful Supports Platforms You Love
+
+
+Just install and connect your store with Retainful
+
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=how_it_works&utm_campaign=get_started_free" target="_blank" class="btn-action">Get started FREE</cta>
 
 </div>
-
-
-
 
 <div slot="right">
 
-## Capture abandoned carts
-It is important to make an effort to fetch data regarding all abandoned carts. 
-
-
-
-Stay updated with your cart behavior and the stats related to it.
-
-- Fetches data like the product abandoned by users. 
-- Fetches data regarding the product details abandoned by all users.
-- Fetches data regarding how many users abandoned how many products
-This helps to measure your business growth.
-
-
+<div class="integrated-store-list">
+<div class="store-module">
+<div class="store-logo">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/shopify-icon.png" class="img-responsive" />
+</div>
+<div class="store-name">
+<h4>Shopify</h4>
+</div>
+</div>
+<div class="store-module">
+<div class="store-logo">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/woo-icon-logo.png" class="img-responsive" />
+</div>
+<div class="store-name">
+<h4>WooCommerce</h4>
+</div>
+</div>
 </div>
 
+</div>
 
 </featurecontent>
 
@@ -259,7 +380,5 @@ This helps to measure your business growth.
 
 </container>
 
-
-<reviews></reviews>
-
-<getstarted></getstarted>
+<getstarted>
+</getstarted>
