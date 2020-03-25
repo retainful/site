@@ -23,6 +23,18 @@ const Menubar = [
                 DESC: 'Learn how Retainful works',
                 LINK: '/how-it-works',
                 SUB_DROPDOWN_MENU: true
+            },
+            {
+                ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/1-04.jpg',
+                TITLE: 'Abandoned Cart Recovery',
+                LINK: '/abandoned-cart-recovery',
+                SUB_DROPDOWN_MENU: true
+            },
+            {
+                ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/2-04.jpg',
+                TITLE: 'Next Order Coupon',
+                LINK: '/next-order-coupon',
+                SUB_DROPDOWN_MENU: true
             }
         ],
         ISMEGAMENU: true

@@ -4,8 +4,7 @@ title: "Next Order Coupon"
 description: "Retainful, a powerful Coupon Generator for WooCommerce & Shopify Stores allows you to send discount coupons to your customers. Automate your eCommerce growth and make customers stick with your business for long!"
 keywords: "Next order coupon, Coupon generator, Smart coupon"
 ---
-
-<div class="p-4" >
+<div class="vip-page">
 
 <container>
 
@@ -13,223 +12,337 @@ keywords: "Next order coupon, Coupon generator, Smart coupon"
 
 <div  slot="left">
 
+#   Next Order Coupon Generator for Shopify & WooCommerce Stores
 
-# Boost Sales by 10X with the Smart Coupon plugin!
+It is ten times more expensive to acquire a customer, rather than retaining your existing customers. Sending a next order coupon is one of the easiest ways to retain your customers and drive repeat purchases. 
 
-Encourage customers to buy repeatedly at your eCommerce store with attractive Next Order Coupons
-
- 
-<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=next_order_coupons&utm_campaign=recover_your_cart&utm_term=cta" target="_blank" rel="noopener">Create Coupon for FREE</cta>
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=abandoned_cart_recovery&utm_campaign=recover_your_cart&utm_term=cta" target="_blank" rel="noopener">Send Smart Coupons for Next Purchase for Free
+</cta>
 
 </div>
 
 <div slot="right">
 
-
-![Placeholder](../../src/images/final-banner-laptop.png)
+![Placeholder](../images/landingpage/next-order-coupon/2-01.jpg)
 
 </div>
-
 
 </headercontent>
 
 </container>
 
-</div>
-
 <container>
 
-<div class="text-center p-5">
+<div class="p-5">
 
-## 1000+ Companies Trust us..
+<div class="p-3 text-center">
+
+## How Next Order Coupons Can Grow Your Revenue
 
 </div>
-
-<row class="justify-content-center">
 
 <br>
 
-<column size="2">
+<div class="p-3">
 
-![Trusted Companies](../../src/images/trusted-logo-1.png)
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="left">
+
+![](../images/landingpage/next-order-coupon/2-02.jpg)
+
+</div>
+
+<div slot="right">
+
+<div class="d-flex flex-row">
+
+<column size="2" className="p-0">
+
+<img class="img img-responsive"
+src="../images/landingpage/next-order-coupon/2-04.jpg" />
 
 </column>
 
-<column size="2">
+<column size="10" className="p-0">
 
-![Trusted Companies](../../src/images/trusted-logo-2.png)
+### Drive Repeat Purchases
 
-</column>
+When customers come back for more, your sales automatically grows and your average Customer Lifetime Revenue increases. Next Order Coupons are a great motivation.
 
-<column size="2">
-
-![Trusted Companies](../../src/images/trusted-logo-3.png)
 
 </column>
 
-</row>
+</div>
+
+<br>
+
+<div class="d-flex flex-row">
+
+<column size="2" className="p-0">
+
+<img class="img img-responsive"
+src="../images/landingpage/next-order-coupon/2-05.jpg" />
+
+</column>
+
+<column size="10" className="p-0">
+
+### Increase Customer Loyalty
+
+Build loyal customers for your store by sending them next order coupons for every purchase they make. That increases the customer engagement and stickiness.
+
+
+</column>
+
+</div>
+
+<br>
+
+<div class="d-flex flex-row">
+
+<column size="2" className="p-0">
+
+<img class="img img-responsive"
+src="../images/landingpage/next-order-coupon/2-03.jpg" />
+
+</column>
+
+<column size="10" className="p-0">
+
+### Increase Brand Awareness
+
+Next order coupons help increase Word-of-Mouth Marketing and bring more customers to your store. 
+
+
+</column>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 </container>
 
-<br>
-<br>
-<br>
-
+<container>
 
 <div class="text-center">
 
-## Retainful is a powerful Coupon Generator for WooCommerce & Shopify Stores
+##  Features to Grow Your Store Revenue 10x Times
 
-Make customers stick with your business for long. Next order coupons will bring back customers to shop at your online store. 
+</div>
 
-What’s your eCommerce platform?
-Connect your Shopify and WooCommerce store in minutes and start boosting your online revenue.
+<div class="p-5">
+
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="left">
+
+![](../images/landingpage/next-order-coupon/2-06.jpg)
+
+</div>
+
+<div slot="right">
+
+### Unlimited Features. Unlimited Growth Opportunities
+
+<br>
+
+Retainful's Next Order Coupon generator comes with power-packed features that help grow your store revenue in multiple ways. Also, make customers stick with your business for long by using next order coupons. 
+
+<br>
+
+-   Automatically generate and send unique next order coupons with every purchase.
+    
+-   Let customers automatically apply the coupon with a single click during their next purchase.
+    
+-   Retainful's next order coupon generator is completely automated - generates and sends coupons automatically when a customer completes a purchase.
+    
+-   Check how much revenue next order coupons have made using real-time reports.
+    
+-   Choose between coupon discount types - percentage/flat discounts.
+    
+-   Manually set next order coupon values and coupon expiry date.
+
+</div>
+
+</featurecontent>
+
+</div>
+
+<div class="p-5">
+
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+
+<div slot="right">
+
+![](../images/landingpage/next-order-coupon/1-05.jpg)
+
+</div>
+
+<div slot="left">
+
+### Automated Email Reminders for Next Order Coupons
+
+<br>
+
+Just don't stop with sending the next order coupons. Customers often forget that they have a coupon waiting for them. Let Retainful automatically remind the customers of their coupon for the next purchase and win more sales for your store.
+
+<br>
+
+-   Perfectly timed emails to remind customers on the coupons waiting for them
+    
+-   Send a series of emails at intervals - Example: First reminder 10 days before expiry of coupon, second reminder 3 days before and third reminder on the day of the expiry
+    
+-   Use our pre-built email templates or create your own
+    
+-   Power drag and drop editor helps you create emails in minutes
+    
+-   Personalise the emails with the customer's name and more.
 
 
 </div>
 
-<br>
-<br>
-<br>
+</featurecontent>
 
-<container> 
-
-<row>
-
-<card size="4">
-   <div slot="card-title">Make your Revenue Big- Grow your store revenue by 10x</div>
-    <div slot="card-image">
-        <img src="../../src/images/Shopify-and-WooCommerce.png" alt="image Here"  />
-    </div>
-    <div slot="card-body"> 
-       Customers are going to shop again at your store using the next order coupon. The more Coupon codes you generate, the more will be your average customer value.Retaining customers will save 5x times the money you spent on Customer acquisition
-    </div>
-</card>
-
-<card size="4">
-   <div slot="card-title">Grow on Auto-pilot- Save time!</div>
-    <div slot="card-image">
-        <img src="../../src/images/Grow-Revenue.png" alt="image Here"  />
-    </div>
-    <div slot="card-body" style="padding-top: 35px;"> 
-        Retainful can automate your eCommerce growth. Put everything on  auto-pilot-  Automatic Coupon Generation, Automatic Coupon sharing and Automatic Report Generation. Cool, right?
-    </div>
-</card>
-
-<card size="4">
-   <div slot="card-title">Auto apply coupon</div>
-    <div slot="card-image">
-        <img src="../../src/images/email-campaign.png" alt="image Here" />
-    </div>
-    <div slot="card-body" style="padding-top: 70px">
-        No more copy-pasting of coupon codes. Click the smart coupon code to auto-apply discount to customer cart.
-    </div>
-</card>
-
-</row>
+</div>
 
 </container>
 
-
-<br>
-<br>
-<br>
+<div class="customer-testimonial-section">
+<div class="testimonial-background-primary"></div>
+<div class="testimonial-content container">
+<row class="align-items-center">
+<column size="4">
+<div class="customer-quote">
+<div class="customer-info text-right">
+<div class="user-img">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/reviews/puneetsahalot.jpg"
+class="img-responsive" />
+</div>
+<div>
+<p><strong>Puneet Sahalot</strong></p>
+<p>Founder, IdeaBox Creations</p>
+</div>
+</div>
+</div>
+</column>
+<column size="8">
+<div class="customer-quote">
+<h4>Works like a charm. Perfect for WooCommerce stores.
+Retainful is easy to use with a useful UI. Provides a lot of functionality even with the free
+tier. "Next Order coupon" is a simple and good way to increase the conversions and bring back
+your customers</h4>
+</div>
+</column>
+</row>
+</div>
+</div>
+</div>
 
 <container>
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+<div class="vip-page">
+<div class="section-container">
+<div class="programs-container-background d-none d-xl-block"></div>
+<div class="row justify-content-center">
+<div class="col-md-10">
+<div class="row text-center justify-content-center">
+<div class="col-lg-8 mb-2">
 
-<div slot="right">
+## Store owners also love the following features of Retainful
 
-## Dynamic Coupon Generation
+Retainful helps store owners retain their customers and grow their revenue
 
-Retainful generates coupon automatically when a customer makes a purchase. Create an unlimited number of unique coupon codes for your WooCommerce and Shopify stores.
+</div>
+</div>
+
+<div class="row justify-content-center">
+<div class="col-auto mx-1">
+<a class="program-card " href="#">
+<img style="margin: 0 auto;" class="img img-responsive w-50" alt="" src="../images/landingpage/next-order-coupon/1-04.svg">
+<div class="title text-default mb-0_5">
+Abandoned Cart Recovery
+</div>
+<div class="body text-subdued">
+Recover abandoned carts and lost sales with Retainful. Stop carts from getting abandoned, track abandoned carts and do more. 
+</div>
+</a>
+</div>
+<div class="col-auto mx-1">
+<a class="program-card" style="padding-bottom:43px;" href="#">
+<img style="margin: 0 auto;" class="img img-responsive w-50" alt="" src="../images/landingpage/abandoned-carts-recovery/a-05.svg">
+<div class="title text-default mb-0_5">
+Referral Program (coming soon)
+</div>
+<div class="body text-subdued">
+Turn your customers into brand advocates with a Referral program. Let your existing customers bring new sales for your store.
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</container>
 
 </div>
 
+</div>
+
+</div>
+</div>
+</container>
+
+<container>
+
+<div class="page-how-it-works">
+
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
 <div slot="left">
 
-<img src="https://raw.githubusercontent.com/retainful/site-images/master/abandoned_cart_recovery_emails.png" width="500" height="350"/>
+### Retainful Supports Platforms You Love
 
+
+Just install and connect your store with Retainful
+
+<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=how_it_works&utm_campaign=get_started_free" target="_blank" class="btn-action">Get started FREE</cta>
+
+</div>
+
+<div slot="right">
+
+<div class="integrated-store-list">
+<div class="store-module">
+<div class="store-logo">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/shopify-icon.png" class="img-responsive" />
+</div>
+<div class="store-name">
+<h4>Shopify</h4>
+</div>
+</div>
+<div class="store-module">
+<div class="store-logo">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/woo-icon-logo.png" class="img-responsive" />
+</div>
+<div class="store-name">
+<h4>WooCommerce</h4>
+</div>
+</div>
+</div>
 
 </div>
 
 </featurecontent>
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
-
-<div slot="left">
-
-## Programmatic Coupon Sharing
-
-Know What!
-Transactional emails receive 8 times more open rate than other email campaigns. Share coupon codes automatically via your transactional order emails and maximize your store revenue.
-
-
 </div>
-
-<div slot="right">
-
-
-<img src="../../src/images/Ready-to-Use-Email-Templates.png" width="500" height="350"/>
-
-
-</div>
-
-</featurecontent>
-
-
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
-
-<div slot="right">
-
-## FOMO triggers Quick Money 
-
-76% of online shoppers love personalized coupon offers from online stores. 
-
-So customers are expecting coupons from you. Set validity for coupon codes and motivate customers to instantly buy at your store. Money made quick and easy!
-
-
-</div>
-
-
-<div slot="left">
-
-<img src="../../src/images/Clean-Report.png" width="500" height="350"/>
-
-</div>
-
-
-</featurecontent>
-
-
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
-
-<div slot="right">
-
-<img src="../../src/images/Priority-support.png" width="500" height="350"/>
-
-</div>
-
-
-
-
-<div slot="left">
-
-## Clean Revenue report
-
-Stay up-to-date with your online revenue. Check real-time reports on how much revenue you made using Next order coupons.
-
-
-</div>
-
-
-</featurecontent>
 
 </container>
 
-
-<reviews></reviews>
-
-<getstarted></getstarted>
+<getstarted>
+</getstarted>
