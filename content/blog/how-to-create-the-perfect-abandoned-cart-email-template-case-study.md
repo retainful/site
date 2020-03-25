@@ -10,7 +10,7 @@ Shopify email templates"
 author: "Sharon Thomas"
 image: "../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/how-to-create-the-perfect-abandoned-cart-email-template-case-study.jpg"
 thumbnail: "../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/how-to-create-the-perfect-abandoned-cart-email-template-case-study.jpg"
-category: 'woocommerce'
+category: 'eCommerce'
 ogtype: blog
 ---
 Celebrities are not the only ones who can have a loyal following. A good out-of-the-world abandoned cart email template also deserves it. You want people subscribing just to receive your emails and eventually <link-text url="https://www.retainful.com/blog/10-proven-ways-to-convert-your-abandoned-cart-website-visitors-into-loyal-customers" target="_blank" rel="noopener">convert into customers</link-text> for a lifetime?
