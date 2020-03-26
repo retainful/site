@@ -278,7 +278,6 @@ increase your conversions.
 <p> <img src="../images/landingpage/pricing-plans-icons/7.svg"> Ready to use, conversion-focussed templates</p>
 <p> <img src="../images/landingpage/pricing-plans-icons/8.svg"> Visual drag and drop email editor</p>
 <p> <img src="../images/landingpage/pricing-plans-icons/9.svg"> Actionable Analytics and Insights</p>
-<p> <img src="../images/landingpage/pricing-plans-icons/10.svg"> Customize all 16 Store Notification Emails (Shopify)</p>
 
 </div>
 

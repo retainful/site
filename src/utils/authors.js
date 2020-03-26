@@ -6,6 +6,12 @@ const authors = [
         'is a content marketer and eCommerce growth hacker with specialization in email marketing, abandoned cart recovery, customer retention, and WooCommerce & Shopify plugins. She also has experience in creating content for education, hospitality, beauty, pregnancy & parenting, and other niches.',
     },
     {
+      name: 'Joel Platini',
+      imageUrl: 'https://raw.githubusercontent.com/retainful/site-images/master/authorImages/JoelPlatini.jpg',
+      bio:
+        'is a Content Writer and Graphic Designer with an immaculate experience in writing keyword enriched content for eCommerce websites. Familiar with WooCommerce plugins he has written how-to guides with elegance and finesse.',
+    },
+    {
       name: 'Deepika',
       imageUrl: 'jane.jpg',
       bio:
