@@ -438,27 +438,42 @@ body {
       ul.productsGroupPrimary {
         display: flex;
         flex-direction: column;
-
+        padding-top: 10px;
+        background: #fff;
+        min-width: 400px;
         li {
           flex: 1 0 auto;
           display: flex;
+          list-style: none;
+          padding: 0 20px;
+          .menu-title{
+            padding: 15px 0 0;
+            text-transform: uppercase;
+            color: #555555;
+            font-size: 13px;
+            letter-spacing: 0.05em;
+            font-weight: 600;
+          }
 
           .linkContainer {
-            padding: 15px 90px 15px 15px;
+            transition: all 0.3s ease 0s;
+            padding: 12px 0;
             flex: 1;
             display: flex;
             align-items: center;
+            border-radius: 4px;
 
             svg,
             img {
-              max-width: 40px;
+              max-width: 35px;
               width: 100%;
               height: auto;
+              margin-left: 10px;
             }
 
             .productLinkContent {
               flex: 1;
-              margin-left: 18px;
+              margin-left: 10px;
               display: flex;
               flex-direction: column;
               justify-content: center;
@@ -466,54 +481,44 @@ body {
               .linkTitle {
                 margin: 0;
                 color: #4a4a4a;
-                font-size: 16px;
+                font-size: 18px;
                 line-height: 22px;
-                text-transform: uppercase;
-                font-weight: 600;
-                letter-spacing: .025em;
+                text-transform: capitalize;
+                font-weight: 500;
               }
 
               .linkSub {
                 font-size: 15px;
                 line-height: 22px;
                 color: #6b7c93;
-                margin: 5px 0 0;
                 display: block;
-                white-space: nowrap;
               }
             }
 
             &:hover {
+              background-color: #F2F4F7;
               text-decoration: none;
-              color: $primary;
-
-              .linkTitle {
-                color: $primary;
-              }
             }
           }
-          .submenu{
-            background: #5f97ce;
-            padding: 20px 0;
-            .linkContainer{
-              svg,
-            img{
-              max-width: 40px;
-              width: 100%;
-              height: auto;
+          &.submenu{
+            background: #f6f9fc;
+            padding: 10px 20px;
+            display: block;
+            margin-top: 10px;
+            li{
+              display: block;
+              padding: 0;
             }
+            .linkContainer{
               .productLinkContent{
                 margin-left: 15px;
-                display: inline-flex;
-                align-items: center;
-                flex-direction: row;
-                justify-content: flex-start;
                 .linkTitle{
                   white-space: nowrap;
                   margin-right: 10px;
                 }
                 .linkSub{
                   margin: 0;
+                  font-size: 13px;
                 }
               }
             }
