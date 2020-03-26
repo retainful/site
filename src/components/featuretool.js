@@ -6,9 +6,11 @@ import {groupBy} from "lodash";
 const FeatureContent = (props) => {
     const childrenArray = React.Children.toArray(props.children);
     const slottedChildren = groupBy(childrenArray, 'props.slot');
-    const featureBodySizeLeft = `col-md-${props.featurebodysizeleft}`
-    const featureBodySizeRight = `col-md-${props.featurebodysizerigth}`
+    const featureBodySizeLeft = `col-md-${props.featurebodysizeleft} ${props.orderleft}`
+    const featureBodySizeRight = `col-md-${props.featurebodysizerigth} ${props.orderright}`
     const cardClass = `features-list`;
+
+    console.log(props);
 
     return (
    
@@ -16,18 +18,18 @@ const FeatureContent = (props) => {
             <div className="row align-items-center">  
             {/*Left Side Content Begins */}
             <div className ={featureBodySizeLeft}>
-                    <div className="feature-left-content">{slottedChildren["left"]}</div>
-                </div>
+                    {slottedChildren["left"]}
+            </div>
                 {/*Left Side Content Ends */}
 
                 {/*Right Side Content Begins */}
                 <div className={featureBodySizeRight}>
-                    <div className="header-right-content">{slottedChildren["right"]}</div>
-
+                    {slottedChildren["right"]}
                 </div>
                 {/*Right Side Content Ends */}
             </div> {/*Row Close */}
-{/*Feature  Close */} </div> 
+{/*Feature  Close */} 
+</div> 
         );
     }
 

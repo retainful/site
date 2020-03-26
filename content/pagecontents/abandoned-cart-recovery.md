@@ -23,7 +23,7 @@ Reduce cart abandonment and grow your revenue effortlessly. Automatically send c
 
 <div slot="right">
 
-![Placeholder](../images/landingpage/abandoned-carts-recovery/Cart.jpg)
+![Abandoned cart recovery](../images/landingpage/abandoned-carts-recovery/Cart.jpg)
 
 </div>
 
@@ -132,7 +132,7 @@ Prevent visitors from abandoning their shopping carts in the first place. Retain
 
 <div class="p-5">
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6" orderleft="order-two" orderright="order-one">
 
 <div slot="right">
 
