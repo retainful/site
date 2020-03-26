@@ -41,82 +41,45 @@ Reduce cart abandonment and grow your revenue effortlessly. Automatically send c
 
 </div>
 
-<br>
-
 <div class="p-3">
 
 <featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
 
-<div slot="left">
+<div slot="left" class="feature-step-image">
 
 ![](../images/landingpage/abandoned-carts-recovery/a-06.svg)
 
 </div>
 
-<div slot="right">
+<div slot="right" class="step-container">
 
-<div class="d-flex flex-row">
+<div class="step-list">
 
-<column size="2" className="p-0">
-
-<img class="img img-responsive"
-src="../images/landingpage/abandoned-carts-recovery/a-02.svg"/>
-
-</column>
-
-<column size="10" className="p-0">
-
-### Track Abandoned Carts 
+#### Track Abandoned Carts 
 
 Retainful tracks every single cart in your store without adding any additional overheads to your resources. Its powerful Javascript tracker can track carts and capture the email in real-time and report in your dashboard. 
 
-</column>
-
 </div>
 
-<br>
+<div class="step-list">
 
-<div class="d-flex flex-row">
-
-<column size="2" className="p-0">
-
-<img class="img img-responsive"
-src="../images/landingpage/abandoned-carts-recovery/a-01.svg" />
-
-</column>
-
-<column size="10" className="p-0">
-
-### Automatically Trigger Cart Recovery Emails
+#### Automatically Trigger Cart Recovery Emails
 
 Remind your customers automatically on what they left in the cart with perfectly-timed abandoned cart emails.  Use the automated workflow to win back your lost sales and make it more appealing with a coupon.
 
-</column>
-
 </div>
 
-<br>
+<div class="step-list">
 
-<div class="d-flex flex-row">
-
-<column size="2" className="p-0">
-
-<img class="img img-responsive"
-src="../images/landingpage/abandoned-carts-recovery/a-03.svg" />
-
-</column>
-
-<column size="10" className="p-0">
-
-### Let customers recover the cart with a single click
+#### Let customers recover the cart with a single click
 
 Retainful generates and sends a unique link to each customer to recover their cart with a single click. And it can even automatically apply a coupon. The link directly takes the customer to the checkout and lets him complete the purchase.
 
-</column>
-
 </div>
 
 </div>
+
+</featurecontent>
 
 </div>
 

@@ -11,7 +11,7 @@ const LandingPage = () => {
             render = {data => {
                 return (
                   <>
-                    <Layout>
+                    <Layout className="abandoned-cart-page">
                     <Post
                       title = {data.markdownRemark.frontmatter.title}
                       description = {data.markdownRemark.frontmatter.description}
