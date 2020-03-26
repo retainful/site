@@ -1245,6 +1245,9 @@ body {
   .features-list {
     ul {
       padding: 5px 50px !important;
+    @media (max-width:768px) {
+      padding: 5px  !important;  
+      }
     }
   }
 
@@ -6346,5 +6349,24 @@ margin-right: 18px;
 .template-container{
   li{
     list-style:none;
+  }
+}
+
+/** Flex Order **/
+
+.order-one{
+  -ms-flex-order: 2 !important;
+  order: 2 !important;
+  @media (max-width:768px) {
+    -ms-flex-order: 1 !important;
+    order:1 !important;
+  }
+}
+  .order-two{
+    -ms-flex-order: 1 !important;
+    order: 1 !important;
+    @media (max-width:768px) {
+    -ms-flex-order: 2 !important;
+    order:2 !important;
   }
 }

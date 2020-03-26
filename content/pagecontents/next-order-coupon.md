@@ -55,73 +55,73 @@ It is ten times more expensive to acquire a customer, rather than retaining your
 
 <div slot="right">
 
-<div class="d-flex flex-row">
+<row>
 
-<column size="2" className="p-0">
+<column size="2" className="p-0 order-1">
 
 <img class="img img-responsive"
 src="../images/landingpage/next-order-coupon/2-04.jpg" />
 
 </column>
 
-<column size="10" className="p-0">
+<column size="10" className="p-0 order-2">
 
 ### Drive Repeat Purchases
 
 When customers come back for more, your sales automatically grows and your average Customer Lifetime Revenue increases. Next Order Coupons are a great motivation.
 
-
 </column>
 
-</div>
+</row>
+
+
 
 <br>
 
-<div class="d-flex flex-row">
+<row>
 
-<column size="2" className="p-0">
+<column size="2" className="p-0 order-1">
 
 <img class="img img-responsive"
 src="../images/landingpage/next-order-coupon/2-05.jpg" />
 
+
 </column>
 
-<column size="10" className="p-0">
+<column size="10" className="p-0 order-2">
 
 ### Increase Customer Loyalty
 
 Build loyal customers for your store by sending them next order coupons for every purchase they make. That increases the customer engagement and stickiness.
 
-
 </column>
 
-</div>
+</row>
 
 <br>
 
-<div class="d-flex flex-row">
+<row>
 
-<column size="2" className="p-0">
+<column size="2" className="p-0 order-1">
 
 <img class="img img-responsive"
-src="../images/landingpage/next-order-coupon/2-03.jpg" />
+src="../images/landingpage/abandoned-carts-recovery/a-03.svg" />
 
 </column>
 
-<column size="10" className="p-0">
+<column size="10" className="p-0 order-2">
 
 ### Increase Brand Awareness
 
 Next order coupons help increase Word-of-Mouth Marketing and bring more customers to your store. 
 
-
 </column>
 
-</div>
+</row>
 
 </div>
 
-</div>
+</featurecontent>
 
 </div>
 
@@ -129,7 +129,7 @@ Next order coupons help increase Word-of-Mouth Marketing and bring more customer
 
 <container>
 
-<div class="text-center">
+<div class="mt-3 text-center">
 
 ##  Features to Grow Your Store Revenue 10x Times
 
@@ -175,7 +175,7 @@ Retainful's Next Order Coupon generator comes with power-packed features that he
 
 <div class="p-5">
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6" orderleft="order-two" orderright="order-one">
 
 <div slot="right">
 

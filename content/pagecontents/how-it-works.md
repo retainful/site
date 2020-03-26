@@ -34,27 +34,27 @@ Retainful helps stores recover lost sales and drive revenue 10x times. Install R
 <div class="customer-testimonial-section">
 <div class="testimonial-background-primary"></div>
 <div class="testimonial-content container">
-    <row class="align-items-center">
-        <column size="4">
-            <div class="customer-quote">
-                <div class="customer-info text-right">
-                    <div class="user-img">
-                        <img src="https://raw.githubusercontent.com/retainful/site-images/master/reviews/puneetsahalot.jpg" class="img-responsive" />
-                    </div>
-                    <div>
-                        <p><strong>Puneet Sahalot</strong></p>
-                        <p>Founder, IdeaBox Creations</p>
-                    </div>
-                </div>
-            </div>
-        </column>
-        <column size="8">
-            <div class="customer-quote">
-                <h4>Works like a charm. Perfect for WooCommerce stores.
+<row class="align-items-center">
+<column size="4">
+<div class="customer-quote">
+<div class="customer-info text-right">
+<div class="user-img">
+<img src="https://raw.githubusercontent.com/retainful/site-images/master/reviews/puneetsahalot.jpg" class="img-responsive" />
+</div>
+<div>
+<p><strong>Puneet Sahalot</strong></p>
+<p>Founder, IdeaBox Creations</p>
+</div>
+</div>
+</div>
+</column>
+<column size="8">
+<div class="customer-quote">
+<h4>Works like a charm. Perfect for WooCommerce stores.
 Retainful is easy to use with a useful UI. Provides a lot of functionality even with the free tier. "Next Order coupon" is a simple and good way to increase the conversions and bring back your customers</h4>
-            </div>
-        </column>
-    </row>
+</div>
+</column>
+</row>
 </div>
 </div>
 
@@ -121,7 +121,7 @@ Retainful tracks abandoned carts automatically and captures the customer's email
 
 </featurecontent>
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6" orderleft="order-two" orderright="order-one">
 
 <div slot="right">
 
@@ -191,20 +191,25 @@ Customers buys a product from your store successfully.
 
 </featurecontent>
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6" orderleft="order-two" orderright="order-one">
 
 <div slot="right">
+
 
 <img src="../images/landingpage/how-it-works/next-order-coupon-is-generated-automatically.svg" class="img-responsive" width="500" height="350"/>
 
 </div>
 
+
 <div slot="left">
+
+<div class="order-2">
 
 ## Next Order Coupon is generated Automatically
 
 Retainful generates a unique, single-use coupon for the next purchase of the customer. The coupon is included in the "Order notification email" itself.
 
+</div>
 
 </div>
 

@@ -23,7 +23,7 @@ Reduce cart abandonment and grow your revenue effortlessly. Automatically send c
 
 <div slot="right">
 
-![Placeholder](../images/landingpage/abandoned-carts-recovery/Cart.jpg)
+![Abandoned cart recovery](../images/landingpage/abandoned-carts-recovery/Cart.jpg)
 
 </div>
 
@@ -55,16 +55,16 @@ Reduce cart abandonment and grow your revenue effortlessly. Automatically send c
 
 <div slot="right">
 
-<div class="d-flex flex-row">
+<row>
 
-<column size="2" className="p-0">
+<column size="2" className="p-0 order-1">
 
 <img class="img img-responsive"
-src="../images/landingpage/abandoned-carts-recovery/a-02.svg"/>
+src="../images/landingpage/abandoned-carts-recovery/a-02.svg" />
 
 </column>
 
-<column size="10" className="p-0">
+<column size="10" className="p-0 order-2">
 
 ### Track Abandoned Carts 
 
@@ -72,20 +72,23 @@ Retainful tracks every single cart in your store without adding any additional o
 
 </column>
 
-</div>
+</row>
+
+
 
 <br>
 
-<div class="d-flex flex-row">
+<row>
 
-<column size="2" className="p-0">
+<column size="2" className="p-0 order-1">
 
 <img class="img img-responsive"
 src="../images/landingpage/abandoned-carts-recovery/a-01.svg" />
 
+
 </column>
 
-<column size="10" className="p-0">
+<column size="10" className="p-0 order-2">
 
 ### Automatically Trigger Cart Recovery Emails
 
@@ -93,20 +96,20 @@ Remind your customers automatically on what they left in the cart with perfectly
 
 </column>
 
-</div>
+</row>
 
 <br>
 
-<div class="d-flex flex-row">
+<row>
 
-<column size="2" className="p-0">
+<column size="2" className="p-0 order-1">
 
 <img class="img img-responsive"
 src="../images/landingpage/abandoned-carts-recovery/a-03.svg" />
 
 </column>
 
-<column size="10" className="p-0">
+<column size="10" className="p-0 order-2">
 
 ### Let customers recover the cart with a single click
 
@@ -114,9 +117,11 @@ Retainful generates and sends a unique link to each customer to recover their ca
 
 </column>
 
-</div>
+</row>
 
 </div>
+
+</featurecontent>
 
 </div>
 
@@ -169,7 +174,7 @@ Prevent visitors from abandoning their shopping carts in the first place. Retain
 
 <div class="p-5">
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6" orderleft="order-two" orderright="order-one">
 
 <div slot="right">
 
