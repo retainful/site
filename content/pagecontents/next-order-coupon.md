@@ -55,72 +55,33 @@ target="_blank" rel="noopener">Send Smart Coupons for Next Purchase for Free
 
 </div>
 
-<div slot="right">
+<div slot="right" class="step-container">
 
-<row>
+<div class="step-list">
 
-<column size="2" className="p-0 order-1">
-
-<img class="img img-responsive" src="../images/landingpage/next-order-coupon/2-04.jpg" />
-
-</column>
-
-<column size="10" className="p-0 order-2">
-
-### Drive Repeat Purchases
+#### Drive Repeat Purchases 
 
 When customers come back for more, your sales automatically grows and your average
-Customer Lifetime Revenue increases. Next Order Coupons are a great motivation.
+Customer Lifetime Revenue increases. Next Order Coupons are a great motivation. 
 
-</column>
+</div>
 
-</row>
+<div class="step-list">
 
-
-
-<br>
-
-<row>
-
-<column size="2" className="p-0 order-1">
-
-<img class="img img-responsive" src="../images/landingpage/next-order-coupon/2-05.jpg" />
-
-
-</column>
-
-<column size="10" className="p-0 order-2">
-
-### Increase Customer Loyalty
+#### Increase Customer Loyalty
 
 Build loyal customers for your store by sending them next order coupons for every
 purchase they make. That increases the customer engagement and stickiness.
 
-</column>
+</div>
 
-</row>
+<div class="step-list">
 
-<br>
+#### Increase Brand Awareness
 
-<row>
+Next order coupons help increase Word-of-Mouth Marketing and bring more customers to your store.
 
-<column size="2" className="p-0 order-1">
-
-<img class="img img-responsive"
-src="../images/landingpage/abandoned-carts-recovery/a-03.svg" />
-
-</column>
-
-<column size="10" className="p-0 order-2">
-
-### Increase Brand Awareness
-
-Next order coupons help increase Word-of-Mouth Marketing and bring more customers to
-your store.
-
-</column>
-
-</row>
+</div>
 
 </div>
 
