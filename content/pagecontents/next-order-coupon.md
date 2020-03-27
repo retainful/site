@@ -25,7 +25,7 @@ target="_blank" rel="noopener">Send Smart Coupons for Next Purchase for Free
 
 <div slot="right">
 
-![Send Smart Coupons for Next Purchase](../images/landingpage/next-order-coupon/2-01.jpg)
+![Send Smart Coupons for Next Purchase](../images/landingpage/next-order-coupon/2-01.svg)
 
 </div>
 
@@ -51,7 +51,7 @@ target="_blank" rel="noopener">Send Smart Coupons for Next Purchase for Free
 
 <div slot="left">
 
-![](../images/landingpage/next-order-coupon/2-02.jpg)
+![](../images/landingpage/next-order-coupon/2-02.svg)
 
 </div>
 
@@ -61,7 +61,7 @@ target="_blank" rel="noopener">Send Smart Coupons for Next Purchase for Free
 
 <column size="2" className="p-0 order-1">
 
-<img class="img img-responsive" src="../images/landingpage/next-order-coupon/2-04.jpg" />
+<img class="img img-responsive" src="../images/landingpage/next-order-coupon/2-04.svg" />
 
 </column>
 
@@ -84,7 +84,7 @@ Customer Lifetime Revenue increases. Next Order Coupons are a great motivation.
 
 <column size="2" className="p-0 order-1">
 
-<img class="img img-responsive" src="../images/landingpage/next-order-coupon/2-05.jpg" />
+<img class="img img-responsive" src="../images/landingpage/next-order-coupon/2-05.svg" />
 
 
 </column>
@@ -146,7 +146,7 @@ your store.
 
 <div slot="left">
 
-![](../images/landingpage/next-order-coupon/2-06.jpg)
+![](../images/landingpage/next-order-coupon/2-06.svg)
 
 </div>
 
@@ -187,7 +187,7 @@ automatically when a customer completes a purchase.
 
 <div slot="right">
 
-![](../images/landingpage/next-order-coupon/1-05.jpg)
+![](../images/landingpage/next-order-coupon/1-05.svg)
 
 </div>
 
