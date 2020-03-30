@@ -8,14 +8,20 @@ const Menubar = [
                 MENUTITLE: 'Product'
             },
             {
-                ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/1-04.jpg',
+                ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/1-04.png',
                 TITLE: 'Abandoned Cart Recovery',
                 LINK: '/abandoned-cart-recovery',
             },
             {
-                ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/2-04.jpg',
+                ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/2-04.png',
                 TITLE: 'Next Order Coupon',
                 LINK: '/next-order-coupon',
+            },
+            {
+                ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/referral-marketing.png',
+                TITLE: 'Referral Marketing',
+                DESC: '(Coming Soon)',
+                LINK: '/referral-marketing',
             },
             {
                 ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/icon.png',

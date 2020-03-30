@@ -76,8 +76,6 @@ Customer Lifetime Revenue increases. Next Order Coupons are a great motivation.
 
 </row>
 
-
-
 <br>
 
 <row>
@@ -275,7 +273,7 @@ Retainful helps store owners retain their customers and grow their revenue
 
 <div class="row justify-content-center">
 <div class="col-auto mx-1">
-<a class="program-card " href="#">
+<a class="program-card " href="/abandoned-cart-recovery">
 <img style="margin: 0 auto;" class="img img-responsive w-50" alt=""
 src="../images/landingpage/next-order-coupon/1-04.svg">
 <div class="title text-default mb-0_5">
@@ -288,7 +286,7 @@ abandoned, track abandoned carts and do more.
 </a>
 </div>
 <div class="col-auto mx-1">
-<a class="program-card" style="padding-bottom:43px;" href="#">
+<a class="program-card" style="padding-bottom:43px;" href="/referral-marketing">
 <img style="margin: 0 auto;" class="img img-responsive w-50" alt=""
 src="../images/landingpage/abandoned-carts-recovery/a-05.svg">
 <div class="title text-default mb-0_5">
@@ -324,7 +322,6 @@ customers bring new sales for your store.
 <div slot="left">
 
 ### Retainful Supports Platforms You Love
-
 
 Just install and connect your store with Retainful
 
@@ -364,5 +361,3 @@ class="img-responsive" />
 
 </container>
 
-<getstarted>
-</getstarted>
