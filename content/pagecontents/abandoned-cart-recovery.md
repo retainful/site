@@ -261,7 +261,7 @@ Retainful helps store owners retain their customers and grow their revenue
 
 <div class="row justify-content-center">
 <div class="col-auto mx-1">
-<a class="program-card " href="#">
+<a class="program-card " href="/next-order-coupon">
 <img style="margin: 0 auto;" class="img img-responsive w-50" alt="" src="../images/landingpage/abandoned-carts-recovery/a-04.svg">
 <div class="title text-default mb-0_5">
 Next Order Coupons
@@ -272,7 +272,7 @@ Drive repeat purchases by sending a unique, single-use coupon code for the next 
 </a>
 </div>
 <div class="col-auto mx-1">
-<a class="program-card" style="padding-bottom: 106px" href="#">
+<a class="program-card" style="padding-bottom: 106px" href="/referral-marketing">
 <img style="margin: 0 auto;" class="img img-responsive w-50" alt="" src="../images/landingpage/abandoned-carts-recovery/a-05.svg">
 <div class="title text-default mb-0_5">
 Referral Program (coming soon)
@@ -342,6 +342,3 @@ Just install and connect your store with Retainful
 </div>
 
 </container>
-
-<getstarted>
-</getstarted>

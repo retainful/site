@@ -60,7 +60,7 @@ With Retainful, offer <link-text url="https://www.retainful.com/blog/how-to-prov
     
  -   Includes the next order in the order confirmation email.
     
- -   Both falt amount, percentage coupons are available.
+ -   Flat percentage coupons are available.
     
  -   You can drive repeated purchase with next order coupons.
       

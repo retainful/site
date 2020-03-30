@@ -11,153 +11,262 @@ class fashionTemplates extends Component {
       <section className="mt-5" id="fashion">
         <h2 className="pb-3">Fashion</h2>
         <Row>
-          <Col size="4">
-            <div className="template-item">
-              <div className="template-image">
-                <img
-                  className="img img-responsive"
-                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/fashion/Fabletics.jpg"
-                />
-              </div>
-              <button
-                className="btn btn-primary template-preview-btn"
-                type="button"
-                onClick={() =>
-                  this.props.loadImageModal(
-                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/fashion/Fabletics.jpg'
-                  )
-                }
-              >
-                Preview
-              </button>
+        <Col size="4">
+        <div className="template-item">
+            <div className="template-image">
+                <img className="img img-responsive"
+                    src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/Fabletics.jpg" />
             </div>
-          </Col>
-          <Col size="4">
-            <div className="template-item">
-              <div className="template-image">
-                <img
-                  className="img img-responsive"
-                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/fashion/Sunski.jpg"
-                />
-              </div>
-              <button
-                className="btn btn-primary template-preview-btn"
-                type="button"
-                onClick={() =>
-                  this.props.loadImageModal(
-                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/fashion/Sunski.jpg'
-                  )
+            <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+                this.props.loadImageModal(
+                'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/Fabletics.jpg'
+                )
                 }
-              >
+                >
                 Preview
-              </button>
+            </button>
+        </div>
+        </Col>
+        <Col size="4">
+        <div className="template-item">
+            <div className="template-image">
+                <img className="img img-responsive"
+                    src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/Sunski.jpg" />
             </div>
-          </Col>
-          <Col size="4">
-            <div className="template-item">
-              <div className="template-image">
-                <img
-                  className="img img-responsive"
-                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/fashion/abandoned-cart-email-template-american-giant-1.png"
-                />
-              </div>
-              <button
-                className="btn btn-primary template-preview-btn"
-                type="button"
-                onClick={() =>
-                  this.props.loadImageModal(
-                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/fashion/abandoned-cart-email-template-american-giant-1.png'
-                  )
+            <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+                this.props.loadImageModal(
+                'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/Sunski.jpg'
+                )
                 }
-              >
+                >
                 Preview
-              </button>
+            </button>
+        </div>
+        </Col>
+        <Col size="4">
+        <div className="template-item">
+            <div className="template-image">
+                <img className="img img-responsive"
+                    src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/abandoned-cart-email-template-american-giant-1.png" />
             </div>
-          </Col>
-          <Col size="4">
-            <div className="template-item">
-              <div className="template-image">
-                <img
-                  className="img img-responsive"
-                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/BeautyBay.jpg"
-                />
-              </div>
-              <button
-                className="btn btn-primary template-preview-btn"
-                type="button"
-                onClick={() =>
-                  this.props.loadImageModal(
-                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/BeautyBay.jpg'
-                  )
+            <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+                this.props.loadImageModal(
+                'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/abandoned-cart-email-template-american-giant-1.png'
+                )
                 }
-              >
+                >
                 Preview
-              </button>
+            </button>
+        </div>
+        </Col>
+        <Col size="4">
+        <div className="template-item">
+            <div className="template-image">
+                <img className="img img-responsive"
+                    src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/abandoned-cart-email-from-cath-kidston.png" />
             </div>
-          </Col>
-          <Col size="4">
-            <div className="template-item">
-              <div className="template-image">
-                <img
-                  className="img img-responsive"
-                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/asos-cart-abadonment-1.png"
-                />
-              </div>
-              <button
-                className="btn btn-primary template-preview-btn"
-                type="button"
-                onClick={() =>
-                  this.props.loadImageModal(
-                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/asos-cart-abadonment-1.png'
-                  )
+            <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+                this.props.loadImageModal(
+                'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/abandoned-cart-email-from-cath-kidston.png'
+                )
                 }
-              >
+                >
                 Preview
-              </button>
+            </button>
+        </div>
+        </Col>
+        <Col size="4">
+        <div className="template-item">
+            <div className="template-image">
+                <img className="img img-responsive"
+                    src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/asos-cart-abadonment-1.png" />
             </div>
-          </Col>
-          <Col size="4">
-            <div className="template-item">
-              <div className="template-image">
-                <img
-                  className="img img-responsive"
-                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Bombas.jpg"
-                />
-              </div>
-              <button
-                className="btn btn-primary template-preview-btn"
-                type="button"
-                onClick={() =>
-                  this.props.loadImageModal(
-                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/Bombas.jpg'
-                  )
+            <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+                this.props.loadImageModal(
+                'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/asos-cart-abadonment-1.png'
+                )
                 }
-              >
+                >
                 Preview
-              </button>
+            </button>
+        </div>
+        </Col>
+        <Col size="4">
+        <div className="template-item">
+            <div className="template-image">
+                <img className="img img-responsive"
+                    src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/Bombas.jpg" />
             </div>
-          </Col>
-          <Col size="4">
-            <div className="template-item">
-              <div className="template-image">
-                <img
-                  className="img img-responsive"
-                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/chubbies-abandoned-cart-email-2.png"
-                />
-              </div>
-              <button
-                className="btn btn-primary template-preview-btn"
-                type="button"
-                onClick={() =>
-                  this.props.loadImageModal(
-                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/chubbies-abandoned-cart-email-2.png'
-                  )
+            <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+                this.props.loadImageModal(
+                'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/Bombas.jpg'
+                )
                 }
-              >
+                >
                 Preview
-              </button>
+            </button>
+        </div>
+        </Col>
+        <Col size="4">
+        <div className="template-item">
+            <div className="template-image">
+                <img className="img img-responsive"
+                    src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/chubbies-abandoned-cart-email-2.png" />
             </div>
-          </Col>
+            <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+                this.props.loadImageModal(
+                'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/chubbies-abandoned-cart-email-2.png'
+                )
+                }
+                >
+                Preview
+            </button>
+        </div>
+        </Col>
+        <Col size="4">
+<div className="template-item">
+    <div className="template-image">
+        <img className="img img-responsive"
+            src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/abandoned-cart-email.png" />
+    </div>
+    <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+        this.props.loadImageModal(
+        'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/abandoned-cart-email.png'
+        )
+        }
+        >
+        Preview
+    </button>
+</div>
+</Col>
+<Col size="4">
+<div className="template-item">
+    <div className="template-image">
+        <img className="img img-responsive"
+            src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/christopher-and-banks.png" />
+    </div>
+    <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+        this.props.loadImageModal(
+        'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/christopher-and-banks.png'
+        )
+        }
+        >
+        Preview
+    </button>
+</div>
+</Col>
+<Col size="4">
+<div className="template-item">
+    <div className="template-image">
+        <img className="img img-responsive"
+            src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/email-case-study-indochino-cart-recovery-email.png" />
+    </div>
+    <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+        this.props.loadImageModal(
+        'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/email-case-study-indochino-cart-recovery-email.png'
+        )
+        }
+        >
+        Preview
+    </button>
+</div>
+</Col>
+<Col size="4">
+<div className="template-item">
+    <div className="template-image">
+        <img className="img img-responsive"
+            src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/how-automation-can-take-your-email-to-the-next.png" />
+    </div>
+    <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+        this.props.loadImageModal(
+        'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/how-automation-can-take-your-email-to-the-next.png'
+        )
+        }
+        >
+        Preview
+    </button>
+</div>
+</Col>
+<Col size="4">
+<div className="template-item">
+    <div className="template-image">
+        <img className="img img-responsive"
+            src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/email-marketing-emaildesign-emailmarketing.jpeg" />
+    </div>
+    <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+        this.props.loadImageModal(
+        'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/email-marketing-emaildesign-emailmarketing.jpeg'
+        )
+        }
+        >
+        Preview
+    </button>
+</div>
+</Col>
+<Col size="4">
+<div className="template-item">
+    <div className="template-image">
+        <img className="img img-responsive"
+            src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/items-are-waiting-and-waiting-and-waiting-in.jpeg" />
+    </div>
+    <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+        this.props.loadImageModal(
+        'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/items-are-waiting-and-waiting-and-waiting-in.jpeg'
+        )
+        }
+        >
+        Preview
+    </button>
+</div>
+</Col>
+<Col size="4">
+<div className="template-item">
+    <div className="template-image">
+        <img className="img img-responsive"
+            src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/long-time-no-see-see-what-we've-been-up-to.jpeg" />
+    </div>
+    <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+        this.props.loadImageModal(
+        "https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/long-time-no-see-see-what-we've-been-up-to.jpeg"
+        )
+        }
+        >
+        Preview
+    </button>
+</div>
+</Col>
+<Col size="4">
+<div className="template-item">
+    <div className="template-image">
+        <img className="img img-responsive"
+            src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/nordstom-subject-you're-so-close-these-items-are.png" />
+    </div>
+    <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+        this.props.loadImageModal(
+        "https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/nordstom-subject-you're-so-close-these-items-are.png"
+        )
+        }
+        >
+        Preview
+    </button>
+</div>
+</Col>
+<Col size="4">
+<div className="template-item">
+    <div className="template-image">
+        <img className="img img-responsive"
+            src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/Screenshot-4.png" />
+    </div>
+    <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+        this.props.loadImageModal(
+        'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/Screenshot-4.png'
+        )
+        }
+        >
+        Preview
+    </button>
+</div>
+</Col>
         </Row>
       </section>
     )

@@ -6626,13 +6626,13 @@ $i: 0;
       .template-preview-btn{
         position: absolute;
         opacity: 0;
-        background: #81ca28;
-        border-color: #81ca28;
+        background: $primary;
+        border-color: $primary;
         padding: 10px 30px;
         font-weight: 600;
         &:hover{
-          background: #60a011;
-          border-color: #60a011;
+          background: $primary;
+          border-color: $primary;
         }
       }
     }
