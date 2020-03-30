@@ -17,7 +17,7 @@ It is ten times more expensive to acquire a customer, rather than retaining your
 Sending a next order coupon is one of the easiest ways to retain your customers and drive repeat
 purchases.
 
-<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=abandoned_cart_recovery&utm_campaign=recover_your_cart&utm_term=cta"
+<cta url="https://app.retainful.com/"
 target="_blank" rel="noopener">Send Smart Coupons for Next Purchase for Free
 </cta>
 
@@ -325,7 +325,7 @@ customers bring new sales for your store.
 
 Just install and connect your store with Retainful
 
-<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=how_it_works&utm_campaign=get_started_free"
+<cta url="https://app.retainful.com/"
 target="_blank" class="btn-action">Get started FREE</cta>
 
 </div>

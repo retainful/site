@@ -16,7 +16,7 @@ Turn your existing customers into brand advocates and grow your Word-of-Mouth sa
 costs. Reward your customers for each successful referral and increase your engagement, while boosting sales
 organically.
 
-<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=abandoned_cart_recovery&utm_campaign=recover_your_cart&utm_term=cta"
+<cta url="https://app.retainful.com/"
 target="_blank" rel="noopener">
 GET STARTED
 </cta>
@@ -405,7 +405,7 @@ later automatically and drive repeat sales.
 
 Just install and connect your store with Retainful
 
-<cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=how_it_works&utm_campaign=get_started_free" target="_blank" class="btn-action">Get started FREE</cta>
+<cta url="https://app.retainful.com/" target="_blank" class="btn-action">Get started FREE</cta>
 
 </div>
 

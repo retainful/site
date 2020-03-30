@@ -6411,6 +6411,9 @@ $i: 0;
     margin-bottom: 1.25rem;
   }
   .program-card:hover {
+    .title{
+      color:$primary;
+    }
     text-decoration: none;
     box-shadow: 1px 6px 14px 1px rgba(0, 0, 0, 0.18);
   }
