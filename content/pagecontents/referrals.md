@@ -1,6 +1,6 @@
 ---
-path: "/referral-marketing"
-title: "Referral Marketing"
+path: "/referrals"
+title: "Referrals"
 description: "Motivate your loyal customers to become brand advocates by engaging them with Retainful Referral Program. Reward both new customers, existing customers and grow your store revenue seamlessly."
 keywords : "WooCommerce referral plugin, Shopify referral app"
 ---

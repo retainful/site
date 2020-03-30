@@ -272,10 +272,10 @@ Drive repeat purchases by sending a unique, single-use coupon code for the next 
 </a>
 </div>
 <div class="col-auto mx-1">
-<a class="program-card" style="padding-bottom: 106px" href="/referral-marketing">
+<a class="program-card" style="padding-bottom: 106px" href="/referrals">
 <img style="margin: 0 auto;" class="img img-responsive w-50" alt="" src="../images/landingpage/abandoned-carts-recovery/a-05.svg">
 <div class="title text-default mb-0_5">
-Referral Program (coming soon)
+Referrals (coming soon)
 </div>
 <div class="body text-subdued">
 Turn your customers into brand advocates with a Referral program. Let your existing customers bring new sales for your store.
