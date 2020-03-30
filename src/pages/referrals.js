@@ -26,7 +26,7 @@ const ReferralMarketingLandingPage = () => {
 
 const ReferralMarketingQuery = graphql `
 query ReferralMarketingQuery{
-    markdownRemark(frontmatter:{path:{eq:"/referral-marketing"}}){
+    markdownRemark(frontmatter:{path:{eq:"/referrals"}}){
         htmlAst
             frontmatter{
                 description

@@ -19,9 +19,9 @@ const Menubar = [
             },
             {
                 ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/referral-marketing.png',
-                TITLE: 'Referral Marketing',
+                TITLE: 'Referrals',
                 DESC: '(Coming Soon)',
-                LINK: '/referral-marketing',
+                LINK: '/referrals',
             },
             {
                 ICON: 'https://raw.githubusercontent.com/retainful/site-images/master/menu-icons/icon.png',
