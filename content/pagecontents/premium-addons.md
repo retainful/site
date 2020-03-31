@@ -1,7 +1,11 @@
 ---
 path: "/premium-addons"
 title: "Premium Addons"
+keywords: "abandoned cart recovery, woocommerce abandoned cart, next order coupon"
+description: "Grow your store revenue with Retainful Premium Features. Create FOMO, capture emails, stop visitors from abandoning their shopping carts and do more with premium features."
 ---
+<div class="mb-5">
+
 <container>
 
 <headercontent>
@@ -12,7 +16,7 @@ title: "Premium Addons"
 
 Stop cart abandonment and convert more visitors into successful purchases with Retainful Premium features. Grow your sales number 10x times. 
 
-<cta url="" rel="noopener" target="_blank">Get Started
+<cta url="https://app.retainful.com/" rel="noopener" target="_blank">Get Started
 
 </div>
 
@@ -22,7 +26,13 @@ Stop cart abandonment and convert more visitors into successful purchases with R
 
 </div>
 
+</headercontent>
+
 </container>
+
+</div>
+
+<div class="mt-5"></div>
 
 <container>
 
