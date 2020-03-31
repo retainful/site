@@ -15,6 +15,22 @@ class fashionTemplates extends Component {
         <div className="template-item">
             <div className="template-image">
                 <img className="img img-responsive"
+                    src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/salt-water-colours.png" />
+            </div>
+            <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>
+                this.props.loadImageModal(
+                'https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/salt-water-colours.png'
+                )
+                }
+                >
+                Preview
+            </button>
+        </div>
+        </Col>
+        <Col size="4">
+        <div className="template-item">
+            <div className="template-image">
+                <img className="img img-responsive"
                     src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Fashion/Fabletics.jpg" />
             </div>
             <button className="btn btn-primary template-preview-btn" type="button" onClick={()=>

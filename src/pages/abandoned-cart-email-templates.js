@@ -6,6 +6,7 @@ import Row from '../components/row'
 import Col from '../components/column'
 import Modal from '../components/modal'
 import Metatags from "../components/Metatags"
+import Cta from "../components/cta"
 
 import FeaturedTemplates from '../constants/templates/featuredTemplates'
 import FashionTemplates from '../constants/templates/fashionTemplates'
@@ -16,6 +17,7 @@ import FoodTemplates from '../constants/templates/food'
 import FurnitureInteriorAndDIYTemplate from '../constants/templates/furniture-interior-and-diy'
 import PersonalWearTemplate from '../constants/templates/personal-wear'
 import TravelTemplates from '../constants/templates/travel'
+import EducationTemplates from '../constants/templates/education'
 
 class Templates extends React.Component {
     constructor(props) {
@@ -50,6 +52,15 @@ class Templates extends React.Component {
         description="Checkout abandoned cart recovery email templates in this page. Send cart recovery emails to recover lost sales and grow your store revenue."
         keywords="abandoned cart email templates, shopify abandoned cart email templates, woocommerce abandoned cart email templates"
       />
+      <div class="customer-testimonial-section">
+      <div class="testimonial-background-primary"></div>
+      <div class="testimonial-content container p-5">
+        <h2 className="p-3">Abandoned Cart Email Templates</h2>
+        <p>Looking for an abandoned cart recovery template for your marketing campaign? Explore cart recovery email templates industry-wise and increase your store revenue seamlessly!</p>
+        <h4 className="p-3"> Join 1000+ store owners who get more revenue with Retainful.</h4>
+        <Cta url="https://app.retainful.com/" rel="noopener" target="_blank">Get started for FREE</Cta>
+      </div>
+      </div>
         <Container>
           <Modal show={this.state.show} handleClose={this.hideModal} >
             <div>
@@ -62,7 +73,7 @@ class Templates extends React.Component {
                 <div className="aside-menu">
                   <h4 className="py-2">Industries</h4>
                   <ul>
-                    <Scrollspy items={[ 'fashion', 'sports', 'beauty-and-personal-care', 'electronic', 'food-and-beverages', 'furniture-interior-and-diy', 'personal-wear' ]} currentClassName="is-current" offset="5" >
+                    <Scrollspy items={[ 'fashion', 'sports', 'beauty-and-personal-care', 'electronic', 'food-and-beverages', 'furniture-interior-and-diy', 'personal-wear','education' ]} currentClassName="is-current" offset="5" >
                       <li> <a href="#fashion">Fashion</a> </li>
                       <li> <a href="#sports">Sports</a> </li>
                       <li> <a href="#beauty-and-personal-care">Beauty & Personal Care</a> </li>
@@ -70,6 +81,7 @@ class Templates extends React.Component {
                       <li> <a href="#food-and-beverages">Food & Beverages</a> </li>
                       <li> <a href="#furniture-interior-and-diy">Furniture, Interior & DIY</a> </li>
                       <li> <a href="#personal-wear">Personal Wear</a> </li>
+                      <li> <a href="#education">Education</a> </li>
                     </Scrollspy>
                   </ul>
                 </div>
@@ -84,6 +96,7 @@ class Templates extends React.Component {
                 <FoodTemplates loadImageModal={this.loadImageModal} />
                 <FurnitureInteriorAndDIYTemplate loadImageModal={this.loadImageModal} />  
                 <PersonalWearTemplate loadImageModal={this.loadImageModal} />
+                <EducationTemplates loadImageModal={this.loadImageModal} />
                 </Col>
               {/*Content Ends*/}
             </Row>

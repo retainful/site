@@ -31,6 +31,46 @@ class SportsTemplates extends Component {
           </button>
         </div>
       </Col>
+        <Col size="4">
+        <div className="template-item">
+          <div className="template-image">
+            <img
+              className="img img-responsive"
+              src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Sports/inner-workout.png"/>
+              </div>
+          <button
+            className="btn btn-primary template-preview-btn"
+            type="button"
+            onClick={() =>
+              this.props.loadImageModal(
+                "https://raw.githubusercontent.com/retainful/site-images/master/templates/Sports/inner-workout.png"
+                )
+            }
+          >
+            Preview
+          </button>
+        </div>
+      </Col>
+        <Col size="4">
+        <div className="template-item">
+          <div className="template-image">
+            <img
+              className="img img-responsive"
+              src="https://raw.githubusercontent.com/retainful/site-images/master/templates/Sports/the-fit-commandments-llc.png "/>
+              </div>
+          <button
+            className="btn btn-primary template-preview-btn"
+            type="button"
+            onClick={() =>
+              this.props.loadImageModal(
+                "https://raw.githubusercontent.com/retainful/site-images/master/templates/Sports/the-fit-commandments-llc.png "
+                )
+            }
+          >
+            Preview
+          </button>
+        </div>
+      </Col>
       <Col size="4">
         <div className="template-item">
           <div className="template-image">

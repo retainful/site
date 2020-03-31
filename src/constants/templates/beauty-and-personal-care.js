@@ -100,6 +100,48 @@ class BeautyAndPersonalCareTemplates extends Component {
               <div className="template-image">
                 <img
                   className="img img-responsive"
+                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/beauty-and-personal-care/kore-organic.png"
+                />
+              </div>
+              <button
+                className="btn btn-primary template-preview-btn"
+                type="button"
+                onClick={() =>
+                  this.props.loadImageModal(
+                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/beauty-and-personal-care/kore-organic.png'
+                  )
+                }
+              >
+                Preview
+              </button>
+            </div>
+          </Col>
+          <Col size="4">
+            <div className="template-item">
+              <div className="template-image">
+                <img
+                  className="img img-responsive"
+                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/beauty-and-personal-care/kandra-at-alo-goods.png"
+                />
+              </div>
+              <button
+                className="btn btn-primary template-preview-btn"
+                type="button"
+                onClick={() =>
+                  this.props.loadImageModal(
+                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/beauty-and-personal-care/kandra-at-alo-goods.png'
+                  )
+                }
+              >
+                Preview
+              </button>
+            </div>
+          </Col>
+          <Col size="4">
+            <div className="template-item">
+              <div className="template-image">
+                <img
+                  className="img img-responsive"
                   src="https://raw.githubusercontent.com/retainful/site-images/master/templates/beauty-and-personal-care/well-designed-and-on-brand-cart-abandonment-email.png"
                 />
               </div>

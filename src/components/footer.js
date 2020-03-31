@@ -19,6 +19,7 @@ export default function Footer() {
                         <h4 className="footer-title">Product</h4>
                         <ul>
                             <li><Link to="/abandoned-cart-email-templates">Abandoned Cart Email Templates</Link></li>
+                            <li><Link to="/premium-addons">Premium Add-ons (WooCommerce)</Link></li>
                             <li><Link to="/follow-up-emails">Follow-up Emails</Link></li>
                             <li><Link to="/customer-retention">Customer Retention</Link></li>
                             <li><Link to="/shopify-abandoned-cart">Shopify Abandoned Carts</Link></li>
