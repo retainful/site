@@ -117,6 +117,48 @@ class ElectronicTemplates extends Component {
               </button>
             </div>
           </Col>
+          <Col size="4">
+            <div className="template-item">
+              <div className="template-image">
+                <img
+                  className="img img-responsive"
+                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/electronic/connor-crumpton.png"
+                />
+              </div>
+              <button
+                className="btn btn-primary template-preview-btn"
+                type="button"
+                onClick={() =>
+                  this.props.loadImageModal(
+                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/electronic/connor-crumpton.png'
+                  )
+                }
+              >
+                Preview
+              </button>
+            </div>
+          </Col>
+          <Col size="4">
+            <div className="template-item">
+              <div className="template-image">
+                <img
+                  className="img img-responsive"
+                  src="https://raw.githubusercontent.com/retainful/site-images/master/templates/electronic/elevate-living-joy.png"
+                />
+              </div>
+              <button
+                className="btn btn-primary template-preview-btn"
+                type="button"
+                onClick={() =>
+                  this.props.loadImageModal(
+                    'https://raw.githubusercontent.com/retainful/site-images/master/templates/electronic/elevate-living-joy.png'
+                  )
+                }
+              >
+                Preview
+              </button>
+            </div>
+          </Col>
         </Row>
       </section>
     )
