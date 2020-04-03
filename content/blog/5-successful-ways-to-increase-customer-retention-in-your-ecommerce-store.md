@@ -69,6 +69,8 @@ A recent study revealed that eCommerce stores saw a 25% - 90% elevation in their
    
 ### Offering Next Order Coupons
 
+<br>
+
 Customers flock to your store when they are in need of something, once they are done with the purchase they leave. There is no reason for them to return to your store. Well, give them a reason to return to your store by <link-text url="https://www.retainful.com/next-order-coupon" rel="noopener" target="_blank">offering next order coupons</link-text>. It is one of the basic yet effective customer retention strategies used by major stores in the eCommerce world.
 
 <br>
