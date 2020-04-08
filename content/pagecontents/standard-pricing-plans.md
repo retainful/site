@@ -112,6 +112,7 @@ drive more results.
 
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 2000 contacts</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have"><a href="/premium-addons">Premium Add-ons (WooCommerce)</a></li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Follow-ups for Next Order Coupons</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Priority Email Support</li>
 <li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Live chat support</li>
 <li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Dedicated Onboard Specialist</li>
@@ -173,6 +174,7 @@ who want to do more.
 
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 5000 Contacts</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have"><a href="/premium-addons">Premium Add-ons (WooCommerce)</a></li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Follow-ups for Next Order Coupons</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Priority Email Support</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Custom Email Domain</li>
 <li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Live chat support</li>
@@ -231,8 +233,9 @@ increase your conversions.
 
 <ul>
 
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Unlimited Contacts</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 25000 Contacts</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have"><a href="/premium-addons">Premium Add-ons (WooCommerce)</a></li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Follow-ups for Next Order Coupons</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Priority Email Support</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Custom Email Domain</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Live chat support</li>
@@ -275,6 +278,7 @@ increase your conversions.
 <div class="pricing-plans-icons">
 
 <p> <img src="../images/landingpage/pricing-plans-icons/6.svg"> Unlimited Next Order Coupons</p>
+<p> <img src="../images/landingpage/pricing-plans-icons/6.svg">Follow-ups for Next Order Coupons </p>
 <p> <img src="../images/landingpage/pricing-plans-icons/7.svg"> Ready to use, conversion-focussed templates</p>
 <p> <img src="../images/landingpage/pricing-plans-icons/8.svg"> Visual drag and drop email editor</p>
 <p> <img src="../images/landingpage/pricing-plans-icons/9.svg"> Actionable Analytics and Insights</p>
