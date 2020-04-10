@@ -28,7 +28,7 @@ Grow revenue 10x by recovering your lost revenue with Retainful. Automate your a
 
 </div>
 
-<cta url="app.retainful.com" rel="noopener" target="_blank">Get Started for Free</cta>
+<cta url="https://app.retainful.com" rel="noopener" target="_blank">Get Started for Free</cta>
 
 </div>
 
