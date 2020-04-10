@@ -6679,3 +6679,203 @@ $i: 0;
     display: none;
   }
 }
+
+
+/*----Shopify (Platform page) Integration-----*/
+
+.shopify{
+  .btn-outline-primary {
+    color: #f27052;
+    background-color: transparent;
+    background-image: none;
+    border-color: #f27052;
+    outline: none;
+  }
+
+  .btn:hover {
+    background: #f27052;
+    border: 1px solid #f27052;
+    box-shadow: 1px 6px 14px 1px rgba(0, 0, 0, 0.18);
+    color: #fff;
+  }
+
+  .mb-1,
+  .my-1 {
+    margin-bottom: 1rem !important;
+  }
+
+  .mb-2,
+  .my-2 {
+    margin-bottom: 2rem !important;
+  }
+
+  .mb-2_5,
+  .my-2_5 {
+    margin-bottom: 2.5rem !important;
+  }
+
+  .mt-3,
+  .my-3 {
+    margin-top: 3rem !important;
+  }
+
+  .mb-0_5,
+  .my-0_5 {
+    margin-bottom: 0.5rem !important;
+  }
+
+  .title {
+    font-weight: 600;
+    font-size: 20px;
+  }
+
+  .section-container {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    position: relative;
+  }
+
+  .list-items .list-item {
+    padding: 0.25rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .list-items .list-item::before {
+    content: '';
+    display: block;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    border: 2px solid #f27052;
+    margin-right: 1rem;
+  }
+
+  .mb-4,
+  .my-4 {
+    margin-bottom: 4rem !important;
+  }
+
+  .align-items-center {
+    align-items: center !important;
+  }
+
+  .d-md-block {
+    display: block !important;
+  }
+
+  .subtitle {
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+  }
+
+  .text-subdued {
+    font-weight: 400;
+    font-size: 16px;
+    color: #4D4D5A;
+  }
+
+  .text-default {
+    color: #0F0F1A;
+  }
+
+  .d-xl-block {
+    display: block !important;
+  }
+
+  .media .media-image-container .media-image,
+  .media .media-image-container-plain .media-image {
+    width: auto;
+    text-align: center;
+    margin: auto;
+  }
+
+  .media .media-image-container .media-image {
+    height: 70px;
+  }
+
+  .platform-page .platform-intro-container .platform-intro-image {
+    max-width: 280px;
+    height: auto;
+    margin-bottom: 3rem;
+  }
+
+  .platform-page .platform-intro-container .platform-intro-title {
+    margin-bottom: 2rem;
+  }
+
+  .platform-page .platform-intro-container .platform-intro-description {
+    margin-bottom: 2rem;
+  }
+
+  .platform-page .platform-intro-container .start-now-button {
+    width: 220px;
+  }
+
+  .reward-programs-grid-container {
+    text-align: center;
+  }
+
+  .reward-programs-grid-container .reward-programs-grid-title {
+    margin-bottom: 2rem;
+  }
+
+  .reward-programs-grid .reward-program .reward-program-icon {
+    height: 66px;
+    width: 66px;
+    margin-bottom: 1rem;
+  }
+
+  .reward-programs-grid-container .reward-programs-grid .reward-program {
+    border-right: 1px solid #ECECEC;
+  }
+
+  .reward-programs-grid .reward-program {
+    text-align: center;
+    margin-bottom: 1rem;
+    padding: 2rem 2.5rem;
+  }
+
+  .text-smile-happy-yellow {
+    color: #f27052 !important;
+  }
+
+  .mb-1_5,
+  .my-1_5 {
+    margin-bottom: 1.5rem !important;
+  }
+
+  .platform-page.shopify .platform-feature-block {
+    background-image: url('../images/bg.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .media .media-image-container,
+  .media .media-image-container-plain {
+    display: flex;
+    align-self: center;
+  }
+
+  .media .media-image-container {
+    height: 132px;
+    width: 132px;
+    margin-right: 2rem;
+    border-radius: 50%;
+    box-shadow: 0px 9px 24px 5px rgba(0, 0, 0, 0.04);
+  }
+
+  .start-btn,
+  .contact-btn {
+    margin: 1rem 0.25rem;
+    max-width: 250px;
+    width: 250px;
+  }
+
+  .reward-program-title {
+    font-size: 26px;
+    margin-bottom: 12px;
+  }
+}
