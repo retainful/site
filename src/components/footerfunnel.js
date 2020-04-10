@@ -5,7 +5,7 @@ const Footerfunnel = (props) =>{
     const bgColor = props.bgColor;
     const textcolor = props.color;
     return(
-        <div className="footer-container text-center" style={{backgroundColor:bgColor,color:textcolor + '!important'}}>
+        <div className="p-5" style={{backgroundColor:bgColor,color:textcolor + '!important'}}>
             {props.children}
         </div>
     )
