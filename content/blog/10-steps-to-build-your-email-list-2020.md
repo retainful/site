@@ -6,6 +6,7 @@ author: "Sharon Thomas"
 date: "2020-01-18"
 image: "../images/10-steps-to-build-your-email-list-2020/10-steps-to-build-your-email-list-2020.png"
 thumbnail: "../images/10-steps-to-build-your-email-list-2020/10-steps-to-build-your-email-list-2020.png"
+category: "marketing"
 ---
 
 Gone are the days when businesses were about the boss and the employees. Tides have changed in favor of the customers ever since the introduction of the online shopping phenomenon into the busy lives of mankind.

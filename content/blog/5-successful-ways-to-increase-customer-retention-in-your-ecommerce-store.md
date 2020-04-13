@@ -7,6 +7,7 @@ date: "2020-01-24"
 image: "../images/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store.png"
 thumbnail: "../images/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store.png"
 keywords: "why is customer retention important, importance of customer loyalty, reasons for customer retention, customer retention strategies"
+category: "ecommerce"
 ---
 Why is customer retention important? It is one of the flawless marketing strategies employed by store owners to make their customers stay loyal to their stores. Store owners often make a mistake by spending a fortune in looking for new leads because they don't understand why customer retention is important.
 

@@ -7,6 +7,7 @@ keywords: "how to layout an email, email designs, how to design an email, email 
 date: "2020-01-28"
 image: "../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/emai-template.png"
 thumbnail: "../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/emai-template.png"
+category: "marketing"
 ---
 Emails are crucial for Business2Business or Business2Customer interactions, in that case, responsive email designs are what make those interactions fruitful. Well-structured email designs will make your brand stand out from the cluster and it will grapple your audience's attention instantly.
 

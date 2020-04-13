@@ -7,6 +7,7 @@ author: "Joel Platini"
 date: "2020-02-08"
 keywords: "Best shopify apps, Shopify referrals apps, apps used to build shopify store"
 description: "Turn your loyal customers into brand advocates using the best Shopify referral apps to expose your eCommerce store to new leads. We probed around to compile the best Shopify apps to run a dynamic referral program in your online store."
+category: "shopify"
 --- 
 
 Shopify is one of the most popular and powerful platforms among eCommerce store owners. A distinctive aspect that sets Shopify way ahead of its competitors is that it has a pool of dynamic apps used to build Shopify stores irrespective of their size.
