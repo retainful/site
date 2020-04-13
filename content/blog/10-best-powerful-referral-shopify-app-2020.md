@@ -1,6 +1,6 @@
 ---
-title: "10 best powerful referral Shopify app -2020"
-path: "/blog/10-best-powerful-referral-shopify-app-2020"
+title: "10 best Referral Apps for Shopify in 2020"
+path: "/blog/10-best-referral-apps-for-shopify-in-2020"
 image: "../images/10-best-powerful-referral-shopify-app-2020/10-best-powerful-referral-shopify-app-2020.png"
 thumbnail: "../images/10-best-powerful-referral-shopify-app-2020/10-best-powerful-referral-shopify-app-2020.png"
 author: "Joel Platini"
@@ -19,7 +19,7 @@ Shopify referral apps have many dynamic features that can boost your sales. We f
 <toc>
 </toc>
 
-# 10 best powerful referral Shopify app -2020
+# 10 best Referral Apps for Shopify in 2020
 
 
 ## Referral Candy
