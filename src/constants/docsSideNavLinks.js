@@ -20,7 +20,7 @@ const SIDENAV_LINKS = [
             {URL: '/docs/woocommerce/how-to-make-your-emails-personal', TEXTNODE: 'How to make your email more personal'},
             {URL: '/docs/woocommerce/shortcodes-for-reference', TEXTNODE: 'Shortcodes for reference'},
             {URL: '/docs/woocommerce/faq', TEXTNODE: 'Frequently asked Questions'},
-            {URL: '/docs/woocommerce/custom-email-domain', TEXTNODE: 'Sending emails from a custom domain'},
+            {URL: '/docs/woocommerce/custom-email-domain', TEXTNODE: 'Sending emails from your store\'s domain'},
             {URL: '/docs/woocommerce/improving-email-deliverability', TEXTNODE: 'Improving Email Deliverability'},
             {URL: '/docs/woocommerce/mailchimp-integration', TEXTNODE: 'MailChimp Integration'},
             {URL: '/docs/woocommerce/exit-intent-popup', TEXTNODE: 'Exit Intent Popup'},
