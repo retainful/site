@@ -7,7 +7,7 @@ const authors = [
     },
     {
       name: 'Joel Platini',
-      imageUrl: 'https://raw.githubusercontent.com/retainful/site-images/master/authorImages/JoelPlatini.jpg',
+      imageUrl: 'https://raw.githubusercontent.com/retainful/site-images/master/authorImages/JoelPlatini.png',
       bio:
         'is a Content Writer and Graphic Designer with an immaculate experience in writing keyword enriched content for eCommerce websites. Familiar with WooCommerce plugins he has written how-to guides with elegance and finesse.',
     },
