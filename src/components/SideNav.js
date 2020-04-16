@@ -31,11 +31,11 @@ class SideNav extends Component {
             }
             // console.log(linksC);
             return(
-                <div className={((card.BUTTON_LINK === current_url || find(linksC, current_url)) ? 'active' : '')}>
+                <div className={"dropdown " + ((card.BUTTON_LINK === current_url || find(linksC, current_url)) ? 'active' : '')}>
                     {card.LINKS ? (
                             <div className="active">
                                 <a className="dropdown-btn" href={card.BUTTON_LINK}>{card.TITLE}
-                                    <FaAngleRight className="fa-caret-down" size="2em"/>
+                                    <FaAngleRight className="fa-caret-down" size="2em" />
                                 </a>
                                 <div className="dropdown-container">
                                     {card.LINKS.map(link => <a href={link.URL} key={link.TEXTNODE} className={((link.URL === current_url) ? 'active' : '')}>{link.TEXTNODE}</a>)}

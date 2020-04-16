@@ -136,7 +136,8 @@ module.exports = {
         {
             resolve: `gatsby-plugin-breadcrumb`,
             options: {
-                sitemapPath: `/sitemap.xml`,
+                // sitemapPath: `/sitemap.xml`,
+                useAutoGen: true,
             },
         },
         // this (optional) plugin enables Progressive Web App + Offline functionality

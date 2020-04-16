@@ -2,10 +2,6 @@ import React from 'react';
 
 const SIDENAV_LINKS = [
     {
-        TITLE: 'Home',
-        BUTTON_LINK: '/docs',
-    },
-    {
         TITLE: 'WooCommerce',
         LINKS: [
             {URL: '/docs/woocommerce/getting-started-woocommerce', TEXTNODE: 'Getting Started'},

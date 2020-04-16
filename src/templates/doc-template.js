@@ -13,6 +13,7 @@ import Share from '../components/share';
 import SideNav from '../components/SideNav';
 import SideNavLinks from '../constants/docsSideNavLinks';
 
+import { FaChevronRight } from 'react-icons/fa'
 import Container from "../components/container"
 import Callout from '../components/callout'
 import Highlight from '../components/highlight'
@@ -63,19 +64,29 @@ function DocTemplate(props) {
     const thumbnail = props.data.markdownRemark.frontmatter.image &&
         props.data.markdownRemark.frontmatter.image.childImageSharp.resize.src;
     const {title, image, description} = props.data.markdownRemark.frontmatter;
-    const {prev, next} = props.pageContext;
+    const { prev, next } = props.pageContext;
+    
+    console.log(props.pageContext);
+    const {
+        breadcrumb: { crumbs },
+    } = props.pageContext;
+    
+    // console.log(crumbs);
 
-    const {category} = props.pageContext;
+    const customCrumbLabel = (crumbs[crumbs.length - 1].crumbLabel).replace(/-/g, " ");
+    const currentPathLink = crumbs[crumbs.length - 1].pathname;
+
+    const { category} = props.pageContext;
     const {edges, totalCount} = props.data.allMarkdownRemark;
     const categoryHeader = `List of post${
         totalCount === 1 ? "" : "s"
         } in ${category} (${totalCount})`;
     const toc = props.data.markdownRemark.tableOfContents;
 
-    // console.log(props.pageContext);
+    const disableLinks = ["/docs/woocommerce", "/docs/shopify", currentPathLink ];
 
     return (
-        <Layout location={props.location} crumbLabel={title}>
+        <Layout className="docs-single-page" location={props.location} crumbLabel={title}>
             <MetaTags
                 title={title}
                 description={description}
@@ -83,7 +94,18 @@ function DocTemplate(props) {
                 url={url}
                 pathname={props.location.pathname}
             />
-            <div className="container-fluid docs-wrap">
+            <div className="docs-header">
+                <Container>
+                    <h1 className="page-title">Documentation</h1>
+                </Container>
+            </div>
+            <div className="breadcrumb-container">
+                <div className="container">
+                    <Breadcrumb crumbs={crumbs} crumbSeparator={<FaChevronRight />} crumbLabel={customCrumbLabel} disableLinks={disableLinks}
+                    title="" />
+                </div>
+            </div>
+            <div className="container docs-wrap">
                 <div className="row">
                     <div className="col-md-3 col-sm-12">
                         <button id="showDocNavBtn" className="visible-xs btn btn-primary"><MdMenu/></button>
@@ -94,34 +116,34 @@ function DocTemplate(props) {
                             </div>
                         </div>
                     </div>
-                    <div className="toc-wrapper col-md-3 col-sm-12">
-                        {toc &&
-                        <div className="table-of-contents">
-                            <h4>Contents</h4>
-                            <div dangerouslySetInnerHTML={{__html: toc}}/>
-                        </div>
-                        }
-                        { /*<ol className="card_links">
-                                {edges.map(({ node }) => {
-                                  const { title, description } = node.frontmatter
-                                  const { slug } = node.fields
-                                  const { excerpt } = node.excerpt
-                                  return (
-                                      <li key={slug} className={(props.pageContext.slug === slug ? 'active' : '')}>
-                                          <Link to={slug}>{title}</Link>
-                                      </li>
-                                  )
-                                })}
-                            </ol>*/
-                        }
-                    </div>
-                    <div className="col-md-6 col-sm-12">
+                    <div className="col-md-9 col-sm-12">
                         <div className="single-blog-post">
                             <div className="header">
                                 <div className="image-section">
                                     {image && <Img fluid={image.childImageSharp.fluid}/>}
                                 </div>
                                 <h1>{title}</h1>
+                            </div>
+                            <div className="toc-wrapper">
+                                {toc &&
+                                <div className="table-of-contents">
+                                    <h3>On this page</h3>
+                                    <div dangerouslySetInnerHTML={{__html: toc}}/>
+                                </div>
+                                }
+                                { /*<ol className="card_links">
+                                        {edges.map(({ node }) => {
+                                        const { title, description } = node.frontmatter
+                                        const { slug } = node.fields
+                                        const { excerpt } = node.excerpt
+                                        return (
+                                            <li key={slug} className={(props.pageContext.slug === slug ? 'active' : '')}>
+                                                <Link to={slug}>{title}</Link>
+                                            </li>
+                                        )
+                                        })}
+                                    </ol>*/
+                                }
                             </div>
                             <div className="content">
                                 {renderAst(props.data.markdownRemark.htmlAst)}
