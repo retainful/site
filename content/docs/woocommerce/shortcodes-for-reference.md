@@ -14,28 +14,37 @@ Retainful lets you personalize your abandoned cart email templates with the help
 
 <call-out>
 As a part of personalization, make sure that your recovery emails contain atleast one or all of the following:<br>
-    1. User's name.<br>
+    1. Customers's name.<br>
     2. Link to recover their cart.<br>
-    3. Items on the user's cart.<br>
+    3. Items on the customer's cart.<br>
 </call-out>
 
 Retainful offers you endless possibilites to use shortcodes whenever and wherever you wish on your email templates.
 
 This article guides you through the list of allowed shortcodes and how to use them on your mail templates.
 
-### Popular shortcodes
+### Shortcodes for Subject Line
+
+**{{first\_name}}** - Customer's first name. Example: John
+**{{last\_name}}** - Customer's first name. Example: Smith
+**{{customer\_name}}** - Customer's full name (both first and last name). Example: John Smith
+
+NOTE: Only the above short codes will work in the subject line of the email.
+
+
+### Popular shortcodes for Email Body
 
 Following is a list of most commonly used shortcodes and what data they return on your emails.
 
-**{{billing\_address.first\_name}}** - Returns the First name of the user that was entered in their billing address section.
+**{{billing\_address.first\_name}}** - Returns the First name of the customer that was entered in their billing address section.
 
-**{{abandoned\_checkout\_url}}** - Redirects the users to their cart with the items that they added before abandonment.
+**{{abandoned\_checkout\_url}}** - Redirects customers to their cart with the items that they added before abandonment.
 
 **{{retainful_coupon}}** - Displays the coupon code of the Woocommerce coupon. 
 
 > Note: A coupon block should be added to the email template. Click <link-text url="https://www.retainful.com/docs/woocommerce/adding-a-coupon-block-on-your-email-template" target="_blank" rel="noopener">here</link-text> to know how to add a coupon block. 
 
-**{{abandoned\_checkout\_url\_with\_coupon\_code}}** - Redirects users to the shop page with the coupon auto-applied. 
+**{{abandoned\_checkout\_url\_with\_coupon\_code}}** - Redirects customer to the shop page with the coupon auto-applied. 
 
 > NOTE: A coupon block should be attached in the mail template already. This shortcode can be mentioned in a Shop now button below the coupon code.
 
@@ -48,27 +57,27 @@ Following is a list of most commonly used shortcodes and what data they return o
 
 #### Customer data 
 
-This section focusses on shortcodes that fetch customer data from the checkout. Following are the list of shortcodes that fetch user data.
+This section focusses on shortcodes that fetch customer data from the checkout. Following are the list of shortcodes that fetch customer data.
 
-**{{customer.email}}** - The email address used by user at the checkout.
+**{{customer.email}}** - The email address used by customer at the checkout.
 
-**{{customer.first_name}}**- Returns the first name mentioned by user at the checkout.
+**{{customer.first_name}}**- Returns the first name mentioned by customer at the checkout.
 
-**{{customer.last_name}}** - Displays the last name specified by user at the checkout.
+**{{customer.last_name}}** - Displays the last name specified by customer at the checkout.
  
-**{{customer.phone}}** - The phone number entered by user at the checkout would be returned.
+**{{customer.phone}}** - The phone number entered by customer at the checkout would be returned.
  
-**{{customer.state}}** - The state chosen by the user at the checkout process.
+**{{customer.state}}** - The state chosen by the customer at the checkout process.
 
 #### Billing address
 
-The billing address data that the user enters can be fetched using the following set of shortcodes.
+The billing address data that the customer enters can be fetched using the following set of shortcodes.
 	
-**{{billing_address.lastname}}** - Last name of the user in billing address.
+**{{billing_address.lastname}}** - Last name of the customer in billing address.
 
-**{{billing_address.name}}**	 - User's name mentioned in the billing address.
+**{{billing_address.name}}**	 - Customer's name - both the first name and the last name
 
-**{{billing_address.city	}}** - The city chosen by user at the billing address.
+**{{billing_address.city	}}** - The city chosen by customer at the billing address.
 
 **{{billing_address.country}}** - Country selected in billing address.
 
@@ -111,13 +120,13 @@ Following are the shortcodes that return the data of the Woocommerce shop that i
 
 #### Shipping address
 
-Following shortcodes return the data mentioned by users on the shipping address section of the checkout.
+Following shortcodes return the data mentioned by customers on the shipping address section of the checkout.
 
-**{{shipping_address.lastname}}** - Last name of the user in shipping address.
+**{{shipping_address.lastname}}** - Last name of the customer in shipping address.
 
-**{{shipping_address.name}}** - User's name mentioned in the shipping address.
+**{{shipping_address.name}}** - Customer's name - both the first name and the last name.
 
-**{{shipping_address.city	}}** - The city chosen by user at the shipping address.
+**{{shipping_address.city	}}** - The city chosen by customer at the shipping address.
 
 **{{shipping_address.country}}** - Country selected in shipping address.
 
