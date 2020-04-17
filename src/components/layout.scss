@@ -3433,6 +3433,7 @@ body {
   }
   .aside-menu{
     position: relative;
+    padding-left: 0;
   }
 }
 
@@ -3754,6 +3755,7 @@ body {
       margin-top: 0;
       margin-bottom: 20px;
       font-weight: 400;
+      line-height: 1.1;
     }
 
     a {
@@ -3853,7 +3855,7 @@ body {
           vertical-align: top;
           margin: 5px 0;
           a {
-            color: #818181;
+            color: #323b44;
             display: inline-block;
             text-decoration: none;
             padding: 5px 0;
@@ -4235,16 +4237,11 @@ body {
       &:hover {
         color: $primary;
       }
-
-      &.active {
-        .fa-caret-down {
-          transform: rotate(90deg);
-        }
-      }
     }
     .dropdown-container {
-      visibility: hidden;
-      height: 0;
+      // visibility: hidden;
+      // height: 0;
+      display: none;
       a{
         padding: 5px 15px;
         color: #3f474e;
@@ -4261,14 +4258,16 @@ body {
         }
       }
     }
-    .active{
+    &.active{
       .dropdown-btn {
         color: #333;
         font-weight: 600;
+        .fa-caret-down {
+          transform: rotate(90deg);
+        }
       }
       .dropdown-container {
-        visibility: visible;
-        height: auto;
+        display: block;
       }
     }
   }
