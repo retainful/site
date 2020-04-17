@@ -26,7 +26,9 @@ This article guides you through the list of allowed shortcodes and how to use th
 ### Shortcodes for Subject Line
 
 **{{first\_name}}** - Customer's first name. Example: John
+
 **{{last\_name}}** - Customer's first name. Example: Smith
+
 **{{customer\_name}}** - Customer's full name (both first and last name). Example: John Smith
 
 NOTE: Only the above short codes will work in the subject line of the email.
