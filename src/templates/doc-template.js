@@ -66,7 +66,7 @@ function DocTemplate(props) {
     const {title, image, description} = props.data.markdownRemark.frontmatter;
     const { prev, next } = props.pageContext;
     
-    console.log(props.pageContext);
+    // console.log(props.pageContext);
     const {
         breadcrumb: { crumbs },
     } = props.pageContext;
