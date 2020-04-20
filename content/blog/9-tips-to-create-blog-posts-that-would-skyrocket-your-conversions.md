@@ -22,6 +22,8 @@ After detailed professional research, we have got some answers on how to write a
 
 ## Why is blogging crucial for business?
 
+<br>
+
 Business cannot reach the target audience by itself, it needs marketing, and blogs have proven to be pivotal for marketing campaigns. Blogging for business is an effective strategy to <link-text url="https://www.retainful.com/blog/9-ways-to-drive-traffic-to-your-online-storeincrease" target="_blank" rel="noopener"> traffic to the website</link-text> and boost online visibility.
 
 Blogs have minimized the worries of time-consuming manual marketing by fetching the results quickly with very little effort. In this digital era, technology keeps taking a turn every day, with blogs you can keep your business up to date with the ever-changing world.
