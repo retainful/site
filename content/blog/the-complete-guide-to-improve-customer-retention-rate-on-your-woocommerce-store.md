@@ -24,7 +24,7 @@ This blog post is an insight into the importance of correct customer retention s
 
 These statistics about customer retention will tell you why.
 
--   Data show that the <link-text url="https://www.crazyegg.com/blog/customer-retention/" target="_blank" rel="noopener nofollow">chances of selling</link-text> to an existing customer is <link-text url="https://www.crazyegg.com/blog/customer-retention/" target="_blank" rel="noopener nofollow">60 - 70%</link-text>, whereas with a new customer it gets reduced to 5 - 20%.
+-   Data show that the <link-text url="https://www.crazyegg.com/blog/customer-retention/" target="_blank" rel="noopener nofollow">chances of selling</link-text> to an existing customer is <link-text url="https://www.crazyegg.com/blog/customer-retention/" target="_blank" rel="noopener nofollow">60 - 70%,</link-text> whereas with a new customer it gets reduced to 5 - 20%.
     
 -   82% of companies agree that the expense of customer retention is way lesser than customer acquisition.
    
@@ -54,7 +54,7 @@ With conversation, relationships are built with customers and this acts as rocke
 
 ---
 
-## Customer Relationship Management (CRM) and customer retention rate
+## Customer Relationship Management (CRM) and Customer retention rate
 
 Customer Relationship Management and customer retention are directly proportional. If CRM is faulty, the customer retention rate takes a hit. On the other hand, when CRM is handled professionally, then you reap more sales from your existing customers than from the newly added ones. Eventually, the customer retention rate spikes up.
 
@@ -146,7 +146,7 @@ Let’s check out an example.
 
 Koala, a mattress company, successfully combines both email and Facebook marketing.
 
-This is one of their <link-text url="https://www.retainful.com/blog/how-to-send-successful-abandoned-cart-email-series" target="_blank" rel="noopener">abandoned cart emails</link-text>.
+This is one of their <link-text url="https://www.retainful.com/blog/how-to-send-successful-abandoned-cart-email-series" target="_blank" rel="noopener">abandoned cart emails.</link-text>
 
 <br>
 
@@ -158,7 +158,7 @@ The same message is shown on Facebook too.
 
 Sending out the same message across all platforms reinforces the purchase intent. It also ensures that the message reaches the customer because you never know which platform the customer is using actively.
 
-This way omnichannel marketing becomes a great driver to <link-text url="https://www.retainful.com/blog/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store" target="_blank" rel="noopener">increase customer retention rate</link-text>.
+This way omnichannel marketing becomes a great driver to <link-text url="https://www.retainful.com/blog/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store" target="_blank" rel="noopener">increase customer retention rate.</link-text>
 
 ### Segment and provide personalized discounts
 
@@ -299,7 +299,7 @@ With 50 referrals, you will have the whole shaving set in hand, along with free 
 
 If you have too many products in your WooCommerce store, simply give a discount or coupon for your referral program. If your store focuses on a specific product like Harry’s, give away a freebie without much thought.
 
-Customer retention is at your doorstep. Invite it with a <link-text url="https://www.retainful.com/referrals" target="_blank" rel="noopener"></link-text>.
+Customer retention is at your doorstep. Invite it with a <link-text url="https://www.retainful.com/referrals" target="_blank" rel="noopener">referral program.</link-text>
 
 ### Bombard your marketing strategies with social proof
 
