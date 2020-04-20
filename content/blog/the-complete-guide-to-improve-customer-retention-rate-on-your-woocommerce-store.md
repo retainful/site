@@ -231,6 +231,8 @@ If the offer is a captivating one, people would obviously buy the products. Emai
 
 ### Get customers involved with membership programs
 
+<br>
+
 ![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/10-amazon-prime-membership-program-for-customer-retention.png)
 
 <br>
@@ -326,6 +328,7 @@ Retainful, a WooCommerce plugin for abandoned cart recovery and next order coupo
 
 ![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/12-retainful-customer-support-to-increase-customer-retention-rate.png)
 
+<br>
 
 **What should you do to nail customer service?**
 
