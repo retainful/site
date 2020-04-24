@@ -10,7 +10,7 @@ import { MdMenu } from 'react-icons/md'
 class Header extends React.Component {
   componentDidMount() {
     $(window).scroll(function() {
-      if ($(window).scrollTop() > 10) {
+      if ($(window).scrollTop() > 150) {
         $('.navbar').addClass('past-main effect-main fixed-top')
       } else {
         $('.navbar').removeClass('past-main fixed-top')
