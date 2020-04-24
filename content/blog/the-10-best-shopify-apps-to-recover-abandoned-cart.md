@@ -128,6 +128,7 @@ Free - $0 forever
 
 Pro - $69 per year
 
+<cta url="https://apps.shopify.com/retainful" rel="noopener nofollow" target="_blank">Get Retainful</cta>
 
 ## Abandoned Cart Recovery by Marsello 
 
@@ -170,7 +171,7 @@ $9 per month
 
 14-day free trial available.
 
-<cta url="https://recovermycart.squarespace.com/" rel="noopenernofollow" target="_blank">Abandoned Cart Recovery by Marsello</cta>
+<cta url="https://recovermycart.squarespace.com/" rel="noopener nofollow" target="_blank">Abandoned Cart Recovery by Marsello</cta>
 
 ## Recapture Abandoned Carts 
 <br>
