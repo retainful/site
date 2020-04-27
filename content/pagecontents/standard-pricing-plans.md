@@ -111,6 +111,7 @@ drive more results.
 <ul>
 
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 2000 contacts</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Unlimited Email Sending</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have"><a href="/premium-addons">Premium Add-ons (WooCommerce)</a></li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Follow-ups for Next Order Coupons</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Priority Email Support</li>
@@ -173,10 +174,11 @@ who want to do more.
 <ul class="pricing-details_list">
 
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 5000 Contacts</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Unlimited Email Sending</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have"><a href="/premium-addons">Premium Add-ons (WooCommerce)</a></li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Follow-ups for Next Order Coupons</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Priority Email Support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Custom Email Domain</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Email from your own domain</li>
 <li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Live chat support</li>
 <li><img src="../images/landingpage/pricing-plans-icons/close.svg" class="plan-not">Dedicated Onboard Specialist</li>
 
@@ -234,10 +236,11 @@ increase your conversions.
 <ul>
 
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Upto 25000 Contacts</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Unlimited Email Sending</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have"><a href="/premium-addons">Premium Add-ons (WooCommerce)</a></li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Follow-ups for Next Order Coupons</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Priority Email Support</li>
-<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Custom Email Domain</li>
+<li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Email from your own domain</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Live chat support</li>
 <li><img src="../images/landingpage/pricing-plans-icons/check.svg" class="plan-have">Dedicated Onboard Specialist</li>
 
