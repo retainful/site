@@ -79,6 +79,42 @@ With Retainful, offer <link-text url="https://www.retainful.com/blog/how-to-prov
 
 ___
 
+## Smart Coupon for WooCommerce
+
+<br>
+
+![](../images/11-best-woocommerce-plugins-that-are-a-must-for-your-store-in-2020/smart-coupons-for-woocommerce.jpg)
+
+
+Smart Coupon for WooCommerce by WebToffee is a WooCommerce coupon plugin to enhance the functionalities and extend the features of WooCommerce coupons. This provides a lot of possibilities for you to create different kinds of offers that can make your customers happy and keep coming back.
+Coupons and offers are certainly a great way to make more sales and more importantly create a customer base that will be happy with your service. For your WooCommerce store, Smart Coupons for WooCommerce makes creating and managing coupons easier and convenient.
+
+**Features:**
+
+- Create gift coupons and store credits that can be purchased or gifted
+- Create coupons with restrictions based on the shipping method, payment method, user role, and on the location of the shipping/billing address.
+- Add multiple giveaway products in a single coupon for the customers to select from
+- Create gift coupons for the customers completing a purchase.
+- Gift the store credit or gift coupons to friends/relatives via email.
+- Create coupons that can be applied automatically
+- Allow the customers to select a combination of coupons that can be applied in a purchase.
+- Bulk generate coupons and add them directly in the store
+- Export coupons to a CSV file in bulk, or mail it to the customers.
+- Import the coupons from a CSV file to the store
+- Duplicate coupons
+- Multiple customizable coupon templates.
+- Categorized view for users of active and used/expired coupons on their account page
+
+**Pricing**
+
+- Single site license: $69
+- 5 site license: &99
+- 25 site license: $199
+
+<cta url="https://www.webtoffee.com/product/smart-coupons-for-woocommerce/" rel="noopener nofollow" target="_blank">Download Plugin</cta>
+
+---
+
 ## WooCommerce Multilingual
 
 <br>
