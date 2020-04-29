@@ -8,26 +8,13 @@ image:  "../images/spam-words-to-avoid-in-your-emails/spam-words-to-avoid-in-you
 thumbnail: "../images/spam-words-to-avoid-in-your-emails/spam-words-to-avoid-in-your-emails.png"
 category: "Email Marketing"
 ---
-
-Spam Words to Avoid in your Emails
-
-
-
 The moment you hear email the first thing you don’t want to happen is being marked as spam. A report says that spam emails make up to 45% of all emails.
-
-
 
 Advertising and unwanted financial emails contribute 36% of all spam messages with the latter contributing 26.5%. A study found that around 53% of people think emails have lost their credibility due to spam.
 
-
-
 That’s why it is necessary to avoid spam words in the email subject lines or your email will directly land in the spam box.
 
-
-
 You may wonder, what are the spam words to avoid in email subject line?
-
-
 
 To assist you in creating a precise subject line, we have assembled a list of spam words to avoid in email marketing. This article will help you to avoid the grasp of spam filters and <link-text url="https://www.retainful.com/blog/ecommerce-email-campaigns-that-could-help-your-drive-conversion" rel="noopener" target="_blank">achieve success in your marketing campaign.</link-text>
 
@@ -40,8 +27,6 @@ To assist you in creating a precise subject line, we have assembled a list of sp
 
 Spam words are specific keywords that you add in your subject lines to entice the customers. Email providers will identify these words as spam and mark your email as spam.
 
-
-
 Use of common spam word in the email associated with gimmicks, promises, free gifts, scams will be red-flagged and deemed as spam.
 
 ---
@@ -50,15 +35,9 @@ Use of common spam word in the email associated with gimmicks, promises, free gi
 
 Before we dive into the list of spam words to avoid, let’s discuss spam filters.
 
-
-
 Spam filters work as a trigger mechanism, i.e they get alerted for spam when you craft something suspicious. So, do you want to know how to avoid spam filters?
 
-
-
 Here are a few tips that can help you in avoiding it,
-
-
 
 -   Don’t draft your subject line with all caps.
 
@@ -75,8 +54,6 @@ Here are a few tips that can help you in avoiding it,
 -   Make it look personalized.
 
 -   Never promote or boast about your product in the subject line.
-
-
 
 
 These tips can help you avoid spam filter’s radar. But the primary trigger is the spam words, let’s dive into the list to find out.
