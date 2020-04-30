@@ -85,8 +85,9 @@ ___
 
 ![](../images/11-best-woocommerce-plugins-that-are-a-must-for-your-store-in-2020/smart-coupons-for-woocommerce.jpg)
 
+<br>
 
-Smart Coupon for WooCommerce by WebToffee is a WooCommerce coupon plugin to enhance the functionalities and extend the features of WooCommerce coupons. This provides a lot of possibilities for you to create different kinds of offers that can make your customers happy and keep coming back.
+Smart Coupon for WooCommerce by <link-text url="https://www.webtoffee.com/" rel="noopener nofollow" target="_blank">WebToffee</link-text> is a <link-text url="https://www.webtoffee.com/product/smart-coupons-for-woocommerce/" rel="noopener nofollow" target="_blank">WooCommerce coupon plugin</link-text>  to enhance the functionalities and extend the features of WooCommerce coupons. This provides a lot of possibilities for you to create different kinds of offers that can make your customers happy and keep coming back.
 Coupons and offers are certainly a great way to make more sales and more importantly create a customer base that will be happy with your service. For your WooCommerce store, Smart Coupons for WooCommerce makes creating and managing coupons easier and convenient.
 
 **Features:**
