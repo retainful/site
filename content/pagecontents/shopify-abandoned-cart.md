@@ -17,15 +17,14 @@ keywords: "Shopify abandoned cart, Recover abandoned cart Shopify, Shopify cart 
 
 Start recovering abandoned checkouts on your Shopify store with powerful abandoned cart recovery emails. Also, drive repeat purchases and increase revenue 10x times.
 
- 
- 
+
 <cta url="https://app.retainful.com/?utm_source=landing_page&utm_medium=shopify_abandoned_cart&utm_campaign=recover-cart-for-free&utm_term=cta" target="_blank" rel="noopener">Recover Cart for FREE</cta>
 
 </div>
 
 <div slot="right">
 
-![Placeholder](../../content/images/landingpage/banner.png)
+![Placeholder](../images/landingpage/shopify-abandoned-cart/recover-abandoned-checkouts-grow-your-shopify-sales-seamlessly.svg)
 
 </div>
 
@@ -107,7 +106,7 @@ Abandoned checkouts are definitely not good for your Shopify store’s growth. I
 
 <div slot="left">
 
-<img src="../../content/images/landingpage/Send-automated-emails.png"/>
+<img src="../images/landingpage/shopify-abandoned-cart/automated-abandoned-cart-recovery-emails.svg"/>
 
 
 </div>
@@ -118,7 +117,7 @@ Abandoned checkouts are definitely not good for your Shopify store’s growth. I
 
 <div class="p-5">
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6" orderleft="order-two" orderright="order-one">
 
 <div slot="left">
 
@@ -151,7 +150,7 @@ Most of the abandoned checkouts are recovered somewhere between the 3rd and the 
 <div slot="right">
 
 
-<img src="../../content/images/landingpage/Irresistible-email-templates.png"/>
+<img src="../images/landingpage/shopify-abandoned-cart/drip-drip-your-cart-recovery-email-campaign.svg"/>
 
 
 </div>
@@ -189,7 +188,7 @@ Retainful is not only about recovering abandoned checkouts. It also helps store 
 
 <div slot="left">
 
-<img src="../../content/images/landingpage/Send-personalized-emails.png"/>
+<img src="../images/landingpage/shopify-abandoned-cart/next-order-coupons-to-drive-repeat-sales-and-build-loyal-customers.svg"/>
 
 </div>
 
@@ -200,16 +199,13 @@ Retainful is not only about recovering abandoned checkouts. It also helps store 
 
 <div class="p-5">
 
-<featurecontent featurebodysizeleft="6" featurebodysizerigth="6">
+<featurecontent featurebodysizeleft="6" featurebodysizerigth="6" orderleft="order-two" orderright="order-one">
 
 <div slot="right">
 
-<img src="../../content/images/landingpage/Send-unlimited-emails.png"/>
+<img src="../images/landingpage/shopify-abandoned-cart/deeper-insights-greater-store-growth-decisions.svg"/>
 
 </div>
-
-
-
 
 <div slot="left">
 
