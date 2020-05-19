@@ -2,11 +2,11 @@
 title: "43 Brilliant Ways to Offer Discounts and Coupon Codes To Generate Sales for your eCommerce store"
 path: "/blog/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store"
 date: "2020-03-15"
-author: "Joe"
-image: "../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store.png"
+author: "Sharon Thomas"
+image: "../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store.png"
 thumbnail: "../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store.png"
+category: "eCommerce"
 --- 
-
 50% off your favorite styles.
 
 Grab the offer with the discount code FIFTYOFF.
@@ -27,7 +27,8 @@ All eCommerce offers are not the same. You must have a knack to execute it the r
 
 Let’s talk about offers, the types, ways to put it into practice, and the impact of it on eCommerce sales.
 
-  
+<toc>
+</toc>
 
 ## What is an eCommerce offer?
 
