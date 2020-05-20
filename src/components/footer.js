@@ -16,7 +16,7 @@ export default function Footer() {
                 <hr/>
                 <Row>
                     <Col size="3">
-                        <h4 className="footer-title">Product</h4>
+                        <h4 className="footer-title">Resources</h4>
                         <ul>
                             <li><Link to="/abandoned-cart-email-templates">Abandoned Cart Email Templates</Link></li>
                             <li><Link to="/premium-addons">Premium Add-ons (WooCommerce)</Link></li>
