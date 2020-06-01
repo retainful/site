@@ -60,7 +60,7 @@ render() {
                         <div className="text-center">
                             {slottedChildren["plan-button"]}
                         </div>
-                            <span className="price-slogan pt-3" style={{fontSize:'12px !important'}}>
+                            <span className="price-slogan pt-3">
                                 {slottedChildren["pricing-slogan"]}
                             </span>
                         {slottedChildren["plan-features"]}

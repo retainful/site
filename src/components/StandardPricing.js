@@ -6,16 +6,16 @@ class StandardPricingTable extends React.Component {
     render() {
         return (
             <div className="col-md-12">
-            <StaticQuery
-                query={StandardPricingPlanQuery}
-                render={data => {
-                    return (
-                        <PageContent
-                            excerptData={data.markdownRemark.htmlAst}
-                        />
-                    )
-                }}
-            />
+                <StaticQuery
+                    query={StandardPricingPlanQuery}
+                    render={data => {
+                        return (
+                            <PageContent
+                                excerptData={data.markdownRemark.htmlAst}
+                            />
+                        )
+                    }}
+                />
             </div>
         )
     }
