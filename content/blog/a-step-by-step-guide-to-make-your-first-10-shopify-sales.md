@@ -10,10 +10,6 @@ author: "Joel Platini"
 category: "shopify"
 ---
 
-## A Step by Step Guide to Make your First 10 Shopify Sales
-
-<br>
-
 Now that you’ve <link-text url="https://www.retainful.com/blog/step-by-step-guide-to-launch-a-shopify-store" rel="noopener" target="_blank">launched your Shopify store,</link-text> what next? How to get the first sale on Shopify?
 
   
@@ -34,6 +30,8 @@ Don’t fret, we’ll show you how to get the first sale on Shopify effortlessly
 
 <toc>
 </toc>
+
+## A Step by Step Guide to Make your First 10 Shopify Sales
 
 ### Send prototypes to influencers
 
