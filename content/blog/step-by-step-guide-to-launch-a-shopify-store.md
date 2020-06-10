@@ -1,12 +1,12 @@
 ---
 title: "Step by step guide to Launch a Shopify Store in 2020"
 path: "/blog/step-by-step-guide-to-launch-a-shopify-store"
-date: "2020-03-09"
+date: "2020-04-20"
 description: "Shopify is a powerful eCommerce platform in which you can create and launch your online store within few mins. In this article, we've created a guide on how to set up a Shopify store, and we've compiled a Shopify store checklist to help you achieve a seamless launch."
 image: "../images/step-by-step-guide-to-launch-a-shopify-store/step-by-step-guide-to-launch-a-shopify-store.png"
 thumbnail: "../images/step-by-step-guide-to-launch-a-shopify-store/step-by-step-guide-to-launch-a-shopify-store.png"
 author: "Joel Platini"
-category: "Shopify"
+category: "shopify"
 keywords: "Open Shopify store, Shopify launch checklist, eCommerce store checklist, Shopify setup checklist, Shopify store checklist, eCommerce site checklist"
 ---
 

@@ -8,7 +8,7 @@ image: "../images/how-to-recover-abandoned-checkouts-in-woocommerce/how-to-recov
 thumbnail: "../images/how-to-recover-abandoned-checkouts-in-woocommerce/how-to-recover-abandoned-checkouts-in-woocommerce.png"
 description : "WooCommerce shopping cart abandonment has been a never-ending problem for store owners. This ultimate guide can help you understand how to recover abandoned checkouts in WooCommerce. Also, check out WooCommerce abandoned cart email templates inside."
 keywords: "free wp shopping cart plugin, woocommerce shopping cart abandonment, woocommerce capture email before checkout, woocommerce abandoned cart email"
-category: "woocommerce"
+category: "WooCommerce"
 ---
 
 A cart that is abandoned is lost forever if timely action is not initiated. The startling truth is that the customer is lost too. Using a strategic plan to get back customers to complete the purchase is crucial to retain them for a longer time and to recover lost sales.
