@@ -4,7 +4,7 @@ path: "/blog/how-email-template-designs-play-a-huge-role-in-a-marketing-campaign
 description: "Responsive email design is crucial in achieving formidable success in your email marketing campaign. We did some digging around to bring you some of the best email design practices pursued by businesses around the world."
 author: "Joel Platini"
 keywords: "how to layout an email, email designs, how to design an email, email design best practices"
-date: "2020-01-28"
+date: "2020-02-18"
 image: "../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/emai-template.png"
 thumbnail: "../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/emai-template.png"
 category: "marketing"

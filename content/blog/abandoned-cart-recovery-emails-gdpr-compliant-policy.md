@@ -7,7 +7,7 @@ keywords: "abandoned cart gdpr, abandoned cart emails gdpr, how many abandoned c
 author: "Vidya"
 image: "../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy.png"
 thumbnail: "../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy.png"
-category: "eCommerce"
+category: "ecommerce"
 ogtype: "blog"
 ---
 

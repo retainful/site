@@ -1,6 +1,6 @@
 ---
 path: "/blog/50-proven-ways-to-promote-your-shopify-store"
-date: "2020-03-21"
+date: "2020-05-06"
 title: "50 Proven Ways to Promote your Shopify Store"
 description: "Launching your store won't bring you any profit, that's why we're bringing you 50 proven ways to promote your Shopify store to boost your revenue."
 author: "Joel Platini"

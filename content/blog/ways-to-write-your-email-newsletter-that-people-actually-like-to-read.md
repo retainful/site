@@ -1,7 +1,7 @@
 ---
 title: "Ways to write your email newsletter that people actually like to read"
 path: "/blog/ways-to-write-your-email-newsletter-that-people-actually-like-to-read"
-date: "2020-03-03"
+date: "2020-04-10"
 description: " Email newsletters are sent to inform subscribers about the latest news, updates, or information related to the store. But, all your efforts will go in vain if no one wants to spend their time reading it. So, we thought of guiding you on how to write a newsletter that people would like to read."
 author: "Joel Platini"
 image:  "../images/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/ways-to-write-your-email-newsletter-that-people-actually-like-to-read.png"

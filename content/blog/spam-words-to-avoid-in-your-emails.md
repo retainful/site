@@ -1,7 +1,7 @@
 ---
 title: "Spam Words to Avoid in your Emails"
 path: "/blog/spam-words-to-avoid-in-your-emails"
-date: "2020-02-26"
+date: "2020-03-27"
 description: "One in five emails gets marked as spam, and that is why you have to be selective in your words while writing an email subject line. To help you with your quest, we have compiled a list of spam words to avoid in email subject lines to keep your emails away from spam box."
 author: "Joel Platini"
 image:  "../images/spam-words-to-avoid-in-your-emails/spam-words-to-avoid-in-your-emails.png"

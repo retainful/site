@@ -1,7 +1,7 @@
 ---
 title: "43 Brilliant Ways to Offer Discounts and Coupon Codes To Generate Sales for your eCommerce store"
 path: "/blog/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store"
-date: "2020-03-15"
+date: "2020-04-28"
 author: "Sharon Thomas"
 image: "../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store.png"
 thumbnail: "../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store.png"

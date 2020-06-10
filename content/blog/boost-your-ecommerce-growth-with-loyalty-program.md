@@ -7,7 +7,7 @@ keywords: "customer loyalty program ideas, successful loyalty programs examples,
 author: "Vidya"
 image: "../images/boost-your-ecommerce-growth-with-loyalty-program/Best-Ways-to-Use-Your-Loyalty-Program-to-Boost-Your-eCommerce-Growth.png"
 thumbnail: "../images/boost-your-ecommerce-growth-with-loyalty-program/Best-Ways-to-Use-Your-Loyalty-Program-to-Boost-Your-eCommerce-Growth.png"
-category: "eCommerce"
+category: "ecommerce"
 ogtype: "blog"
 ---
 

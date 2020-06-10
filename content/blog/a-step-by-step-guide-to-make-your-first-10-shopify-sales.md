@@ -5,7 +5,7 @@ description: "Early sales are hard to obtain but are necessary for creating a su
 "
 image: "../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/a-step-by-step-guide-to-make-your-first-10-shopify-sales.png"
 thumbnail: "../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/a-step-by-step-guide-to-make-your-first-10-shopify-sales.png"
-date: "2020-03-27"
+date: "2020-05-16"
 author: "Joel Platini"
 category: "shopify"
 ---

@@ -1,6 +1,6 @@
 ---
 path: "/blog/how-to-create-the-perfect-abandoned-cart-email-template-case-study"
-date: "2020-01-05"
+date: "2020-01-10"
 datemodified: "2019-10-18"
 title: "How to Set the Perfect Abandoned Cart Email Template for 2020 - A Case Study"
 description: "The perfect abandoned cart email template is not a myth. Here is a case study with insights into how to nail your abandoned cart email with examples."

@@ -7,7 +7,7 @@ keywords: "shopify abandoned cart app, abandoned checkout shopify app, how to se
 author: "Sharon Thomas"
 image:  "../images/the-10-best-shopify-apps-to-recover-abandoned-cart/the-10-best-shopify-apps-to-recover-abandoned-cart.png"
 thumbnail: "../images/the-10-best-shopify-apps-to-recover-abandoned-cart/the-10-best-shopify-apps-to-recover-abandoned-cart.png"
-category: "Shopify"
+category: "shopify"
 ---
 
 Have you ever come across a Shopify store with no record of abandoned carts? Silly question, is it? It is well known that there is no eCommerce store with zero cart abandonment rate. At least, it does give a head start to the topic right. 🙂

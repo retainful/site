@@ -1,6 +1,6 @@
 ---
 title: "The Complete Guide to Improve Customer Retention Rate on Your WooCommerce Store"
-date: "2020-02-20"
+date: "2020-03-19"
 description: " Loyal customers are known for increasing the customer retention rate. It is no mean feat to achieve, but hey, it is not an impossible one for your WooCommerce store. These customer retention strategies will guide you how to ace this task effortlessly. Customer retention guaranteed!"
 image: "../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store.png"
 thumbnail: "../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store.png"

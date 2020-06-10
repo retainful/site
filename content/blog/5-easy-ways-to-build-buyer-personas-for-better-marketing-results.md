@@ -4,9 +4,9 @@ path: "/blog/5-easy-ways-to-build-buyer-personas-for-better-marketing-results"
 description: "To achieve better marketing conversions, you need to build your buyer personas? Follow our guide as we take you through 5 easy ways to build buyer personas to tailor your campaigns."
 image: "../images/Buyer-persona/5-easy-ways-to-build-buyer-personas-for-better-marketing-results.png"
 thumbnail: "../images/Buyer-persona/5-easy-ways-to-build-buyer-personas-for-better-marketing-results.png"
-date: "2020-03-31"
+date: "2020-05-25"
 author: "Joel Platini"
-category: "eCommerce"
+category: "ecommerce"
 ---
 
 Are you worried that your marketing campaigns are not yielding conversion? Who are your ideal buyer personas?
