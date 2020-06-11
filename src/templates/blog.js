@@ -61,7 +61,7 @@ const BlogPage = ({ pageContext,props}) => {
                     <div className="pagination-links">
                         <NavLink className="previousLink" test={first} url={previousUrl} text={<FaAngleDoubleLeft/>} />
                         {Array.from({ length: pageCount }, (_, i) => (
-                          <Link key={`pagination-number${i + 1}`} className="pagination-number" to={`blog${i === 0 ? "" : "/"+ (i + 1)}`}>
+                          <Link key={`pagination-number${i + 1}`} className="pagination-number" to={`${i === 0 ? "" : "/blog/"+ (i + 1)}`}>
                             {i + 1}
                           </Link>
                         ))}
