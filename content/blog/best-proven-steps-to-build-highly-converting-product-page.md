@@ -29,7 +29,7 @@ Unlike physical stores customers cannot perceive a product by touching them, so 
 
 Showcase your product from multiple angles so that customers will know how they’ll look like. Also, provide the option to zoom in to let customer view the product in detail.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/1-add-images.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/1-add-images.png)
 
 <br>
 
@@ -61,7 +61,7 @@ Videos actually give you a feeling of shopping in a physical store, it makes the
 
 Videos are becoming particularly important for e-commerce web sites as they can display far more features of the product than images.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/2-add-videos.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/2-add-videos.png)
 
 <br>
 
@@ -85,7 +85,7 @@ If you want to boost your click-through rates and achieve more conversions then 
 
 Dynamic keywords insertion(or DKI) is a function provided by both AdWords and Bing, enabling you to automatically insert a keyword into your ad.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/3-dynamic-keyword.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/3-dynamic-keyword.png)
 
 <br>
 
@@ -101,7 +101,7 @@ Recent research found that about 20% of failed sales were a direct consequence o
 
 Meanwhile, the best practice is to write about how the product will be useful to the customer. In that way, customers can understand the product better.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/4-product-description.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/4-product-description.png)
 
 <br>
 
@@ -117,7 +117,7 @@ Certainly not!
 
 To make it appealing, you must be much more precise. Customers may have some product-related doubts like (What size is that? What are the dimensions? How much does it weigh? etc).
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/5-product-details.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/5-product-details.png)
 
 <br>
 
@@ -129,7 +129,7 @@ Another key aspect that customers will look for on the product page is the optio
 
 Yes, customers may opt for a different color, size, and design for a specific product.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/6-product-options.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/6-product-options.png)
 
 <br>
 
@@ -143,7 +143,7 @@ Not just the product’s credibility, your eCommerce store might face some secur
 
 So, you should provide the necessary security for customer details to foster trust and loyalty with your customers.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/7-trust-badges.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/7-trust-badges.png)
 
 <br>
 
@@ -161,7 +161,7 @@ When it comes to purchasing a product in an eCommerce store, customers always re
 
 That is why you should be honest with your customers if you want your product page to convert, you can ask reviews for your product from the customers and display it.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/8-reviews.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/8-reviews.png)
 
 <br>
 
@@ -169,7 +169,7 @@ You may wonder, what if my product gets a negative review?
 
 Yes, negative reviews are part of the process, but always remember the number of positive reviews will outweigh the few negative reviews.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/9-review-proof.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/9-review-proof.png)
 
 <br>
 
@@ -191,7 +191,7 @@ Customers are fond of streamlined web design and they will appreciate the aesthe
 
 Google research in 2018 showed that 64% of mobile users will leave a site when it takes more than three seconds to load.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/10-product-prices.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/10-product-prices.png)
 
 <br>
 
@@ -216,7 +216,7 @@ Price is the driving force behind a successful eCommerce purchase if your custom
 A prominent tactic used by amazon when they offer a discount is striking out the old price and mentioning the new one. This tactic is the reason why Amazon has the best converting product pages.
 
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/11-retain-fuul-prices.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/11-retain-fuul-prices.png)
 
 <br>
 
@@ -234,7 +234,7 @@ Ecommerce Stores around the world use this strategy to sell products in demand o
 
 An effective way to achieve this is by adding an urgency clock to the product to showcase that the product will not available for a specific deal after the time runs out.  
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/12-time-clock.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/12-time-clock.png)
 
 <br>
 
@@ -248,13 +248,13 @@ Add to cart & Buy now buttons are the prime decision-makers on eCommerce product
 
 Make sure the color of your button stands out from the rest of your page, and don’t distract with clutter or other competing design elements.  
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/13-add-to-cart.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/13-add-to-cart.png)
 
 <br>
 
 Sometimes customers won’t be ready to purchase a product at the moment due to various reasons. So, adding a wishlist button will help customers save the items for later.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/14-wishlist.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/14-wishlist.png)
 
 <br>
 
@@ -276,7 +276,7 @@ If you take a look on some of the best converting web pages, they all have one t
 
 Yes, customers will have the urge to share your product with their friends and loved ones. Add a few social media sharing buttons so that your customers can share your products.
 
-![](../images/best-proven-steps-to-build-highly-converting-product-page/15-social-sharing-buttons.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/best-proven-steps-to-build-highly-converting-product-page/15-social-sharing-buttons.png)
 
 <br>
 

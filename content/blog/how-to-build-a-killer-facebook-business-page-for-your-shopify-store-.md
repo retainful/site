@@ -26,7 +26,7 @@ A Facebook business page provides an opportunity for online businesses to establ
 
 Billions of users can discover your Shopify store through your business page, you can boost your reputation by interacting with your customers.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/1-retainful-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/1-retainful-page.png)
 
 <br>
 
@@ -40,7 +40,7 @@ When you own a Shopify store or a product like <link-text url="https://www.retai
 
 Many Shopify stores don’t have a business page; sadly they are missing an ocean of marketing opportunities that can propel your Shopify store to the sky.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/2-need-of-a-business-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/2-need-of-a-business-page.png)
 
 <br>
 
@@ -69,7 +69,7 @@ Why doesn’t Facebook charge you? Because you are already bringing more traffic
 
 But there is a paid feature on Facebook, ads. Even though ads are unrelated to the business page you can still make use of the feature to reach more audiences.  
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/3-ad-cost.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/3-ad-cost.png)
 
 <br>
 
@@ -97,7 +97,7 @@ One of the common questions asked in recent times is, how to create a Facebook p
 
 <br>
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/4-creating-a-fb-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/4-creating-a-fb-page.png)
 
 <br>
 
@@ -109,7 +109,7 @@ You’ll be prompted with two options,
  
 Each of these options has its features and metrics according to its purpose. Click ‘Business or brand’ to create your business page.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/5-business-or-brand.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/5-business-or-brand.png)
 
 <br>
 
@@ -129,7 +129,7 @@ Once you’ve entered the necessary details, click ‘continue’.
 
 Next, Facebook will ask you to upload a profile picture, you can skip it if you wish to do it later.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/6-upload-profle-picture.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/6-upload-profle-picture.png)
 
 <br>
 
@@ -139,7 +139,7 @@ This photo will be your index whenever your post or share something. Profile pho
 
 Facebook will automatically crop it in a circular shape for your posts.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/7-profile-picture.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/7-profile-picture.png)
 
 <br>
 
@@ -151,7 +151,7 @@ The cover photo is the first thing visitors see when he/she visits your page. So
 
 Cover photos are displayed on computers at 820 x 312 pixels and mobile devices at 640 x 360 pixels.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/8-add-cover.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/8-add-cover.png)
 
 <br>
 
@@ -161,7 +161,7 @@ As the cover is the first thing a visitor sees you can add a video as your cover
 
 You can add a video by clicking ‘Add a cover’ and then click ‘Choose from videos’ and select your video.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/9-add-videos.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/9-add-videos.png)
 
 <br>
 
@@ -173,7 +173,7 @@ Now that your page, the next step in your Facebook page checklist is uploading y
 
 Click on ‘page info’ to mention extensive details of your page,
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/10-page-info.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/10-page-info.png)
 
 <br>
 
@@ -191,7 +191,7 @@ These sections will be available under the ‘page info’ section. Enter these 
 
 These information will be displayed in the ‘About’ tab of your homepage, where you can add more business information.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/11-about.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/11-about.png)
 
 <br>
 
@@ -199,7 +199,7 @@ You can also add your vision and mission statements, provide links to your other
 
 Now that you’ve entered all your necessary information, you can move to the ‘General settings’ of your page.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/12-general-settings.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/12-general-settings.png)
 
 <br>
 
@@ -213,7 +213,7 @@ Go ahead, play with it and see which one suits your Shopify store better and we�
 
 Your page should be shaping up really well right now if you’re following our Facebook page checklist. Now let’s discuss the page management sections that are at the top of your page.
 
- ![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/13-page-management-sections.png)
+ ![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/13-page-management-sections.png)
 
  <br>
 
@@ -229,7 +229,7 @@ Publishing Tools - Schedule your posts, see your post’s reach and engagement, 
 
 Ad centre - Run an ad campaign for your Shopify store.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/14-pgae-tabs.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/14-pgae-tabs.png)
 
 <br>
 
@@ -246,7 +246,7 @@ There are ten pre-defined templates on Facebook, you can select a template that 
 Navigate to Settings → Templates and Tabs
   
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/15-templates.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/15-templates.png)
 
 <br>
 
@@ -273,7 +273,7 @@ You can select a template that represents your business from the list,
 -   Video page
      
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/16-page-templates.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/16-page-templates.png)
 
 <br>
 
@@ -283,7 +283,7 @@ The significant difference between the templates will be the tab sections and th
 
 Since you need a business page, select the business template, and click the ‘apply template’. Facebook will automatically update your page to the new template.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/17-apply-templates.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/17-apply-templates.png)
 
 <br>
 
@@ -295,7 +295,7 @@ Once you’ve created a business page as per our Facebook page checklist, you ca
 
 Navigate to Settings → page roles
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/18-page-roles.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/18-page-roles.png)
 
 <br>
 
@@ -315,7 +315,7 @@ So, now your page can be managed by multiple people of various responsibilities 
 
 Additional to page roles you can also add your team members on your page.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/19-team-members.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/19-team-members.png)
 
 <br>
 
@@ -327,7 +327,7 @@ Create a username so that people can find your page, your username will be the o
 
 Your username is what people will use to tag your page in their posts. To create our username, navigate to About → Username.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/20-username.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/20-username.png)
 
 <br>
 
@@ -337,7 +337,7 @@ Sometimes Facebook might not allow you to create a username because the name mig
 
 In that case, you can add a suffix to your name. Most businesses use their business location or their category as a suffix.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/21-username-suffix.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/21-username-suffix.png)
 
 <br>
 
@@ -352,13 +352,13 @@ Call to action buttons is necessary to <link-text url="https://www.retainful.com
 
 Most business page templates will ‘add a button’ option on their homepage, click it.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/22-add-a-button.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/22-add-a-button.png)
 
 <br>
 
 You can choose a CTA button from a few options that Facebook displays,
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/23-shop-now-button.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/23-shop-now-button.png)
 
 <br>
 
@@ -378,7 +378,7 @@ You can choose a button that suits your business and Facebook will show you a pr
 
 So, if you own a Shopify store you can select the ‘shop now’ button to redirect your followers to your store. If you’re wondering how to connect Facebook to Shopify, this is one way to do it.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/24-choose-a-button.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/24-choose-a-button.png)
 
 <br>
 
@@ -388,7 +388,7 @@ A Facebook page checklist is redundant without a list likewise a Facebook page i
 
 Facebook has many options that can help you customize your post.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/25-post-options.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/25-post-options.png)
 
 <br>
 
@@ -396,7 +396,7 @@ You can make a variety of posts using these options, for instance, you can creat
 
 You can start a Q&A to find out if your page or store needs some change. Use any of these options to create a post and click ‘Publish’
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/26-pin-to-pae.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/26-pin-to-pae.png)
 
 <br>
 
@@ -412,7 +412,7 @@ Reviewing your store can help you minimize a few blunders, Facebook has an illus
 
 With this feature, you can view how your page will look in the eyes of a visitor. It’ll help you to see things and identify mistakes that you can’t see as an owner.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/27-page-visitor.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/27-page-visitor.png)
 
 <br>
 
@@ -420,7 +420,7 @@ Click the three dots next to ‘share’ on your home, and select ‘View as pag
 
 Facebook will display your page from a page visitor’s perspective. You can review your page to find if any issues are there and then exit ‘View as page visitor by clicking ‘ Switch to our view’.
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/28-switch-back.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/28-switch-back.png)
 
 Make sure you perform this step regularly to see how your page has been shaping up ever since its inception.
 
@@ -431,14 +431,14 @@ You should view your <link-text url="https://neilpatel.com/blog/guide-to-faceboo
 
 Use these crucial analytics to devise your plan, you can view your page insights by clicking ‘insights’ present on the top of the page.  
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/29-insights.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/29-insights.png)
 
 <br>
 
  
 You’ve created a new page, so the metrics would be empty, but after a few weeks your insights will look something like this,
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/30-new-metrics.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/30-new-metrics.png)
 
 <br>
 
@@ -460,7 +460,7 @@ So, how to connect Shopify to Facebook shop? Well, here it is
 
 Navigate to your Shopify admin, click on ‘+’ next to Sales channels. Now the Add sales channel dialog will be displayed, click ‘Add Facebook’
 
-![](../images/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/31-sales-channels.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-build-a-killer-facebook-business-page-for-your-shopify-store/31-sales-channels.png)
 
 <br>
 
