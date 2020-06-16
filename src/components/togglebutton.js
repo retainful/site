@@ -76,7 +76,7 @@ class ToggleBtn extends Component {
     }
     if (contacts > 5000) {
       let priceMultiplier = contacts / 1000
-      let priceValue = (priceMultiplier-5) * 9;
+      let priceValue = (priceMultiplier-5) * 5;
       let originalPrice = priceValue + 23;
       let originalPricem = priceValue + 29;
       ReactDOM.render(<Fragment>{originalPrice}</Fragment>, document.getElementById('growth-pricey'));
@@ -84,7 +84,7 @@ class ToggleBtn extends Component {
     }
     if (contacts > 2000) {
       let priceMultiplier = contacts / 1000
-      let priceValue = (priceMultiplier-2) * 9;
+      let priceValue = (priceMultiplier-2) * 5;
       let originalPrice = priceValue + 7;
       let originalPricem = priceValue + 9;
       ReactDOM.render(<Fragment>{originalPrice}</Fragment>, document.getElementById('starter-pricey'));

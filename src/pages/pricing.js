@@ -47,79 +47,77 @@ export default class PricingPage extends React.Component {
             <StandardPricingTable />
 
 
-            <div id="pricing-toggle">
+            {/* <div id="pricing-toggle">
               <ToggleBtn />
+            </div> */}
+
+<div className="plan-features p-2 ptb-2 plan-price-title text-center">
+        <h3>
+          <strong>All Plans Include</strong>
+        </h3>
+
+        <Row className="text-left p-2 m-3">
+          <Col md="6">
+            <div className="pricing-plans-icons">
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/1.svg" />{' '}
+                Capture & Recover Abandoned Carts{' '}
+              </p>
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/2.svg" />{' '}
+                Unlimited Cart Recovery Emails
+              </p>
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/3.svg" />{' '}
+                Drip / Sequential Email Reminders
+              </p>
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/4.svg" />{' '}
+                Single-click Cart Recovery
+              </p>
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/5.svg" />{' '}
+                Live Cart feed
+              </p>
             </div>
+          </Col>
 
-            <div class="plan-features p-2 ptb-2 plan-price-title">
-              <Card>
-                <CardBody>
-                  <h3>All Plans Include</h3>
-
-                  <Row class="text-left p-2 m-3">
-                    <Col size="6">
-                      <div class="pricing-plans-icons">
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/1.svg" />{' '}
-                          Capture & Recover Abandoned Carts{' '}
-                        </p>
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/2.svg" />{' '}
-                          Unlimited Cart Recovery Emails
-                        </p>
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/3.svg" />{' '}
-                          Drip / Sequential Email Reminders
-                        </p>
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/4.svg" />{' '}
-                          Single-click Cart Recovery
-                        </p>
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/5.svg" />{' '}
-                          Live Cart feed
-                        </p>
-                      </div>
-                    </Col>
-
-                    <Col size="6">
-                      <div class="pricing-plans-icons">
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/6.svg" />{' '}
-                          Unlimited Next Order Coupons
-                        </p>
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/6.svg" />
-                          Follow-ups for Next Order Coupons{' '}
-                        </p>
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/7.svg" />{' '}
-                          Ready to use, conversion-focussed templates
-                        </p>
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/8.svg" />{' '}
-                          Visual drag and drop email editor
-                        </p>
-                        <p>
-                          {' '}
-                          <img src="../images/landingpage/pricing-plans-icons/9.svg" />{' '}
-                          Actionable Analytics and Insights
-                        </p>
-                      </div>
-                    </Col>
-                  </Row>
-                </CardBody>
-              </Card>
+          <Col md="6">
+            <div className="pricing-plans-icons">
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/6.svg" />{' '}
+                Unlimited Next Order Coupons
+              </p>
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/6.svg" />
+                Follow-ups for Next Order Coupons{' '}
+              </p>
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/7.svg" />{' '}
+                Ready to use, conversion-focussed templates
+              </p>
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/8.svg" />{' '}
+                Visual drag and drop email editor
+              </p>
+              <p>
+                {' '}
+                <img src="https://raw.githubusercontent.com/retainful/site-images/f196e99d6a75db3cdf354f089eea1dee6f559d0e/pricing-plans-icons/9.svg" />{' '}
+                Actionable Analytics and Insights
+              </p>
             </div>
+          </Col>
+        </Row>
+      </div>
 
           </Container>
 
