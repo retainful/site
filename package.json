@@ -22,6 +22,7 @@
     "gatsby-plugin-google-fonts": "0.0.4",
     "gatsby-plugin-hotjar": "^1.0.1",
     "gatsby-plugin-manifest": "^2.4.11",
+    "gatsby-plugin-netlify-cache": "^1.2.0",
     "gatsby-plugin-offline": "^2.2.10",
     "gatsby-plugin-react-helmet": "^3.3.4",
     "gatsby-plugin-remove-trailing-slashes": "^2.3.5",

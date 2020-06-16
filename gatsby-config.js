@@ -24,6 +24,12 @@ module.exports = {
             }
         },
         {
+            resolve: "gatsby-plugin-netlify-cache",
+            options: {
+                cachePublic: true
+            }
+        },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `images`,
