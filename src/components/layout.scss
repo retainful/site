@@ -1701,7 +1701,7 @@ body {
   .pricing-plans-bg {
     background: #fff;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
-    margin: 50px 0px;
+    // margin: 50px 0px;
   }
 
   .pricing-section .featured {
@@ -4958,8 +4958,9 @@ body {
 
 .pricing-banner-container {
   position: relative;
+  margin: 50px 0px;
   // padding-top: 40px;
-  background: linear-gradient(-135deg, #ffffff 25%, #f4f7fb);
+  // background: linear-gradient(-135deg, #ffffff 25%, #f4f7fb);
 
   .intro-text-container {
     position: relative;
@@ -7031,9 +7032,13 @@ $i: 0;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
     h2{
       font-size: 34px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
       small{
-        font-size: 21px;
+        font-size: 18px;
         color: #777777;
+        margin-left: 5px;
       }
     }
     h4{
@@ -7053,18 +7058,21 @@ $i: 0;
   }
   .btn-toggle{
     line-height: 1.1;
-    border: 2px solid #dddddd;
+    border: none;
     padding: 0;
     display: flex;
-    font-size: 18px;
+    font-size: 15px;
     overflow: hidden;
+    border-radius: 0;
     strong{
       padding: 10px;
-      font-weight: 500;
+      font-weight: 400;
+      border: 1px solid #dddddd;
     }
     .active{
-      background: #526bcc;
+      background: #3abd82;
       color: #ffffff;
+      border: 1px solid #3abd82;
     }
     &:hover, &:focus{
       outline: none;
