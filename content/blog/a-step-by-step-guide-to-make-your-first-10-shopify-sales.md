@@ -43,7 +43,7 @@ These people will always listen to their influencers because he/she has created 
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/1-influencer-marketing.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/1-influencer-marketing.png)
 
 <br>
 
@@ -59,7 +59,7 @@ In turn, you’ll get a mention which will get your product exposed to millions 
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/2-influencer-marketing-stats.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/2-influencer-marketing-stats.png)
 
 <br>
 
@@ -75,7 +75,7 @@ Blogs have become crucial to get Shopify sales and to increase conversion rates.
 
 People use search engines to research for a product, now imagine your product showing up as the first result, that’s what blogs can do.
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/3-blog-stats.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/3-blog-stats.png)
 
 <br>
 
@@ -93,7 +93,7 @@ People search for topics that they find difficult to interpret on their own. Fin
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/4-Blogging.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/4-Blogging.png)
 
 <br>
 
@@ -111,14 +111,14 @@ It is a vital strategy to build an email list because a recent study shows that 
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/5-email-roi.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/5-email-roi.png)
 
 <br>
 
   
 With emails, you have the opportunity to place your product/store right in the doorstep/inbox of your leads with minimal expense. So, if you’re wondering how to get your first Shopify sales, start building an email list.
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/6-email-newsletter.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/6-email-newsletter.png)
 
 <br>
 
@@ -158,7 +158,7 @@ Do you want to amplify your presence and get Shopify sales? Social media contest
 
 Use your social media to run a contest and offer your products as a reward. This is a great way to achieve Shopify sales and increase the brand value of your store.
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/7-contest.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/7-contest.png)
 
 <br>
 
@@ -173,7 +173,7 @@ Giveaway is a simple contest marketing option where you simply choose who you ca
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/8-giveaways.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/8-giveaways.png)
 
 <br>
 
@@ -208,7 +208,7 @@ Sites like eBay and Amazon are perfect platforms to get Shopify sales because th
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/9-other-ecommerce.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/9-other-ecommerce.png)
 
 <br>
 
@@ -225,7 +225,7 @@ A recent study shows that 9 out of 10 users check the price of the product on Am
   
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/10-ecommerce-site.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/10-ecommerce-site.png)
 
 <br>
 
@@ -249,7 +249,7 @@ You may not get more Shopify sales through LinkedIn but the cluster of opportuni
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/11-linkedin.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/11-linkedin.png)
 
 <br>
 
@@ -281,7 +281,7 @@ Create a business profile on these platforms and promote your products to your f
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/12-facebook-ads.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/12-facebook-ads.png)
 
 <br>
 
@@ -299,7 +299,7 @@ Reports show that the per-follower engagement of Instagram is 58 times and 20 ti
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/13-instagram.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/13-instagram.png)
 
 <br>
 
@@ -323,7 +323,7 @@ Google ads is a paid(PPC) advertising medium with which you pay for your product
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/14-google-ads.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/14-google-ads.png)
 
 <br>
 
@@ -333,7 +333,7 @@ Google ads are dynamic, you can set up and run your ad campaign in a few minutes
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/14-google-stats.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/14-google-stats.png)
 
 <br>
 
@@ -373,7 +373,7 @@ This is a great way to expose your personality, which will gain you not just cli
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/15-reddit.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/15-reddit.png)
 
 <br>
 
@@ -405,7 +405,7 @@ Yes, they have, a major example is SpaceX’s Starman by Elon musk, in order to 
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/16-pr-stunt.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/16-pr-stunt.png)
 
 <br>
 
@@ -441,7 +441,7 @@ Do your research, see where your potential customers are, and then mobilize your
 
   
 
-![](../images/a-step-by-step-guide-to-make-your-first-10-shopify-sales/17-organize-an-event.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/a-step-by-step-guide-to-make-your-first-10-shopify-sales/17-organize-an-event.png)
 
 <br>
 

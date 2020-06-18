@@ -48,7 +48,7 @@ Anything and everything that hinders customer satisfaction must be rectified to 
 
 The journey of a typical eCommerce customer is depicted in the picture below.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/1-eCommerce-customer-journey.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/1-eCommerce-customer-journey.png)
 
 For the sake of reducing cart abandonment, you only need to consider from Search to Ordering.
 
@@ -80,7 +80,7 @@ Having the email address of customers with their consent helps extensively to de
 
 A welcome popup comes up within 10s to 15s of landing on the home page of a website. Here is an example from Monoset.  
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/2-welcome-popup.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/2-welcome-popup.png)
 
 The sale intent starts here at the welcome popup itself by giving away an offer of 10%. The benefit is 3-fold here.
 
@@ -99,7 +99,7 @@ Email collection popup can be used to get an email from the consumer. It is also
 
 The timing at which the popup is triggered is the highlight here. It triggers just when the consumer is about to add the desired item to the cart. It so happens that a majority of people will comply so as to finish the purchase.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/3-email-collection-popup.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/3-email-collection-popup.png)
 
 <br>
 
@@ -119,14 +119,14 @@ The exit intent technology tracks the movement of the cursor and brings up a pop
 -   One that simply collects the email
     
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/4-exit-intent-popup.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/4-exit-intent-popup.png)
 
 This kind of exit intent popup helps to reduce cart abandonment in eCommerce in the long run. The email is stored and used to send abandoned cart emails if a customer abandons a cart in the future.
 
 -   One that entices to checkout instantly in the case of cart abandonment
     
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/5-exit-intent-popup-with-discount-for-checkout.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/5-exit-intent-popup-with-discount-for-checkout.png)
 
 
 The above exit intent popup collects emails as well as nudges the customer with a discount to complete the purchase right away.
@@ -138,7 +138,7 @@ Fastrack, a digital marketing agency that caters to the hotel and travel industr
 <br>
 
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/6-exit-intent-popup-with-discount.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/6-exit-intent-popup-with-discount.png)
 
 <br>
 
@@ -179,7 +179,7 @@ Strategy used - humanizing the product.
 Are you scratching your head? Look at this email to make it clear.
 
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/7-abandoned-cart-email-focus-on-content.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/7-abandoned-cart-email-focus-on-content.png)
 
 The header immediately catches the attention - Lonely….I am so lonely - which is a popular number by Akon. It is nothing short of a genius to use this as the header for an abandoned cat email.
 
@@ -206,7 +206,7 @@ The new addition to this flow is the Next Order Coupon.
 
 This coupon occupies a place in the order notification email of a completed order. A sample is given below.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/8-order-notification-email-with-next-order-coupon.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/8-order-notification-email-with-next-order-coupon.png)
 
 Expiry date for the coupon can also be set as per your needs. This tactic keeps cart abandonment aloof and increases sales.
 
@@ -242,18 +242,18 @@ How about bringing it down to 3 steps?
 
 Pepperfry does it this way. Take a look.  
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/9-eCommerce-shopping-cart-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/9-eCommerce-shopping-cart-page.png)
 
   
 The above image is the cart page of the furniture and decor retailer, Pepperfry. It also has a progress indicator at the top which mentions only 2 more additional steps to confirm the order. There are 3 steps in total making the checkout a short one.
 
 Then comes the shipping address page where you do not have to retype the address for billing purposes. Just click the checkbox ‘Billing address is same as Shipping address’.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/10-eCommerce-shipping-and-billing-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/10-eCommerce-shipping-and-billing-page.png)
 
 Next is the payment page.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/11-eCommerce-payment-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/11-eCommerce-payment-page.png)
 
 That’s it. You are done with the purchase with just 3 steps. Even though the steps are 3, all the information is present on the same screen which makes it even easier to edit items and address if needed. The need for an order preview page is eliminated here.
 
@@ -281,7 +281,7 @@ There are 5 ways of advertising free shipping on your website.
 
 A site-wide banner is one option to shout out about the availability of free shipping. Take a look at this example from Williams Sonoma.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/12-free-shipping-banner.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/12-free-shipping-banner.png)
 
 Banners help consumers notice the deal quite easily irrespective of the page they surf but let’s not stop with just this one trick.
 
@@ -289,7 +289,7 @@ Banners help consumers notice the deal quite easily irrespective of the page the
 
 If your free shipping offer is going to be a forever affair, then you can pretty much add a copy of it to your website header like this one by Trailcampro.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/13-free-shipping-mention-in-website-header.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/13-free-shipping-mention-in-website-header.png)
 
 As already pointed out, this minute change spiked sales by 20% for this US-based company which indeed sorted out shopping cart abandonment.
 
@@ -301,11 +301,11 @@ William Sonoma does it in 2 ways.
 
 The first one is the free shipping highlighted right below the product image.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/14-free-shipping-mention-on-product-page-1.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/14-free-shipping-mention-on-product-page-1.png)
 
 The second one is the offer mentioned in the specific product page.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/15-free-shipping-mention-on-product-page-2.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/15-free-shipping-mention-on-product-page-2.png)
 
 
 There is hardly any chance to miss the sight of the free shipping offer which means the chances of shopping cart abandonment is far lesser.
@@ -319,7 +319,7 @@ If you are wondering <link-text url="https://www.retainful.com/blog/how-to-reduc
 <br>
 
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/16-free-shipping-mention-on-cart-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/16-free-shipping-mention-on-cart-page.png)
 
 
 #### Exit intent popup
@@ -328,7 +328,7 @@ Consumers need not really love what they purchase, might switch decision at the 
 
 <br>
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/17-exit-intent-popup-with-free-shipping-mention.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/17-exit-intent-popup-with-free-shipping-mention.png)
 
 Moving on, here is an insight into how to set up free shipping offers. Here are some of the possibilities.
 
@@ -376,7 +376,7 @@ Reduce abandoned carts by using live sales notification for your eCommerce store
 
 Here is an example from OptionMonster. The image shows their homepage with a live sales popup that comes up every other second.  
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/18-live-sales-notification-with-sale-information.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/18-live-sales-notification-with-sale-information.png)
 
 Sales notifications act as an alternative to social proof. When the consumer notices that so many people are opting for the service or buying a product, the chances of turning away are drastically reduced.
 
@@ -384,7 +384,7 @@ This concept is also termed as push notifications. While the names are many, the
 
 The same technique can be used to target a particular product too like this one done by an online store called Seamstress.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/19-live-sales-notification-with-product-information.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/19-live-sales-notification-with-product-information.png)
 
 It does not stop with the notification to let you know about the hot sellers. A click on it takes you to the product page too.
 
@@ -392,7 +392,7 @@ Live sales notification or sales pop can also be used to recommend products or u
 
 <br>
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/20-live-sales-notification-with-number-of-products-sold-information.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/20-live-sales-notification-with-number-of-products-sold-information.png)
 
 ### Set up discounts wisely
 
@@ -422,7 +422,7 @@ These are some methods to reduce shopping cart abandonment effectively by levera
 
 <br>
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/21-advertise-discount-on-homepage.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/21-advertise-discount-on-homepage.png)
 
 
 You will never see a bigger sale ad than this one by William Sonoma. There is not a chance of missing out on this. Customers start shopping happily with the discount in mind.
@@ -431,7 +431,7 @@ You will never see a bigger sale ad than this one by William Sonoma. There is no
 
 Abandoned cart emails with discounts never fail if done the right way. Take a look at this example from Neiman Marcus. The first thing that you notice is the 10% off. That is exactly the intent of discounts. It should be noticed and utilized.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/22-abandoned-cart-email-with-discount.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/22-abandoned-cart-email-with-discount.png)
 
 #### Mention discount on product page
 
@@ -439,7 +439,7 @@ It goes without saying that product pages must have mention of discounts. Willia
 
 Saving $100 with a purchase is no joke. This is definitely better than stating you get a 25% discount because you immediately get to know how much you are going to save with this purchase. The possibility of cart abandonment is very minimal here.
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/23-discount-mention-on-product-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/23-discount-mention-on-product-page.png)
 
 ### Optimize for mobile commerce
 
@@ -471,7 +471,7 @@ Other things to do to reduce eCommerce cart abandonment in mobile
 -   Place checkout forms and CTAs where a person’s thumb reaches out instantly on the mobile. <link-text url="https://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php" rel="noopener nofollow" target="_blank">49% of people</link-text> prefer using the mobile one-handed, 39% in the cradled position, and 15% with two hands.
     
 
-![](../images/10-best-ways-to-reduce-abandoned-carts/24-depiction-of-how-people-prefer-to-use-mobile.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-ways-to-reduce-abandoned-carts/24-depiction-of-how-people-prefer-to-use-mobile.png)
 
 ### Monitor live carts
 

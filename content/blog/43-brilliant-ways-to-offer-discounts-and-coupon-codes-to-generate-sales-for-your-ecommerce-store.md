@@ -56,14 +56,14 @@ Coupon codes can be generated in two ways - either generic or personalized.
 
 This is a generic coupon code from Kate Spade home page.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/1-generic-coupon-code-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/1-generic-coupon-code-example.png)
 
 Generic means any person who visits the website can avail the offer using this coupon code. No restrictions applied to the type of customer. The coupon code does not belong to anybody specifically.
 
 This is a personalized coupon code from SkinStore as part of a referral program.
 
   
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/2-personalized-coupon-code-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/2-personalized-coupon-code-example.png)
 
  
 A personalized coupon code is meant to be used by only one customer, to whom the code is assigned. In some cases, like the above example, the coupon code is owned by one person but can be shared with others.
@@ -77,20 +77,20 @@ Here are three methods to project a discount and a coupon code.
 -   Discount alone
     
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/3-offer-example-with-only-discount.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/3-offer-example-with-only-discount.png)
 
 This website ad from Nordstrom has only the discount offer mentioned. No coupon code is required here to check out the products included in this offer.
 
 -   Coupon code alone
     
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/4-offer-with-only-coupon-code.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/4-offer-with-only-coupon-code.png)
 
 This is an email snippet from Kate Spade with just the coupon code ‘MAKEMATCH’. The cost mentioned is not the discount but the price of the wristlet itself.
 
 -   Discount and coupon code in combination
     
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/5-offer-with-both-discount-and-coupon-code.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/5-offer-with-both-discount-and-coupon-code.png)
 
 Kate Spade does it again. This example shows a discount offer in combination with a coupon code. This means this code ‘OOHLALA’ must be used by the customer to get the 20% off.
 
@@ -166,13 +166,13 @@ The below given is an example from Shinesty, a brand that sells swimwear, dresse
 
 Also, the welcome box is a double opt in which helps to get leads who are really interested to be a part of the email list. A healthy email list is guaranteed here and so is the sale.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/6-subscription-or-welcome-offer-example1.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/6-subscription-or-welcome-offer-example1.png)
 
 <br>
 
 On clicking the ‘Get $10 for free’, the second popup comes up asking for the email address. In return, the flat-rate discount is emailed to the inbox.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/7-subscription-or-welcome-offer-example2.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/7-subscription-or-welcome-offer-example2.png)
 
 <br>
 
@@ -193,7 +193,7 @@ Create similar abandoned cart emails with <link-text url="https://www.retainful.
 
 <br>
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/8-abandoned-cart-email-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/8-abandoned-cart-email-offers-example.png)
 
 #### Exit intent offers                                      
 Customers sometimes don’t find the product that they look for in one eCommerce website.         
@@ -204,7 +204,7 @@ Hannahpad offers a discount coupon of $10 to get subscribed before leaving the w
 
 <br>
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/9-exit-intent-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/9-exit-intent-offers-example.png)
 
 #### Next order coupon offers                       
 One successful sale does not guarantee the return of the customer for the next purchase.            
@@ -214,7 +214,7 @@ So, how do you keep customers in the loop so that they choose your store by defa
 
 <br>
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/10-next-order-coupon-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/10-next-order-coupon-offers-example.png)
 
 Simple yet effective.                   
 These next order coupon offers are sent along with transactional emails with details of a finished purchase.                
@@ -228,7 +228,7 @@ Devise a referral program but with sensible offers. Only when the customer and t
 This is a referral program with a discount offer by SkinStore.
 
  
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/11-referral-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/11-referral-offers-example.png)
 
 <br>
 
@@ -254,7 +254,7 @@ Give a discount offer or invite them for an ongoing contest.
 
 Oliver Bonas nails the review request email with a chance to win €200 OB Gift card as part of a monthly draw.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/12-write-a-review-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/12-write-a-review-offers-example.png)
 
 #### Social sharing offers                  
 Social reach for an eCommerce website is the need of the hour. Nearly half of the world’s population uses social media to connect with people and share information at a global level.
@@ -265,14 +265,14 @@ Just do this. Ask your customers to share their purchases, product reviews, phot
 
 In return, give them an offer like Jaimin Essence did.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/13-social-sharing-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/13-social-sharing-offers-example.png)
 
 #### Bulk purchase offers               
 Bulk purchases are not a regular sight when running an eCommerce portal. There is no harm in offering a discount in that case.
 
 Corporates or resellers are the ones who come up with such requests. Dedicate a page for them on your website to cater to their doubts and questions.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/14-bulk-purchase-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/14-bulk-purchase-offers-example.png)
 
 The image pictured above is part of a page from Fabindia website. All the terms and conditions to be fulfilled to make a bulk purchase is listed here clearly.
 
@@ -283,7 +283,7 @@ Not every product is readily available in an online store. Some go out of stock 
 
 Coupons and discount offers can be used along with pre-orders. This is a strategy to get more people notice the product if it is a limited period sale.  
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/15-pre-order-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/15-pre-order-offers-example.png)
 
 SkinStore had this limited edition box offer message as part of a marketing email. A combo worth over $200 was being offered at just $88. That is close to 50% off on a pre-order.
 
@@ -301,7 +301,7 @@ Facebook is the number one social medium with the highest number of users and so
 
 This is a Facebook retargeting post by Blue Apron.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/16-online-retargeting-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/16-online-retargeting-offers-example.png)
 
 <br>
 
@@ -317,20 +317,20 @@ Go for it. Give a discount offer and bring more people on board.
 
 Photo Family Tree gives a 10% off for first-timers. Note that the email address is not asked for, unlike the subscription/welcome offer.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/17-first-time-shopper-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/17-first-time-shopper-offers-example.png)
 
 #### Returning customer offers                  
 Returning customers or repeat customers are the ones who come back for the second, third, and subsequent purchases.
 
 Checkdepot offered a 5% off as a returning customer discount.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/18-returning-customer-discount-offer-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/18-returning-customer-discount-offer-example.png)
 
 Now, returning customers can also become club members in order to enjoy regular uninterrupted deliveries, fun, surprises, and of course, savings.
 
 Picky Bars, an online store that sells healthy snacks, invites returning customers to join their Picky Club.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/19-returning-customer-cum-club-member-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/19-returning-customer-cum-club-member-offers-example.png)
 
 The club categorizes members into 3 - Sweet, Sweeter, Sweetest. Relevant discount offers are associated with the tiers - 10%, 20%, 30%.
 
@@ -347,7 +347,7 @@ This is proof that loyalty programs do deliver.
 
 Madewell has a loyalty program as shown below.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/20-loyal-customer-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/20-loyal-customer-offers-example.png)
 
 
 There are 3 tiers - Insider, Star, and Icon.
@@ -359,7 +359,7 @@ The offers of being a Madewell loyal member are detailed in the below cheat shee
 It is worthy to note that the basic tier itself can avail 7 out of 10 offers listed in the cheat sheet. So, the number of tier 1 members might equal the combined numbers of tier 2 and 3. This means more sales at the basic level itself.
 
  
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/21-loyal-customer-offers-benefits.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/21-loyal-customer-offers-benefits.png)
 
 
 #### Influencer offers
@@ -374,7 +374,7 @@ You need to give special discounts and offers to influencers too like how Chubbi
 
 Chubbies recently conducted ‘The Stay IN-Fluencer Competition’. Thanks to COVID-19 pandemic for that name.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/22-influencer-offers-competition-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/22-influencer-offers-competition-example.png)
 
 The contest had over 2000 submissions. What were they asked to do?
 
@@ -384,7 +384,7 @@ The contest winner was meant to be 1 person along with 4 runners-up. The respons
 
 Here is Brandon Duck, one of the runners-up. Rewarded with the title Chubbies Stay IN-Fluencer, $250 vacation post the lockdown time, and free Chubbies products. All the other runners-up got the same reward.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/23-influencer-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/23-influencer-offers-example.png)
 
 The grand prize winner was Lucas Smith and guess what he got for his efforts.
 
@@ -397,7 +397,7 @@ Affiliate partners can change the fate of an eCommerce site. This is the success
 
 Affiliate partners market products and bring in traffic to eCommerce sites they work for. They get paid with a commission for a sale.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/24-affiliates-partner-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/24-affiliates-partner-offers-example.png)
 
 <br>
 
@@ -426,14 +426,14 @@ Lenovo has a special page for student discounts on their website. The company pr
 
 The only condition is that the student ID must be verified to redeem the discount offer.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/25-student-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/25-student-offers-example.png)
 
 #### Military personnel offers              
 Military service members serve a country with utmost devotion and patriotism. You will stand apart from other eCommerce sites if you consider giving them a discount offer too.
 
 Here is the page from Chubbies that displays the discount for military members.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/26-military-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/26-military-offers-example.png)
 
 The page simply asks for verification, using an external app, to access the 10% reward code. Try doing this with your eCommerce site too.
 
@@ -447,7 +447,7 @@ Flash sales increase transaction rates <link-text url="http://socialmarketingfel
 
 Chubbies announced a flash sale with a discount offer of up to 60%.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/27-flash-sale-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/27-flash-sale-offers-example.png)
 
 More than 30 styles of shorts were part of the flash sale.
 
@@ -461,7 +461,7 @@ This usually is announced as a surprise and unexpected sale.
 
 Kate Spade offered up to 75% off everything for one day.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/28-one-day-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/28-one-day-offers-example.png)
 
 Any customer who comes across this ad will definitely take a look at the set of products put up for the surprise sale. This is solely because of the ad copy.
 
@@ -479,7 +479,7 @@ The sharp increase in price if the one day offer is missed out is indicated clea
 
 eCommerce sites also come up with daily, weekly, and monthly offers. Ashford, a website that sells different brands of watches, has a separate tab for weekly deals on their homepage
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/29-weekly-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/29-weekly-offers-example.png)
 
 <br>
 
@@ -490,12 +490,12 @@ The discount is as high as 96% for the featured products of various styles. No w
 The use of a countdown timer in a sale ad creates an urgency in the minds of the customer.
 Here is an example from the BestBuy website.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/30-countdown-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/30-countdown-offers-example.png)
 
 ‘Deal of the Day’ offer had a countdown timer of 24hours of which 20 hours were left to avail the offer.                
 The page also displayed some of the products that were included for the sale of the day.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/31-countdown-offer-products.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/31-countdown-offer-products.png)
 
 </br>
   
@@ -506,7 +506,7 @@ The page also displayed some of the products that were included for the sale of 
 FOMO - Fear Of Missing Out is an emotion. Customers experience this when subjected to offers that have a time limit.                    
 Kate Spade utilized this to give up to 60% discount for exquisite bags.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/32-limited-time-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/32-limited-time-offers-example.png)
 
 The banner on the website also mentioned the end date and time of the sale as a microcopy beneath the image. This reinforces the authenticity of the offer.                     
 The highlighted ‘LIMITED TIME’ creates an FOMO to grab the discount offer before the sale ends.
@@ -516,7 +516,7 @@ The highlighted ‘LIMITED TIME’ creates an FOMO to grab the discount offer be
 There is no better way to introduce a product than presenting a pre-launch offer. Organic Harvest used this tactic to get more people into buying the product.                  
 Free Sheet Mask for Micellar water.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/33-pre-launch-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/33-pre-launch-offers-example.png)
 
 <br>
 
@@ -527,7 +527,7 @@ This might have failed if the free product was a lipstick. With a relevant and t
 
 There is only a fine line of difference between a pre-launch offer and an introductory offer. Pre-launch offer is given away before the product is launched and the introductory offer is meant to stay for a certain period of time after the launch.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/34-introductory-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/34-introductory-offers-example.png)
 
 <br>
 
@@ -537,7 +537,7 @@ Flycart website has an offer banner for a new <link-text url="https://www.flycar
 Offers are not a rare sight but store-wide offers are. A discount offer on anything and everything that the customer purchases in your online store.                    
 Just give it away and wait for the sales graph to increase at jet-speed.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/35-store-wide-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/35-store-wide-offers-example.png)
 
 West Elm is an eCommerce site that sells furniture, other related products and accessories. They presented a site-wide offer as part of the good vibes sale.                    
 Flat 20% off any furniture and flat 25% off every other product. No conditions apply.                   
@@ -548,11 +548,11 @@ Certain categories of products can be put up for sale when the need arises.
 West elm chose to discount dining furniture.                
 The message was loud and clear with the email subject line.             
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/36-product-specific-offer-subject-line.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/36-product-specific-offer-subject-line.png)
   
 With the mention of the 20% off, an apt description for the dining furniture, and a beautiful image of one of their products, the marketing is done right.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/37-product-specific-offer-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/37-product-specific-offer-example.png)
 
 People will never mind taking a peek by clicking the ‘Shop Now’ CTA, especially when an original product is featured with perfection.
 With this, the incoming traffic increases. Your cash registers will overflow.
@@ -564,7 +564,7 @@ Never. You can provide an offer for select brands too.
 This was an email from SkinStore. The store has a wide range of cosmetics that belong to various brands.                    
 One of their marketing emails was meant specifically for one brand - Obagi.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/38-brand-specific-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/38-brand-specific-offers-example.png)
 
 The email was all about Obagi discount offer promotion.                 
 The huge font, an overview of the Obagi products along with the brand-specific code and image, is complete in itself.                   
@@ -576,7 +576,7 @@ Buy One Get One - BOGO offer.
 Nothing much to say here. The customer is given 2 products at the price of 1.                   
 Motorola came up with such a deal just months after launching Razr but for a limited time.          
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/39-BOGO-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/39-BOGO-offers-example.png)
 
 <br>
 
@@ -591,7 +591,7 @@ Then?
 Slash some price off the total to make customers happy.                 
 Bundles can be created with any number of products - 2,3, or even 7. It totally depends on the type of product sold.            
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/39-bundled-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/39-bundled-offers-example.png)
 
 Kate Spade created several bundles that consisted of a handbag and a purse. The bundle cost $418. With a discount offer, the price slid down to $99.                        
 Use the code and you get the offer. The relevant code and CTA for a bundled discount completes the offer.                       
@@ -601,7 +601,7 @@ Use the code and you get the offer. The relevant code and CTA for a bundled disc
 Upsell and cross-sell offers is one strategy to drive more sales into your eCommerce store. Recommend similar or relevant products and that is an upsell. When different products are recommended, that becomes cross-sell.
 
  
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/40-upsell-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/40-upsell-offers-example.png)
 
 <br>
 
@@ -617,17 +617,17 @@ Free returns is also an issue to be addressed because most customers are unsatis
 Here is an example from MVMT that sells watches. They have clearly mentioned the ‘Free shipping’ offer as a banner and as a footer on their website. Free returns can be availed when the order value of $50 is met.
 This kind of projection answers the insecurities of the customers regarding free shipping and free returns.             
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/41-free-shipping-free-returns-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/41-free-shipping-free-returns-offers-example.png)
 
 Free shipping can also be combined with other kinds of discounts and coupons. Walmart does it by combining it with a site-wide offer of $10 when a purchase of $50 is made.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/42-free-shipping-offers-with-discount-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/42-free-shipping-offers-with-discount-example.png)
 
 #### Clearance sale offers
 Clearance sales usually happen once a year. Some businesses even term it as an ESOS - End Of Season Sale but there is no official norm regarding this.                      
 Nowadays, it so happens that clearance sales can be advertised whenever the stocks in the inventory need to be cleared out. This means you can provide clearance sale offers at any time of the year.               
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/43-clearance-sale-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/43-clearance-sale-offers-example.png)
 
 Boden came up with a clearance sale offer of up to 50% for fashion clothing. It was conveyed via email and of course, was advertised on the website too.                
 Clear your stocks right away.               
@@ -638,13 +638,13 @@ Bhu Foods realized this and started a giveaway contest. The prize?
 6 months supply of ‘low sugar chocolate chips’ valued at $240.              
 What more can a health and diet freak ask for? The contest nailed it by reaching out to the right audience.             
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/44-giveaway-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/44-giveaway-offers-example.png)
 
 #### Credit Card offers
 Regular customers can be asked to sign up for credit card offers. The presence of a credit card ensures that customers return from time to time to avail the offer.                     
 This is an example of a credit card offer from West Elm - a furniture retailer.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/45-credit-card-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/45-credit-card-offers-example.png)
 
 <br>
 West Elm credit card comes with an array of tempting offers.
@@ -671,7 +671,7 @@ Yes, you heard that right. C-A-S-H.
 Scary to think of it? Probabilities are that you might run out of business pretty soon if implemented.                  
 Here is how Kohl’s did it right.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/46-cash-as-reward-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/46-cash-as-reward-offers-example.png)
 
 <br>
 
@@ -682,7 +682,7 @@ This kind of a cash program ensures that the money never circulates outside the 
 
 <br>
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/47-distress-time-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/47-distress-time-offers-example.png)
 
 <br>
 
@@ -693,7 +693,7 @@ Moz Academy gave away their SEO certification courses, usually priced at above $
 #### In-store purchase offers
 In-store offers are not common but they do work to magnet more people into your brick-and-mortar store.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/48-in-store-purchase-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/48-in-store-purchase-offers-example.png)
 
 Bed Bath & Beyond offered a 20% off a single item for in-store purchase after making an online reservation. The offer expiry is a good idea to trigger the customer into initiating the buy.                
 Who knows? The customer's eyes do wander at the time of pickup which might even result in him going back with more products than anticipated.
@@ -705,19 +705,19 @@ Weight Watchers is a company that crafts weight loss plans for people to lead a 
 Even with the digital/virtual workshops, location-based offers can be availed.                          
 Here is a popup from the Weight Watchers website. It asks to fill in the ZIP code to find the best offer according to the area.             
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/49-location-based-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/49-location-based-offers-example.png)
 
 On giving a California ZIP CODE along with the email address, the below page showed up.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/50-location-based-offer1.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/50-location-based-offer1.png)
 
 Once again, ZIP CODE was requested. It was 94203.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/51-location-based-offer2.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/51-location-based-offer2.png)
 
 Immediately, the cost for the specified ZIP CODE was shown. This was confirmed with the below message.
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/52-location-based-offer3.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/52-location-based-offer3.png)
 
 Do you have stores in multiple locations? High time you start offering location-based discount offers.
 
@@ -729,7 +729,7 @@ Seasonal offers come around the time of summer, spring, autumn, and winter. Chri
 40% off for the Christmas season.                   
 Boden sent this email to their customer base to initiate the Christmas sale. The sight of this email elevates the spirit to take on the offer without a second thought.                 
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/53-holiday-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/53-holiday-offers-example.png)
 
 #### Special day offers
 Special days require surprises.                 
@@ -738,7 +738,7 @@ Gifts on offers is a double-surprise for customers.
 Father’s day, Mother’s day, Valentine’s day, and other days like these are the times for special offers.                    
 JCPenney put up a Mother’s day discount offer for fine and fashion jewelry this year too.                   
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/55-special-day-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/55-special-day-offers-example.png)
 
 #### Black Friday and Cyber Monday offers
 
@@ -753,7 +753,7 @@ These sales are the fore-runner to the Winter holiday, Christmas, and New Year s
 Madewell’s Cyber Monday discount deal gives an extra discount along with the basic 30% discount offer.                      
 The countdown timer clearly denotes that the sale has already started and to avail the offer ‘WHILE YOU CAN’.                   
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/54-cyber-monday-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/54-cyber-monday-offers-example.png)
 
 #### Birthday and anniversary offers
 Everyone celebrates a birthday. It is not meant for people alone. Being a customer-centric business, you can celebrate their birthdays with a personalized offer.               
@@ -763,7 +763,7 @@ They gave a 28% off on the entire order purchased by every customer.
 The discount lasted for 5 days.         
 Time to celebrate!
 
-![](../images/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/56-birthday-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/43-brilliant-ways-to-offer-discounts-and-coupon-codes-to-generate-sales-for-your-ecommerce-store/56-birthday-offers-example.png)
 
 ## The Way forward
 Your job as an eCommerce store owner is not done once you put up products for sale. The real work starts now.       

@@ -37,7 +37,7 @@ According to <link-text url="https://www.statista.com/statistics/477804/online-s
 
 It is very much evident from the graph below that the cart abandonment rates have more or less been the same with minute differences from year to year. As long as the eCommerce industry thrives, cart abandonment is bound to happen. 
 
-![](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/1-cart-abandonment-rate-statistics.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/1-cart-abandonment-rate-statistics.png)
 
 ## Reasons for shopping cart abandonment
 
@@ -112,7 +112,7 @@ Still on your mind?   _Boohoo_
 The sole advantage of having a subject line with 4 words is the higher visibility rate. This is a shot from the inbox where the emails were collected. 
 
 
-![](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/2-abandoned-cart-email-subject-line-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/2-abandoned-cart-email-subject-line-example.png)
 
 It goes without saying that your eyes fell on the shorter subject line with 4 words first. With at least 100+ emails bombing into a person's inbox every single day, use this tactic to stand out and get noticed easily.
 
@@ -138,7 +138,7 @@ Chubbies Shorts is a favorite to anybody trying to hunt down the best abandoned 
 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/3-shortest-abandoned-cart-email-subject-line-chubbies.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/3-shortest-abandoned-cart-email-subject-line-chubbies.png)
 
 
 **_16% of abandoned cart email subject lines are personalized with the customer name._**
@@ -164,7 +164,7 @@ Now, that number is very low but that is how it helps. The number of email marke
 Look at the abandoned cart email subject line examples that hit the bulls eye. 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/4-use-of-emoji-in-abandoned-cart-email-subject-line1.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/4-use-of-emoji-in-abandoned-cart-email-subject-line1.png)
 
 
 Don't just stand there. ⛵ Your cart!  - which means
@@ -175,7 +175,7 @@ The emoji has been used not just for the sake of it but with the intention of se
 
 Here is another example. 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/5-use-of-emoji-in-abandoned-cart-email-sublect-line2.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/5-use-of-emoji-in-abandoned-cart-email-sublect-line2.png)
 
 
 You'll thank us later 🍻.
@@ -196,7 +196,7 @@ First of all, let's clear the air about what an email header is. Most people ten
 Subject line is what is written in the subject of the email whereas the email header is the opening line of the body copy. 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/6-email-header-in-abandoned-cart-email.jpg)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/6-email-header-in-abandoned-cart-email.jpg)
 
 
 In this abandoned cart email from Fabletics, 'MAKE THEM YOURS' is the email header. The message is loud and clear that a purchase is expected to be made by the email reader or customer. 
@@ -219,7 +219,7 @@ These are some examples of generic email headers.
 4. You left something behind.
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/7-generic-email-header-in-abandoned-cart-email.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/7-generic-email-header-in-abandoned-cart-email.png)
 
 
 **Innovative email headers** are hard to find and yes, this case study did stumble upon a few of them. 
@@ -240,7 +240,7 @@ Take a look at the abandoned cart email header examples.
 Bombas is a brand that sells socks. The brand name becomes synonymous with socks with the use of the email header 'No Bombas Left Behind'.
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/8-innovative-email-header-in-abandoned-cart-email-bombas.jpg)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/8-innovative-email-header-in-abandoned-cart-email-bombas.jpg)
 
 
 The above email header does the work of reinforcing the brand image of Bombas for socks as well as nudges to make the buy. 
@@ -249,7 +249,7 @@ Picky Bars does the email header right by connecting it with the subject line. I
 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/9-innovative-email-header-in-abandoned-cart-email-picky-bars.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/9-innovative-email-header-in-abandoned-cart-email-picky-bars.png)
 
 
 You literally get the flow when you read it. Whenever you're ready…(No pressure) - We'll keep this right where ya left it. 
@@ -278,12 +278,12 @@ The bright red color of the CTA button is the only element that strikes the read
 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/10-CTA-button-in-abandoned-cart-email-example-american-giant.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/10-CTA-button-in-abandoned-cart-email-example-american-giant.png)
 
 
 Here is another example of a CTA button where the abandoned cart email is short.
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/11-CTA-button-in-abandoned-cart-email-example-honest-brew.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/11-CTA-button-in-abandoned-cart-email-example-honest-brew.png)
 
 
 **_20% of email marketers got creative with the CTA copy in abandoned cart emails._**
@@ -324,7 +324,7 @@ This abandoned cart email example from ASOS is the apt one to look up to.
 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/12-product-image-in-abandoned-cart-email-example-asos.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/12-product-image-in-abandoned-cart-email-example-asos.png)
 
 
 The picture speaks for itself and that is where the focus lies. Who wouldn't want to buy it?
@@ -335,7 +335,7 @@ Ghurka does it well this time. You will not take your eyes off the product image
 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/Ghurka.jpg)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/Ghurka.jpg)
 
 
 
@@ -356,7 +356,7 @@ Incentives come in the form of
 Here is an abandoned cart email from Birchbox with a discount of 10%.
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/14-incentives-in-abandoned-cart-email-example-birchbox.jpg)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/14-incentives-in-abandoned-cart-email-example-birchbox.jpg)
 
 
 
@@ -380,7 +380,7 @@ Of the 54% of abandoned cart emails with social share buttons, 24% of them did n
 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/15-social-share-button-in-abandoned-cart-email-example.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/15-social-share-button-in-abandoned-cart-email-example.png)
 
 
 **2. Modified social share logos**
@@ -388,7 +388,7 @@ Of the 54% of abandoned cart emails with social share buttons, 24% of them did n
 The rest 30% used social share buttons in a form that merges with the overall email template design. Here is one from Boohoo. 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/16-social-share-button-in-abandoned-cart-email-bohoo.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/16-social-share-button-in-abandoned-cart-email-bohoo.png)
 
 
 The overall tone of the email is black, including the brand logo. Accordingly, the social share buttons are customized to match the template.  
@@ -397,14 +397,14 @@ Here is another abandoned cart email example from Mark Cross.
 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/17-social-share-button-in-abandoned-cart-email-eample-markcross1.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/17-social-share-button-in-abandoned-cart-email-eample-markcross1.png)
 
 
 Marine green is the tone of this email. Hence the social share buttons are also kept the same way. This esthetically pleases the senses and maintains uniformity with the overall design of the abandoned cart email template.
 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/18-social-share-button-in-abandoned-cart-email-example-markcross2.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/18-social-share-button-in-abandoned-cart-email-example-markcross2.png)
 
 ___
 
@@ -433,13 +433,13 @@ What could have been added here?
 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/19-best-abandoned-cart-email-example-1.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/19-best-abandoned-cart-email-example-1.png)
 
 
 Here is another abandoned cart email template example from Elevate Living Joy. 
 
 
-![alt_text](../images/how-to-create-the-perfect-abandoned-cart-email-template-case-study/20-best-abandoned-cart-email-example-2.png)
+![alt_text](https://raw.githubusercontent.com/retainful/site-images/master/how-to-create-the-perfect-abandoned-cart-email-template-case-study/20-best-abandoned-cart-email-example-2.png)
 
 
 Highlights of Elevate Living Joy abandoned cart email template is that it has all the essential elements in place, including a discount offer and 2 CTAs for the convenience of the reader. 

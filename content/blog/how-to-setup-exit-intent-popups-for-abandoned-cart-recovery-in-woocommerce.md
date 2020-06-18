@@ -65,7 +65,7 @@ There are many ways to impress a customer during the last minute and for various
 
 Your eCommerce business is never going to take off without an email list - the primary source to get in touch with the customers. Using an exit intent popup for Shopify or WooCommerce is a sensible and impressive tactic for email list building.
 
-![Image](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/1-subscribe-exit-intent-popup.png)
+![Image](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/1-subscribe-exit-intent-popup.png)
 
 <br>
 
@@ -82,7 +82,7 @@ Using an <link-text url="https://www.retainful.com/docs/woocommerce/exit-intent-
 
 With increase in cart value, increases the Average Order Value (AOV) too. This is a good strategy to increase sales and bring in profits.
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/2-exit-intent-popup-cart-to-increase-cart-value.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/2-exit-intent-popup-cart-to-increase-cart-value.png)
 
 This Sleeknote popup cart shown above doubles up as one of the best cart abandonment solutions too. The exit offer of ‘free shipping’ encourages the customer to add more items to the basket. The product recommendations with the mention of discounted price adds fuel to fire so that the customer achieves the threshold to qualify for free shipping.
 
@@ -90,7 +90,7 @@ This Sleeknote popup cart shown above doubles up as one of the best cart abandon
 
 Offers are not the same throughout the year. It is usual for the customer to see an off ranging from 5 - 20%. Anything beyond that is special, even more when it is for a purpose like clearance sale or for a seasonal festival.
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/3-exit-intent-popup-cart-to-promote-special-offers.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/3-exit-intent-popup-cart-to-promote-special-offers.png)
 
 Here again, in this exit intent popup by OptinMonster, the exit offer takes up half the space which is a visual indication of how much the customer will save.
 
@@ -99,7 +99,7 @@ Here again, in this exit intent popup by OptinMonster, the exit offer takes up h
 A sale never ends even when you are about to leave the store. The sight of chocolates at the billing counter and pamphlets for the next purchase are proof of it. Similarly, an eCommerce store can sell more with an exit intent popup cart too. This also acts as a method to guide the customer to choose better products.
 
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/4-cross-sell-exit-intent-popup.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/4-cross-sell-exit-intent-popup.png)
 
 
 
@@ -107,7 +107,7 @@ A sale never ends even when you are about to leave the store. The sight of choco
 
 <br>
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/5-better-coupon-box-exit-intent-popup-cart-for-social-engagement.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/5-better-coupon-box-exit-intent-popup-cart-for-social-engagement.png)
 
 Promotions are not possible without social media presence. Providing an exit offer with a popup cart for social engagement has dual benefits here - your website gets promoted for free and a sale is initiated.
 
@@ -147,7 +147,7 @@ Make the discount personalized with an automatically generated coupon code.
 
 An email is essential when dealing with guest users of a Shopify or WooCommerce eCommerce site. The information is crucial for email marketing purposes, especially if the person has created an abandoned cart.
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/6-save-to-email-exit-intent-popup.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/6-save-to-email-exit-intent-popup.png)
 
 
 The example given here is not a regular cart recovery exit intent popup that asks for an email. The usual ones only get the email for future use but this popup does two things - saves the shopping cart to the email and the site visitor furnishes the contact information.
@@ -161,7 +161,7 @@ Instilling a sense of urgency by using a countdown timer is one effective way to
 The exit intent popup cart below shows an offer coupled with the countdown timer which makes sense otherwise the purpose of the timer is lost.
   
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/7-countdown-timer-exit-intent-popup.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/7-countdown-timer-exit-intent-popup.png)
 
 
 You would never want to make the deal when taking instant action within the stipulated time frame shells out the same money as the normal purchase.
@@ -189,7 +189,7 @@ Let’s take a look at some popup cart examples for email collection and cart ab
 
 This exit intent popup is meant to collect email addresses of abandoning visitors. Shopify Plus nails the popup cart with a design that shouts ‘Less is more’. It intrigues the visitor by presenting some exclusive data.
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/8-popup-cart-shopify-plus-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/8-popup-cart-shopify-plus-example.png)
 
 <br>
 
@@ -202,19 +202,19 @@ This exit intent popup is meant to collect email addresses of abandoning visitor
 **_Highlight:_** _The email is not collected which makes the user experience even shorter and faster._
 
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/9-popup-cart-with-free-shipping-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/9-popup-cart-with-free-shipping-example.png)
 
 **Popup cart example 3**
 
 This exit intent popup example is from Privy. Cart abandonment discount is used here to prevent the customer from leaving the eCommerce website.
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/10-popup-cart-with-discount-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/10-popup-cart-with-discount-example.png)
 
 **_Highlight:_** _It seems that the popup cart is meant for an eCommerce website dealing with baby products. The background picture of the baby crawling away along with the call out ‘Crawl back here..’ does the magic here. Here, again, the email is not collected._
 
 **Popup cart example 4**
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/11-popup-cart-with-email-collection-and-discount-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/11-popup-cart-with-email-collection-and-discount-example.png)
 
 Leesa takes the exit intent popup to the next level with a high quality image of one of their products.
 
@@ -225,7 +225,7 @@ Leesa takes the exit intent popup to the next level with a high quality image of
 ‘Increase the cart value and save some money’ is the motto behind this Shopify popup. The design of the popup cart is a winner in every sense starting from the background, clarity, to the CTA elements and copy.
 
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/12-popup-cart-with-product-image-and-cta-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/12-popup-cart-with-product-image-and-cta-example.png)
 
   
 **_Highlight:_** _Both the discount percentage and money in dollars are mentioned which removes the burden of doing the calculation._
@@ -243,7 +243,7 @@ WooCommerce exit intent popup feature is available only in the premium version o
 Next comes the configuration part which is quite easy and hardly takes minutes.
 
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/13-exit-intent-popup-configuration.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/13-exit-intent-popup-configuration.png)
 
 
 
@@ -270,7 +270,7 @@ The website cookie records the session of a site visitor for the number of days 
 Here the option ‘Cart Page’ is chosen. The CTA button on the exit intent popup will redirect the visitor to the cart page to complete the purchase.
 
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/14-exit-intent-configuration-gdpr-compliance.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/14-exit-intent-configuration-gdpr-compliance.png)
 
 
 **GDPR Compliance**             
@@ -278,7 +278,7 @@ This is completely optional but as per the GDPR guidelines, it is mandatory to g
 
 **Choose the template and customize**
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/15-exit-intent-templates-and-preview.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/15-exit-intent-templates-and-preview.png)
 
 
 Two templates are presented here. Choose any one and customize as per your needs. The customization needs to be done using HTML coding. Shortcodes are used here to make the exit intent popups personalized.
@@ -287,7 +287,7 @@ Beyond this, there is also a provision to type in the HTML code from scratch if 
 
 **Email collection form design**
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/16-exit-intent-email-collection-form-design-configuration.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/16-exit-intent-email-collection-form-design-configuration.png)
 
 
 The email form can be designed and customized by using the attributes like text, height, width, and color for the text field and the CTA button.
@@ -298,7 +298,7 @@ Save the details entered on the page.
 
 This is how the popup plugin for WooCommerce, Retainful will display the designed exit intent in the storefront.
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/17-exit-intent-popup-output-in-storefront.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/17-exit-intent-popup-output-in-storefront.png)
 
 <br>
 
@@ -313,22 +313,22 @@ A photographer, <link-text url="https://optinmonster.com/how-scott-wyden-imagery
 
 **What did he do?**
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/18-scott-wyden-exit-intent-popup.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/18-scott-wyden-exit-intent-popup.png)
 
 He included 2 CTAs in the exit intent popup like in the above image. You give the option of a ‘no’ to the site visitor. This makes the popup look more credible.
 
 More examples of 2 CTA buttons.
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/19-CTA-button-example1.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/19-CTA-button-example1.png)
 
 <br>
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/20-CTA-button-example2.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/20-CTA-button-example2.png)
 
 <br>
 
 
-![](../images/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/21-CTA-button-example3.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-setup-exit-intent-popups-for-abandoned-cart-recovery-in-woocommerce/21-CTA-button-example3.png)
 
 <br>
 

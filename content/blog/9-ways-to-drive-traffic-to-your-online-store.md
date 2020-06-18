@@ -31,7 +31,7 @@ Of course, you need website traffic to <link-text url="https://www.retainful.com
 
 Its high time you rethink about the importance you have given to driving traffic to your online store all this while. If you have not bothered much about it yet, take a look at this marketing and sales funnel.
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/1-eCommerce-marketing-and-sales-funnel.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/1-eCommerce-marketing-and-sales-funnel.png)
 
 The eCommerce funnel is wider at the top with more number of people coming in initially. At each stage of the funnel, an unimaginable number of prospects drop out, leaving just about 1 - 5% at the end as customers.
 
@@ -74,7 +74,7 @@ Here is an example.
 Philosophy is a beauty brand that used  <link-text url="https://www.facebook.com/business/success/philosophy" rel="noopener nofollow" target="_blank">lead ads to generate 9000 leads</link-text> within a span of 15 days. Impressive.
   
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/2-lead-ads-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/2-lead-ads-example.png)
 
 Points to note
 
@@ -115,7 +115,7 @@ Here is an example of <link-text url="https://www.facebook.com/help/702370243108
 
   
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/3-eCommerce-facebook-offers-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/3-eCommerce-facebook-offers-example.png)
 
   
 
@@ -150,7 +150,7 @@ See that you are persistent in gathering customer reviews. Star-ratings are disp
 
 </call-out>
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/4-google-shopping-ads-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/4-google-shopping-ads-example.png)
 
 Type in the word cradle, and this is what comes up. All eyes are on the second product with the star-ratings. It is only obvious that this particular product will a higher CTR.
 
@@ -158,7 +158,7 @@ Type in the word cradle, and this is what comes up. All eyes are on the second p
 
 The key to getting featured in a Google search ad is using the right keywords. Google Keyword Planner Tool can be leveraged to choose the ones that promise higher conversions.
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/5-google-search-ads-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/5-google-search-ads-example.png)
 
 In the image shown above, the search results are for the term ‘laptops’. Most people will go for the first and second ad. You know why? It is because of the use of ad extensions. Ad extensions provide the benefit of fitting in more information and links to the website relevant to the search.
 
@@ -221,7 +221,7 @@ LSI - Latent Semantic Indexing. Keywords that have a semantic relation to the ma
 
 Google the word ‘dressing table’ and you will find related searches at the bottom of the page. They are the LSI keywords. This is very helpful to write content on a broad theme with information of all the relevant searches.
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/6-LSI-keywords-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/6-LSI-keywords-example.png)
 
   
 
@@ -381,7 +381,7 @@ The offer given to the customer must satisfy him. This is all it takes for the e
 
 Here is a sample flowchart for an email series.
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/EmailFlow.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/EmailFlow.png)
 
 Of course, there are many other email types like promotional, seasonal, upsell/cross-sell, discount, feedback, reminder emails that can be included in this structure and customized as per your needs.
 
@@ -434,14 +434,14 @@ Did you know that <link-text url="https://www.bitcatcha.com/blog/6-reasons-why-w
 
 **Result 1**  
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/7-amazon-website-speed-test-dallas.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/7-amazon-website-speed-test-dallas.png)
 
   
 Amazon.com increases eCommerce website traffic with a Speed Index of 1.002s when viewed from Dallas using Chrome.
 
 **Result 2**
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/8-amazon-website-speed-test-india.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/8-amazon-website-speed-test-india.png)
 
  
 Amazon.com has a Speed Index of 2.102s when viewed in India using Chrome browser. 
@@ -480,7 +480,7 @@ Take a look at this example from Melorra.
 
  
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/9-eCommerce-smooth-navigation-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/9-eCommerce-smooth-navigation-example.png)
 
   
 The eCommerce website that sells jewelry has categorized the product on all possible levels using images, new arrivals, offers, by price, and other criteria. This makes it easier for a person to navigate the website.
@@ -496,7 +496,7 @@ The news of your eCommerce website must reach tens of thousands of ears to incre
 Without a doubt, <link-text url="https://www.flycart.org/blog/woocommerce/10-best-referral-marketing-strategies-for-woocommerce" rel="noopener nofollow" target="_blank">referral marketing strategy</link-text> is one extraordinary trick to increase eCommerce website traffic. Referrals are the digital version of word-of-mouth marketing.
 
   
-![](../images/9-ways-to-drive-traffic-to-your-online-store/10-referral-marketing-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/10-referral-marketing-example.png)
 
 
 Amuze is a designer label that deals with high-end fashion. The above image is that of their referral program that gives $25 off for the existing customer and the person referred. People will definitely take reins looking at the reward. This strategy has two-way benefits. No wonder why people will swarm the website.
@@ -524,7 +524,7 @@ Sephora’s Beauty Insider is the best example for points collection.
 Members who purchase products collect points along with it. With the accumulation of these points, they can claim beauty products as rewards twice a week.
 
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/11-rewards-with-points-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/11-rewards-with-points-example.png)
 
 
 In addition to the product rewards, Sephora also gives away monetary benefits and samples. To avail these benefits, becoming a member is mandatory which will increase eCommerce website traffic.
@@ -539,7 +539,7 @@ Affiliate marketing is the use of marketers as middlemen who utilize various met
 
 As an eCommerce website owner, say, you only have 3 to 4 ways to market your products. When the same job is given to 10 others with specific focus on a particular product, 40 other ways to market are paved. Affiliate marketing is one answer to ‘how to drive customers to your store?’.
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/12-amazon-affiliate-marketing.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/12-amazon-affiliate-marketing.png)
 
 The success of Amazon is hugely because of the affiliates program introduced by them. Lucies List is an Amazon affiliate that specializes in baby product reviews. The website has around 213.80K visits in a month.
 
@@ -611,7 +611,7 @@ Reach out to neighboring sites to contribute guest blogs. This is one apt way to
 
 User guides are an essential part of online businesses to educate people on how to use products. Some people overlook this aspect. When user guides are all about engaging the customer, why not take them into account?
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/13-amazon-user-guide-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/13-amazon-user-guide-example.png)
 
 For example, when a person is a first-time buyer of a makeup kit and is not sure about how to use it, it is indeed a good idea to give them a guide about usage, maintenance, and maybe even a tutorial.
 
@@ -625,7 +625,7 @@ Let’s take the same example of buying a makeup kit. Rather than buying a produ
 
 Connect with makeup artists and influencers to stream a video using your brand’s makeup kit. The results will be there to see and of course, the to-be-customers also get a free video tutorial.
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/14-amazon-video-content-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/14-amazon-video-content-example.png)
 
 The same video can be used for driving traffic to your online store by publishing it on social platforms and of course, on your eCommerce website.
 
@@ -669,7 +669,7 @@ The stock market churns out money when the investor is asleep. Only the primary 
 The game of advocacy rather termed ‘advocacy marketing’ is synonymous with this scenario. <link-text url="https://www.retainful.com/blog/boost-your-ecommerce-growth-with-loyalty-program" rel="noopener" target="_blank">Loyal customers boost eCommerce growth</link-text> whole-heartedly by promoting a brand with just partial involvement from the team behind it. This is absolutely the answer to the question ‘how to drive traffic to your online store free?’. But does this happen without expecting anything in return? Not at all times.
 
 
-![](../images/9-ways-to-drive-traffic-to-your-online-store/15-eCommerce-customer-journey-funnel.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/9-ways-to-drive-traffic-to-your-online-store/15-eCommerce-customer-journey-funnel.png)
 
  
 **How to encourage advocacy?**

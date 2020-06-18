@@ -17,7 +17,7 @@ Yes, you never know why a person abandoned a cart but you can make an assumption
 
 Below shown is a graphical representation of a survey conducted by Baymard Institute.
 
-![graphical representation of a survey conducted by Baymard Institute](../images/why-customers-abandon-shopping-cart-and-proven-ideas-to-recover/graphical-representation-of-a-survey-conducted-by-Baymard-Institute.jpg)
+![graphical representation of a survey conducted by Baymard Institute](https://raw.githubusercontent.com/retainful/site-images/master/why-customers-abandon-shopping-cart-and-proven-ideas-to-recover/graphical-representation-of-a-survey-conducted-by-Baymard-Institute.jpg)
 
 This survey identified 10 reasons but there are many others.
 
@@ -38,7 +38,7 @@ In all the surveys conducted to uncover the reasons for cart abandonment, hidden
 Why not reveal an estimated cost earlier in the process? Amazon does this perfectly by mentioning the cost earlier in the product page itself.
 
 
-![Hidden costs that spike the product price](../images/why-customers-abandon-shopping-cart-and-proven-ideas-to-recover/hidden-costs-that-spike-the-product-price.png)
+![Hidden costs that spike the product price](https://raw.githubusercontent.com/retainful/site-images/master/why-customers-abandon-shopping-cart-and-proven-ideas-to-recover/hidden-costs-that-spike-the-product-price.png)
 
 ### User account creation
 

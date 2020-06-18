@@ -34,7 +34,7 @@ Loyal customers are essential for a store because they stabilize your revenue. T
 <link-text url="https://www.retainful.com/referrals" target="_blank" rel="noopener">Initiating a referral program</link-text> in your store will encourage your existing customers to refer your store to their friends. This will expose your store to a new audience, increasing your sales on the go. With a referral program, both the referrer and referral will get their share of rewards once the referral completes a purchase, it’s a win-win situation.
 
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/1-Referral-progrm.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/1-Referral-progrm.png)
 
 <br>
 
@@ -44,7 +44,7 @@ The referral program is one of the effective Shopify store promotion strategies;
 
 When your customer is about to complete a purchase, offer them a discount for their next purchase. This will give them a reason to return to your store, thus driving repeated sales on the go.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/2-Next-order-coupons.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/2-Next-order-coupons.png)
 
 <br>
 
@@ -54,7 +54,7 @@ Offering <link-text url="https://www.retainful.com/next-order-coupon" target="_b
 
 Customers show interest in purchasing a product by adding it to their cart, but they quit at checkout due to various reasons. It may lead to losing a potential customer as he/she might’ve felt that your store doesn’t suit them.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/3-abandoned-cart-emails.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/3-abandoned-cart-emails.png)
 
 <br>
 
@@ -94,7 +94,7 @@ Do it regularly; you’ll see the traffic flocking to your site.
 
 Promote Shopify stores on Instagram stories are limited-time updates on the app which can be shared among the followers. Many influencers use Instagram stories to post sponsored ads as it offers more traction than Snapchat or Twitter.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/6-Instagram-stories.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/6-Instagram-stories.png)
 
 <br>
 
@@ -108,7 +108,7 @@ Social media contest is the quickest and most effective way to promote your stor
 
 Contests can grab the attention of a customer like no other, imagine the excitement when a customer wins it.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/7-Social-contests.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/7-Social-contests.png)
 
 <br>
 
@@ -130,7 +130,7 @@ We can’t talk about promotion without bringing youtube into the argument, that
 
 Youtube is the second most visited site next to Google, with 2 billion and increasing users as of 2020. You can promote your store by posting a product-related video or an advertisement through an influencer.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/8-Youtube.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/8-Youtube.png)
 
 
 <br>
@@ -143,7 +143,7 @@ People are impulsive to offers, so use it to your advantage. Offer a discount in
 This will create a Fear of missing out(FOMO) among your audience.
   
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/9-Creating-FOMO.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/9-Creating-FOMO.png)
 
 <br>
 
@@ -155,7 +155,7 @@ Discount coupons and eCommerce stores are inseparable. Discount coupons are one 
 
 When your audience gets to know that they purchase two products for the price of one or similar discounts, they will flock to your stores.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/10-Offering-discount-coupons.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/10-Offering-discount-coupons.png)
 
 <br>
 
@@ -181,7 +181,7 @@ Facebook is the widest used social site in the world; running ad campaigns on Fa
 
 Around 51% of Facebook users are teenagers who prefer eCommerce shopping, so targeting your ads on these audiences will attract more traffic to your store.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/13-Facebook-ads.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/13-Facebook-ads.png)
 
 <br>
 
@@ -217,7 +217,7 @@ Instagram is similar to Pinterest, explicitly designed for pictures. But it has 
 
 You may have noticed Instagram ads when you were sliding through your newsfeed, it will be a post but tagged as sponsored.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/17-insta-ads.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/17-insta-ads.png)
 
 <br>
 
@@ -231,7 +231,7 @@ Unlike Facebook & Instagram, Twitter is a professional social media platform tha
 
 You can tweet about your product on twitter and pay for it to be promoted among people of similar interests.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/18-promoted-tweets.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/18-promoted-tweets.png)
 
 <br>
 
@@ -261,7 +261,7 @@ Offering exclusive coupons during these times will act as a customer magnet as p
 
 Pay-per-click (PPC) marketing is a dynamic marketing channel. It poses a phenomenal opportunity for marketers to boost their traffic and conversion rates. PPC advertisements will be labeled as an ad.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/21-PPC-Advertising.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/21-PPC-Advertising.png)
 
 <br>
 
@@ -275,7 +275,7 @@ They can motivate their followers to perform and customers listen to them becaus
 
 Businesses have been involved in using Instagram influencers to promote their products over the past few years.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/22-Instagram-influencers.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/22-Instagram-influencers.png)
 
 <br>
 
@@ -287,7 +287,7 @@ YouTube marketing may fall slightly behind Instagram, but it is one of the best 
 
 These influencers own a YouTube channel with millions of subscribers, where they talk about general or tech-related stuff.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/23-youtube-influencers.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/23-youtube-influencers.png)
 
 <br>
 
@@ -349,7 +349,7 @@ There were few stores in the past that amplified their market by organizing just
 
 Many Instagram, Youtube influencers gained their popularity through giveaways, so it’s time you do it to promote your store.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/30-Giveaways.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/30-Giveaways.png)
 
 <br>
 
@@ -361,7 +361,7 @@ When we hear social media, the first thing that comes to our mind is Facebook or
 
 Reddit is the 17th most viewed website, it may fall behind Facebook in terms of site traffic, but it is way ahead of LinkedIn and Twitter.  
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/31-Reddit.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/31-Reddit.png)
 
 
 <br>
@@ -371,7 +371,7 @@ These metrics prove that how Reddit can help you to promote your store. There ar
 
 Quora is a popular question and answers website where a user posts a question and if the question is related to your business you can answer it. It is a professional way of promoting your store.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/32-Quora.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/32-Quora.png)
 
 
 <br>
@@ -385,7 +385,7 @@ Distributing flyers was one of the traditional and effective methods that busine
 
 Instead of struggling with internet metrics, you can just print flyers and distribute them to the public.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/33-Billboards.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/33-Billboards.png)
 
 <br>
 
@@ -395,7 +395,7 @@ Billboards might be an expensive option, but imagine the visibility it gets and 
 
 Even though Instagram has been live for many years, Instagram tv is relatively new. Unlike Instagram stories or videos, you can post a much longer video on Instagram tv.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/34-Insta-tv.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/34-Insta-tv.png)
 
 <br>
 
@@ -423,7 +423,7 @@ Starting your own YouTube channel is a simple and best way to market your Shopif
 
 Creating a channel is easy, and you can also monetize your channel to earn money for every milestone your channels reach.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/37-youtube-channel.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/37-youtube-channel.png)
 
 <br>
 
@@ -437,7 +437,7 @@ Create videos related to current Shopify trends and also you can upload an instr
 
 Vloggers are predominantly found on YouTube, the number of vloggers has been growing for a decade. It is similar to a lifestyle blog, but here the interaction is through a video.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/38-vlogging.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/38-vlogging.png)
 
 <br>
 
@@ -473,7 +473,7 @@ Uploading how-to tutorials on other tech-related platforms will increase your ex
 
 We live in a digital era; people expect proof of authenticity to develop trust over a product. 
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/42-Behind-the-scenes.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/42-Behind-the-scenes.png)
 
 <br>
 
@@ -495,7 +495,7 @@ Many businesses exclude press releases as they are traditional; this gives you l
 
 People tend to trust a product that has been vouched by another customer. Having reviews of your product in your store or your social media serve as social proof that helps customers build trust in your product.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/44-Social-proof.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/44-Social-proof.png)
 
 <br>
 
@@ -509,7 +509,7 @@ Emails are the easiest and effective medium to promote your Shopify store. Custo
 
 Capture these emails and build an email list to send updates about your store to your customers. Don’t send an email just for the sake of it, you can add some exciting items and send them.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/45-Send-Emails.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/45-Send-Emails.png)
 
 <br>
 
@@ -521,7 +521,7 @@ You can sell gift cards and vouchers to your store so that your customers can pu
 
 Around 60% of customers prefer gift cards than actual gifts, so offering them on your store during special occasions will draw significant traffic to your store.
 
-![](../images/50-proven-ways-to-promote-your-shopify-store/46-Gift-cards.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/50-proven-ways-to-promote-your-shopify-store/46-Gift-cards.png)
 
 <br>
 

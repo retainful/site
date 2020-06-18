@@ -92,7 +92,7 @@ Plus give an appreciation for the visitor’s interest and asking them "How can 
 
 **Successful welcome email campaign example**
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/1-best-welcome-campaign-eCommerce.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/1-best-welcome-campaign-eCommerce.png)
 
 Here what makes this email successful is;
 
@@ -104,7 +104,7 @@ They have also mentioned the offers and coupons that they intend to give.
 
 A case study detailed by Klaviyo suggests that welcome emails receive higher engagements and revenue. This was observed when the study compared the performance of welcome, abandoned cart, browse abandonment and win-back emails. This is most evident when the order value was under $50.
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/2-highest-response-for-welcome-campaign-Klaviyo.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/2-highest-response-for-welcome-campaign-Klaviyo.png)
 
 #### Browse abandonment emails
 
@@ -120,7 +120,7 @@ The below example is one of the most successful browse abandonment emails. This 
 
 <br/>
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/3-best-browse-abandonment-campaign-Klaviyo.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/3-best-browse-abandonment-campaign-Klaviyo.png)
 
 <br/>
 
@@ -132,7 +132,7 @@ Successful abandoned cart recovery email campaign example
 
 <br/>
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/4-best-abandoned-cart-recovery-email.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/4-best-abandoned-cart-recovery-email.png)
 
 <br/>
 
@@ -148,7 +148,7 @@ One of the best methods to get consecutive orders is by giving coupons for the n
 
 **Successful reorder email campaign example**
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/5-best-nextorder-campaign.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/5-best-nextorder-campaign.png)
 
 Here what makes this email successful is the background which is very colorful and attractive at the same time the content is made clear. Plus there is a discount promised for the next purchase with CTA below.
 
@@ -158,7 +158,7 @@ When customers buy a particular product it is very likely that they also show in
 
 **Successful cross-sell email campaign example**
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/6-best-cross-sell-campaign.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/6-best-cross-sell-campaign.png)
 
 There is a strategy being used in this example,
 
@@ -178,7 +178,7 @@ Let us have a look at how a loyalty program campaign turns out to be successful?
 
 The below example uses a combination of rewards, exciting events with a philanthropic aspect which is a donation.
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/8-best-loyalty-program-campaign.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/8-best-loyalty-program-campaign.png)
 
 **Replenishment emails for regular orders**
 
@@ -188,13 +188,13 @@ Here if the feed packet is supposed to get over by 60 days. Send an email remind
 
 **Successful replenishment email campaign example**
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/9-best-replenishment-email-campaign.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/9-best-replenishment-email-campaign.png)
 
 Let me tell you a secret. Selling a product twice to your existing customer is easier than convincing a new customer to buy. Still could not believe it? Have a look at what this graph says.
 
 **Replenishment email campaign case study**
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/10-replenishment-email-response-stat.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/10-replenishment-email-response-stat.png)
 
 #### Win back customers
 
@@ -210,7 +210,7 @@ Imagine a person buying at your store regularly has not even bought a single ite
 
 **Successful customer re-engaging email example**
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/11-best-Re-Engaging-email-campaign.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/11-best-Re-Engaging-email-campaign.png)
 
 This is a compelling customer re-engaging email with a very cute image attracting a pet lover. Further, it also motivates you by telling your success rate below which there is a clear CTA.
 
@@ -220,7 +220,7 @@ Last but not least are transactional emails. Though transaction emails do not ma
 
 **Successful transactional email campaign example**
 
-![](../images/ecommerce-email-campaigns-that-could-help-your-drive-conversion/12-best-Transactional-email-for-promotion.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ecommerce-email-campaigns-that-could-help-your-drive-conversion/12-best-Transactional-email-for-promotion.png)
 
 What makes this email so compelling is
 

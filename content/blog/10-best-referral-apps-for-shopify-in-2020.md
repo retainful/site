@@ -25,7 +25,7 @@ Shopify referral apps have many dynamic features that can boost your sales. We f
 
 ReferralCandy is one of the powerful shopify referral apps that solely concentrates on referral programs and not loyalty features. ReferralCandy can pull you from the cluster, you'll have more time to run your business as the rewards will be paid automatically with zero manual effort.
 
-![](../images/10-best-powerful-referral-shopify-app-2020/1.Referral-candy.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-powerful-referral-shopify-app-2020/1.Referral-candy.png)
 
 You can offer any form of rewards like cash rewards, gift cards, or coupon codes, all you have to do is select your preferred choice and let the magic happen. As stated before, Referral candy is automated so the rewards will be sent directly to the customers without the fuss of loyalty points.
 
@@ -67,7 +67,7 @@ A distinct aspect of referral candy is you can control and customize every speci
 
 Did you know that your customers can be your marketing advocates? Retainful is one among best Shopify apps which can make your customers as your brand advocate and achieve WOM marketing at zero expense. Offer exclusive rewards for every successful referral and keep your customers satisfied.
 
-![](../images/10-best-powerful-referral-shopify-app-2020/2-Retainful.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-powerful-referral-shopify-app-2020/2-Retainful.png)
 
 Customers always listen to what other customers say about your store so run an effective referral program and exploit WOM marketing successfully. When your store is being referred to others on social media it will expose your store to new leads which increases your sales and fetches you more profits, eventually.
 
@@ -135,7 +135,7 @@ Acknowledging your customers with rewards will motivate them to continue referri
 
 Acquiring new customers is hard and it costs a fortune but with shopify referral apps you can both acquire and retain customers effortlessly by running a referral program. With Smile io, you can mobilize your existing customers to refer your store to people with similar interests as them and expand your community without spending a dime.
 
-![](../images/10-best-powerful-referral-shopify-app-2020/3smile-io.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-powerful-referral-shopify-app-2020/3smile-io.png)
 
 You can always request your loyal customers to help you to grow your business. Encourage your best customers to promote social sharing by offering points for each successful referral. This will develop better engagement with your customers and they will be willing to get involved in any of your store's activities in the future.
 
@@ -179,7 +179,7 @@ Smile io is one of the best shopify apps which will provide you complete control
 
 Build a customer referral program with the best Shopify apps on the market. With Talkable referrals, you can increase revenue, grow revenue and acquire high-value customers at zero expense. Nurture your existing customers that you've already entrusted in and create a passage to increase the return in those engagements while bringing in new customers.
 
-![](../images/10-best-powerful-referral-shopify-app-2020/4.talkable-referral.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-powerful-referral-shopify-app-2020/4.talkable-referral.png)
 
 Talkable is created with dynamic customer insights that let you track, target and reward your valuable customers with exclusive rewards. You can monitor customer performance, email stats, and fraudulent activities through a dynamic dashboard with which you can achieve an end to end control.
 
@@ -221,7 +221,7 @@ A distinct feature of talkable is the advanced built-in prevention system to avo
 
 Finding new leads for your business from scratch can be costly and time-consuming. Advertising to acquire new customers costs a fortune and you'll end up with no expense to retain them and that's why you need a referral program. Bamboo lets your customers elevate your business by referring your store to their friends thus turning your customers into advocates for your brand while attracting new leads.
 
-![](../images/10-best-powerful-referral-shopify-app-2020/5bamboo.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-powerful-referral-shopify-app-2020/5bamboo.png)
 
 **How does it work?**
 
@@ -277,7 +277,7 @@ Bamboo can design a custom referral program as per your requirement. You can cus
 
 Why don't you let your customers do the marketing for you? A recent study suggests that people are more likely to purchase a product that was referred by their friend. With conjurred referrals, you can launch a 'refer a friend' program in a matter of seconds.
 
-![](../images/10-best-powerful-referral-shopify-app-2020/6.conjurred.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-powerful-referral-shopify-app-2020/6.conjurred.png)
 
 Conjurred referral is similar to the Shopify referrals apps discussed above, encourage your loyal customers to refer their friends with the referral code given to them. When their friend completes a purchase the referrer will be rewarded. With conjured referrals, you can reach new customers thus boosting your sales and increasing your revenue.  
   
@@ -320,7 +320,7 @@ A vital aspect of conjured referral is the fraud management, if you find out tha
 
 Unlike the Shopify referral apps we discussed above, Gratisfaction is an all-in-one loyalty, referral, instant win, birthdays, anniversaries, promotions sweepstakes and giveaways platform. With Gratisfaction, you can incentivize your customers for referring your store to their friends.
 
-![](../images/10-best-powerful-referral-shopify-app-2020/gratisfaction.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-powerful-referral-shopify-app-2020/gratisfaction.png)
 
 With gratisfaction, you can make your sweepstakes and contests go viral by making your customers invite their friends through social media to earn additional entries and unlock exclusive rewards. Customers can also collect these points as loyalty points for reward redemption.
 
@@ -401,7 +401,7 @@ Gather is simple to integrate and can be easily set up under a minute and no cod
 
 Social Boost is one of the Shopify referral apps that allows you to run social media-based viral offers, giveaways, contests, referral marketing & sweepstakes on your website, Facebook, Tumblr, etc. It is a dynamic incentivization platform that enables you to grow email lists, referrals, followers, etc. With social boost, you can enrich your customer engagement and boost your sales exponentially.
 
-![](../images/10-best-powerful-referral-shopify-app-2020/9.social-boost.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-powerful-referral-shopify-app-2020/9.social-boost.png)
 
 With social boost, you can easily convert your store visitors into customers by rewarding them for sharing your customized messages on Social media. This will expose your brand to new customers thus increasing your followers on social media platforms like Facebook, Twitter.
 
@@ -441,7 +441,7 @@ It is one of the best shopify apps to increase your traffic on social media plat
 
 Coopt is a Shopify referral app used to build your Shopify store and elevate your sales by turning your loyal customers as your social advertisers. You can reach new customers without spending much expense by using this marketing strategy. Customers will promote your store organically without any efforts from you.
 
-![](../images/10-best-powerful-referral-shopify-app-2020/10.coopt.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-best-powerful-referral-shopify-app-2020/10.coopt.png)
 
 Nowadays, paid advertisements have very little impact on customers as they prefer social proof before making a purchase decision. Coopt benefits both customers and store owners, as they reach a larger mass of audience through social media promotions.
 

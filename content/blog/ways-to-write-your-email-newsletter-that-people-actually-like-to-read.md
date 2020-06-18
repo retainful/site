@@ -119,7 +119,7 @@ Designing a distinct template is a clever strategy because you can reuse it agai
 Consistency is key to fostering customer satisfaction and templates can help you achieve it. One of the best newsletter practices is maintaining a consistent template throughout your marketing campaign.
 
 
-![](../images/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/2-template.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/2-template.png)
 
 
 A template with drag & drop functionality is the most suitable for email marketing. Because you can drag any element like image, videos and drop it at the right spot.
@@ -137,7 +137,7 @@ So, how do you get them to read it?
 Craft a compelling subject line that entices your customers and make them believe that your newsletter is related to them which will motivate them to read it.
 
 
-![](../images/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/3-subject-lines.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/3-subject-lines.png)
 
 You should be able to create FOMO (Fear Of Missing Out) with your subject line so users will know that they have to act quickly. How will you do it?
 
@@ -161,7 +161,7 @@ An email newsletter is useful only when your users read it, but if your content 
 
 Don’t try to promote your products in newsletters, instead try sharing some valuable, educational information to your subscribers that’s what professional newsletters are meant for.
 
-![](../images/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/4-less-promotional.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/4-less-promotional.png)
 
 Always remember the classic ratio of 90/10%. Yes, your newsletters should have only a 10% promotion and 90% of resourceful information.
 
@@ -191,7 +191,7 @@ Drafting attractive yet visually pleasing content is one of the best newsletter 
     
 
 
-![](../images/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/5-visually-pleasing.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/5-visually-pleasing.png)
 
 A notable tip to make your content visually pleasing is adding an image. A well-designed newsletter should have a balanced text and images.
 
@@ -209,7 +209,7 @@ If you notice, most subject lines of professional newsletters aren’t personali
     
 Customers will be motivated to read it when the newsletter is personalized for them. Around 26% of emails were opened when it has a personalized subject line.
 
-![](../images/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/6-personalized.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/6-personalized.png)
 
 It is a well-known fact that personalization leads to huge wins as long as email marketing is concerned. This strategy will help you build better engagement with your customers.
 
@@ -221,7 +221,7 @@ Marketing experts have pointed out that newsletters should range between 200 to 
 
 Put yourself in the shoes of your readers, and think realistically how much time you have in a day to check your emails. When you figure it out you’ll know how much information you can share with your reader.
 
-![](../images/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/7-snappy-content.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/7-snappy-content.png)
 
 **Here are few tips for creating concise content,**
 
@@ -245,7 +245,7 @@ To boost up your conversions, right!
 
 You can add necessary CTAs to encourage your reader to perform an action. You can use multiple CTAs as you wish based on your requirements.
 
-![](../images/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/8-cta.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/8-cta.png)
 
 **Few CTAs you can add in your newsletter,**
 
@@ -300,7 +300,7 @@ This will help you figure out your active subscriber list. Also, a clear unsubsc
 
 <br>
 
-![](../images/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/9-unsubscribe.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/ways-to-write-your-email-newsletter-that-people-actually-like-to-read/9-unsubscribe.png)
 
 Unsubscription can also help you learn from your experience and re-evaluate your marketing strategy.
 

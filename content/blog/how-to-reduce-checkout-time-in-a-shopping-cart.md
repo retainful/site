@@ -46,7 +46,7 @@ Research by Baymard revealed that <link-text url="https://baymard.com/blog/check
 
 It is obvious that there are a number of unnecessary fields. Another survey by Baymard in 2017 brought to light the information that eCommerce customers would refrain from disclosing.  
 
-![Cut down the number of fields](../images/how-to-reduce-checkout-time-in-a-shopping-cart/1-information-customers-do-not-wish-to-disclose.png)
+![Cut down the number of fields](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/1-information-customers-do-not-wish-to-disclose.png)
 
 Remove mailchimp region text box from settings<link-text url="https://www.retainful.com/docs/woocommerce/retainful-abandoned-cart-recovery" rel="noopener" target="_blank">reduce cart abandonment</link-text> and checkout time.  
 
@@ -58,7 +58,7 @@ Make it clear and put it out there which are the fields that are optional and wh
 
 Baymard suggests refraining from
 
-![Mark both mandatory and optional fields](../images/how-to-reduce-checkout-time-in-a-shopping-cart/2-field-marked-asoptional-inside-text-box.png)
+![Mark both mandatory and optional fields](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/2-field-marked-asoptional-inside-text-box.png)
 
 -   Marking the field as optional inside the text box.
     
@@ -74,7 +74,7 @@ The good news is that Google Autocomplete is automatically enabled for free for 
 
 Have you found tiny texts in the shipping address forms of checkout pages?
 
-![Use Microcopy](../images/how-to-reduce-checkout-time-in-a-shopping-cart/3-microcopy-2.png)
+![Use Microcopy](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/3-microcopy-2.png)
 
 The above image shows a microcopy from the Madewell checkout page. The text assists the customer to enter valid information without making mistakes. This is the purpose of a microcopy. It supports by instructing and saves time as well.
 
@@ -98,7 +98,7 @@ Alternatively, it is a better option to have multiple tabs with less interferenc
 
 </br>
 
-![Streamline the checkout](../images/how-to-reduce-checkout-time-in-a-shopping-cart/4-streamlined-checkout.png)
+![Streamline the checkout](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/4-streamlined-checkout.png)
 
 </br>
 
@@ -130,7 +130,7 @@ New members have to option to sign up using social media profiles which makes it
 
 </br>
 
-![Offer guest checkout option](../images/how-to-reduce-checkout-time-in-a-shopping-cart/5-guest-checkout-option.png)
+![Offer guest checkout option](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/5-guest-checkout-option.png)
 
 </br>
 
@@ -146,7 +146,7 @@ The possibilities of an abandoned cart can be reduced when the customers are tol
 
 </br>
 
-![Point out validation errors with messages](../images/how-to-reduce-checkout-time-in-a-shopping-cart/6-validation-error-message.png)
+![Point out validation errors with messages](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/6-validation-error-message.png)
 
 </br>
 
@@ -176,7 +176,7 @@ The checkout page of ASOS has the cart edit option.
 
 </br>
 
-![Support easy cart editing](../images/how-to-reduce-checkout-time-in-a-shopping-cart/7-cart-editing-ASOS-step1.png)
+![Support easy cart editing](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/7-cart-editing-ASOS-step1.png)
 
 </br>
 
@@ -184,7 +184,7 @@ Clicking on the edit button takes you to another page where editing can be done.
 
 </br>
 
-![Support easy cart editing 1](../images/how-to-reduce-checkout-time-in-a-shopping-cart/8-cart-editing-ASOS-step2.png)
+![Support easy cart editing 1](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/8-cart-editing-ASOS-step2.png)
 
 </br>
 
@@ -194,7 +194,7 @@ Madewell does it this way and makes it a 1-step process unless the customer wish
 
 </br>
 
-![cart-editing-Madewell](../images/how-to-reduce-checkout-time-in-a-shopping-cart/9-cart-editing-Madewell.png)
+![cart-editing-Madewell](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/9-cart-editing-Madewell.png)
 
 </br>
 
@@ -216,7 +216,7 @@ By using express payment, the eCommerce store uses the card and shipping details
 
 </br>
 
-![Express payment option](../images/how-to-reduce-checkout-time-in-a-shopping-cart/10-express-payment-option.png)
+![Express payment option](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/10-express-payment-option.png)
 
 </br>
 
@@ -230,7 +230,7 @@ For this, Shopify has dynamic checkout buttons that can be added to all or selec
 
 </br>
 
-![Use dynamic checkout buttons](../images/how-to-reduce-checkout-time-in-a-shopping-cart/11-dynamic-checkout-button.png)
+![Use dynamic checkout buttons](https://raw.githubusercontent.com/retainful/site-images/master/how-to-reduce-checkout-time-in-a-shopping-cart/11-dynamic-checkout-button.png)
 
 </br>
 
