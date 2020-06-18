@@ -20,7 +20,7 @@ Trace the journey of an eCommerce store visitor from the phase of cart abandonme
 
 <br>
 
-![](../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/drawing.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/drawing.png)
 
 <br>
 
@@ -80,7 +80,7 @@ In most cases, the above-given customer loyalty program ideas are used in combin
 
 <br>
 
-![eCommerce loyalty program](../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/elf-loyalty-program.png)
+![eCommerce loyalty program](https://raw.githubusercontent.com/retainful/site-images/master/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/elf-loyalty-program.png)
 
 </br>
 
@@ -116,7 +116,7 @@ Here is an example by Thrive Causemetics that is powered by Referral Candy.
 
 <br>
 
-![Start a referral program](../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/referral-program.png)
+![Start a referral program](https://raw.githubusercontent.com/retainful/site-images/master/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/referral-program.png)
 
 <br>
 
@@ -151,7 +151,7 @@ The catch is that the transactional email must contain a coupon code to drive re
 
 <br>
 
-![Send transactional emails with coupon code](../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/transactional-email.png)
+![Send transactional emails with coupon code](https://raw.githubusercontent.com/retainful/site-images/master/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/transactional-email.png)
 
 <br>
 
@@ -213,7 +213,7 @@ Dollar Shave Club asks customers why they won’t make a purchase again.
 
 <br>
 
-![eCommerce email marketing](../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/email-marketing.png)
+![eCommerce email marketing](https://raw.githubusercontent.com/retainful/site-images/master/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/email-marketing.png)
 
 <br>
 
@@ -222,7 +222,7 @@ When one DSC club member chose the option ‘I’m growing it out’, the compan
 
 <br>
 
-![eCommerce email marketing](../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/email-marketing-2.png)
+![eCommerce email marketing](https://raw.githubusercontent.com/retainful/site-images/master/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/email-marketing-2.png)
 
 <br>
 
@@ -290,7 +290,7 @@ It must be the prime duty of an eCommerce store to keep regular checks on the qu
 
 <br>
 
-![Never compromise on product quality](../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/product-quality.png)
+![Never compromise on product quality](https://raw.githubusercontent.com/retainful/site-images/master/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/product-quality.png)
 
 <br>
 
@@ -299,7 +299,7 @@ Once this happens, people are never going to return to your eCommerce store, no 
 
 <br>
 
-![Never compromise on product quality](../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/product-quality-2.png)
+![Never compromise on product quality](https://raw.githubusercontent.com/retainful/site-images/master/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/product-quality-2.png)
 
 <br>
 
@@ -329,7 +329,7 @@ Here is one way to make people feel special.
 
 <br>
 
-![Connect personally](../images/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/connect-personally.png)
+![Connect personally](https://raw.githubusercontent.com/retainful/site-images/master/10-Proven-Ways-to-Convert-Your-Abandoned-Cart-Website-Visitors-Into-Loyal-Customers/connect-personally.png)
 
 <br>
 

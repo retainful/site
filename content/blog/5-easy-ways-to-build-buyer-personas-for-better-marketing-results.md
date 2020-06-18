@@ -46,7 +46,7 @@ So, how to research buyer personas?
 
 Start with your existing audience, find out how they have perceived your content before if your results aren’t bright, then change your content strategy.
 
-![](../images/Buyer-persona/1-Customer-survey.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/Buyer-persona/1-Customer-survey.png)
 
 <br>
 
@@ -64,7 +64,7 @@ By now, you’ll be wondering how do I gather this information?
 
 **Phone calls and Emails :** You can always use the conventional method of a phone call or an interview. But most B2B marketers nowadays use emails to gather customer information.
 
-![](../images/Buyer-persona/2-Customer-segmentation.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/Buyer-persona/2-Customer-segmentation.png)
 
 <br>
 
@@ -92,7 +92,7 @@ Our main motive is to build a target audience, so without segmenting your inform
 
 **Why should I segment my audience to send emails?**
 
-![](../images/Buyer-persona/3-Email-marketing.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/Buyer-persona/3-Email-marketing.png)
 
 <br>
 
@@ -106,7 +106,7 @@ For instance, imagine selling a tech device that appeals to tech lovers. If you 
 
 So, avoid frustrating and start segmenting.
 
-![](../images/Buyer-persona/4-Buyer-persona-segmentation.png)  
+![](https://raw.githubusercontent.com/retainful/site-images/master/Buyer-persona/4-Buyer-persona-segmentation.png)  
 
 <br>
 
@@ -132,7 +132,7 @@ What troubles are your customers facing? What keeps them from achieving their go
 
 A customer frustration/pain point is the issue that your customers are facing which can be resolved with your products.
 
-![](../images/Buyer-persona/5-Pain-points.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/Buyer-persona/5-Pain-points.png)
 
 <br>
 
@@ -152,7 +152,7 @@ The next challenge is, <link-text url="https://surveysparrow.com/blog/guide-find
 
 <br>
 
-![](../images/Buyer-persona/6-Frustrations.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/Buyer-persona/6-Frustrations.png)
 
 <br>
 
@@ -202,13 +202,13 @@ Glad, you asked.
 
 You know, asking for an individual’s age, their location might feel awkward for both parties concerned. In that case, you can always conduct surveys to find out those details.
 
-![](../images/Buyer-persona/7-Demographics.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/Buyer-persona/7-Demographics.png)
 
 <br>
 
 Because people will feel comfortable to disclose these pieces of information through a survey rather than in personal communication.
 
-![](../images/Buyer-persona/8-Age-distribution.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/Buyer-persona/8-Age-distribution.png)
 
 <br>
 
@@ -219,7 +219,7 @@ Pretty easy, just look for the customers that have similar interests, goals, or 
 Effortless, isn’t it? Your task would be even easier if you use a buyer persona template.
 
 
-![](../images/Buyer-persona/9-Buyer-persona-template.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/Buyer-persona/9-Buyer-persona-template.png)
 
 <br>
 

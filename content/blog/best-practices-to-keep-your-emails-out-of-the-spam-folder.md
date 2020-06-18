@@ -127,7 +127,7 @@ Provide a physical address to contact you is a mandate according to GDPR guideli
 
 In the below example, there is a legit ‘from address’ and a clearcut message stating that it is an abandoned cart recovery email. Plus there are no too many or unnecessary links. Further, there is a link to their privacy statement with an option to unsubscribe. And most importantly there is a physical contact address.
 
-![Spam-free email example](../images/best-practices-to-keep-your-emails-out-of-the-spam-folder/2-spam-free-email-template.png)
+![Spam-free email example](https://raw.githubusercontent.com/retainful/site-images/master/best-practices-to-keep-your-emails-out-of-the-spam-folder/2-spam-free-email-template.png)
 
 Clarity regarding the purpose of your email is the basis for establishing a flag against the spam mark you are trying to avoid.
 
@@ -141,7 +141,7 @@ In the below example  the “from address” appears like it is from the UK Pres
 
 Also, there are too many links with no option to opt-out from receiving such emails in the future. Moreover, there is no physical contact address or even a Postal Office box number.
 
-![Spam email example](../images/best-practices-to-keep-your-emails-out-of-the-spam-folder/1-spam-email-template.png)
+![Spam email example](https://raw.githubusercontent.com/retainful/site-images/master/best-practices-to-keep-your-emails-out-of-the-spam-folder/1-spam-email-template.png)
 
 ___
 

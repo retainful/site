@@ -26,7 +26,7 @@ Whatever be your eCommerce platform, we’ve got you covered with this post. For
 
 ### [1. Omnisend](https://www.omnisend.com/)
 
-![omnisend](../images/7 Conversion tools to retain eCommerce customers for long/Omnisend.png)
+![omnisend](https://raw.githubusercontent.com/retainful/site-images/master/7 Conversion tools to retain eCommerce customers for long/Omnisend.png)
 
 Ever heard of a multichannel plugin that is specially designed for the ease of all e-commerce platforms? If you have guessed it right, it is Omnisend. Omnisend has been in the limelight for a long time now.
 
@@ -38,7 +38,7 @@ ____
 
 ### [2. Retainful](https://www.retainful.com)
 
-![Retainful](../images/7 Conversion tools to retain eCommerce customers for long/Retainful.png)
+![Retainful](https://raw.githubusercontent.com/retainful/site-images/master/7 Conversion tools to retain eCommerce customers for long/Retainful.png)
 
 Retainful is a very efficient plugin that has proved fruitful in retaining customers for long-serving period. While many tools focus on email marketing, Retainful does the same with a little nuance.
 
@@ -58,7 +58,7 @@ ____
 
 ### [3. CampaignRabbit](https://www.campaignrabbit.com/)
 
-![CampaignRabbit](../images/7 Conversion tools to retain eCommerce customers for long/Campaignrabbit.png)
+![CampaignRabbit](https://raw.githubusercontent.com/retainful/site-images/master/7 Conversion tools to retain eCommerce customers for long/Campaignrabbit.png)
 
 CampaignRabbit is another valuable marketing automation tool to retain customers in huge amounts. Segmentation and automation make Campaign rabbit’s features stand above the rest. 
 
@@ -85,7 +85,7 @@ ____
 
 ### [4. Beeketing](https://beeketing.com)
 
-![Beeketing](../images/7 Conversion tools to retain eCommerce customers for long/Beeketing.png)
+![Beeketing](https://raw.githubusercontent.com/retainful/site-images/master/7 Conversion tools to retain eCommerce customers for long/Beeketing.png)
 
 Beeketing claims to be a popular plugin all around the world these days. Why?  Because it is feature-rich and efficient.
 
@@ -100,7 +100,7 @@ ____
 
 ### [5. Metrilo](https://www.metrilo.com)
 
-![Metrilo](../images/7 Conversion tools to retain eCommerce customers for long/Metrilo.png)
+![Metrilo](https://raw.githubusercontent.com/retainful/site-images/master/7 Conversion tools to retain eCommerce customers for long/Metrilo.png)
 
 Metrilo is a growth analytic tool that helps eCommerce store runners to perform better and come up with different strategies to achieve success. 
 
@@ -111,7 +111,7 @@ ____
 
 ### [6. Conversio](https://conversio.com)
 
-![Conversio](../images/7 Conversion tools to retain eCommerce customers for long/Conversio.png)
+![Conversio](https://raw.githubusercontent.com/retainful/site-images/master/7 Conversion tools to retain eCommerce customers for long/Conversio.png)
 
 
 Conversio is yet another email plugin that helps in the creation of beautiful, personalized emails. To add more, it helps you increase customers lifetime value by drag and drop upsell products.
@@ -124,7 +124,7 @@ ____
 
 ### [7. Klaviyo](https://www.klaviyo.com/)
 
-![Live Sales Notification Plugin](../images/7 Conversion tools to retain eCommerce customers for long/Klaviyo.png)
+![Live Sales Notification Plugin](https://raw.githubusercontent.com/retainful/site-images/master/7 Conversion tools to retain eCommerce customers for long/Klaviyo.png)
 
 Klaviyo is a marketing automation tool that helps brands drive in more sales with marketing strategies such as social media marketing using widely used platforms like Facebook, Instagram. It also helps you to drive more sales using email marketing.
 

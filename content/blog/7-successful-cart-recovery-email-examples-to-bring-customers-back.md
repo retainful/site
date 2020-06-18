@@ -59,7 +59,7 @@ So, try to add simple phrases in your CTA instead of asking customers to Buy all
 
 Well, just look how Ralph & Lauren phrased the CTA minimizing the intent of commitment.
 
-![Nothing Less… Nothing More](../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/CTA.jpeg)
+![Nothing Less… Nothing More](https://raw.githubusercontent.com/retainful/site-images/master/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/CTA.jpeg)
 
 ### Motivate Customers with Discount
 *Feed the Fish - Hayneedle*
@@ -72,7 +72,7 @@ You see most times people abandon carts because of extra taxes and shipping char
 
 That’s how Hayneedle craft their cart recovery emails. Also, their abandoned cart email is mainly focused on offers. Don’t miss to see how they pitch to increase the average order value by offering free shipping discounts for higher orders.
 
-![Feed the Fish](../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/discount.jpeg)
+![Feed the Fish](https://raw.githubusercontent.com/retainful/site-images/master/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/discount.jpeg)
 
 
 
@@ -100,7 +100,7 @@ Would that kindle the interest of your customers?
 Well, I guess that’s the email marketing strategy of Grovemade. Look how they push customers to recover abandoned carts by writing ‘Cart Expires in 3 days’.
   
 
-![FOMO](../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/FOMO.jpeg)
+![FOMO](https://raw.githubusercontent.com/retainful/site-images/master/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/FOMO.jpeg)
 
 
 ### Take the Opportunity to Up-sell and Cross-sell
@@ -112,7 +112,7 @@ Ever thought of using emails as sale banners? You could very well try to sell mo
 The best thing about the cart recovery email from ‘madewell’ is that it not only reminds  customers about abandoned carts but also pitches their best selling products. Now, that’s classic Upsell and cross-sell.
 
   
-![See no window](../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/cross-sell.jpeg)
+![See no window](https://raw.githubusercontent.com/retainful/site-images/master/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/cross-sell.jpeg)
 
 
 ### Be a Sweetie Pie 
@@ -133,7 +133,7 @@ _‘Don’t miss out’_ reminds about abandoned cart
 
 _‘Is there anything to help’_ express concern to customer queries.
 
-![Be a sweetie pie](../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/Care.jpeg)
+![Be a sweetie pie](https://raw.githubusercontent.com/retainful/site-images/master/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/Care.jpeg)
 
 
 ### Jump out of the Box
@@ -150,7 +150,7 @@ Writing the email in their very own style with an engaging call-to-action button
 
   
 
-![Be a sweetie pie](../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/Out-of-box.jpg)
+![Be a sweetie pie](https://raw.githubusercontent.com/retainful/site-images/master/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/Out-of-box.jpg)
 
   
 ### Share customer story 
@@ -160,7 +160,7 @@ People might resist trusting your store but are definitely influenced by what fe
 
 People will get interested in the success stories. Writing cart recovery emails with customer stories, testimonials, social proof, and reviews can script the best chances to increase your conversions.
 
-![Customer Story](../images/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/customer-story.jpeg)
+![Customer Story](https://raw.githubusercontent.com/retainful/site-images/master/7-Successful-Cart-Recovery-Email-Examples-to-Bring-Customers-Back/customer-story.jpeg)
 
  ## Pro Tips & Tools to send your Cart Recovery emails
 

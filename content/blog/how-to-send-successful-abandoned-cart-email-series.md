@@ -172,7 +172,7 @@ See to that the following factors are covered in your cart recovery email series
 ### 1st Shopify abandoned cart email template
 <br>
 
-![1st Email template](../images/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-1.png)
+![1st Email template](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-1.png)
 
 **Sending day:** A few hours post cart abandonment or on the day of cart abandonment.
 
@@ -195,7 +195,7 @@ If that works out, there is no need for further abandoned cart emails, as remind
 ### 2nd Shopify abandoned cart email template
 <br>
 
-![2nd Email template](../images/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-2.png)
+![2nd Email template](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-2.png)
 
   
 
@@ -230,7 +230,7 @@ No matter how big or small, develop your brand value. Recognition and trust deve
 ### 3rd Shopify abandoned cart email template
 <br>
 
-![3rd Email template](../images/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-3.png)
+![3rd Email template](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-3.png)
 
 **Sending day:** 2-3 days post cart abandonment.
 
@@ -262,7 +262,7 @@ Address cart abandonment recovery email issues for Shopify by including scarcity
 ### 4th Shopify abandoned cart email template
 <br>
 
-![4th Email template](../images/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-4.png)
+![4th Email template](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-4.png)
 
 
 **Sending day:** 4-7 days post cart abandonment.
@@ -304,7 +304,7 @@ Using discounts and coupons you can motivate customers to purchase repeatedly at
 ### 5th Shopify abandoned cart email template
 <br>
 
-![5th Email template](../images/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-5.png)
+![5th Email template](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-successful-abandoned-cart-email-series/Email-template-for-abandoned-cart-recovery-5.png)
 
 <br>
 

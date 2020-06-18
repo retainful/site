@@ -44,7 +44,7 @@ ___
 
 <br>
 
-![Privy](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Privy.png)
+![Privy](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Privy.png)
 
 Privy, one of the best selling apps, has got 21k+ reviews to their credit in the Shopify app store. This creates a sense of doubt initially. Later, I found that this is a marketing strategy - any person who uses the app is asked for a review, multiple times until done, and it is published right away on the Shopify page.
 
@@ -93,7 +93,7 @@ ___
 
 <br>
 
-![Jilt](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Jilt.png)
+![Jilt](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Jilt.png)
 
 
 The message is evident in the above picture. Jilt is all about email marketing for the eCommerce sector.
@@ -143,7 +143,7 @@ ___
 
 <br>
 
-![Retainful](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Retainful.png)
+![Retainful](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Retainful.png)
 
 If you are looking for a solution to deal with abandoned carts, then go no further. Retainful is one of the best email marketing apps that is exclusively dedicated to drafting never-fail  <link-text url="https://www.retainful.com/blog/how-to-send-successful-abandoned-cart-email-series" rel="noopener" target="_blank">abandoned cart recovery emails 
 </link-text> for your Shopify store.
@@ -191,7 +191,7 @@ ___
 
 <br>
 
-![Firepush](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Firepush.png)
+![Firepush](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Firepush.png)
 
 
 Firepush increases the possibilities of customer retention uses 3 other marketing channels other than email. And yes, Firepush does succeed in doing it perfectly.
@@ -227,7 +227,7 @@ ___
 <br>
 
 
-![Smile](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/smile.png)
+![Smile](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/smile.png)
 
 <br> 
 
@@ -274,7 +274,7 @@ ___
 
 <br>
 
-![Spin-a-sale](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/spin-a-sale.png)
+![Spin-a-sale](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/spin-a-sale.png)
 
 The home page of the website reads ‘Take your popup to the next level’ and this one-of-a-kind Shopify app remains true to it. With a rating of 4.9 stars, this app is a must try.
 
@@ -324,7 +324,7 @@ ___
 
 <br>
 
-![Sales Pop Master](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/sales-pop-master-Countdown.png)
+![Sales Pop Master](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/sales-pop-master-Countdown.png)
 
 Of all the Shopify plugins for sales conversion, Sales Pop Master by Autokeeting stands apart. Get to know why.
 
@@ -358,7 +358,7 @@ ___
 
 <br>
 
-![Loox](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Loox-Photo-Reviews.png)
+![Loox](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Loox-Photo-Reviews.png)
 
 
 Loox is the best Shopify app meant to <link-text url="https://www.flycart.org/blog/wordpress/social-proof-role-in-ecommerce-conversion" rel="noopener" target="_blank">display social proofs.</link-text> Over 40,000 Shopify merchants have used this to date and so many can’t go wrong.
@@ -399,7 +399,7 @@ ___
 
 <br>
 
-![Ultimate Sales Boost](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Ultimate-Sales-Boost.png)
+![Ultimate Sales Boost](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Ultimate-Sales-Boost.png)
 
 
 A quick, short message can go a long way in generating better sales.
@@ -444,7 +444,7 @@ ___
 
 <br>
 
-![Oberlo](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Oberlo.png)
+![Oberlo](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Oberlo.png)
 
 
 Oberlo is one of the best selling Shopify apps that has reaped success with dropshipping. Hunting for products to sell online is a tedious task and Oberlo only makes it easier.  
@@ -483,7 +483,7 @@ ___
 
 <br>
 
-![Bulk Product Edit by Hextom](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/bulk-product-edit.png)
+![Bulk Product Edit by Hextom](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/bulk-product-edit.png)
 
   
 
@@ -517,7 +517,7 @@ ___
 
 <br>
 
-![In Stock Alerts](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/In-Stock-Alerts.png)
+![In Stock Alerts](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/In-Stock-Alerts.png)
 
 
 You will lose sales and customers when a <link-text url="https://www.shopify.com/blog/inventory-management" rel="noopener nofollow" target="_blank"> product-in-demand goes out of stock. 
@@ -552,7 +552,7 @@ ___
 
 <br>
 
-![Sufio](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Sufio.png)
+![Sufio](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Sufio.png)
 
 Brand building is not just about setting up a store and doing good business. Even the tiniest of details reiterate the brand story and <link-text url="https://woocommercedynamicpricing.com/blog/why-transactional-emails-important" rel="noopener" target="_blank">invoices
 </link-text>  are one among them.
@@ -590,7 +590,7 @@ ___
 
 <br>
 
-![AfterShip](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/aftership-track&notify.png)
+![AfterShip](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/aftership-track&notify.png)
 
 
 You might lose it when awaiting the package that you ordered online. It might take days and weeks. You will have to keep track regularly.
@@ -628,7 +628,7 @@ ___
 
 <br>
 
-![AfterShip Returns Center](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/aftership-return-center.png)
+![AfterShip Returns Center](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/aftership-return-center.png)
 
 Returns management is in fact an art. If not handled properly, the customer might have a bad experience and you gain a bad reputation. AfterShip Returns Center is the best Shopify all to avoid this situation.
 
@@ -665,7 +665,7 @@ ___
 
 <br>
 
-![Tidio Live Chat](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Tidio-Live-Chat.png)
+![Tidio Live Chat](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Tidio-Live-Chat.png)
 
 Quicker the communication and problem solving, quicker the sales. Tidio is all about making communications with customers effective in your Shopify store.  
 
@@ -699,7 +699,7 @@ ___
 
 <br>
 
-![HelpCenter](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/HelpCenter.png)
+![HelpCenter](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/HelpCenter.png)
 
 
 FAQ pages do help a lot in clearing up some basic and recurring questions that a customer might have regarding online shopping. This, of course, is one form of customer support and Help Center excels in doing it better.
@@ -730,7 +730,7 @@ ___
 
 <br>
 
-![Conversific](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Conversific-Store-analytics.png)
+![Conversific](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Conversific-Store-analytics.png)
 
   
 Conversific is a Shopify app that documents eCommerce analytics. Wondering <link-text url="https://www.forbes.com/sites/bernardmarr/2016/04/12/9-vital-customer-analytics-every-manager-should-know/#7697a5925816" rel="noopener nofollow" target="_blank">what analytics has to do with customers?
@@ -774,7 +774,7 @@ ___
 
 <br>
 
-![BEST Currency Converter](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/best-currency-converter.png)
+![BEST Currency Converter](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/best-currency-converter.png)
 
 
 BEST Currency Converter app is a must-have for Shopify eCommerce stores that sell internationally. When there is no display of product price in the currency that you shop with, it is obvious for sales to drop. This app reverts this negative effect.
@@ -804,7 +804,7 @@ ___
 
 <br>
 
-![Partial.ly](../images/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Partial.ly-Payment-Plans.png)
+![Partial.ly](https://raw.githubusercontent.com/retainful/site-images/master/20-Must-Have-Shopify-apps-to-build-your-ecommerce-store/Partial.ly-Payment-Plans.png)
 
   
 

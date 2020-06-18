@@ -76,7 +76,7 @@ Customers flock to your store when they are in need of something, once they are 
 
 <br>
 
-![](../images/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/1-next-order-coupons.svg)
+![](https://raw.githubusercontent.com/retainful/site-images/master/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/1-next-order-coupons.svg)
 
 Acknowledge the importance of customer's loyalty and encourage them with a discount for their next purchase, this will motivate them to return to your store to avail that discount. Thus you are effectively driving repeated purchases and also customer retention is achieved when they return to purchase again.
 
@@ -110,7 +110,7 @@ Every major eCommerce store around the world is using WooCommerce loyalty progra
 
 <br>
 
-![](../images/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/8-Loyalty-plugin.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/8-Loyalty-plugin.png)
 
 <br>
 

@@ -37,7 +37,7 @@ In spite of having many useful plugins in WooCommerce, it is quite hard to find 
 ### Retainful - The FREE Cart recovery email plugin for WooCommerce
 <br>
 
-![Retainful - The FREE Cart recovery email plugin for WooCommerce](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/retainful-abandoned-cart-recovery-and-next-order-coupons-for-woocommerce.jpeg)
+![Retainful - The FREE Cart recovery email plugin for WooCommerce](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-free-cart-recovery-emails-in-woocommerce/retainful-abandoned-cart-recovery-and-next-order-coupons-for-woocommerce.jpeg)
 
 Retainful is a FREE WordPress tool to automate cart recovery email reminders. You can schedule and automate unlimited email reminders to customers. Well, it’s just more than just an email tool. Retainful is also a next order coupon generator plugin.
 
@@ -57,7 +57,7 @@ All you gotta do is follow these 3 simple steps.
 3. Enter the keyword **Retainful** in the search box
 4. **Install** and **Activate** the plugin
 
-![Install Retainful Plugin](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/install-retainful-plugin.jpeg)
+![Install Retainful Plugin](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-free-cart-recovery-emails-in-woocommerce/install-retainful-plugin.jpeg)
 
 ### Step 2 - Define What you consider an abandoned cart
 
@@ -74,7 +74,7 @@ Then,
 This is the time to consider your customer cart abandoned.  
 Say, if the time is set to 60 minutes, the WooCommerce cart will be considered abandoned when your customer left the cart unpaid for 60 minutes.
 
-![Retainful Settings](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/Retainful-settings.jpeg)
+![Retainful Settings](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-free-cart-recovery-emails-in-woocommerce/Retainful-settings.jpeg)
 
 **How many days to wait before automatically deleting the cart?**   
 This is to automatically delete the abandoned cart items after certain days if the WooCommerce customer still hasn’t recovered the abandoned for the set duration.
@@ -110,12 +110,12 @@ To easily understand the process,
 
 Enter the name and address you want your<link-text url="https://sleeknote.com/blog/abandoned-cart-emails" target="_blank" rel="noopener nofollow"> abandoned cart recovery emails</link-text> to be sent from.
 
-![Retainful Email Templates](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/retainful-email-templates.jpeg)
+![Retainful Email Templates](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-free-cart-recovery-emails-in-woocommerce/retainful-email-templates.jpeg)
 
 That’s all about configuring the email settings.   
 Now, click on **Create Template** to write your abandoned cart recovery email.
 
-![Create Email Templates](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/create-email-templates.jpeg)
+![Create Email Templates](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-free-cart-recovery-emails-in-woocommerce/create-email-templates.jpeg)
 
 Initially, enter the cart recovery email template and subject line. The **Template name** is for the reference of the store owner and not gets displayed to the customers. 
 
@@ -125,13 +125,13 @@ The **Template subject** is actually the subject line of your recovery email and
 Simple and precise subject lines will achieve to improve email open rates.
 </call-out>
 
-![Abandoned Cart EMail Subject Line](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/abandoned-cart-email-subject-line.jpeg)
+![Abandoned Cart EMail Subject Line](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-free-cart-recovery-emails-in-woocommerce/abandoned-cart-email-subject-line.jpeg)
  
 Next, enter the body of your cart recovery email. The text editor may seem like the regular WordPress editor but the interesting part is the availability of shortcodes.   Shortcodes allow you to personalize the emails with the customer’s name, cart details, cart recovery link and more. 
 
 The following screen shows you the proper way to structure your email using shortcodes. 
 
-![Retainful Shortcode](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/retainful-shortcode.jpeg)
+![Retainful Shortcode](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-free-cart-recovery-emails-in-woocommerce/retainful-shortcode.jpeg)
 
 Lastly, schedule your recovery email reminders. Let the minimum time to send the first cart recovery email to be 1 hour. 
 
@@ -145,7 +145,7 @@ Cart Recovery Email 1 - After 1 hour
 Cart Recovery Email 2 - After 24 hours   
 Cart Recovery Email 3 - After 72 hours   
 
-![Schedule Abandoned Cart Recovery Interval](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/schedule-abandoned-cart-recovery-interval.jpeg)
+![Schedule Abandoned Cart Recovery Interval](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-free-cart-recovery-emails-in-woocommerce/schedule-abandoned-cart-recovery-interval.jpeg)
 
 **Additional Features of Retainful**
 
@@ -158,7 +158,7 @@ Retainful is just not a cart recovery email plugin. It’s a coupon management p
 
 More Sales, More Revenue.
 
-![Retainful Dashboard](../images/how-to-send-free-cart-recovery-emails-in-woocommerce/retainful-dashboard.jpeg)
+![Retainful Dashboard](https://raw.githubusercontent.com/retainful/site-images/master/how-to-send-free-cart-recovery-emails-in-woocommerce/retainful-dashboard.jpeg)
 
 
 **Keynotes to Remember**

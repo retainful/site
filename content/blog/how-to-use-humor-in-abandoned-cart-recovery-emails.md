@@ -160,7 +160,7 @@ Interesting, right? You did have a hearty laugh. The credit goes to the team fro
 
 
 
-![Weave a story](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/threadless-email.png)
+![Weave a story](https://raw.githubusercontent.com/retainful/site-images/master/how-to-use-humor-in-abandoned-cart-recovery-emails/threadless-email.png)
 
 
 **Points to note**
@@ -172,7 +172,7 @@ Interesting, right? You did have a hearty laugh. The credit goes to the team fro
 Take a look at this abandoned cart email from Ray-Ban which tells a story that is both aggressive yet evokes laughter.
 
 
-![Rayban](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/Rayban.png)
+![Rayban](https://raw.githubusercontent.com/retainful/site-images/master/how-to-use-humor-in-abandoned-cart-recovery-emails/Rayban.png)
 
 Did you notice the copy?
 
@@ -203,7 +203,7 @@ Dollar Shave Club shows the best way to use a mascot in Shopify abandoned cart e
 Here is Chuck, the mascot of DSC, waiting for you.
 
 
-![Use a mascot](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/dollar-shave-club-mascot.png)
+![Use a mascot](https://raw.githubusercontent.com/retainful/site-images/master/how-to-use-humor-in-abandoned-cart-recovery-emails/dollar-shave-club-mascot.png)
 
 
 Seems Chuck wants to play peek-a-boo which is cute and appealing. Though _‘Chuck is bummin’_ pretty hard’ to get back customers, the overall look of the abandoned cart email resonates humor on a light note.
@@ -218,7 +218,7 @@ The possibilities of using humor in abandoned cart emails are not restricted to 
 Dollar Shave Club uses the image of a baby to win back the customer.
 
 
-![Bring in a character](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/dollar-shave-club-character.png)
+![Bring in a character](https://raw.githubusercontent.com/retainful/site-images/master/how-to-use-humor-in-abandoned-cart-recovery-emails/dollar-shave-club-character.png)
 
 
 I agree. This is not an abandoned cart email but does it matter here. We are talking about creating humor and this can be used without much change in a Shopify abandoned cart email too.
@@ -232,7 +232,7 @@ For example, in the above email, there is a sentence referring to the baby ‘P.
 
 Here is an abandoned cart email from Doggyloot that uses a character.
 
-![Doggyloot](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/doggyloot.png)
+![Doggyloot](https://raw.githubusercontent.com/retainful/site-images/master/how-to-use-humor-in-abandoned-cart-recovery-emails/doggyloot.png)
 
 
 The cute dog in the email says ‘wait’ with a gesture that cannot be ignored. The very sight of this wins the readers’ hearts and encourages them to buy the abandoned product.
@@ -258,7 +258,7 @@ This strategy can be used effectively to create Shopify best abandoned cart emai
 Here is an example from Chubbies shorts.
 
 
-![Self-criticize](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/chubbies-what-are-we-all-about.png)
+![Self-criticize](https://raw.githubusercontent.com/retainful/site-images/master/how-to-use-humor-in-abandoned-cart-recovery-emails/chubbies-what-are-we-all-about.png)
 
 The copy goes like this.
 
@@ -276,7 +276,7 @@ Chubbies themselves feel that  <link-text url="https://www.campaignrabbit.com/do
 
 <br>
 
-![Give out suggestions to use abandoned products](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/whisky-loot-content.png)
+![Give out suggestions to use abandoned products](https://raw.githubusercontent.com/retainful/site-images/master/how-to-use-humor-in-abandoned-cart-recovery-emails/whisky-loot-content.png)
 
 A normal suggestion for a bottle of whisky goes like this - Use them at a party and other auspicious occasions. Let your guests feel kingly.
 
@@ -307,7 +307,7 @@ The human characteristic of procrastination is targeted in the above sentence an
 
 <br>
 
-![Connect to a real-life situation](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/rudy.png)
+![Connect to a real-life situation](https://raw.githubusercontent.com/retainful/site-images/master/how-to-use-humor-in-abandoned-cart-recovery-emails/rudy.png)
 
 
 ### Use a video
@@ -320,7 +320,7 @@ The video must be as short as possible so that the customer resorts more time to
 
 <div class="d-flex justify-content-center">
 
-![Connect to a real-life situation](../images/how-to-use-humor-in-abandoned-cart-recovery-emails/use-humour-in-abandoned-cart-emails.gif)
+![Connect to a real-life situation](https://raw.githubusercontent.com/retainful/site-images/master/how-to-use-humor-in-abandoned-cart-recovery-emails/use-humour-in-abandoned-cart-emails.gif)
 
 </div>
 

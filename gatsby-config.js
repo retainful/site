@@ -29,13 +29,13 @@ module.exports = {
                 cachePublic: true
             }
         },
-        {
-            resolve: `gatsby-source-filesystem`,
-            options: {
-                name: `images`,
-                path: `${__dirname}/src/images`,
-            }
-        },
+        // {
+        //     resolve: `gatsby-source-filesystem`,
+        //     options: {
+        //         name: `images`,
+        //         path: `${__dirname}/src/images`,
+        //     }
+        // },
         {
           resolve: `gatsby-transformer-remark`,
           options: {
@@ -45,12 +45,12 @@ module.exports = {
                   className: `toc-scroll-down`,
               },
             plugins: [
-              {
-                resolve: `gatsby-remark-images`,
-                options: {
-                  maxWidth: 1000,
-                },
-              },
+            //   {
+            //     resolve: `gatsby-remark-images`,
+            //     options: {
+            //       maxWidth: 1000,
+            //     },
+            //   },
               `gatsby-plugin-remove-trailing-slashes`,
               {
                 resolve: `gatsby-plugin-canonical-urls`,
