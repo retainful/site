@@ -75,7 +75,7 @@ normally $29/month
 
 <div slot="plan-price">
 
-<sup>$</sup>9<sub>/month</sub>
+<sup>$</sup><span id="starter-pricem">9</span><sub>/month</sub>
 
 </div>
 
@@ -87,7 +87,7 @@ normally $29/month
 
 <div slot="plan-price-anually">
 
-<sup>$</sup>7<sub>/month</sub>
+<sup>$</sup><span id="starter-pricey">7</span><sub>/month</sub>
 
 <p class="pt-3">(Billed Anually)</p>
 
@@ -138,7 +138,7 @@ normally $59/month
 
 <div slot="plan-price" >
 
-<sup>$</sup>29<sub>/month</sub>
+<sup>$</sup><span id="growth-pricem">29</span><sub>/month</sub>
 
 </div>
 
@@ -150,7 +150,7 @@ normally $59/month
 
 <div slot="plan-price-anually">
 
-<sup>$</sup>23<sub>/month</sub>
+<sup>$</sup><span id="growth-pricey">23</span><sub>/month</sub>
 
 <p class="pt-3">(Billed Anually)</p>
 

@@ -336,3 +336,9 @@
 .btn-toggle.btn-toggle-secondary.active {
   background-color: #ff8300;
 }
+
+
+.toggle-btn .card{
+    background: #fff;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+}
