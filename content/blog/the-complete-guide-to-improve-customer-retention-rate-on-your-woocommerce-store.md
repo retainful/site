@@ -1,6 +1,6 @@
 ---
 title: "The Complete Guide to Improve Customer Retention Rate on Your WooCommerce Store"
-date: "2020-02-20"
+date: "2020-03-19"
 description: " Loyal customers are known for increasing the customer retention rate. It is no mean feat to achieve, but hey, it is not an impossible one for your WooCommerce store. These customer retention strategies will guide you how to ace this task effortlessly. Customer retention guaranteed!"
 image: "../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store.png"
 thumbnail: "../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store.png"
@@ -42,7 +42,7 @@ Similar to reasons for cart abandonment, customers do have reasons for opting ou
 
 Take a look at this graphical representation by SuperOffice.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/1-reasons-for-low-customer-retention-rate.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/1-reasons-for-low-customer-retention-rate.png)
 
 It is not quite alarming to know that 68% of customers can leave if a company doesn’t care. You or I, anyone who feels neglected would do that.
 
@@ -92,7 +92,7 @@ Customers expect the fastest response when they need help. The faster the respon
 
 Here is an example of live chat in an eCommerce store for SaaS products.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/2-live-chat-example-for-customer-retention.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/2-live-chat-example-for-customer-retention.png)
 
 <br>
 
@@ -118,7 +118,7 @@ Now, what element can be used to reassure that the customer revisits your online
 
 The answer is WooCommerce next order coupons.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/3-woocommerce-next-order-coupon-for-customer-retention.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/3-woocommerce-next-order-coupon-for-customer-retention.png)
 
 <br>
 
@@ -150,11 +150,11 @@ This is one of their <link-text url="https://www.retainful.com/blog/how-to-send-
 
 <br>
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/4-abandoned-cart-email-for-customer-retention-omnichannel-marketing.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/4-abandoned-cart-email-for-customer-retention-omnichannel-marketing.png)
 
 The same message is shown on Facebook too.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/5-facebook-abandoned-cart-message-customer-retention-omnichannel-marketing.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/5-facebook-abandoned-cart-message-customer-retention-omnichannel-marketing.png)
 
 Sending out the same message across all platforms reinforces the purchase intent. It also ensures that the message reaches the customer because you never know which platform the customer is using actively.
 
@@ -193,7 +193,7 @@ You need to remind the customer about your presence every now and then.
 
 Take a look at the screenshot below.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/6-chubbies-email-frequency-for-customer-retention.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/6-chubbies-email-frequency-for-customer-retention.png)
 
 All of the emails in the image are from Chubbies after a cart abandonment on March 3, 2020.
 
@@ -217,15 +217,15 @@ Here is one email from Chubbies with a discount at the end.
 
 The email starts off with an image of the new product.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/7-chubbies-email-for-customer-retention-1.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/7-chubbies-email-for-customer-retention-1.png)
 
 Then, the email talks about the speciality of the new product.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/8-chubbies-email-for-customer-retention-2.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/8-chubbies-email-for-customer-retention-2.png)
 
 Finally, ends the email with an offer.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/9-chubbies-email-for-customer-retention-with-discount-3.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/9-chubbies-email-for-customer-retention-with-discount-3.png)
 
 If the offer is a captivating one, people would obviously buy the products. Email frequency is vital for customer retention and when accompanied by a discount, customer loyalty and retention is assured.
 
@@ -233,7 +233,7 @@ If the offer is a captivating one, people would obviously buy the products. Emai
 
 <br>
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/10-amazon-prime-membership-program-for-customer-retention.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/10-amazon-prime-membership-program-for-customer-retention.png)
 
 <br>
 
@@ -326,7 +326,7 @@ It is only natural that customers reach out to the customer service department t
 
 Retainful, a WooCommerce plugin for abandoned cart recovery and next order coupon, has an excellent customer support team to guide customers. Problems seem like stardust with their help. Here is proof.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/12-retainful-customer-support-to-increase-customer-retention-rate.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/12-retainful-customer-support-to-increase-customer-retention-rate.png)
 
 <br>
 
@@ -359,7 +359,7 @@ Bombas is one such company.
 
   
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/13-use-brand-mission-for-customer-retention-bombas.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/13-use-brand-mission-for-customer-retention-bombas.png)
 
 
 Bombas donates a product to the homeless with every product that is purchased. That is a one-on-one strategy.
@@ -376,7 +376,7 @@ Canva Design School shares guides, resources, and videos with regard to design. 
 
 Similarly, there are various other eCommerce stores that run blogs to educate the customers about their products. Vinebox, organic wine seller, does this. The brand puts up information that customers must know regarding their wines.
 
-![](../images/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/14-educate-with-content-for-customer-retention-vinebox.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/the-complete-guide-to-improve-customer-retention-rate-on-your-woocommerce-store/14-educate-with-content-for-customer-retention-vinebox.png)
 
 Content like the one shown above in the image gives a reason for customers to come back for more wine and turn into a loyal customer.
 

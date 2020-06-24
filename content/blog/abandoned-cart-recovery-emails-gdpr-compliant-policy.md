@@ -7,7 +7,7 @@ keywords: "abandoned cart gdpr, abandoned cart emails gdpr, how many abandoned c
 author: "Vidya"
 image: "../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy.png"
 thumbnail: "../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy.png"
-category: "eCommerce"
+category: "ecommerce"
 ogtype: "blog"
 ---
 
@@ -49,7 +49,7 @@ This was formulated with an objective to increase the protection around handling
 
 <br>
 
-![Countries under GDPR regulation](../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/1-countries-under-gdpr-regulations.png)
+![Countries under GDPR regulation](https://raw.githubusercontent.com/retainful/site-images/master/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/1-countries-under-gdpr-regulations.png)
 
   
 
@@ -86,7 +86,7 @@ Further many countries got inspired by this and are implementing GDPR like regul
 
 <br>
 
-![Wide acceptance of GDPR](../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/2-countries-following-gdprlike-regulations.png)
+![Wide acceptance of GDPR](https://raw.githubusercontent.com/retainful/site-images/master/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/2-countries-following-gdprlike-regulations.png)
 
 
 ---
@@ -148,7 +148,7 @@ As per the regulation, consent has to be informed and explicit. Having an alread
 
 Here in the below example, there is a clearcut Opt-in/Confirm my email address option. Further, you are free to Opt-out by not clicking the button with options to Opt-out later.
 
-![What should I know before choosing an abandoned cart recovery plugin](../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/3-confirming-datacollection-with-double-opt.png)
+![What should I know before choosing an abandoned cart recovery plugin](https://raw.githubusercontent.com/retainful/site-images/master/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/3-confirming-datacollection-with-double-opt.png)
 
   
 
@@ -160,7 +160,7 @@ The answer is the lawfulness is dependent on explicit consent.
 
   
 
-![GDPR compliant Cookies](../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/4-fetching-gdpr-compliant-cookies.png)
+![GDPR compliant Cookies](https://raw.githubusercontent.com/retainful/site-images/master/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/4-fetching-gdpr-compliant-cookies.png)
 
 <br>
 
@@ -326,7 +326,7 @@ Opt-in- Explicit consent has to be taken from your customers by providing an opt
 
 Opt-out/Unsubscription- There must be options to opt-out of the email subscriptions in case of customers changing their minds later as well.
 
-![How to send a GDPR compliant email?](../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/5-Email-notification-with-option-for-unsubscribing.png)
+![How to send a GDPR compliant email?](https://raw.githubusercontent.com/retainful/site-images/master/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/5-Email-notification-with-option-for-unsubscribing.png)
 
   
 
@@ -351,7 +351,7 @@ You can demonstrate your GDPR compliance via abandoned cart recovery emails.
 
 In the below example there is a privacy statement that links to the website’s GDPR page.
 
-![How to demonstrate GDPR compliance via email remarketing?](../images/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/6-demonstrate-gdpr-compliance1.png)
+![How to demonstrate GDPR compliance via email remarketing?](https://raw.githubusercontent.com/retainful/site-images/master/Does-Sending-Abandoned-Cart-Recovery-Emails-to-the-Customer-Compliant-with-GDPR-Policy/6-demonstrate-gdpr-compliance1.png)
 
 Below there are few other contents that you can add to your abandoned cart recovery emails to express your GDPR compliance. Some of which are mentioned below.
 

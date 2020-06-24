@@ -61,7 +61,7 @@ Before we start, we assume that you have already installed Retainful. We’ll be
 
 <br>
 
-![Step 1](../images/How-to-provide-Next-order-coupon-in-WooCommerce/step1.png)
+![Step 1](https://raw.githubusercontent.com/retainful/site-images/master/How-to-provide-Next-order-coupon-in-WooCommerce/step1.png)
 
 1.  Open Retainful and toggle to the “Next Order Coupon” section.
     
@@ -97,7 +97,7 @@ We are done with step 1, the coupon creation part. Now, for the second step.
 
 Retainful comes with power-packed coupon usage restriction options.  
 
-![Step2](../images/How-to-provide-Next-order-coupon-in-WooCommerce/step2.png)
+![Step2](https://raw.githubusercontent.com/retainful/site-images/master/How-to-provide-Next-order-coupon-in-WooCommerce/step2.png)
 
 You will find the coupon usage restriction when you scroll
 

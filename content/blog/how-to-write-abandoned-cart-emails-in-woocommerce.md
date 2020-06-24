@@ -16,7 +16,7 @@ On an average, 60 - 80 percentage of your visitors exit the store without comple
 
 Here is a list of industry-wise cart abandonment rates
 
-![Statistics By Optinmonster](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/abandonment-rates-by-industry-product-4.png)
+![Statistics By Optinmonster](https://raw.githubusercontent.com/retainful/site-images/master/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/abandonment-rates-by-industry-product-4.png)
 
 *Statistics By: Optinmonster*
 
@@ -82,7 +82,7 @@ So, don’t send cart emails with subject line saying You left something..., Hur
 - Lemme Teleport You Back to Your Cart! Free of Charge!
 
 **Take a look at the abandoned cart email from Casper**
-![casper](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/af8c540d-81dd-4b3c-ba00-740877436b05.jpeg)
+![casper](https://raw.githubusercontent.com/retainful/site-images/master/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/af8c540d-81dd-4b3c-ba00-740877436b05.jpeg)
 
 **What this abandoned cart email does right:**
 
@@ -104,7 +104,7 @@ So, make sure your cart recovery email reminds customer of what’s left in the 
 
 Check the email from ‘Ashford’ 
 <br>
-![](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/182ea367-56f8-4e3c-bd44-6f6f577db89f.jpeg)
+![](https://raw.githubusercontent.com/retainful/site-images/master/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/182ea367-56f8-4e3c-bd44-6f6f577db89f.jpeg)
 
 **What this abandoned cart email does right:**
 
@@ -119,7 +119,7 @@ Let the customer recover their cart with a single click. This helps the customer
 
 If you are taking them through a complex checkout process with multiple steps, there are chances that the customer might get distracted and will not complete his purchase. So ensure a distraction-free, single click recovery. And make sure you include that recovery link in the email follow-up.
 
-![](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/00151b88-4617-48f3-8c1f-ac0bad264c76.jpeg)
+![](https://raw.githubusercontent.com/retainful/site-images/master/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/00151b88-4617-48f3-8c1f-ac0bad264c76.jpeg)
 
 
 **What this abandoned cart email does right:**
@@ -136,7 +136,7 @@ You can clearly see that the majority of people abandon shopping cart when they 
 
   
 
-![Statistics By Statista](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/reasons-shoppers-abandon-carts.png)
+![Statistics By Statista](https://raw.githubusercontent.com/retainful/site-images/master/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/reasons-shoppers-abandon-carts.png)
 
 *Statistics By- Statista*
 
@@ -144,7 +144,7 @@ So, what if the customers are shared with FREE shipping coupons and discount off
 
 ‘Nordstorm’ had done a clean cart recovery email copy & makes pretty sure that the free shipping discount is highlighted (Green Text box).
 
-![Nordstorm](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/68ab3db6-7ca3-4949-8507-714c4b215f36.jpeg)
+![Nordstorm](https://raw.githubusercontent.com/retainful/site-images/master/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/68ab3db6-7ca3-4949-8507-714c4b215f36.jpeg)
 
 **What this abandoned cart email does right:**
 
@@ -159,7 +159,7 @@ Sometimes your customer might have few queries regarding the product delivery, r
 
 In this case, you got to make sure that every query of your customer is answered. And that’s done by sharing the support details in the WooCommerce abandoned cart email.
 
-![Poppin](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/d0bee3ef-b56b-4f8a-a56e-69a98d310756.jpeg)
+![Poppin](https://raw.githubusercontent.com/retainful/site-images/master/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/d0bee3ef-b56b-4f8a-a56e-69a98d310756.jpeg)
 
 
 **What this abandoned cart email does right:**
@@ -177,7 +177,7 @@ And when a business shares social proof (customer reviews and testimonials), the
 
 Its ‘Casper’ again.
 
-![](../images/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/af8c540d-81dd-4b3c-ba00-740877436b05.jpeg)
+![](https://raw.githubusercontent.com/retainful/site-images/master/How-to-write-abandoned-cart-emails-for-your-WooCommerce-store/af8c540d-81dd-4b3c-ba00-740877436b05.jpeg)
 
 **What this abandoned cart email does right:**
 

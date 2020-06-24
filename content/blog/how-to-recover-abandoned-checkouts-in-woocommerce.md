@@ -8,7 +8,7 @@ image: "../images/how-to-recover-abandoned-checkouts-in-woocommerce/how-to-recov
 thumbnail: "../images/how-to-recover-abandoned-checkouts-in-woocommerce/how-to-recover-abandoned-checkouts-in-woocommerce.png"
 description : "WooCommerce shopping cart abandonment has been a never-ending problem for store owners. This ultimate guide can help you understand how to recover abandoned checkouts in WooCommerce. Also, check out WooCommerce abandoned cart email templates inside."
 keywords: "free wp shopping cart plugin, woocommerce shopping cart abandonment, woocommerce capture email before checkout, woocommerce abandoned cart email"
-category: "woocommerce"
+category: "WooCommerce"
 ---
 
 A cart that is abandoned is lost forever if timely action is not initiated. The startling truth is that the customer is lost too. Using a strategic plan to get back customers to complete the purchase is crucial to retain them for a longer time and to recover lost sales.
@@ -54,7 +54,7 @@ Shopping without the need or 'just browsing' is one reason that most shoppers ha
 
 The below image shows cart abandonment reasons for a group of consumers studied in 2019 by Baymard Institute.
 
-![reasons for cart abandonment](../images/how-to-recover-abandoned-checkouts-in-woocommerce/reasons-for-abandonment-during-checkout-2019-salecycle.png)
+![reasons for cart abandonment](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/reasons-for-abandonment-during-checkout-2019-salecycle.png)
 
 -   Extra costs too high
 
@@ -111,7 +111,7 @@ It is vital to calculate the cart abandonment rate for your store and to know in
 
 Take a look at the industry-specific cart abandonment rates collected by Statista in 2018.
 
-![cart abandonment rate](../images/how-to-recover-abandoned-checkouts-in-woocommerce/abandonment_by_industry.png)
+![cart abandonment rate](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/abandonment_by_industry.png)
 
 
 The cart abandonment rates vary across industries with the highest for Travel and the lowest for Fashion. This shows that no one is spared. Cart abandonment rate haunts every industry and you are not alone.
@@ -248,7 +248,7 @@ You can also download Retainful manually from the WordPress plugin repository <l
 
 Then, upload the plugin and activate it on your WordPress website.
 
-![Retainful Dashboard](../images/how-to-recover-abandoned-checkouts-in-woocommerce/pluginSearch.png)
+![Retainful Dashboard](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/pluginSearch.png)
 
 
 ---
@@ -297,7 +297,7 @@ This 'Cart' page of Retainful will tell you what the current situation is and wi
 
 <br>
 
-![Checking for abandoned carts](../images/how-to-recover-abandoned-checkouts-in-woocommerce/1-checking-for-abandoned-carts.png)
+![Checking for abandoned carts](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/1-checking-for-abandoned-carts.png)
 
 <br>
 
@@ -314,7 +314,7 @@ Let's divide the page into three portions - basic, main, and secondary settings.
 
 <br>
 
-![Basic Settings](../images/how-to-recover-abandoned-checkouts-in-woocommerce/2-configuration-basic-settings.png) 
+![Basic Settings](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/2-configuration-basic-settings.png) 
 
 <br>
 
@@ -334,7 +334,7 @@ The links to the social handles of the eCommerce brand can be mentioned here. Wi
 
 <br>
 
-![Main Settings](../images/how-to-recover-abandoned-checkouts-in-woocommerce/3-configuration-main-settings.png)
+![Main Settings](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/3-configuration-main-settings.png)
 
 The following details must be given importance.
 
@@ -353,7 +353,7 @@ This helps to identify users who have shopped online from two or more devices du
 **Secondary Settings**
 <br>
 
-![Secondary Settings](../images/how-to-recover-abandoned-checkouts-in-woocommerce/4-configuration-secondary-settings.png)
+![Secondary Settings](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/4-configuration-secondary-settings.png)
 
 **Danger Zone**
 
@@ -396,7 +396,7 @@ The 'Email Templates' tab is open by default.
 
 <br>
 
-![How to create an email template](../images/how-to-recover-abandoned-checkouts-in-woocommerce/5.png)
+![How to create an email template](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/5.png)
 
 <br>
 
@@ -415,7 +415,7 @@ The very next step is to add an email template. Click on the 'Add Email' CTA but
 <br>
 
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/6.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/6.png)
 
 <br>
 
@@ -425,7 +425,7 @@ The following window pops up.
 <br>
 
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/7.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/7.png)
 
 <br>
 
@@ -436,7 +436,7 @@ On choosing a template, you are taken to a page where the abandoned cart emails 
 
 <br>
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/8.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/8.png)
 
 <br>
 
@@ -449,7 +449,7 @@ This is the first half of the page.
 <br>
 
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/9.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/9.png)
 
 <br>
 
@@ -475,7 +475,7 @@ Then, comes the second part of the page - a drag and drop email builder.
 
 <br>
 
-![Active/Pause Radio Buttons](../images/how-to-recover-abandoned-checkouts-in-woocommerce/10.png)
+![Active/Pause Radio Buttons](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/10.png)
 
 <br>
 
@@ -513,7 +513,7 @@ Enter the email subject and other details.
 
 <br>
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/11.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/11.png)
 
 <br>
 
@@ -527,7 +527,7 @@ Keep it simple for the first email. Just plain text with an enticing image - all
 
 <br>
 
-![Email body](../images/how-to-recover-abandoned-checkouts-in-woocommerce/12th.png)
+![Email body](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/12th.png)
 
 <br>
 
@@ -561,7 +561,7 @@ Save & Close the template created and you will be taken back to the 'Email Templ
 
 <br>
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/13.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/13.png)
 
 <br>
 
@@ -578,7 +578,7 @@ The details of the WooCommerce follow email template are given below.
 <br>
 
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/14.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/14.png)
 
 <br>
 
@@ -617,7 +617,7 @@ Save & Close the email. Now, the 'Email Templates' tab will look like this with 
 
 <br>
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/15.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/15.png)
 
 <br>
 
@@ -632,7 +632,7 @@ Here are the details.
 
 <br>
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/16.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/16.png)
 
 <br>
 
@@ -658,7 +658,7 @@ The 'Email Templates' tab after creating the 3 emails will look like this
 
 <br>
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/17.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/17.png)
 
 <br>
 
@@ -722,7 +722,7 @@ Take a look at some abandoned cart email examples.
 
 <br>
 
-![Email from Kate Spade](../images/how-to-recover-abandoned-checkouts-in-woocommerce/kate-spade-woocommerce.jpg)
+![Email from Kate Spade](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/kate-spade-woocommerce.jpg)
 
 <br>
 
@@ -743,7 +743,7 @@ All of the phrases above are the ones that catch the attention. One aspect to be
 
 <br>
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/Chubbies-Ecommerce-Email-Marketing-Sendlane.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/Chubbies-Ecommerce-Email-Marketing-Sendlane.png)
 
 <br>
 
@@ -767,7 +767,7 @@ Most people do follow this because sending the first email any sooner might irk 
 
 <br>
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/rejoiner.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/rejoiner.png)
 
 <br>
 
@@ -822,7 +822,7 @@ When there is cart abandonment activity, the related numbers will keep increasin
 <br>
 
 
-![](../images/how-to-recover-abandoned-checkouts-in-woocommerce/monitoring.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-recover-abandoned-checkouts-in-woocommerce/monitoring.png)
 
 <br>
 

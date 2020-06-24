@@ -3,7 +3,7 @@ title: "5 Successful ways to increase customer retention in your eCommerce Store
 path: "/blog/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store"
 description: "The importance of customer retention is slowly unearthing as the competition to reach the top of the market upsurged. To give you a heads up, we looked into this impeccable marketing strategy and found out the 5 best ways to increase customer retention in your store."
 author: "Joel Platini"
-date: "2020-01-24"
+date: "2020-02-08"
 image: "../images/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store.png"
 thumbnail: "../images/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store.png"
 keywords: "why is customer retention important, importance of customer loyalty, reasons for customer retention, customer retention strategies"
@@ -76,7 +76,7 @@ Customers flock to your store when they are in need of something, once they are 
 
 <br>
 
-![](../images/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/1-next-order-coupons.svg)
+![](https://raw.githubusercontent.com/retainful/site-images/master/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/1-next-order-coupons.svg)
 
 Acknowledge the importance of customer's loyalty and encourage them with a discount for their next purchase, this will motivate them to return to your store to avail that discount. Thus you are effectively driving repeated purchases and also customer retention is achieved when they return to purchase again.
 
@@ -110,7 +110,7 @@ Every major eCommerce store around the world is using WooCommerce loyalty progra
 
 <br>
 
-![](../images/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/8-Loyalty-plugin.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/5-successful-ways-to-increase-customer-retention-in-your-ecommerce-store/8-Loyalty-plugin.png)
 
 <br>
 

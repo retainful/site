@@ -62,7 +62,7 @@ Unleash the real power of discounts this Black Friday. Because discounts can wor
 
 Run periodical offers for a limited time span. Also, keep a timer that indicates how much time is left for the offer. The ticking of the timer will certainly create Fear of missing out(FOMO).
 
-![](../images/How-to-boost-your-online-stores-revenue-during-Black-Friday-season/1-FOMO-countdown-timer.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/How-to-boost-your-online-stores-revenue-during-Black-Friday-season/1-FOMO-countdown-timer.png)
 
 Then provide a shorter offer for people who have missed out on the first hourly deal and create a sense of urgency.
 
@@ -96,7 +96,7 @@ Give suggestions by writing blogs, social media posts, and gift guides like the 
 
 <br>
 
-![](../images/How-to-boost-your-online-stores-revenue-during-Black-Friday-season/2-Black-friday-SEO-blog-ideas.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/How-to-boost-your-online-stores-revenue-during-Black-Friday-season/2-Black-friday-SEO-blog-ideas.png)
 
 <br>
 
@@ -136,7 +136,7 @@ The unpaid organic ways of promotions are systematic and take a lot of time and 
 
 <br>
 
-![](../images/How-to-boost-your-online-stores-revenue-during-Black-Friday-season/3-Affiliate-program.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/How-to-boost-your-online-stores-revenue-during-Black-Friday-season/3-Affiliate-program.png)
 
 <br>
 Partnership programs are one of the easiest ways for increasing customers. By such partnership programs and cross-promotional activities, you get to be recognized by your partners’ customers and your collaborator also gets the same from you. Thereby cross-promoting is a calculated move yet an inexpensive way to promote your sales.

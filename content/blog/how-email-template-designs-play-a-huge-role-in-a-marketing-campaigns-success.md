@@ -4,7 +4,7 @@ path: "/blog/how-email-template-designs-play-a-huge-role-in-a-marketing-campaign
 description: "Responsive email design is crucial in achieving formidable success in your email marketing campaign. We did some digging around to bring you some of the best email design practices pursued by businesses around the world."
 author: "Joel Platini"
 keywords: "how to layout an email, email designs, how to design an email, email design best practices"
-date: "2020-01-28"
+date: "2020-02-18"
 image: "../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/emai-template.png"
 thumbnail: "../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/emai-template.png"
 category: "marketing"
@@ -81,7 +81,7 @@ Let's take a peek at retainful's <link-text url="https://www.retainful.com/aband
 
 <br/>
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/1.Determine-your-intention.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/1.Determine-your-intention.png)
 
 Customers should be able to interpret your intention with ease and only then they will respond to your intentions. An email with an undetermined intention will make it hard for them to understand and they will just ignore it.
 
@@ -89,7 +89,7 @@ Customers should be able to interpret your intention with ease and only then the
 
 The subject line gives an identity to an email, it is a concise statement that grabs the attention of your customers, without a compelling subject an email is pointless. A subject line should be crafted precisely in a way it entices the customer to open it and continue reading.
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/2Subject-line.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/2Subject-line.png)
 
 
 Always remember, when you use too many CAPS, overcrowded punctuations, or certain sentences will mark your content as spam so use your words wisely while drafting the subject.
@@ -124,7 +124,7 @@ You don't know how your customers' reading skills are, using complicated words w
 
 Always avoid using obscure or vague sender names, preheaders and complicated subject lines this will fluster your customers. They might end up deleting your email or marking it as spammy content.
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/3Be-transparent.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/3Be-transparent.png)
 
 Be transparent with your intention to make it easier for your customers to interpret what you are trying to convey and what they are going to get out of this email. Transparency in your email will foster better customer engagement and increase your email click-through rate.
 
@@ -134,7 +134,7 @@ Emails are not essays, to show off your writing skills, draft them with utmost p
 
 A recent study says that emails just have a mere 1.1 seconds to grab the audience's attention, so an essay is not a great idea, and that is why it is essential for an email to be precise and upfront. Draft an email that gives your customers what they need right away, this will make them feel that you respect their time which increases your email subscriber retainment.
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/4precise-content.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/4precise-content.png)
 
 The main motive of a marketing email is to increase click-through rates so there is no need to delay the process with lengthy essay type emails. These emails will fluster your audience and cause them to delete the email or mark it as 'spam'.
 
@@ -142,7 +142,7 @@ The main motive of a marketing email is to increase click-through rates so there
 
 As we mentioned earlier, as soon as the customer opens the email he/she should be able to recognize that it is from your organization. Emails should reflect your brand's identity so people will know it's from you just by gazing at it without even looking at the sender.
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/5brand-proximity.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/5brand-proximity.png)
 
 Here are some tips to keep your email in proximity to your brand,
 
@@ -158,7 +158,7 @@ Designing your email similar to your brand's identity is one of the best respons
 
 When you draft an email only with text content it will look monotonous and will fail to capture your customer's attention. The prime motive of email design is to keep your customers interested and engaged in your message.
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/6visually-pleasing.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/6visually-pleasing.png)
 
 Adding images or gifs is one of the best email marketing design practices which will make your email visually pleasing to your customers and this will keep them interested in your message. Incorporating images and gifs in your email is effective to grab your audience's attention and to break up the text monotonicity.
 
@@ -170,7 +170,7 @@ Using Gifs and animation in your email will make the customers understand your i
 
 Email personalization is the activity of using customer data to draft a personalized email to a specific recipient. When you draft an email to a recipient, it feels personalized, this strategy will help you to develop a better relationship with your customer.
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/7personalized.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/7personalized.png)
 
 Based on a specific customer's travel with your store you can get to know their shopping behavior and send a timely personalized email to them. These types of email campaigns will make your customers feel that these emails were specifically tailored to them.
 
@@ -189,7 +189,7 @@ Having a CTA button rather than a link increased the click-through rates by 28%,
 3.  CTAs should be short, under 3 or 4 words.
     
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/8CTA.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/8CTA.png)
 
  
 Even though CTAs are only a small part of your email template, they are the most important elements that a marketing email must need. Because it redirects customers from their email to your website thus increasing your traffic and conversion rate.
@@ -198,7 +198,7 @@ Even though CTAs are only a small part of your email template, they are the most
 
 White space or negative space is the space given between each element in a template design that will help the reader to interpret the content with ease.
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/9white-space.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/9white-space.png)
 
 The one question that comes before designing an email is, how to layout an email? When you design an email template by adding more elements near to each other without any gaps it will look clustered and the reader will just skip it without reading it. So, you should always optimize your layout with white space so it looks neat and simple.
 
@@ -216,7 +216,7 @@ Customers may access your email from any device, your email design template shou
 
 A recent survey mobile email design suggests that emails should be optimized for mobile initially. Because 42% of emails are read on smartphones, followed by 40% on webmail, and desktop accounts for 18%. So failing to design the email for mobile view initially will cause a dip in response rates.
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/10responsive-design.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/10responsive-design.png)
 
 Also while designing for mobile and desktops you should follow the best email template practices to make sure they are optimized for touchscreens. When the usability is increased then customers will feel comfortable performing an action directly from the email.
 
@@ -224,7 +224,7 @@ Also while designing for mobile and desktops you should follow the best email te
 
 Email marketing is effective in driving more conversions to your store. At some point, your customer may want to leave due to various reasons making your email no longer useful for them. So, allow them to quit your service on a high note, by providing an unsubscribe button.
 
-![](../images/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/11unsubscribe.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-email-template-designs-play-a-huge-role-in-a-marketing-campaigns-success/11unsubscribe.png)
 
 Every marketing email should be designed with an unsubscribe button, which is easily visible and the process of unsubscribing must be simple as it looks. Also, having an unsubscribe link will avoid your email from being marked as spam.
 

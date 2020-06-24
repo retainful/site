@@ -31,7 +31,7 @@ ___
 
 <h3>1. <link-text url="https://wordpress.org/plugins/retainful-next-order-coupon-for-woocommerce/" target="_blank" rel="noopener">Retainful</link-text>- WooCommerce abandoned cart recovery emails and next order coupons </h3><br>
 
-![Retainful](../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/retainful.png)
+![Retainful](https://raw.githubusercontent.com/retainful/site-images/master/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/retainful.png)
 
 RetainFul is a very efficient plugin that helps you in recovering abandoned carts for your WooCommerce stores and successfully transforming them into sales conversions with a single click.  
 
@@ -70,7 +70,7 @@ A complete package constructed carefully with all the necessary features one is 
 
 <h3> 2. <link-text url="http://campaignrabbit.com" target="_blank" rel="noopener">CampaignRabbit</link-text></h3></br> 
 
-![CampaignRabbit](../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/campaignRabbit.png)
+![CampaignRabbit](https://raw.githubusercontent.com/retainful/site-images/master/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/campaignRabbit.png)
 
 Campaign Rabbit integrates incoherently with successful e-commerce platforms like WooCommerce and Shopify. How it helps with cart recovery be the question? The reply would be through one of the most efficient strategies of the coming age. 
 Wondering what that might be? Email marketing undoubtedly. 
@@ -102,7 +102,7 @@ Campaign rabbit quotes, **"Pay as you grow"**. Much true to their quote, the pri
     
 <h3>3.<link-text url="https://wordpress.org/plugins/woocommerce-abandoned-cart/" target="_blank" rel="noopener"> Abandoned cart lite for WooCommerce</link-text></h3><br> 
 
-![Abandoned cart lite for WooCommerce](../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/abandoned-cart-lite-for-woocommerce.png)
+![Abandoned cart lite for WooCommerce](https://raw.githubusercontent.com/retainful/site-images/master/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/abandoned-cart-lite-for-woocommerce.png)
 
 A purchase so close yet so far? It’s just a step away from checkout but the products are left abandoned in the cart. We have to accept that we can't cut down cart abandonment completely yet, there are ways to recover abandoned carts and build grow a healthy customer relationship.
  
@@ -123,7 +123,7 @@ Free for the lite version and Pro for single WP site is $119/ year
 
 <h3>4. <link-text url="https://wordpress.org/plugins/woo-save-abandoned-carts/" target="_blank" rel="noopener nofollow"> Save abandoned carts - WooCommerce live to check out field capture</link-text></h3><br>
 
-![Save abandoned carts - WooCommerce live to check out field capture](../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/save-abandoned-carts-woocommerce-live-checkout-field-capture.png)
+![Save abandoned carts - WooCommerce live to check out field capture](https://raw.githubusercontent.com/retainful/site-images/master/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/save-abandoned-carts-woocommerce-live-checkout-field-capture.png)
 
 WooCommerce live checkout captures and saves individual activities of customers. You can check who abandons the cart without making the purchase.
 
@@ -148,7 +148,7 @@ WooCommerce live checkout captures and saves individual activities of customers.
 <h3>5. <link-text url="https://wordpress.org/plugins/yith-woocommerce-recover-abandoned-cart/" target="_blank" rel="noopener nofollow"> YITH - WooCommerce Recover abandoned carts</link-text></h3>
 <br>
 
-![YITH - WooCommerce Recover abandoned carts](../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/yith-woocommerce-recover-abandoned-cart.png)
+![YITH - WooCommerce Recover abandoned carts](https://raw.githubusercontent.com/retainful/site-images/master/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/yith-woocommerce-recover-abandoned-cart.png)
 
 What this plugin does?
 
@@ -171,7 +171,7 @@ A bit expensive compared with the rest and the pricing goes this way
 <h3>6. <link-text url="https://wordpress.org/plugins/yith-woocommerce-recover-abandoned-cart/" target="_blank" rel="noopener nofollow"> Abandoned cart reports for WooCommerce </link-text></h3>
 <br>
 
-![Abandoned cart reports for WooCommerce](../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/abandoned-cart-reports-for-woocommerce.png)
+![Abandoned cart reports for WooCommerce](https://raw.githubusercontent.com/retainful/site-images/master/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/abandoned-cart-reports-for-woocommerce.png)
 
 Before we begin, it is important for you to know that<link-text url="https://optinmonster.com/cart-abandonment-statistics/" target="_blank" rel="noopener nofollow"> 76 out of 100 shoppers are just walking – clicking, rather – away from their carts.</link-text> 
 
@@ -192,7 +192,7 @@ You can now discover the number of carts that are abandoned. Also, the plugin he
 <h3> 7. <link-text url="https://wordpress.org/plugins/cart-recovery/" target="_blank" rel="noopener nofollow"> Cart Recovery for Wordpress</link-text></h3>
 <br>
 
-![Cart Recovery for Wordpress](../images/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/cart-recovery-for-wordpress.png)
+![Cart Recovery for Wordpress](https://raw.githubusercontent.com/retainful/site-images/master/top-7-abandoned-cart-recovery-plugins-for-your-woocommerce-store-images/cart-recovery-for-wordpress.png)
 
 
 Cart recovery brings customers who abandon carts to your Wordpress store. This plugin holds integration with Wordpress GDPR compliance.

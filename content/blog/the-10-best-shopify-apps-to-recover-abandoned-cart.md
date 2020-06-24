@@ -7,7 +7,7 @@ keywords: "shopify abandoned cart app, abandoned checkout shopify app, how to se
 author: "Sharon Thomas"
 image:  "../images/the-10-best-shopify-apps-to-recover-abandoned-cart/the-10-best-shopify-apps-to-recover-abandoned-cart.png"
 thumbnail: "../images/the-10-best-shopify-apps-to-recover-abandoned-cart/the-10-best-shopify-apps-to-recover-abandoned-cart.png"
-category: "Shopify"
+category: "shopify"
 ---
 
 Have you ever come across a Shopify store with no record of abandoned carts? Silly question, is it? It is well known that there is no eCommerce store with zero cart abandonment rate. At least, it does give a head start to the topic right. 🙂
@@ -25,7 +25,7 @@ Check them out.
 ## Recart FB Messenger Marketing
 <br>
 
-![Recart](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/recart.png)
+![Recart](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/recart.png)
 
  
 More than 2 billion people use Facebook every month and this is why Recart has chosen Facebook as the best medium to recover lost sales and revenue. The email has taken a back seat according to Recart and FB Messenger marketing is the future where people spend most of the time rather than sending and reading emails.
@@ -82,7 +82,7 @@ And so on...
 ## Retainful
 <br>
 
-![Retainful](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/retainful.png)
+![Retainful](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/retainful.png)
 
 
 Retainful is the best free shopping cart recovery plugin in the market for your Shopify store. 1000+ companies who trust Retainful can never go wrong. It is with a reason that the app has gained trust.
@@ -134,7 +134,7 @@ Pro - $69 per year
 
 <br>
 
-![Abandoned Cart Recovery by Marsello](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/abandoned-cart-recovery-by-marsello.png)
+![Abandoned Cart Recovery by Marsello](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/abandoned-cart-recovery-by-marsello.png)
 
 
 Shopify customers claim that the app simply works on its own after the initial customization and this is what is called automated abandoned cart recovery. This is what every eCommerce store owner needs - a dedicated app that truly pays off.
@@ -176,7 +176,7 @@ $9 per month
 ## Recapture Abandoned Carts 
 <br>
 
-![Recapture Abandoned Carts](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/recapture-abandoned-carts.png)
+![Recapture Abandoned Carts](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/recapture-abandoned-carts.png)
 
 Wicker Central is known for high-end outdoor wicker furniture and so the worth of a single abandoned cart can easily go beyond $1,000. With the help of Recapture, the company could recover an average of $72 per abandoned cart email sent.
 
@@ -209,7 +209,7 @@ Recapture provides the following
 -   Live cart feed with four sections - active, abandoned, recapturable, and converted. The live cart feed is unique with information about the customer (name and email), time, and product image if available.
 
 
-![live-cart-feed](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/recapture-live-cart-feed.png)
+![live-cart-feed](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/recapture-live-cart-feed.png)
 
   
 <h3>What customers say?</h3>
@@ -233,7 +233,7 @@ Highest - $399 per month > $20,000 recovered sales.
 ## Moonmail Recover Checkouts 
 <br>
 
-![Moonmail Recover Checkouts](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/moonmail-recover-checkouts.png)
+![Moonmail Recover Checkouts](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/moonmail-recover-checkouts.png)
 
 
 Let me be frank here. This app is nothing like the out-of-the-world type. It is just a basic abandoned cart recovery app for Shopify stores with sole focus on a single feature - abandoned cart emails.
@@ -279,7 +279,7 @@ The pricing is based on the number of emails you might want to send out in a mon
 ## Checkoutify 
 <br>
 
-![Checkoutify](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/checkoutify.png)
+![Checkoutify](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/checkoutify.png)
 
 Emails do top the charts when it comes to cart recovery but push notifications are not bad either. Checkoutify combines the power of these two to bring back customers. With very few but all positive reviews and a queer name, this app just could not be ignored from the lot in the Shopify store.
 
@@ -401,7 +401,7 @@ The plan is of five types based on extra sales made.
 ## CartKit
 <br>
 
-![CartKit](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/cartkit.png)
+![CartKit](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/cartkit.png)
 
   
 CartKit, previously named Consistent Cart, is one of the best cart abandonment Shopify apps. The app claims to be a 10-in-1 tool to support multi-channel marketing rather than getting sidelined with just one marketing tactic.
@@ -459,7 +459,7 @@ Pro plan - $29 per month + charges based on extra sales
 ## PushOwl Web Push Notifications
 <br>
 
-![PushOwl Web Push Notifications](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/pushowl.png)
+![PushOwl Web Push Notifications](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/pushowl.png)
 
 According to PushOwl, push notifications generate more conversions than emails. This cannot be denied because the success rate and reach of this app is living proof.
 
@@ -515,7 +515,7 @@ P.S. The free plan does not include the push notification feature for abandoned 
 
 <br>
 
-![Kit Karts](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/kitkarts.png)
+![Kit Karts](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/kitkarts.png)
 
   
 
@@ -549,7 +549,7 @@ $4.99 per month
 
 <br>
 
-![Abandoned Cart Reminder by SpurIT](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/abandoned-cart-reminder-spurIT.jpg)
+![Abandoned Cart Reminder by SpurIT](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/abandoned-cart-reminder-spurIT.jpg)
 
  
 This app by SpurIT was a random choice at first to be included in the list. After giving it a read, I felt that it deserves to be here for its uniqueness. Kudos to the brains behind it.
@@ -572,7 +572,7 @@ When a person moves on to browse in another tab, the tab where the visitor aband
 
 On return, the visitor finds a bar which displays a second message to complete the purchase. The messages displayed here usually creates a sense of urgency to act fast.
 
-![The Bar](../images/the-10-best-shopify-apps-to-recover-abandoned-cart/abandoned-cart-reminder-bar-message.jpg)
+![The Bar](https://raw.githubusercontent.com/retainful/site-images/master/the-10-best-shopify-apps-to-recover-abandoned-cart/abandoned-cart-reminder-bar-message.jpg)
 
 
 <h3>Highlights</h3>

@@ -42,7 +42,7 @@ ___
 
 To check the carts that are being abandoned, you’ll be needing a tool that’s robust, reliable and completely yours. An App like Retainful could be doing the job.
 
-![](../images/how-to-check-abandoned-carts-in-woocommerce/retainful.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-check-abandoned-carts-in-woocommerce/retainful.png)
 
 <br>
 
@@ -57,7 +57,7 @@ Retainful comes with power-packed features and allows you to check abandoned car
 2.  Install and Active the Retainful Plugin.
     
 
-![](../images/how-to-check-abandoned-carts-in-woocommerce/retainfulDashboard.jpeg)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-check-abandoned-carts-in-woocommerce/retainfulDashboard.jpeg)
 
 <br>
 
@@ -81,7 +81,7 @@ Once installed, you should be deciding as to when a cart should be considered as
 
   
 
-![](../images/how-to-check-abandoned-carts-in-woocommerce/abandonedCarts.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-check-abandoned-carts-in-woocommerce/abandonedCarts.png)
 
 <br>
 
@@ -100,7 +100,7 @@ All you have to do is,
 -   Toggle to “Abandoned Carts” in the “Filter By” section.
     
 
-![](../images/how-to-check-abandoned-carts-in-woocommerce/dashboard.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/how-to-check-abandoned-carts-in-woocommerce/dashboard.png)
 
 <br>
 

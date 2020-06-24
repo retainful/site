@@ -1,12 +1,12 @@
 ---
 title: "Step by step guide to Launch a Shopify Store in 2020"
 path: "/blog/step-by-step-guide-to-launch-a-shopify-store"
-date: "2020-03-09"
+date: "2020-04-20"
 description: "Shopify is a powerful eCommerce platform in which you can create and launch your online store within few mins. In this article, we've created a guide on how to set up a Shopify store, and we've compiled a Shopify store checklist to help you achieve a seamless launch."
 image: "../images/step-by-step-guide-to-launch-a-shopify-store/step-by-step-guide-to-launch-a-shopify-store.png"
 thumbnail: "../images/step-by-step-guide-to-launch-a-shopify-store/step-by-step-guide-to-launch-a-shopify-store.png"
 author: "Joel Platini"
-category: "Shopify"
+category: "shopify"
 keywords: "Open Shopify store, Shopify launch checklist, eCommerce store checklist, Shopify setup checklist, Shopify store checklist, eCommerce site checklist"
 ---
 
@@ -66,7 +66,7 @@ You might be wondering, how can I find a proper name?
 
 Check for name generator tools; these tools will provide you with multiple suggestions and make your process simple.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/1-Domain-name.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/1-Domain-name.png)
 
 <br>
 
@@ -78,7 +78,7 @@ Now, you have to sign up for a Shopify account. Navigate to Shopify → Start fr
 
 Enter your email address and password. While mentioning the store name, make sure you use the same name that you used as your domain name.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/2-Domain-name.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/2-Domain-name.png)
 
 See, that’s how easy it is to create a Shopify account, it takes a mere three steps. These details are essential for your payment processes, so play it wisely.
 
@@ -90,7 +90,7 @@ There are plenty of tools available in the market to design a logo, but let’s 
 
 Introducing Hatchful,
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/3-LOGO-maker.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/3-LOGO-maker.png)
 
 Hatchful allows you to create professional logos for your business effortlessly irrespective of your design experience.
 
@@ -116,17 +116,17 @@ Organizing these components after uploading them to your store is a tedious job.
 
 Step 1 - Go to your Shopify admin, navigate to Products → all products
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/4-Add-products.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/4-Add-products.png)
 
 Step 2 - You’ll land on the product page, click ‘add product.’
 
 Step 3 - Mention the product’s title and some additional information.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/5.-Add-products-title.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/5.-Add-products-title.png)
 
 Step 4 - Click ‘Save’
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/6-Add-products-save.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/6-Add-products-save.png)
 
 Yes, just four steps, that’s how easy it is to add a product to your Shopify store.
 
@@ -143,7 +143,7 @@ Step 2 - Select ‘Add product,’ enter the product details.
 Step 3 - Scroll down to the pricing section and set your sale price.
 
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/7-Product-price.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/7-Product-price.png)
 
 Step 4 - Click ‘Save’
 
@@ -161,7 +161,7 @@ Step 1 - Navigate to Products → All products
 
 Step 2 - Under the Add product section, you can add the product and description.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/8-Product-description.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/8-Product-description.png)
 
 Here are a few tips for writing the best product description,
 
@@ -185,7 +185,7 @@ A best practice is to take your product photos by yourself using a digital camer
 
 Around 60% of people look for at least 3 to 4 images per product, before they make a decision.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/9-product-images.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/9-product-images.png)
 
 This chart will show you how much product images are necessary for your store.
 
@@ -213,7 +213,7 @@ Step 1 - Navigate to Product → all products
 
 Step 2 - Under the ‘media’ section, click ‘add file’ to upload the images.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/10-Product-images-media.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/10-Product-images-media.png)
 
 Add more product images to make your customers more confident about purchasing the product.
 
@@ -223,7 +223,7 @@ Digital products like ebooks, audiobooks don’t need shipping, so you have to u
 
 Check it only when you are adding a physical product.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/11-shipping1.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/11-shipping1.png)
 
 For physical products, you have to mention the weight of the products.
 
@@ -235,11 +235,11 @@ Step 1 - Navigate to Settings → Shipping → General shipping settings.
 
 Step 2 - Click ‘create shipping zone,’ enter the zone name, and choose ‘rest of the world’.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/12-Shipping.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/12-Shipping.png)
 
 Step 3 - Now that your Shipping zone is created, you have to specify the rate of shipping. Click ‘Add rate,’ and specify the price.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/13-Shipping-free.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/13-Shipping-free.png)
 
 In the case of free shipping, the price is free.
 
@@ -259,13 +259,13 @@ To keep your store safe and secure, it’s not possible to add videos, audios, o
 
 Navigate to Settings → Legal
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/14-Legal-pages.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/14-Legal-pages.png)
 
 ### Remove your password protection
 
 Once you’ve customized all the components in your store, you need to open it for the public.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/15-password-protection.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/15-password-protection.png)
 
 By default, stores are protected by password, remove the password, and make your store open for the customers to visit.
 
@@ -275,7 +275,7 @@ Products, product images, and all other components have been added to your store
 
 It’s easy to miss a crucial component because of negligence, and it will cause you a lot of troubles during your launch.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/16-checklist.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/16-checklist.png)
 
 That is why a Shopify launch checklist is essential before you open Shopify store. An eCommerce store checklist can streamline your launch process without any errors.
 
@@ -297,7 +297,7 @@ You may wonder, <link-text url="https://blog.hubspot.com/sales/channel-sales" ta
 
 A survey from Harvard shows that around 7% of people prefer buying online; the customer base is rapidly turning multi-channels; approximately 73% of customers use multiple channels to complete a single purchase.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/17-Sales-channels.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/17-Sales-channels.png)
 
 Do you want the benefits of multi-channel retailing in your store, then you’ve to add necessary sales channels to your store.
 
@@ -312,7 +312,7 @@ Domain name lets people recognize your brand, so choose it wisely, but don’t f
 With a name generator, you can do a domain name search to find a suitable name, and when you find a name that isn’t a trademark of any other business, you can purchase the domain directly via Spotify.
 
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/18-Domain-name.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/18-Domain-name.png)
 
 If you can’t find the right domain name that suits your store, you can try out a few top-level-domains. The .com part is the tld, but you could’ve seen some variations like .gov or .in, etc.
 
@@ -332,12 +332,12 @@ Step 2 - In the ‘option 1’ box, specify the size of the product and click ad
 
 Step 3 - This will open ‘option 2’ where you can mention the color.
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/19-product-variant.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/19-product-variant.png)
 
 Step 4 - You can add the prices for every variant according to size, color, and material.
 
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/20-product-variant-price.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/20-product-variant-price.png)
 
 Step 5 - Click ‘Save’
 
@@ -352,7 +352,7 @@ You should check your shipping rates as per your Shopify store checklist before 
 In some cases, you can also use your shipping rates as a marketing tool by providing free shipping to your customers.
 
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/21-tax.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/21-tax.png)
 
 Your customers can access your products from any part of the world. So you need to make sure the products are available inclusive of taxes. You can hire an accountant if you are not sure about the taxes.
 
@@ -385,7 +385,7 @@ You can add email marketing apps like seguno to send customized emails to your c
     
 -   Shipping and other notification emails
     
-![](../images/step-by-step-guide-to-launch-a-shopify-store/22-Email-settings.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/22-Email-settings.png)
 
 <br>
 
@@ -432,7 +432,7 @@ Monitoring the performance of your store and reviewing the insights will ensure 
 Shopify has an in-built analytics tool that can help you measure your metrics. With this tool, you can get details on all the basics, including the return customers rate, store conversion rate, average order value, and total sales.
 
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/23-stats.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/23-stats.png)
 
 <br>
 
@@ -448,7 +448,7 @@ Shopify allows you to create a marketing campaign to promote your business with 
 
 <br>
 
-![](../images/step-by-step-guide-to-launch-a-shopify-store/24-marketing.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/step-by-step-guide-to-launch-a-shopify-store/24-marketing.png)
 
 Marketing campaigns in Shopify can help you create social media ads to boost up the chance of a sale and increase your brand awareness.
 

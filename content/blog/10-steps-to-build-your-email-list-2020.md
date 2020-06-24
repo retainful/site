@@ -3,7 +3,7 @@ title: "10 Steps To Build Your Email List 2020"
 path: "/blog/10-steps-to-build-your-email-list-2020"
 description: "The craft of email list building is a tough nut to crack when you are new to it but with some knowledge, you can conquer how to build your email list for the year 2020. The 10 tactics detailed in this post with examples will show you the way forward."
 author: "Sharon Thomas"
-date: "2020-01-18"
+date: "2020-01-28"
 image: "../images/10-steps-to-build-your-email-list-2020/10-steps-to-build-your-email-list-2020.png"
 thumbnail: "../images/10-steps-to-build-your-email-list-2020/10-steps-to-build-your-email-list-2020.png"
 category: "marketing"
@@ -99,7 +99,7 @@ You need to be creative to get out of this maze. Try something new and see signu
 
 Here is an exit intent popup example from Shopify Plus.  
 
-![](../images/10-steps-to-build-your-email-list-2020/1-CTA-copy-example-in-exit-intent-popup-shopify-plus.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/1-CTA-copy-example-in-exit-intent-popup-shopify-plus.png)
 
  
 Get the truth, not "tips".
@@ -133,7 +133,7 @@ It's raining discounts and customers are always after it. Give them one to sign 
 
   
 
-![](../images/10-steps-to-build-your-email-list-2020/2-incentive-eaxmple-in-welcome-popup.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/2-incentive-eaxmple-in-welcome-popup.png)
 
 The perfect example of an incentive for email list building is shown here by Beauties. The incentive grabs the attention at first sight and then the rest. Only if the CTA had been a better one.
 
@@ -141,7 +141,7 @@ The truth is that customers will not bother about the CTA copy in this case beca
 
 Exclusive content alone can drive sign ups too, like this exit intent popup from Invesp.
 
-![](../images/10-steps-to-build-your-email-list-2020/3-exclusive-content-example-in-exit-intent-popup.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/3-exclusive-content-example-in-exit-intent-popup.png)
 
 There is no monetary benefit here but the immediate access to the website navigation guide makes it work.
 
@@ -154,7 +154,7 @@ There is no monetary benefit here but the immediate access to the website naviga
 Numbers are a favorite among customers. Use them in your social proof to increase traction with email list building. Here is an example from OptinMonster.
 
 
-![](../images/10-steps-to-build-your-email-list-2020/4-social-proof-example-in-exit-intent-popup-optinmonster.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/4-social-proof-example-in-exit-intent-popup-optinmonster.png)
 
 A case study of their client is used here as social proof to create free email lists. The number of email subscribers and the percentage of conversion is highlighted to show the result produced. The data from the case study itself testifies for the value of signing up.
 
@@ -182,7 +182,7 @@ Start with Facebook because it is, without a doubt, the market leader for connec
 
 Here is an example of a Facebook post to build an email list.
 
-![](../images/10-steps-to-build-your-email-list-2020/5-Facebook-email-signup-post-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/5-Facebook-email-signup-post-example.png)
 
 This post by Asana uses social proof to stress on the effectiveness of the app to organize work. It uses a simple sign up CTA but the ad copy (simple, clear-cut) makes it a compelling one to subscribe.
 
@@ -194,7 +194,7 @@ But it does not stop there.
 
 A quiz or survey form also doubles up as an email sign up form. This can be used to build an email list and to grow it steadily. Checkout this quiz from Neil Patel.
 
-![](../images/10-steps-to-build-your-email-list-2020/6-quiz-popup-neil-patel.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/6-quiz-popup-neil-patel.png)
 
 This pop up comes up within minutes into the UberSuggest page by Neil Patel. It addresses the issue of building traffic and he says he can make it happen in less than 30 days.
 
@@ -203,13 +203,13 @@ One might think that the quiz might be time consuming for something this serious
 On clicking 'Start', the quiz screen opens up.
 
  
-![](../images/10-steps-to-build-your-email-list-2020/7-neil-patel-quiz-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/7-neil-patel-quiz-page.png)
 
 It has 10 questions about current traffic, use of google analytics, number of blog posts published monthly, SEO, paid ads, revenue generated, and marketing. The information is also assured to be confidential.
 
 After the 10th question, this comes up.
 
-![](../images/10-steps-to-build-your-email-list-2020/8-email-signup-form-neil-patel.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/8-email-signup-form-neil-patel.png)
 
 The email address is collected to send the detailed analysis and step-by-step guide based on the quiz answers.
 
@@ -235,7 +235,7 @@ Here is a company that specializes in bettering customer conversation for eComme
 
 This popup comes up when trying to exit their page.
 
-![](../images/10-steps-to-build-your-email-list-2020/9-exit-intent-popup-to-access-ROI-calculator-tool.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/9-exit-intent-popup-to-access-ROI-calculator-tool.png)
 
 
 
@@ -243,13 +243,13 @@ The company suggests calculating the ROI for implementing live chat for a busine
 
 This takes the customer to another page shown below.
 
-![](../images/10-steps-to-build-your-email-list-2020/10-ROI-tool-calculation-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/10-ROI-tool-calculation-page.png)
 
 The input is given using sliders and once done, the results appear on the right half of the screen.
 
 After checking the results, an email submission section can be seen at the bottom of the page in order to download the results.
 
-![](../images/10-steps-to-build-your-email-list-2020/11-ROI-tool-email-signup-form.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/11-ROI-tool-email-signup-form.png)
 
 The idea here is that when someone spends time using the ROI calculator tool to see the results, the involvement is real and so he wouldn't mind spending another minute to key in the email ID. A thoughtful way to create free email lists.
 
@@ -263,7 +263,7 @@ Let's take a look at a very basic form. It is set in the footer of the website w
 
 Madewell shows how to do it.
 
-![](../images/10-steps-to-build-your-email-list-2020/12-basic-static-opt-in-form-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/12-basic-static-opt-in-form-example.png)
   
 
 ### Create multiple landing pages
@@ -278,12 +278,12 @@ So, if you want a huge volume of sign up, you need to create multiple landing pa
 
 **Slack landing page 1**
 
-![](../images/10-steps-to-build-your-email-list-2020/13-slack-landing-page-example1.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/13-slack-landing-page-example1.png)
 
   
 **Slack landing page 2**
 
-![](../images/10-steps-to-build-your-email-list-2020/14-slack-landing-page-example2.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/14-slack-landing-page-example2.png)
 
 As you can clearly see, these are two phenomenally different landing pages from Slack to create free email lists. While the first one subtly describes what Slack is all about, the second one has a social proof and a product video tour too. What connects both the landing pages is the prominence of the email sign up boxes and CTAs.
 
@@ -297,7 +297,7 @@ Including an email sign up section at the end of the 'about page' is a good way 
 
 Autogrow uses this as one of the methods to create an email list.
 
-![](../images/10-steps-to-build-your-email-list-2020/15-email-signup-section-in-about-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/15-email-signup-section-in-about-page.png)
 
 ### Use your blog posts for sign ups
 
@@ -306,7 +306,7 @@ Blog posts too hold the key to generating desired email lists. Want to know how?
 Retainful does it this way.
 
   
-![](../images/10-steps-to-build-your-email-list-2020/16-blog-posts-for-email-signup-example-Retainful.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/16-blog-posts-for-email-signup-example-Retainful.png)
 
   
 <br>
@@ -315,7 +315,7 @@ Retainful does it this way.
 
 The CTA then takes the customer to the log in / sign up page.
 
-![](../images/10-steps-to-build-your-email-list-2020/17-Retainful-email-signup-page.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/17-Retainful-email-signup-page.png)
 
 One thing to consider is the positioning of the CTA must be in a relevant blog post. There is no point in trying to get email sign ups for an abandoned cart plugin in a post related to Instagram stories.
 
@@ -329,7 +329,7 @@ You did see many exit-intent popups earlier in this post. Now, one more, with a 
 
 This is a type of 'play a game' or 'spin the wheel' exit intent popup. This is an example from MonsterInsights.
 
-![](../images/10-steps-to-build-your-email-list-2020/18-exit-intent-popup-with-spin-wheel-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/18-exit-intent-popup-with-spin-wheel-example.png)
 
 The customer spins the wheel to avail an offer. This is called gamification. Oh yeah, that is the trending term used for this aspect.
 
@@ -337,7 +337,7 @@ Even though some consider exit intent popups as annoying, they are incredibly ef
 
 For those who are not fans of exit intent popups, slide-ins do a decent job of taking screen quietly by the side. Hubspot uses this technique to create free email lists with a content upgrade.
 
-![](../images/10-steps-to-build-your-email-list-2020/19-slide-in-example-hubspot.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/19-slide-in-example-hubspot.png)
 
 
 ### Come up with a giveaway
@@ -348,7 +348,7 @@ You can very well build an email list without much hassle here. The reason you c
 
 Design Within Reach demonstrates it well.
 
-![](../images/10-steps-to-build-your-email-list-2020/20-giveaway-email-signup-form-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/20-giveaway-email-signup-form-example.png)
 
 ### Encourage Referrals
 
@@ -360,7 +360,7 @@ Koodo Mobile brought in <link-text url="https://www.buyapowa.com/blog/referral-p
 
 <br >
 
-![](../images/10-steps-to-build-your-email-list-2020/21-referral-strategy-example.png)
+![](https://raw.githubusercontent.com/retainful/site-images/master/10-steps-to-build-your-email-list-2020/21-referral-strategy-example.png)
 
 The type of incentive is absolutely your choice. You can also opt for percentage discounts, free shipping and delivery, and even free sample products.
 

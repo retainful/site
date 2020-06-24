@@ -7,7 +7,7 @@ keywords: "customer loyalty program ideas, successful loyalty programs examples,
 author: "Vidya"
 image: "../images/boost-your-ecommerce-growth-with-loyalty-program/Best-Ways-to-Use-Your-Loyalty-Program-to-Boost-Your-eCommerce-Growth.png"
 thumbnail: "../images/boost-your-ecommerce-growth-with-loyalty-program/Best-Ways-to-Use-Your-Loyalty-Program-to-Boost-Your-eCommerce-Growth.png"
-category: "eCommerce"
+category: "ecommerce"
 ogtype: "blog"
 ---
 
@@ -152,7 +152,7 @@ In the below example there is an exclusive deal where <link-text url="https://ww
 
 <br>
 
-![Reward loyalty with credits](../images/boost-your-ecommerce-growth-with-loyalty-program/1_early_access.png)
+![Reward loyalty with credits](https://raw.githubusercontent.com/retainful/site-images/master/boost-your-ecommerce-growth-with-loyalty-program/1_early_access.png)
 
 <br>
 
@@ -182,7 +182,7 @@ In the below example you can buy any of our home appliances with credit/debit ca
 
   
 
-![Brand collaboration](../images/boost-your-ecommerce-growth-with-loyalty-program/2-brand_collaboration-loyalty-program.png)
+![Brand collaboration](https://raw.githubusercontent.com/retainful/site-images/master/boost-your-ecommerce-growth-with-loyalty-program/2-brand_collaboration-loyalty-program.png)
 
 ### Let us play a game with loyalty
 
@@ -196,7 +196,7 @@ Here what you can do is like involving your customers in fun game activity. Then
 
 In the below example spin the wheel win 50 points with which you can avail 50% off on 100 plus products from our store.
 
-![Let us play a game with loyalty](../images/boost-your-ecommerce-growth-with-loyalty-program/4-spinthewheel-loyalty-program.jpg)
+![Let us play a game with loyalty](https://raw.githubusercontent.com/retainful/site-images/master/boost-your-ecommerce-growth-with-loyalty-program/4-spinthewheel-loyalty-program.jpg)
 
 ### Social Rewards
 
@@ -228,7 +228,7 @@ Here in the below example, there are 3 unique products in your cart A, B, and C.
 
   
 
-![Discounts for loyalty](../images/boost-your-ecommerce-growth-with-loyalty-program/3-Complex-discount-loyalty-program.png)
+![Discounts for loyalty](https://raw.githubusercontent.com/retainful/site-images/master/boost-your-ecommerce-growth-with-loyalty-program/3-Complex-discount-loyalty-program.png)
 
 #### Discounts that attracts loyalty
 
@@ -258,7 +258,7 @@ Upfront payments are highly beneficial from a regular customer’s point of view
 
 In the below example you are subscribing to a weekly veggie box for which you are paying up front.
 
-![Upfront payment for loyal customers](../images/boost-your-ecommerce-growth-with-loyalty-program/5-upfront_subscription-loyalty-programme.png)
+![Upfront payment for loyal customers](https://raw.githubusercontent.com/retainful/site-images/master/boost-your-ecommerce-growth-with-loyalty-program/5-upfront_subscription-loyalty-programme.png)
 
 ### Loyalty program with a philanthropic aspect
 
@@ -272,7 +272,7 @@ In the below example you buy one of these eco-friendly toothbrushes from <link-t
 
 <br>
 
-![Loyalty program with a philanthropic aspect](../images/boost-your-ecommerce-growth-with-loyalty-program/6-bogo-loyalty-program.png)
+![Loyalty program with a philanthropic aspect](https://raw.githubusercontent.com/retainful/site-images/master/boost-your-ecommerce-growth-with-loyalty-program/6-bogo-loyalty-program.png)
 
 
 
