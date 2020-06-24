@@ -56,11 +56,7 @@ class StandardPricingPage extends Component {
         growthPrice: {
           anual: '23',
           month: '29',
-        },
-        professionalPrice: {
-          anual: '79',
-          month: '99',
-        },
+        }
       })
     }
     if (contacts <= 5000) {
@@ -68,10 +64,6 @@ class StandardPricingPage extends Component {
         growthPrice: {
           anual: '23',
           month: '29',
-        },
-        professionalPrice: {
-          anual: '79',
-          month: '99',
         },
       })
     }
@@ -82,10 +74,6 @@ class StandardPricingPage extends Component {
         growthPrice: {
           anual: priceValue + 23,
           month: priceValue + 29,
-        },
-        professionalPrice: {
-          anual: priceValue + 79,
-          month: priceValue + 99,
         },
       })
     }
@@ -105,6 +93,81 @@ class StandardPricingPage extends Component {
     return (
       <div className="pricing-banner-container">
         <Row>
+        <Col md="12" className="py-3">
+            <Row>
+              <Col md="12" className="pb-3">
+                <div className="toggle-btn">
+                  <div className="row justify-content-center">
+                    <div className="col-md-12">
+                      <div className="card text-center">
+                        <div className="card-body align-items-center">
+                          <div style={{ flex: 'auto' }}>
+                            <h4>How many contacts do you have?</h4>
+                            <h2 className="mt-1 mb-3">
+                              {this.state.sliderRange} <small>Contacts</small>
+                            </h2>
+                            <FormGroup>
+                              <Input
+                                className="custom-range"
+                                type="range"
+                                id="sliderRange"
+                                min="2000"
+                                max="25000"
+                                step="1000"
+                                value={this.state.sliderRange}
+                                name="sliderRange"
+                                onChange={e => this.handleSliderChange(e)}
+                                title={this.state.sliderRange}
+                              />
+                            </FormGroup>
+                          </div>
+                          <div style={{ flex: '0 1 30%' }}>
+                            <p className="mt-3 mb-2">
+                              Pay anually to{' '}
+                              <span
+                                style={{ color: '#3abd82', fontWeight: '600' }}
+                              >
+                                Save 20%
+                              </span>
+                            </p>
+                            <div className="d-inline-block clearfix">
+                              <Button
+                                type="button"
+                                onClick={this.toggle}
+                                id="pricing-toggle"
+                                className="btn-toggle-secondary btn-toggle"
+                              >
+                                <strong
+                                  className={
+                                    this.state.billAnually ? 'active' : ''
+                                  }
+                                >
+                                  Anually
+                                </strong>
+                                <strong
+                                  className={
+                                    !this.state.billAnually ? 'active' : ''
+                                  }
+                                >
+                                  Monthly
+                                </strong>
+                              </Button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </Col>
+              <Col
+                md="12"
+                className="pt-1 d-flex align-items-center justify-content-center"
+              >
+                <FeatherIcon icon="chevrons-down" size="40" color="#aaaaaa" />
+              </Col>
+            </Row>
+          </Col>
           <Col
             md="12"
             className="py-3  d-flex align-items-center justify-content-center"
@@ -599,81 +662,7 @@ class StandardPricingPage extends Component {
               </div>
             </div>
           </Col>
-          <Col md="12" className="py-3">
-            <Row>
-              <Col
-                md="12"
-                className="pt-1 d-flex align-items-center justify-content-center"
-              >
-                <FeatherIcon icon="chevrons-up" size="40" color="#aaaaaa" />
-              </Col>
-              <Col md="12" className="pt-3">
-                <div className="toggle-btn">
-                  <div className="row justify-content-center">
-                    <div className="col-md-12">
-                      <div className="card text-center">
-                        <div className="card-body align-items-center">
-                          <div style={{ flex: 'auto' }}>
-                            <h4>How many contacts do you have?</h4>
-                            <h2 className="mt-1 mb-3">
-                              {this.state.sliderRange} <small>Contacts</small>
-                            </h2>
-                            <FormGroup>
-                              <Input
-                                className="custom-range"
-                                type="range"
-                                id="sliderRange"
-                                min="2000"
-                                max="25000"
-                                step="1000"
-                                value={this.state.sliderRange}
-                                name="sliderRange"
-                                onChange={e => this.handleSliderChange(e)}
-                                title={this.state.sliderRange}
-                              />
-                            </FormGroup>
-                          </div>
-                          <div style={{ flex: '0 1 30%' }}>
-                            <p className="mt-3 mb-2">
-                              Pay anually to{' '}
-                              <span
-                                style={{ color: '#3abd82', fontWeight: '600' }}
-                              >
-                                Save 20%
-                              </span>
-                            </p>
-                            <div className="d-inline-block clearfix">
-                              <Button
-                                type="button"
-                                onClick={this.toggle}
-                                id="pricing-toggle"
-                                className="btn-toggle-secondary btn-toggle"
-                              >
-                                <strong
-                                  className={
-                                    this.state.billAnually ? 'active' : ''
-                                  }
-                                >
-                                  Anually
-                                </strong>
-                                <strong
-                                  className={
-                                    !this.state.billAnually ? 'active' : ''
-                                  }
-                                >
-                                  Monthly
-                                </strong>
-                              </Button>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </Col>
-            </Row>
-          </Col>
+          
         </Row>
       </div>
     )
