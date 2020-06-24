@@ -367,6 +367,15 @@ class StandardPricingPage extends Component {
                                 color="#1eab36"
                                 size="16"
                               />
+                              Integrations - Mailchimp, ActiveCampaign, Hubspot, ConvertKit
+                            </li>
+                            <li>
+                              <FeatherIcon
+                                className="mr-2"
+                                icon="check"
+                                color="#1eab36"
+                                size="16"
+                              />
                               Priority Email Support
                             </li>
                             <li>
@@ -482,6 +491,16 @@ class StandardPricingPage extends Component {
                               />
                               Follow-ups for Next Order Coupons
                             </li>
+
+                            <li>
+                              <FeatherIcon
+                                className="mr-2"
+                                icon="check"
+                                color="#1eab36"
+                                size="16"
+                              />
+                              Integrations - Mailchimp, ActiveCampaign, Hubspot, ConvertKit
+                            </li>
                             <li>
                               <FeatherIcon
                                 className="mr-2"
@@ -503,8 +522,8 @@ class StandardPricingPage extends Component {
                             <li>
                               <FeatherIcon
                                 className="mr-2"
-                                icon="x"
-                                color="#e84836"
+                                icon="check"
+                                color="#1eab36"
                                 size="16"
                               />
                               Live chat support
@@ -616,6 +635,15 @@ class StandardPricingPage extends Component {
                                 size="16"
                               />
                               Follow-ups for Next Order Coupons
+                            </li>
+                            <li>
+                              <FeatherIcon
+                                className="mr-2"
+                                icon="check"
+                                color="#1eab36"
+                                size="16"
+                              />
+                              Integrations - Mailchimp, ActiveCampaign, Hubspot, ConvertKit
                             </li>
                             <li>
                               <FeatherIcon
