@@ -43,7 +43,7 @@
     "gatsby-transformer-sharp": "^2.5.5",
     "jquery": "^3.5.1",
     "js-cookie": "^2.2.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.15",
     "mailgun-js": "^0.22.0",
     "netlify-lambda": "^1.6.3",
